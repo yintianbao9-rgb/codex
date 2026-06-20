@@ -1,0 +1,36 @@
+name: Daily Codex and AI industry update
+
+on:
+  schedule:
+    - cron: "10 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Collect public updates
+        run: python scripts/collect_codex_updates.py --site-dir . --output-dir updates/archive
+
+      - name: Commit collected updates
+        run: |
+          git config user.name "baoge-ai-update-bot"
+          git config user.email "actions@github.com"
+          git add data/codex_update_sources.json updates/archive
+          if git diff --cached --quiet; then
+            echo "No update changes to commit."
+          else
+            git commit -m "Daily Codex and AI industry update"
+            git push
+          fi

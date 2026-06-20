@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>自动更新报告 | baoge AI</title>
+    <link rel="stylesheet" href="../styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <a class="brand" href="../index.html#top" aria-label="baoge AI 首页">
+        <span class="brand-mark"><i></i><i></i><i></i></span>
+        <span>baoge AI</span>
+      </a>
+      <nav class="topnav" aria-label="主导航">
+        <a class="nav-link" href="../index.html#top">首页</a>
+        <a class="nav-link" href="../index.html#route">学习路线</a>
+        <a class="nav-link" href="../index.html#entry">入口地图</a>
+        <a class="nav-link" href="../tutorials/index.html">教程</a>
+        <a class="nav-link active" href="./index.html">自动更新</a>
+      </nav>
+    </header>
+
+    <main class="content standalone-content">
+      <section class="tutorial-hero">
+        <p class="eyebrow">baoge AI 自动更新</p>
+        <h1>行业与 Codex 更新报告</h1>
+        <p class="subtitle">每天由 GitHub Actions 定时抓取公开资料源，更新 Codex 官方变化、AI 行业动态和教程更新线索。</p>
+        <div class="audit-box">
+          <b id="update-status">正在读取更新数据...</b>
+          <span>只采集公开页面，不采集登录墙、付费墙、私域聊天和客户资料。</span>
+        </div>
+      </section>
+
+      <section>
+        <h2>自动化流程</h2>
+        <div class="update-pipeline">
+          <div><b>1. 定时抓取</b><span>每天读取 OpenAI、Codex、GitHub、Anthropic、Google AI 等公开源。</span></div>
+          <div><b>2. 关键词筛选</b><span>提取 Codex、agent、automation、browser、MCP、CLI、IDE 等相关命中。</span></div>
+          <div><b>3. 生成数据</b><span>更新 data/codex_update_sources.json 和 updates/archive 采集记录。</span></div>
+          <div><b>4. 人工改写</b><span>重要变化再改成教程、案例、配置说明或排障手册。</span></div>
+        </div>
+      </section>
+
+      <section>
+        <h2>本次抓取概览</h2>
+        <div id="update-summary" class="stats"></div>
+      </section>
+
+      <section>
+        <h2>来源明细</h2>
+        <div id="update-list" class="update-grid"></div>
+      </section>
+
+      <footer>
+        <p>提示：自动抓取只负责发现变化。涉及价格、地区、套餐、额度和可用性时，必须再人工核对官方页面。</p>
+      </footer>
+    </main>
+
+    <script>
+      const statusEl = document.querySelector("#update-status");
+      const summaryEl = document.querySelector("#update-summary");
+      const listEl = document.querySelector("#update-list");
+
+      function fmtStamp(stamp) {
+        if (!stamp) return "未知";
+        const m = stamp.match(/^(\d{4})(\d{2})(\d{2})T(\d{2})(\d{2})(\d{2})Z$/);
+        if (!m) return stamp;
+        return `${m[1]}-${m[2]}-${m[3]} ${m[4]}:${m[5]} UTC`;
+      }
+
+      fetch("../data/codex_update_sources.json", { cache: "no-store" })
+        .then((resp) => {
+          if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
+          return resp.json();
+        })
+        .then((records) => {
+          const fetchedAt = records[0]?.fetched_at;
+          const okCount = records.filter((r) => r.status && r.status < 400).length;
+          const failCount = records.length - okCount;
+          const hitCount = records.reduce((sum, r) => sum + (r.hits?.length || 0), 0);
+          statusEl.textContent = `最后抓取：${fmtStamp(fetchedAt)}`;
+          summaryEl.innerHTML = `
+            <a><strong>${records.length}</strong><span>公开来源</span></a>
+            <a><strong>${okCount}</strong><span>成功抓取</span></a>
+            <a><strong>${failCount}</strong><span>失败或受限</span></a>
+            <a><strong>${hitCount}</strong><span>关键词命中</span></a>
+          `;
+          listEl.innerHTML = records.map((record) => {
+            const hits = (record.hits || []).slice(0, 3).map((hit) => `<li><b>${hit.keyword}</b>：${hit.excerpt.slice(0, 160)}...</li>`).join("");
+            const state = record.status && record.status < 400 ? "成功" : "受限";
+            return `
+              <article>
+                <span class="tag">${record.type} · ${state}</span>
+                <h3>${record.title}</h3>
+                <p>${record.page_title || record.error || "未读取到标题"}</p>
+                ${hits ? `<ul>${hits}</ul>` : `<p>本次没有关键词命中。</p>`}
+                <a href="${record.url}" target="_blank" rel="noreferrer">查看来源</a>
+              </article>
+            `;
+          }).join("");
+        })
+        .catch((err) => {
+          statusEl.textContent = `读取失败：${err.message}`;
+          summaryEl.innerHTML = "";
+          listEl.innerHTML = "<article><h3>没有读取到数据</h3><p>请稍后刷新，或检查 data/codex_update_sources.json 是否存在。</p></article>";
+        });
+    </script>
+  </body>
+</html>

@@ -28,6 +28,34 @@ http://localhost:8765/
 https://yintianbao9-rgb.github.io/codex/
 ```
 
+## 每日自动更新
+
+仓库内置 GitHub Actions：
+
+```text
+.github/workflows/daily-update.yml
+```
+
+它会每天 UTC 00:10 自动运行：
+
+```bash
+python scripts/collect_codex_updates.py --site-dir . --output-dir updates/archive
+```
+
+输出：
+
+- `data/codex_update_sources.json`：网站自动读取的最新采集数据
+- `updates/archive/YYYY.../summary.md`：每次抓取摘要
+- `updates/index.html`：公开可看的自动更新报告页
+
+公开报告页：
+
+```text
+https://yintianbao9-rgb.github.io/codex/updates/
+```
+
+手动触发：进入 GitHub 仓库 -> Actions -> Daily Codex and AI industry update -> Run workflow。
+
 ## 目录
 
 - `index.html`：网站首页
