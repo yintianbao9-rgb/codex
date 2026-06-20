@@ -1,0 +1,162 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>如何更新本站 | baoge AI</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <a class="brand" href="./index.html#top" aria-label="baoge AI 首页">
+        <span class="brand-mark"><i></i><i></i><i></i></span>
+        <span>baoge AI</span>
+      </a>
+      <nav class="topnav" aria-label="主导航">
+        <a class="nav-link" href="./index.html#top">首页</a>
+        <a class="nav-link" href="./tutorials/index.html">教程</a>
+        <a class="nav-link" href="./index.html#codex-latest">Codex 最新</a>
+        <a class="nav-link active" href="#top">更新本站</a>
+      </nav>
+    </header>
+
+    <div class="layout tutorial-layout">
+      <aside class="sidebar tutorial-sidebar" aria-label="维护目录">
+        <div class="side-title">维护说明</div>
+        <a href="#quick">最快改法</a>
+        <a href="#files">文件在哪里</a>
+        <a href="#edit-lesson">修改教程</a>
+        <a href="#add-lesson">新增教程</a>
+        <a href="#feishu">飞书导入</a>
+        <a href="#source">加官方来源</a>
+        <a href="#preview">本地预览</a>
+        <a href="#rules">共建规则</a>
+      </aside>
+
+      <main id="top" class="content tutorial-content">
+        <section class="tutorial-hero">
+          <p class="eyebrow">baoge AI 共建说明</p>
+          <h1>如何手动更新这个网站</h1>
+          <p class="subtitle">这个页面给你和后面一起共建的人看。不会代码也能改：找到文件，复制一段结构，换文字，刷新页面。</p>
+          <div class="audit-box">
+            <b>核心原则</b>
+            <span>页面结构可以学优秀网站，正文内容优先来自官方资料和我们自己的实践。涉及价格、套餐、模型、额度、地区时，只写核对方法，不写死承诺。</span>
+          </div>
+        </section>
+
+        <section id="quick" class="lesson">
+          <p class="lesson-kicker">最快改法</p>
+          <h2>你只要记住三个文件</h2>
+          <div class="lesson-grid">
+            <article><h3>首页</h3><p><code>site_prototype/index.html</code></p><p>改导航、首页模块、官方资料、Codex 最新、交流群、案例库。</p></article>
+            <article><h3>19节教程</h3><p><code>site_prototype/tutorials/index.html</code></p><p>改每一节教程正文、步骤、作业、常见坑、来源。</p></article>
+            <article><h3>样式</h3><p><code>site_prototype/styles.css</code></p><p>改颜色、间距、卡片、表格、教程页排版。</p></article>
+            <article><h3>图片</h3><p><code>site_prototype/assets/</code></p><p>放二维码、截图、课程配图、教程示意图。</p></article>
+          </div>
+        </section>
+
+        <section id="files" class="lesson">
+          <p class="lesson-kicker">文件在哪里</p>
+          <h2>当前项目结构</h2>
+          <pre class="code-block">site_prototype/
+  index.html                 # 首页
+  styles.css                 # 全站样式
+  contribute.html            # 这份维护说明
+  tutorials/
+    index.html               # 19节教程正文
+  assets/
+    baoge-ai-wechat-community.png
+  data/
+    codex_update_sources.json</pre>
+        </section>
+
+        <section id="edit-lesson" class="lesson">
+          <p class="lesson-kicker">修改教程</p>
+          <h2>怎么改某一节教程</h2>
+          <div class="lesson-grid">
+            <article><h3>第一步</h3><p>打开 <code>tutorials/index.html</code>，搜索这一节的编号，例如 <code>lesson-08</code>。</p></article>
+            <article><h3>第二步</h3><p>只改这一节 <code>&lt;section id="lesson-08"&gt;</code> 到下一个 <code>&lt;/section&gt;</code> 之间的内容。</p></article>
+            <article><h3>第三步</h3><p>每节尽量保留四块：准备什么、操作步骤、完成标准、常见坑。</p></article>
+            <article><h3>第四步</h3><p>刷新浏览器，看标题、列表、卡片有没有挤压或错位。</p></article>
+          </div>
+        </section>
+
+        <section id="add-lesson" class="lesson">
+          <p class="lesson-kicker">新增教程</p>
+          <h2>怎么新增第 20 节</h2>
+          <p class="lead">如果 Codex 又出了新功能，比如新的浏览器能力或 Sites 能力，就按这个方式加。</p>
+          <pre class="code-block">&lt;section id="lesson-20" class="lesson"&gt;
+  &lt;p class="lesson-kicker"&gt;20 新能力&lt;/p&gt;
+  &lt;h2&gt;新教程标题&lt;/h2&gt;
+  &lt;p class="lead"&gt;这一节一句话讲清楚学完能做什么。&lt;/p&gt;
+  &lt;div class="lesson-grid"&gt;
+    &lt;article&gt;&lt;h3&gt;你要准备什么&lt;/h3&gt;&lt;p&gt;...&lt;/p&gt;&lt;/article&gt;
+    &lt;article&gt;&lt;h3&gt;操作步骤&lt;/h3&gt;&lt;p&gt;...&lt;/p&gt;&lt;/article&gt;
+    &lt;article&gt;&lt;h3&gt;完成标准&lt;/h3&gt;&lt;p&gt;...&lt;/p&gt;&lt;/article&gt;
+    &lt;article&gt;&lt;h3&gt;常见坑&lt;/h3&gt;&lt;p&gt;...&lt;/p&gt;&lt;/article&gt;
+  &lt;/div&gt;
+&lt;/section&gt;</pre>
+          <p>新增后还要改两处：左侧目录加 <code>&lt;a href="#lesson-20"&gt;</code>，首页教程列表加一张卡片。</p>
+        </section>
+
+        <section id="feishu" class="lesson">
+          <p class="lesson-kicker">飞书导入</p>
+          <h2>飞书文档怎么导入教程页</h2>
+          <p class="lead">目前先走最稳的方式：飞书写内容，导出 Markdown，脚本导入网页。后面接入飞书 API 后，可以升级成给一个飞书链接自动导入。</p>
+          <div class="lesson-grid">
+            <article><h3>第一步：在飞书里写</h3><p>每一节单独写一个飞书文档。标题、步骤、常见问题、官方来源都写清楚。</p></article>
+            <article><h3>第二步：导出 Markdown</h3><p>在飞书文档里选择导出或复制为 Markdown。如果没有导出按钮，就先复制正文到本地 Markdown 文件。</p></article>
+            <article><h3>第三步：保存到指定目录</h3><p>保存到 <code>content/tutorials/lesson-03.md</code> 这种位置。文件名按课程编号来。</p></article>
+            <article><h3>第四步：运行导入脚本</h3><pre class="code-block">python3 site_tools/import_lesson.py content/tutorials/lesson-03.md</pre></article>
+          </div>
+          <h3>Markdown 文件必须带这一段头部</h3>
+          <pre class="code-block">---
+lesson: 03
+kicker: 03 入门准备
+title: 了解 Codex 桌面 App
+lead: 这一节用一句话说明学完能做什么。
+---</pre>
+          <p>模板文件在：<code>content/tutorials/lesson-template.md</code></p>
+        </section>
+
+        <section id="source" class="lesson">
+          <p class="lesson-kicker">官方来源</p>
+          <h2>怎么给内容加来源</h2>
+          <div class="lesson-grid">
+            <article><h3>优先用这些来源</h3><ul><li>OpenAI Codex 官方页</li><li>OpenAI Developers Codex 文档</li><li>Codex Changelog</li><li>openai/codex GitHub Releases</li><li>ChatGPT Release Notes</li></ul></article>
+            <article><h3>写法</h3><p>正文用自己的话讲，底部放来源链接。不要整段复制官方或第三方正文。</p></article>
+            <article><h3>更新日期</h3><p>每次改功能、权限、套餐、模型相关内容，都写“最后核对日期”。</p></article>
+            <article><h3>不确定怎么办</h3><p>写“以官方页面和账号实际显示为准”，不要说死。</p></article>
+          </div>
+        </section>
+
+        <section id="preview" class="lesson">
+          <p class="lesson-kicker">本地预览</p>
+          <h2>改完怎么查看</h2>
+          <pre class="code-block">cd "/Users/a111/Desktop/AI一人公司教程站_复刻CodexGuide方案_20260620/site_prototype"
+python3 -m http.server 8765</pre>
+          <p>然后打开：</p>
+          <pre class="code-block">http://localhost:8765/
+http://localhost:8765/tutorials/index.html
+http://localhost:8765/contribute.html</pre>
+        </section>
+
+        <section id="rules" class="lesson">
+          <p class="lesson-kicker">共建规则</p>
+          <h2>别人来更新时要守住什么</h2>
+          <div class="lesson-grid">
+            <article><h3>可以改</h3><ul><li>教程步骤</li><li>截图和配图</li><li>官方来源</li><li>案例和作业</li><li>排障经验</li></ul></article>
+            <article><h3>不能直接放</h3><ul><li>客户聊天原文</li><li>个人隐私</li><li>账号 Token</li><li>未经确认的价格和套餐承诺</li><li>第三方整段原文</li></ul></article>
+            <article><h3>账号类内容</h3><p>只能写官方支持地区、ChatGPT/API Key 登录、团队合规路径和替代学习路径。不要写接码、虚拟卡、绕过地区限制或共享违规账号。</p></article>
+            <article><h3>推荐格式</h3><p>每次更新写清：改了哪一节、依据哪个来源、最后核对日期、还有什么不确定。</p></article>
+            <article><h3>最终目标</h3><p>让这个站能被大家持续补充，但风格、结构和可信度不散。</p></article>
+          </div>
+        </section>
+
+        <footer>
+          <p>维护说明最后更新：2026-06-20。这个页面就是本站后续共建的操作手册。</p>
+        </footer>
+      </main>
+    </div>
+  </body>
+</html>

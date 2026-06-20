@@ -1,0 +1,686 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>baoge AI</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <a class="brand" href="#top" aria-label="baoge AI 首页">
+        <span class="brand-mark"><i></i><i></i><i></i></span>
+        <span>baoge AI</span>
+      </a>
+      <nav class="topnav" aria-label="主导航">
+        <a class="nav-link active" href="#top">首页</a>
+        <a class="nav-link" href="#route">学习路线</a>
+        <a class="nav-link" href="#entry">入口地图</a>
+        <div class="nav-item">
+          <a class="nav-link has-menu" href="#config">配置</a>
+          <div class="dropdown">
+            <a href="#config"><b>配置总览</b><span>安装、权限、文件夹和排障</span></a>
+            <a href="#entry"><b>工具入口</b><span>桌面 App、CLI、IDE、Cloud</span></a>
+            <a href="./tutorials/lesson-08.html"><b>权限管理</b><span>只读、可写、审批和发布</span></a>
+          </div>
+        </div>
+        <div class="nav-item">
+          <a class="nav-link has-menu" href="#official">资源</a>
+          <div class="dropdown">
+            <a href="#official"><b>官方资料</b><span>OpenAI Codex 文档与更新</span></a>
+            <a href="#codex-latest"><b>Codex 最新</b><span>官网新能力和站点更新记录</span></a>
+            <a href="#workflow"><b>模板与 SOP</b><span>输入、步骤、结果、验证</span></a>
+          </div>
+        </div>
+        <div class="nav-item">
+          <a class="nav-link has-menu" href="./tutorials/index.html">教程</a>
+          <div class="dropdown dropdown-lessons">
+            <a href="./tutorials/lesson-01.html">01 Codex 桌面 App 下载与安装</a>
+            <a href="./tutorials/lesson-02.html">02 订阅 ChatGPT Plus</a>
+            <a href="./tutorials/lesson-03.html">03 了解 Codex 桌面 App</a>
+            <a href="./tutorials/lesson-04.html">04 手机端协同桌面任务</a>
+            <a href="./tutorials/lesson-05.html">05 连接第三方 API</a>
+            <a href="./tutorials/lesson-06.html">06 用 Codex 完成第一个任务</a>
+            <a href="./tutorials/lesson-07.html">07 任务顺序执行与并行</a>
+            <a href="./tutorials/lesson-08.html">08 权限管理</a>
+            <a href="./tutorials/lesson-09.html">09 技能与插件</a>
+            <a href="./tutorials/lesson-10.html">10 自动化</a>
+            <a href="./tutorials/lesson-11.html">11 桌面宠物</a>
+            <a href="./tutorials/lesson-12.html">12 CLI 安装与登录</a>
+            <a href="./tutorials/lesson-13.html">13 第一次让 Codex 改代码</a>
+            <a href="./tutorials/lesson-14.html">14 在 VS Code 中使用 Codex</a>
+            <a href="./tutorials/lesson-15.html">15 AGENTS.md</a>
+            <a href="./tutorials/lesson-16.html">16 沙盒与审批</a>
+            <a href="./tutorials/lesson-17.html">17 Codex Cloud：使用云端模式</a>
+            <a href="./tutorials/lesson-18.html">18 Hooks</a>
+            <a href="./tutorials/lesson-19.html">19 排障手册</a>
+          </div>
+        </div>
+        <div class="nav-item">
+          <a class="nav-link has-menu" href="#cases">实战案例</a>
+          <div class="dropdown">
+            <a href="#cases"><b>案例总览</b><span>20 个可复现任务</span></a>
+            <a href="#ui-visual"><b>UI视觉素材</b><span>高级感官网生成流程</span></a>
+          </div>
+        </div>
+        <div class="nav-item">
+          <a class="nav-link has-menu" href="#community">交流群</a>
+          <div class="dropdown dropdown-community">
+            <img src="./assets/baoge-ai-wechat-community.png" alt="微信搜索尹天保，关注并回复 codex交流群" />
+          </div>
+        </div>
+        <div class="nav-item">
+          <a class="nav-link has-menu" href="#support">赞助商</a>
+          <div class="dropdown dropdown-right">
+            <a href="#support"><b>资源位说明</b><span>工具、开源项目、共建伙伴</span></a>
+            <a href="#entry"><b>推荐工具</b><span>Codex、GitHub、飞书等入口</span></a>
+          </div>
+        </div>
+      </nav>
+      <div class="toolbar" aria-label="快捷操作">
+        <a class="icon-link" href="#roadmap" aria-label="GitHub共建">GH</a>
+        <button class="icon-button" type="button" aria-label="切换主题">◐</button>
+        <a class="search-button" href="#route" aria-label="搜索">⌕</a>
+      </div>
+    </header>
+
+    <div class="layout">
+      <aside class="sidebar" aria-label="目录">
+        <div class="side-title">目录</div>
+        <a href="#top">首页</a>
+        <a href="#who">适合谁</a>
+        <a href="#route">学习路线</a>
+        <a href="#entry">工具入口地图</a>
+        <a href="#tutorials">19节教程</a>
+        <a href="#config">配置专题</a>
+        <a href="#official">官方资料</a>
+        <a href="#codex-latest">Codex最新</a>
+        <a href="#auto-update">自动更新</a>
+        <a href="#updates">近期更新</a>
+        <a href="#practice">实践方法</a>
+        <a href="#ui-visual">UI视觉专题</a>
+        <a href="#cases">20个实战案例</a>
+        <a href="#case-guide">案例怎么选</a>
+        <a href="#workflow">五步闭环</a>
+        <a href="#advanced">公开学习路径</a>
+        <a href="./contribute.html">如何更新本站</a>
+        <a href="#roadmap">共建路线图</a>
+      </aside>
+
+      <main id="top" class="content">
+        <section class="hero">
+          <div class="hero-copy">
+            <p class="eyebrow">面向中文用户的 Codex 公开教程与实战案例库</p>
+            <h1>baoge AI</h1>
+            <p class="subtitle">
+              让普通人也能用 Codex 做内容、网站、知识库、自动化和 AI 工作流。
+            </p>
+            <div class="actions">
+              <a class="primary" href="#route">进入学习路线</a>
+              <a class="secondary" href="#cases">查看实战案例</a>
+              <a class="secondary" href="#entry">选择工具入口</a>
+            </div>
+          </div>
+          <div class="terminal-panel" aria-label="AI工作台示意">
+            <div class="panel-bar"><span></span><span></span><span></span></div>
+            <pre>资料 -> Codex整理 -> 教程页面
+     -> GitHub上线 -> 公开共建
+
+Codex: 内容 / 网站 / 知识库 / 自动化
+Skills: 方法沉淀 / 视觉规范 / 工作流复用
+案例库: 输入 / 过程 / 结果 / 验证</pre>
+          </div>
+        </section>
+
+        <section class="stats" aria-label="站点概览">
+          <a href="#route"><strong>19</strong><span>节公开教程</span></a>
+          <a href="#cases"><strong>20</strong><span>个实战案例</span></a>
+          <a href="#entry"><strong>6</strong><span>个工具入口</span></a>
+          <a href="#ui-visual"><strong>6</strong><span>段UI视觉流程</span></a>
+        </section>
+
+        <section class="module-strip" aria-label="CodexGuide式横向菜单模块">
+          <a href="#route">
+            <span>01</span>
+            <b>学习路线</b>
+            <em>19节公开教程</em>
+          </a>
+          <a href="#entry">
+            <span>02</span>
+            <b>入口地图</b>
+            <em>6个工具入口</em>
+          </a>
+          <a href="#config">
+            <span>03</span>
+            <b>配置</b>
+            <em>安装与排障</em>
+          </a>
+          <a href="#cases">
+            <span>04</span>
+            <b>实战案例</b>
+            <em>20个可复现任务</em>
+          </a>
+          <a href="#ui-visual">
+            <span>05</span>
+            <b>UI视觉</b>
+            <em>高级官网流程</em>
+          </a>
+          <a href="#tutorials">
+            <span>06</span>
+            <b>教程</b>
+            <em>19节完整目录</em>
+          </a>
+          <a href="#community">
+            <span>07</span>
+            <b>交流群</b>
+            <em>问题共建入口</em>
+          </a>
+          <a href="#support">
+            <span>08</span>
+            <b>赞助商</b>
+            <em>资源与工具位</em>
+          </a>
+        </section>
+
+        <section id="who">
+          <h2>这份指南适合谁</h2>
+          <div class="grid five">
+            <article>
+              <h3>传统老板</h3>
+              <p>有产品、有服务、有客户，想用 Codex 整理资料、生成内容和搭建公开资产。</p>
+            </article>
+            <article>
+              <h3>自媒体/IP创业者</h3>
+              <p>想用 Codex 持续生成选题、口播脚本、课程资料和公开内容。</p>
+            </article>
+            <article>
+              <h3>AI工具小白</h3>
+              <p>工具用过不少，但没有形成自己的 Codex 工作流和知识库。</p>
+            </article>
+            <article>
+              <h3>AI服务商</h3>
+              <p>想学会用 Codex 拆客户需求、做方案、做页面和沉淀案例。</p>
+            </article>
+            <article>
+              <h3>培训机构</h3>
+              <p>想把课程、案例、知识库和交付流程变成公开教程站。</p>
+            </article>
+          </div>
+        </section>
+
+        <section id="entry">
+          <h2>工具入口地图</h2>
+          <p class="lead">先选对入口，别一上来就把 Codex 当成普通聊天工具。</p>
+          <div class="grid two">
+            <article>
+              <h3>Codex桌面 App</h3>
+              <p>解决新手第一次上手、选择文件夹、读资料、生成文档的问题。</p>
+            </article>
+            <article>
+              <h3>Codex Skills</h3>
+              <p>解决重复流程沉淀，让 AI 按你的方法工作，而不是每次重新解释。</p>
+            </article>
+            <article>
+              <h3>UI视觉实战</h3>
+              <p>解决不会代码也想做高级感官网、教程站、案例页和上线原型的问题。</p>
+            </article>
+            <article>
+              <h3>GitHub Pages</h3>
+              <p>解决没有域名也能公开发布，用仓库、Issue、PR 让大家共建。</p>
+            </article>
+            <article>
+              <h3>客户问题雷达</h3>
+              <p>解决微信、群聊、飞书、抖音群问题整理成日报和内容选题。</p>
+            </article>
+            <article>
+              <h3>知识库沉淀</h3>
+              <p>解决把一次任务的输入、过程、结果和风险沉淀成长期资产。</p>
+            </article>
+          </div>
+        </section>
+
+        <section id="tutorials">
+          <h2>教程</h2>
+          <p class="lead">先把 CodexGuide 的教程目录骨架补齐，再逐节换成 baoge AI 的中文实操内容。</p>
+          <div class="lesson-board">
+            <a href="./tutorials/lesson-01.html"><span>01</span><b>Codex 桌面 App 下载与安装</b><em>安装、登录、选择项目文件夹。</em></a>
+            <a href="./tutorials/lesson-02.html"><span>02</span><b>账号与权限准备</b><em>确认可用模型、权限和基础设置。</em></a>
+            <a href="./tutorials/lesson-03.html"><span>03</span><b>了解 Codex 桌面 App</b><em>认识任务区、文件区、终端和变更记录。</em></a>
+            <a href="./tutorials/lesson-04.html"><span>04</span><b>手机端协同桌面任务</b><em>用手机发起、跟进、确认桌面任务。</em></a>
+            <a href="./tutorials/lesson-05.html"><span>05</span><b>连接第三方 API</b><em>飞书、GitHub、浏览器和本地工具的连接方式。</em></a>
+            <a href="./tutorials/lesson-06.html"><span>06</span><b>用 Codex 完成第一个任务</b><em>从低风险文档任务开始跑通闭环。</em></a>
+            <a href="./tutorials/lesson-07.html"><span>07</span><b>任务顺序执行与并行</b><em>什么时候排队，什么时候拆成多个任务。</em></a>
+            <a href="./tutorials/lesson-08.html"><span>08</span><b>权限管理</b><em>文件、网络、命令、隐私和人工确认边界。</em></a>
+            <a href="./tutorials/lesson-09.html"><span>09</span><b>Skills 与插件</b><em>把重复流程沉淀成 baoge AI 的标准能力。</em></a>
+            <a href="./tutorials/lesson-10.html"><span>10</span><b>自动化</b><em>日报、客户问题雷达、内容选题和定时任务。</em></a>
+            <a href="./tutorials/lesson-11.html"><span>11</span><b>个性化工作台</b><em>把自己的知识库、工具和常用流程放进工作台。</em></a>
+            <a href="./tutorials/lesson-12.html"><span>12</span><b>CLI 安装与登录</b><em>给开发者和进阶用户准备本地命令入口。</em></a>
+            <a href="./tutorials/lesson-13.html"><span>13</span><b>第一次让 Codex 改代码</b><em>读仓库、改页面、运行检查、确认变更。</em></a>
+            <a href="./tutorials/lesson-14.html"><span>14</span><b>在 VS Code 中使用 Codex</b><em>让 AI 更贴近编辑器和项目上下文。</em></a>
+            <a href="./tutorials/lesson-15.html"><span>15</span><b>AGENTS.md 项目规则</b><em>写清项目命令、目录边界和交付规范。</em></a>
+            <a href="./tutorials/lesson-16.html"><span>16</span><b>沙盒与审批</b><em>让 AI 能干活，但不能越界。</em></a>
+            <a href="./tutorials/lesson-17.html"><span>17</span><b>Codex Cloud 云端模式</b><em>把长任务、并行任务交给云端执行。</em></a>
+            <a href="./tutorials/lesson-18.html"><span>18</span><b>Hooks</b><em>任务前后自动触发检查、整理和通知。</em></a>
+            <a href="./tutorials/lesson-19.html"><span>19</span><b>排障手册</b><em>登录、权限、依赖、路径、页面打不开的检查清单。</em></a>
+          </div>
+        </section>
+
+        <section id="config">
+          <h2>配置专题</h2>
+          <p class="lead">像 CodexGuide 一样，把容易卡住的安装、连接、权限和排障单独做成专题。</p>
+          <div class="grid two">
+            <article>
+              <h3>配置总览</h3>
+              <p>先建立一张配置地图：账号、文件夹、权限、工具连接、日志和排障入口。</p>
+            </article>
+            <article>
+              <h3>CLI 选项与命令</h3>
+              <p>给进阶用户准备命令行入口，覆盖安装、登录、执行、检查和常见参数。</p>
+            </article>
+            <article>
+              <h3>config.toml</h3>
+              <p>把模型、审批、沙盒、网络、项目路径等规则写成可复用配置。</p>
+            </article>
+            <article>
+              <h3>MCP、Skills 与 Subagents</h3>
+              <p>把飞书、浏览器、GitHub、口播智能体和客户雷达组合成工作流。</p>
+            </article>
+            <article>
+              <h3>安全与隐私边界</h3>
+              <p>哪些资料可以自动整理，哪些内容必须人工确认，哪些信息不能外发。</p>
+            </article>
+            <article>
+              <h3>常见排障</h3>
+              <p>登录、权限、文件路径、日报缺字段、联系人缺失等问题的检查路径。</p>
+            </article>
+          </div>
+        </section>
+
+        <section id="practice">
+          <h2>实践方法</h2>
+          <p class="lead">不只给工具教程，还要给方法论。用户看完知道怎么迁移到自己的业务。</p>
+          <div class="method-list">
+            <div><b>任务设计</b><span>目标、资料、边界、输出格式和验证方式一次说清。</span></div>
+            <div><b>非开发工作流</b><span>把文档、口播、课件、客户问题和日报作为AI任务来跑。</span></div>
+            <div><b>案例复盘</b><span>每次成功任务都沉淀成输入、过程、结果、风险和模板。</span></div>
+            <div><b>长期资产</b><span>把一次产出放回知识库，越用越懂业务。</span></div>
+          </div>
+        </section>
+
+        <section id="more">
+          <h2>更多</h2>
+          <p class="lead">把 CodexGuide 的“更多”做成我们自己的扩展入口，承接方法、自动化和内容资产。</p>
+          <div class="grid three">
+            <article>
+              <h3>实践方法</h3>
+              <p>任务设计、结果验证、模板沉淀和每周复盘。</p>
+            </article>
+            <article>
+              <h3>自动化流程</h3>
+              <p>客户问题雷达、飞书日报、GitHub共建和知识库更新。</p>
+            </article>
+            <article>
+              <h3>内容资产</h3>
+              <p>口播脚本、教程文档、案例拆解和公开素材库。</p>
+            </article>
+          </div>
+        </section>
+
+        <section id="official">
+          <h2>官方资料</h2>
+          <p class="lead">这里先放公开可信来源，后续每条教程都要挂来源和最后核对日期。</p>
+          <div class="resource-list">
+            <a href="https://openai.com/codex/" target="_blank" rel="noreferrer"><b>OpenAI Codex</b><span>了解 Codex 官方定位和产品入口。</span></a>
+            <a href="https://developers.openai.com/codex/" target="_blank" rel="noreferrer"><b>OpenAI 开发者资料</b><span>核对 API、工具和开发者相关能力。</span></a>
+            <a href="https://developers.openai.com/codex/changelog" target="_blank" rel="noreferrer"><b>Codex Changelog</b><span>跟踪模型、App、CLI、浏览器、插件和权限变化。</span></a>
+            <a href="https://developers.openai.com/codex/app" target="_blank" rel="noreferrer"><b>Codex App 文档</b><span>桌面 App、内置浏览器、自动化、Skills、Plugins、Sites。</span></a>
+            <a href="https://developers.openai.com/codex/cli" target="_blank" rel="noreferrer"><b>Codex CLI 文档</b><span>终端安装、登录、本地任务和工程闭环。</span></a>
+            <a href="https://developers.openai.com/codex/ide" target="_blank" rel="noreferrer"><b>Codex IDE 文档</b><span>VS Code、Cursor、Windsurf、JetBrains 等编辑器入口。</span></a>
+            <a href="https://developers.openai.com/codex/auth" target="_blank" rel="noreferrer"><b>Codex 认证文档</b><span>ChatGPT 登录、API Key、Access Token 和权限边界。</span></a>
+            <a href="https://developers.openai.com/codex/config-reference" target="_blank" rel="noreferrer"><b>配置参考</b><span>config.toml、requirements.toml、MCP OAuth 和安全设置。</span></a>
+            <a href="https://github.com/openai/codex/releases" target="_blank" rel="noreferrer"><b>GitHub Releases</b><span>CLI 和开源仓库发布记录，适合追版本变化。</span></a>
+            <a href="https://help.openai.com/en/articles/6825453-chatgpt-release-notes" target="_blank" rel="noreferrer"><b>ChatGPT Release Notes</b><span>Codex 相关发布、额度、浏览器能力和产品更新。</span></a>
+            <a href="https://docs.github.com/pages" target="_blank" rel="noreferrer"><b>GitHub Pages</b><span>公开教程站上线和共建的基础发布方式。</span></a>
+            <a href="https://open.feishu.cn/" target="_blank" rel="noreferrer"><b>飞书开放平台</b><span>日报、文档、知识库和群消息能力的官方入口。</span></a>
+          </div>
+        </section>
+
+        <section id="updates">
+          <h2>近期更新</h2>
+          <div class="timeline">
+            <div><time>2026-06-20</time><b>完成 baoge AI 顶部导航</b><span>补齐首页、学习路线、入口地图、配置、资源、教程、更多、交流群、赞助商。</span></div>
+            <div><time>2026-06-20</time><b>补齐 19 节教程骨架</b><span>先用 CodexGuide 的信息架构做目录，再逐节换成我们自己的实操教程。</span></div>
+            <div><time>2026-06-20</time><b>加入微信交流群横幅</b><span>用户可以通过“尹天保”二维码进入 baoge AI 交流入口。</span></div>
+            <div><time>2026-06-20</time><b>新增 Codex 官方变化板块</b><span>加入 Developer mode、Codex for Chrome、GPT-5.5、内置浏览器、认证方式和自动更新机制。</span></div>
+            <div><time>2026-06-20</time><b>创建 baoge-ai-site-updater skill</b><span>已可采集 10 个公开官方源，生成 sources.json、items.jsonl、failures.jsonl 和 summary.md。</span></div>
+          </div>
+        </section>
+
+        <section id="codex-latest">
+          <h2>Codex 最新官方变化</h2>
+          <p class="lead">这一块专门追踪 Codex 官网、开发者文档、Changelog 和 GitHub Release。先把用户最该知道的新能力讲清楚，再逐条做成教程。</p>
+          <div class="update-grid">
+            <article>
+              <span class="tag">2026-06-11</span>
+              <h3>Developer mode：浏览器调试能力增强</h3>
+              <p>Codex 的 Chrome 与内置浏览器可开启 Developer mode，用来检查控制台、网络、DOM、样式和页面状态，适合调试网页、前端交互和本地预览问题。</p>
+              <a href="https://help.openai.com/en/articles/6825453-chatgpt-release-notes" target="_blank" rel="noreferrer">查看来源</a>
+            </article>
+            <article>
+              <span class="tag">2026-06-11</span>
+              <h3>Plus / Pro 用户新增 rate-limit reset banking</h3>
+              <p>官方 Release Notes 提到部分 Plus 和 Pro 用户可获得或邀请触发 rate-limit reset。公开站只讲“能力变化”，不拿它做销售承诺。</p>
+              <a href="https://help.openai.com/en/articles/6825453-chatgpt-release-notes" target="_blank" rel="noreferrer">查看来源</a>
+            </article>
+            <article>
+              <span class="tag">2026-05-07</span>
+              <h3>Codex for Chrome：浏览器插件进入重点能力</h3>
+              <p>Codex 可以在 Chrome 标签页中处理网站任务，用户控制哪些网站可用。我们后续要补“让 Codex 看网页、点网页、改网页”的图文教程。</p>
+              <a href="https://developers.openai.com/codex/changelog" target="_blank" rel="noreferrer">查看来源</a>
+            </article>
+            <article>
+              <span class="tag">2026-05-05</span>
+              <h3>Codex app 26.429：语音听写和图片查看增强</h3>
+              <p>新增听写清理、可配置听写词典，图片灯箱增加缩放和下载。对非技术用户来说，语音下任务和截图看结果会更自然。</p>
+              <a href="https://developers.openai.com/codex/changelog" target="_blank" rel="noreferrer">查看来源</a>
+            </article>
+            <article>
+              <span class="tag">2026-04-23</span>
+              <h3>GPT-5.5 in Codex：推荐用于多数 Codex 任务</h3>
+              <p>官方 Changelog 写明，GPT-5.5 适合实现、重构、调试、测试、验证和知识工作产物。教程里要加入“如何切模型”和“看不到模型怎么办”。</p>
+              <a href="https://developers.openai.com/codex/changelog" target="_blank" rel="noreferrer">查看来源</a>
+            </article>
+            <article>
+              <span class="tag">2026-04-23</span>
+              <h3>内置浏览器：本地页面和前端结果可直接验证</h3>
+              <p>Codex app 可让 Codex 操作内置浏览器，适合点击 UI、复现视觉问题、检查本地修复。我们的网站课程要把“生成页面 -> 浏览器验证 -> 截图复盘”变成固定流程。</p>
+              <a href="https://developers.openai.com/codex/changelog" target="_blank" rel="noreferrer">查看来源</a>
+            </article>
+            <article>
+              <span class="tag">Codex app</span>
+              <h3>桌面 App 成为命令中心</h3>
+              <p>官方文档把 Codex app 定义为并行线程、worktree、自动化、Git、内置浏览器、Chrome 插件、图像生成、Skills、Plugins、Sites 的桌面工作台。</p>
+              <a href="https://developers.openai.com/codex/app" target="_blank" rel="noreferrer">查看来源</a>
+            </article>
+            <article>
+              <span class="tag">认证</span>
+              <h3>登录分两条线：ChatGPT 与 API Key</h3>
+              <p>ChatGPT 登录适合订阅和云端能力；API Key 适合本地 CLI、脚本和 CI。后续教程要单独做“账号和权限怎么选”。</p>
+              <a href="https://developers.openai.com/codex/auth" target="_blank" rel="noreferrer">查看来源</a>
+            </article>
+          </div>
+        </section>
+
+        <section id="auto-update">
+          <h2>站点如何持续更新</h2>
+          <p class="lead">baoge AI 公开站采用“公开资料样本池 + 人工确认 + 页面更新”的方式，不承诺全网全量，只追踪对学习和实战有价值的官方变化。</p>
+          <div class="update-pipeline">
+            <div><b>采集</b><span>每天/每周读取 OpenAI Codex 官网、开发者文档、Changelog、GitHub Releases 和可信教程站。</span></div>
+            <div><b>筛选</b><span>只保留会影响教程、配置、案例、权限、安全和用户上手体验的信息。</span></div>
+            <div><b>改写</b><span>把官方变化翻译成普通人能看懂的图文说明、操作步骤和风险提醒。</span></div>
+            <div><b>发布</b><span>更新到“Codex 最新”“教程”“配置”“案例库”，并保留来源和最后核对日期。</span></div>
+          </div>
+        </section>
+
+        <section id="ui-visual">
+          <h2>UI视觉专题：用Codex做高级感官网</h2>
+          <p class="lead">学习对标视频的核心，不是照抄画面，而是把“不会代码也能做官网”的完整流程拆成可复现教程。</p>
+          <div class="visual-flow">
+            <article>
+              <span>01</span>
+              <h3>商业视觉素材</h3>
+              <p>先确定品牌气质、参考站、产品图、背景图、字体和色彩，不让Codex凭空发挥。</p>
+            </article>
+            <article>
+              <span>02</span>
+              <h3>动效片段</h3>
+              <p>拆首屏、卡片、滚动、悬停、按钮反馈，让页面有高级感但不过度炫技。</p>
+            </article>
+            <article>
+              <span>03</span>
+              <h3>提示词沟通</h3>
+              <p>让AI先问品牌、受众、栏目、视觉参考和交互目标，再开始生成页面。</p>
+            </article>
+            <article>
+              <span>04</span>
+              <h3>页面生成</h3>
+              <p>从首页、教程页、案例页、配置页开始，生成可维护的文档站页面。</p>
+            </article>
+            <article>
+              <span>05</span>
+              <h3>交互添加</h3>
+              <p>补搜索、目录、锚点、案例筛选、复制按钮、移动端导航等实用交互。</p>
+            </article>
+            <article>
+              <span>06</span>
+              <h3>部署上线</h3>
+              <p>先用GitHub Pages公开发布，后续再绑定域名，开放Issue和PR共建。</p>
+            </article>
+          </div>
+          <div class="note-box">
+            <b>我们自己的迁移方向</b>
+            <p>CodexGuide 学信息架构和文档站可信感；这条视频学高级感官网的视觉生产流程。合起来就是：公开教程站 + UI视觉实战 + GitHub共建。</p>
+          </div>
+        </section>
+
+        <section id="route">
+          <h2>19节 Codex 公开教程</h2>
+          <p class="lead">从第一次使用 Codex，到内容生产、网站生成、GitHub上线、客户问题雷达和工作流沉淀。</p>
+          <div class="course-list">
+            <div>
+              <h3>第一阶段：第一次使用 Codex</h3>
+              <ol>
+                <li>Codex 是什么，普通人怎么用</li>
+                <li>桌面 App 入门和文件夹选择</li>
+                <li>第一个低风险任务和结果检查</li>
+              </ol>
+            </div>
+            <div>
+              <h3>第二阶段：用 Codex 做内容</h3>
+              <ol start="4">
+                <li>整理个人业务资料</li>
+                <li>客户问题变选题</li>
+                <li>生成口播脚本</li>
+                <li>生成课程公开资料</li>
+                <li>沉淀到知识库</li>
+                <li>用 Codex 复盘内容</li>
+                <li>把成功任务变成模板</li>
+              </ol>
+            </div>
+            <div>
+              <h3>第三阶段：用 Codex 做网站</h3>
+              <ol start="11">
+                <li>拆参考站</li>
+                <li>写视觉 brief</li>
+                <li>生成首页和案例页</li>
+                <li>GitHub Pages 上线</li>
+              </ol>
+            </div>
+            <div>
+              <h3>第四阶段：自动化与共建</h3>
+              <ol start="15">
+                <li>Hermes是什么</li>
+                <li>微信/群聊客户问题收集</li>
+                <li>飞书日报和知识库沉淀</li>
+                <li>客户问题雷达实战</li>
+                <li>AI服务商需求访谈</li>
+              </ol>
+            </div>
+          </div>
+        </section>
+
+        <section id="cases">
+          <h2>20个实战案例</h2>
+          <p class="lead">每个案例都按背景、输入、过程、结果、验证、风险来写，方便学员照着迁移。</p>
+          <div class="case-table">
+            <div class="row head"><span>编号</span><span>案例</span><span>结果</span></div>
+            <div class="row"><span>01</span><span>客户问题变短视频选题</span><span>10条可拍选题</span></div>
+            <div class="row"><span>02</span><span>一句话生成60秒老板IP口播</span><span>完整脚本</span></div>
+            <div class="row"><span>03</span><span>口播文案自动评分和改稿</span><span>评分表+修改稿</span></div>
+            <div class="row"><span>04</span><span>微信聊天整理成客户问题日报</span><span>日报文档</span></div>
+            <div class="row"><span>05</span><span>抖音群问题整理成选题库</span><span>内容库</span></div>
+            <div class="row"><span>06</span><span>飞书自动生成每日问题报告</span><span>飞书日报</span></div>
+            <div class="row"><span>07</span><span>Codex扫描资料判断我是谁</span><span>个人资产报告</span></div>
+            <div class="row"><span>08</span><span>Codex把课程资料整理成PPT大纲</span><span>课件目录</span></div>
+            <div class="row"><span>09</span><span>Codex把知识库整理成课程手册</span><span>手册初稿</span></div>
+            <div class="row"><span>10</span><span>Codex生成课程公开资料</span><span>教程文档</span></div>
+            <div class="row"><span>11</span><span>Hermes每天推送问题日报</span><span>自动化任务</span></div>
+            <div class="row"><span>12</span><span>给建材老板生成AI获客方案</span><span>行业方案</span></div>
+            <div class="row"><span>13</span><span>给本地门店生成内容计划</span><span>7天内容表</span></div>
+            <div class="row"><span>14</span><span>给AI服务商生成需求访谈表</span><span>访谈模板</span></div>
+            <div class="row"><span>15</span><span>给学员搭建个人业务知识库</span><span>知识库目录</span></div>
+            <div class="row"><span>16</span><span>从公开教程走向真实项目</span><span>进阶路线</span></div>
+            <div class="row"><span>17</span><span>用Codex做高级感官网视觉</span><span>网页原型</span></div>
+            <div class="row"><span>18</span><span>用设计循环持续生成教程页</span><span>页面迭代记录</span></div>
+            <div class="row"><span>19</span><span>公开内容采集变成选题周报</span><span>周报模板</span></div>
+            <div class="row"><span>20</span><span>把网站流程渲染成短视频</span><span>动效脚本</span></div>
+          </div>
+        </section>
+
+        <section id="case-guide">
+          <h2>怎么选择先看哪个</h2>
+          <div class="grid two">
+            <article>
+              <h3>想快速看到结果</h3>
+              <p>先看口播脚本、客户问题变选题、Codex生成公开资料。</p>
+            </article>
+            <article>
+              <h3>想做内容获客</h3>
+              <p>先看客户问题、口播五层结构、评分改稿和选题库。</p>
+            </article>
+            <article>
+              <h3>想做自动化</h3>
+              <p>先看Hermes客户雷达、飞书日报、定时推送和排障。</p>
+            </article>
+            <article>
+              <h3>想做真实项目</h3>
+              <p>先看需求访谈、交付清单、行业方案和每周复盘。</p>
+            </article>
+          </div>
+        </section>
+
+        <section>
+          <h2>案例成熟度</h2>
+          <div class="case-table compact">
+            <div class="row head"><span>状态</span><span>案例类型</span><span>说明</span></div>
+            <div class="row"><span>完整流程</span><span>口播、客户日报、Codex资料整理</span><span>有明确输入、操作和结果</span></div>
+            <div class="row"><span>工具接入</span><span>Hermes、飞书、知识库配置</span><span>重点在权限、字段和排障</span></div>
+            <div class="row"><span>场景展示</span><span>行业方案、服务商访谈、真实项目</span><span>重点展示如何迁移</span></div>
+          </div>
+        </section>
+
+        <section id="workflow">
+          <h2>把一次任务做成闭环</h2>
+          <div class="steps">
+            <div><b>说明</b><span>讲清目标、资料、边界和输出。</span></div>
+            <div><b>执行</b><span>让AI整理、生成、修改、归档。</span></div>
+            <div><b>控制</b><span>设置权限、人工确认和风险边界。</span></div>
+            <div><b>验证</b><span>用截图、文档、日报、脚本检查结果。</span></div>
+            <div><b>沉淀</b><span>变成模板、知识库、SOP和案例。</span></div>
+          </div>
+        </section>
+
+        <section id="advanced">
+          <h2>公开学习与进阶路径</h2>
+          <p class="lead">网站先做公开教程和案例沉淀。想深入的人，可以沿着路径自然进阶。</p>
+          <div class="grid four">
+            <article>
+              <p class="level">入门</p>
+              <h3>公开教程</h3>
+              <p>先看学习路线，理解 Codex 的基本框架、工具入口和公开案例。</p>
+            </article>
+            <article class="featured">
+              <p class="level">实操</p>
+              <h3>案例复现</h3>
+              <p>跟着20个案例，把客户问题、口播、Codex和飞书日报跑起来。</p>
+            </article>
+            <article>
+              <p class="level">进阶</p>
+              <h3>工作流搭建</h3>
+              <p>把自己的资料、客户问题和内容流程沉淀成可持续运行的系统。</p>
+            </article>
+            <article>
+              <p class="level">深度</p>
+              <h3>真实项目</h3>
+              <p>围绕真实业务、团队协作和客户交付，设计更完整的AI应用方案。</p>
+            </article>
+          </div>
+        </section>
+
+        <section id="faq">
+          <h2>常见问题</h2>
+          <details open>
+            <summary>小白能学吗？</summary>
+            <p>能。公开教程不要求代码基础，重点是业务资料整理、口播内容生产和AI工作流。</p>
+          </details>
+          <details>
+            <summary>这个站点主要解决什么？</summary>
+            <p>它先解决入门、理解、复现和案例学习，让用户知道AI如何进入自己的内容、客户和交付流程。</p>
+          </details>
+          <details>
+            <summary>学完能交付什么？</summary>
+            <p>至少拿到个人业务知识库、30条选题、10条脚本、3条重点稿、客户问题模板和内容生产SOP。</p>
+          </details>
+        </section>
+
+        <section id="community">
+          <h2>交流群</h2>
+          <p class="lead">公开站先放共建入口，不放销售话术。用户的问题会反向变成教程、案例和排障文档。</p>
+          <figure class="community-card">
+            <img src="./assets/baoge-ai-wechat-community.png" alt="微信搜索尹天保，关注并回复 baoge AI交流群" />
+          </figure>
+          <div class="grid two">
+            <article>
+              <h3>问题收集</h3>
+              <p>收集新手卡点、工具配置问题、案例复现问题和行业应用问题。</p>
+            </article>
+            <article>
+              <h3>共建反馈</h3>
+              <p>通过 GitHub Issue 或飞书表单收集纠错、补充案例和页面建议。</p>
+            </article>
+          </div>
+        </section>
+
+        <section id="support">
+          <h2>赞助商</h2>
+          <p class="lead">这个位置先作为资源位预留，后续可以放工具、开源项目、共建伙伴和推荐资源。</p>
+          <div class="sponsor-strip">
+            <a href="#entry">Codex工具入口</a>
+            <a href="#ui-visual">UI视觉资源</a>
+            <a href="#roadmap">GitHub共建</a>
+          </div>
+        </section>
+
+        <section id="roadmap">
+          <h2>共建路线图</h2>
+          <div class="grid two">
+            <article>
+              <h3>第一批补齐</h3>
+              <p>把19节教程先写成可读内容，每节都有输入、步骤、作业和结果。</p>
+            </article>
+            <article>
+              <h3>第二批补齐</h3>
+              <p>把20个案例做成独立页面，每个案例都配截图、模板和风险提醒。</p>
+            </article>
+            <article>
+              <h3>第三批补齐</h3>
+              <p>整理配置专题和排障手册，降低新手上手门槛。</p>
+            </article>
+            <article>
+              <h3>持续更新</h3>
+              <p>每页保留最后核对日期，工具变化后及时更新。共建者可查看“如何更新本站”。</p>
+            </article>
+          </div>
+          <div class="actions section-actions">
+            <a class="primary" href="./contribute.html">查看更新说明</a>
+            <a class="secondary" href="./tutorials/index.html">查看19节教程</a>
+          </div>
+        </section>
+
+        <footer>
+          <p>最后核对：2026-06-20。第一版公开教程站原型，后续持续补齐课程、案例和配置专题。</p>
+        </footer>
+      </main>
+    </div>
+  </body>
+</html>

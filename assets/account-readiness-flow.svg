@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 520" role="img" aria-labelledby="title desc">
+  <title id="title">账号准备分流图</title>
+  <desc id="desc">从官方支持范围、注册登录、验证码、订阅权限到替代学习路径的排查流程。</desc>
+  <defs>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="130%">
+      <feDropShadow dx="0" dy="12" stdDeviation="12" flood-color="#0f172a" flood-opacity=".12"/>
+    </filter>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#f8fbff"/>
+      <stop offset=".54" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#effbf6"/>
+    </linearGradient>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#1f6feb"/>
+      <stop offset="1" stop-color="#0891b2"/>
+    </linearGradient>
+    <linearGradient id="green" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#16805f"/>
+      <stop offset="1" stop-color="#00a58c"/>
+    </linearGradient>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M2 2 L10 6 L2 10" fill="none" stroke="#64748b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <rect width="980" height="520" rx="26" fill="url(#bg)"/>
+  <text x="48" y="62" fill="#111827" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="30" font-weight="800">第二章先做账号分流</text>
+  <text x="48" y="96" fill="#5f6f7e" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="16">别一上来乱试。先判断你卡在官网、注册、短信、订阅，还是 Codex 入口。</text>
+
+  <g filter="url(#shadow)">
+    <rect x="52" y="136" width="184" height="86" rx="18" fill="#fff" stroke="#dbe2e8"/>
+    <circle cx="88" cy="179" r="19" fill="#eef6ff"/>
+    <text x="88" y="185" text-anchor="middle" fill="#1f6feb" font-family="Arial" font-size="20" font-weight="800">1</text>
+    <text x="116" y="168" fill="#111827" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="16" font-weight="800">支持范围</text>
+    <text x="116" y="194" fill="#5f6f7e" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="13">先查官方列表</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="292" y="136" width="184" height="86" rx="18" fill="#fff" stroke="#dbe2e8"/>
+    <circle cx="328" cy="179" r="19" fill="#eef6ff"/>
+    <text x="328" y="185" text-anchor="middle" fill="#1f6feb" font-family="Arial" font-size="20" font-weight="800">2</text>
+    <text x="356" y="168" fill="#111827" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="16" font-weight="800">注册 / 登录</text>
+    <text x="356" y="194" fill="#5f6f7e" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="13">用自己的长期账号</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="532" y="136" width="184" height="86" rx="18" fill="#fff" stroke="#dbe2e8"/>
+    <circle cx="568" cy="179" r="19" fill="#effbf6"/>
+    <text x="568" y="185" text-anchor="middle" fill="#16805f" font-family="Arial" font-size="20" font-weight="800">3</text>
+    <text x="596" y="168" fill="#111827" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="16" font-weight="800">短信验证</text>
+    <text x="596" y="194" fill="#5f6f7e" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="13">看号码和运营商</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="772" y="136" width="156" height="86" rx="18" fill="#fff" stroke="#dbe2e8"/>
+    <circle cx="808" cy="179" r="19" fill="#effbf6"/>
+    <text x="808" y="185" text-anchor="middle" fill="#16805f" font-family="Arial" font-size="20" font-weight="800">4</text>
+    <text x="836" y="168" fill="#111827" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="16" font-weight="800">权限入口</text>
+    <text x="836" y="194" fill="#5f6f7e" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="13">App / CLI / IDE</text>
+  </g>
+
+  <path d="M236 179 H292" stroke="#64748b" stroke-width="3" marker-end="url(#arrow)"/>
+  <path d="M476 179 H532" stroke="#64748b" stroke-width="3" marker-end="url(#arrow)"/>
+  <path d="M716 179 H772" stroke="#64748b" stroke-width="3" marker-end="url(#arrow)"/>
+
+  <path d="M624 222 C624 276 468 270 468 326" stroke="#64748b" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+  <path d="M144 222 C144 306 228 318 332 340" stroke="#64748b" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+
+  <g filter="url(#shadow)">
+    <rect x="60" y="326" width="360" height="126" rx="20" fill="#fff8f1" stroke="#fed7aa"/>
+    <text x="92" y="366" fill="#9a3412" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" font-weight="800">卡住了：先停，不要乱试偏方</text>
+    <text x="92" y="397" fill="#7c2d12" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="14">不写接码、虚拟号、共享账号、绕地区限制。</text>
+    <text x="92" y="425" fill="#7c2d12" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="14">保存错误截图，回到课堂分流表。</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="480" y="306" width="420" height="160" rx="20" fill="#f0fdfa" stroke="#99f6e4"/>
+    <text x="514" y="346" fill="#0f766e" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="18" font-weight="800">继续学习：不依赖账号的作业先跑通</text>
+    <rect x="514" y="370" width="150" height="38" rx="10" fill="#fff"/>
+    <rect x="682" y="370" width="150" height="38" rx="10" fill="#fff"/>
+    <rect x="514" y="420" width="150" height="38" rx="10" fill="#fff"/>
+    <rect x="682" y="420" width="150" height="38" rx="10" fill="#fff"/>
+    <text x="589" y="394" text-anchor="middle" fill="#0f766e" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="14" font-weight="800">资料整理</text>
+    <text x="757" y="394" text-anchor="middle" fill="#0f766e" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="14" font-weight="800">任务模板</text>
+    <text x="589" y="444" text-anchor="middle" fill="#0f766e" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="14" font-weight="800">案例拆解</text>
+    <text x="757" y="444" text-anchor="middle" fill="#0f766e" font-family="Arial, PingFang SC, Microsoft YaHei, sans-serif" font-size="14" font-weight="800">网页发布</text>
+  </g>
+</svg>

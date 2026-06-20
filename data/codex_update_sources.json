@@ -1,0 +1,467 @@
+[
+  {
+    "id": "openai_codex",
+    "title": "OpenAI Codex",
+    "url": "https://openai.com/codex/",
+    "type": "official",
+    "fetched_at": "20260620T034304Z",
+    "status": 403,
+    "error": "HTTP Error 403: Forbidden",
+    "hits": []
+  },
+  {
+    "id": "codex_get_started",
+    "title": "Get started with Codex",
+    "url": "https://openai.com/codex/get-started/",
+    "type": "official",
+    "fetched_at": "20260620T034304Z",
+    "status": 403,
+    "error": "HTTP Error 403: Forbidden",
+    "hits": []
+  },
+  {
+    "id": "codex_changelog",
+    "title": "Codex changelog",
+    "url": "https://developers.openai.com/codex/changelog",
+    "type": "official",
+    "fetched_at": "20260620T034304Z",
+    "status": 200,
+    "error": null,
+    "page_title": "Changelog – Codex | OpenAI Developers",
+    "hits": [
+      {
+        "keyword": "Developer mode",
+        "excerpt": "ols Resources Terms and policies Changelog Your data Permissions Rate limits IP egress ranges Admin APIs Deprecations MCP for deep research Developer mode ChatGPT Actions Introduction Getting started Actions library Authentication Production Data retrieval Sending files Docs Use cases Getting Started Overview Quickstart Explore use cases Import to Codex Pricing Concepts Prompting Customization Mem"
+      },
+      {
+        "keyword": "Chrome extension",
+        "excerpt": "lows Models Cyber Safety Glossary Using Codex App Overview Features Settings Review Automations Worktrees Local Environments In-app browser Chrome extension Computer Use Appshots Commands Windows Troubleshooting IDE Extension Overview Features Settings IDE Commands Slash commands CLI Overview Features Command Line Options Slash commands Web Overview Environments Internet Access Integrations GitHub"
+      },
+      {
+        "keyword": "Codex for Chrome",
+        "excerpt": "raut-openai #21676 Omit service_tier from remote /responses/compact requests under API auth @aibrahim-oai Full release on Github 2026-05-07 Codex for Chrome With the new extension for Chrome, Codex is even better at working with apps and websites in your browser. It works in parallel across tabs in the background without taking over your browser, and you stay in control of which websites Codex can"
+      },
+      {
+        "keyword": "GPT-5.5",
+        "excerpt": "asoning_effort realtime prompt caching Get started Overview Quickstart Models Pricing SDKs and CLI OpenAI SDK Agents SDK OpenAI CLI Latest: GPT-5.5 Prompt guidance Core concepts Text generation Code generation Images and vision Audio and speech Structured output Function calling Responses API Using tools Agents SDK Overview Quickstart Agent definitions Models and providers Running agents Sandbox a"
+      },
+      {
+        "keyword": "Codex app",
+        "excerpt": "x Pricing Concepts Prompting Customization Memories Chronicle Sandboxing Auto-review Subagents Workflows Models Cyber Safety Glossary Using Codex App Overview Features Settings Review Automations Worktrees Local Environments In-app browser Chrome extension Computer Use Appshots Commands Windows Troubleshooting IDE Extension Overview Features Settings IDE Commands Slash commands CLI Overview Featur"
+      },
+      {
+        "keyword": "Automations",
+        "excerpt": "emories Chronicle Sandboxing Auto-review Subagents Workflows Models Cyber Safety Glossary Using Codex App Overview Features Settings Review Automations Worktrees Local Environments In-app browser Chrome extension Computer Use Appshots Commands Windows Troubleshooting IDE Extension Overview Features Settings IDE Commands Slash commands CLI Overview Features Command Line Options Slash commands Web O"
+      },
+      {
+        "keyword": "Skills",
+        "excerpt": "rkflows Voice agents ChatKit Overview Customize Widgets Actions Advanced integrations Tools Web search MCP and Connectors Secure MCP Tunnel Skills Shell Computer use File search and retrieval File search Retrieval Tool search More tools Apply Patch Local shell Image generation Code interpreter Run and scale Conversation state Background mode Streaming WebSocket mode Webhooks File inputs Context ma"
+      },
+      {
+        "keyword": "Plugins",
+        "excerpt": "Config File Config Basics Advanced Config Config Reference Environment Variables Sample Config Permissions Speed Rules Hooks AGENTS.md MCP Plugins Overview Build plugins Sites Skills Overview Record & Replay Subagents Administration Authentication Overview Access tokens Agent approvals & security Remote connections Deployment Amazon Bedrock Enterprise Admin Setup Governance Managed configuration"
+      },
+      {
+        "keyword": "Sites",
+        "excerpt": "nced Config Config Reference Environment Variables Sample Config Permissions Speed Rules Hooks AGENTS.md MCP Plugins Overview Build plugins Sites Skills Overview Record & Replay Subagents Administration Authentication Overview Access tokens Agent approvals & security Remote connections Deployment Amazon Bedrock Enterprise Admin Setup Governance Managed configuration Windows Automation Non-interact"
+      },
+      {
+        "keyword": "in-app browser",
+        "excerpt": "Subagents Workflows Models Cyber Safety Glossary Using Codex App Overview Features Settings Review Automations Worktrees Local Environments In-app browser Chrome extension Computer Use Appshots Commands Windows Troubleshooting IDE Extension Overview Features Settings IDE Commands Slash commands CLI Overview Features Command Line Options Slash commands Web Overview Environments Internet Access Inte"
+      },
+      {
+        "keyword": "Computer use",
+        "excerpt": "agents ChatKit Overview Customize Widgets Actions Advanced integrations Tools Web search MCP and Connectors Secure MCP Tunnel Skills Shell Computer use File search and retrieval File search Retrieval Tool search More tools Apply Patch Local shell Image generation Code interpreter Run and scale Conversation state Background mode Streaming WebSocket mode Webhooks File inputs Context management Comp"
+      },
+      {
+        "keyword": "Image generation",
+        "excerpt": "Secure MCP Tunnel Skills Shell Computer use File search and retrieval File search Retrieval Tool search More tools Apply Patch Local shell Image generation Code interpreter Run and scale Conversation state Background mode Streaming WebSocket mode Webhooks File inputs Context management Compaction Counting tokens Prompt caching Prompting Overview Prompt engineering Citation formatting Migration gu"
+      },
+      {
+        "keyword": "Authentication",
+        "excerpt": "IP egress ranges Admin APIs Deprecations MCP for deep research Developer mode ChatGPT Actions Introduction Getting started Actions library Authentication Production Data retrieval Sending files Docs Use cases Getting Started Overview Quickstart Explore use cases Import to Codex Pricing Concepts Prompting Customization Memories Chronicle Sandboxing Auto-review Subagents Workflows Models Cyber Safe"
+      },
+      {
+        "keyword": "config.toml",
+        "excerpt": "aligned with other docs variants. ( #21263 ) Documented how generated git commit attribution is gated by codex_git_commit and configured in config.toml . ( #21379 ) Removed local-only planning/spec docs and redirected config docs toward the maintained external documentation surface. ( #20896 ) Chores Linux releases now build, publish, bundle, and verify a standalone bwrap fallback for npm and DotS"
+      },
+      {
+        "keyword": "Subagents",
+        "excerpt": "ed Overview Quickstart Explore use cases Import to Codex Pricing Concepts Prompting Customization Memories Chronicle Sandboxing Auto-review Subagents Workflows Models Cyber Safety Glossary Using Codex App Overview Features Settings Review Automations Worktrees Local Environments In-app browser Chrome extension Computer Use Appshots Commands Windows Troubleshooting IDE Extension Overview Features S"
+      },
+      {
+        "keyword": "rate-limit reset",
+        "excerpt": ", #28383 ) App-server clients can list immediate child threads, correlate external-agent imports with detailed results, and read or redeem rate-limit reset credits. ( #26662 , #28008 , #28143 ) Realtime clients can explicitly append speech, control how Codex responses enter conversations, and omit startup context. ( #27917 , #28405 ) TUI input prompts can auto-resolve after inactivity, with a cou"
+      }
+    ],
+    "text_sample": "Changelog – Codex | OpenAI Developers Home API Docs Guides and concepts for the OpenAI API API reference Endpoints, parameters, and responses Codex Docs Guides, concepts, and product docs for Codex Use cases Example workflows and tasks teams hand to Codex ChatGPT Apps SDK Build apps to extend ChatGPT Workspace Agents Trigger published ChatGPT workspace agents Commerce Build commerce flows in ChatGPT Ads Publish and measure ads in ChatGPT Resources Showcase Demo apps to get inspired Blog Learnings and experiences from developers Cookbook Notebook examples for building with OpenAI models Learn Docs, videos, and demo apps for building with OpenAI Community Programs, meetups, and support for builders Start searching API Dashboard Search the Codex docs Search docs Suggested responses create reasoning_effort realtime prompt caching Primary navigation API API Reference Codex ChatGPT Resources Search docs Suggested responses create reasoning_effort realtime prompt caching Get started Overview Quickstart Models Pricing SDKs and CLI OpenAI SDK Agents SDK OpenAI CLI Latest: GPT-5.5 Prompt guidance Core concepts Text generation Code generation Images and vision Audio and speech Structured outp"
+  },
+  {
+    "id": "codex_app",
+    "title": "Codex app",
+    "url": "https://developers.openai.com/codex/app",
+    "type": "official",
+    "fetched_at": "20260620T034304Z",
+    "status": 200,
+    "error": null,
+    "page_title": "App – Codex | OpenAI Developers",
+    "hits": [
+      {
+        "keyword": "Developer mode",
+        "excerpt": "ols Resources Terms and policies Changelog Your data Permissions Rate limits IP egress ranges Admin APIs Deprecations MCP for deep research Developer mode ChatGPT Actions Introduction Getting started Actions library Authentication Production Data retrieval Sending files Docs Use cases Getting Started Overview Quickstart Explore use cases Import to Codex Pricing Concepts Prompting Customization Mem"
+      },
+      {
+        "keyword": "Chrome extension",
+        "excerpt": "lows Models Cyber Safety Glossary Using Codex App Overview Features Settings Review Automations Worktrees Local Environments In-app browser Chrome extension Computer Use Appshots Commands Windows Troubleshooting IDE Extension Overview Features Settings IDE Commands Slash commands CLI Overview Features Command Line Options Slash commands Web Overview Environments Internet Access Integrations GitHub"
+      },
+      {
+        "keyword": "GPT-5.5",
+        "excerpt": "asoning_effort realtime prompt caching Get started Overview Quickstart Models Pricing SDKs and CLI OpenAI SDK Agents SDK OpenAI CLI Latest: GPT-5.5 Prompt guidance Core concepts Text generation Code generation Images and vision Audio and speech Structured output Function calling Responses API Using tools Agents SDK Overview Quickstart Agent definitions Models and providers Running agents Sandbox a"
+      },
+      {
+        "keyword": "Codex app",
+        "excerpt": "x Pricing Concepts Prompting Customization Memories Chronicle Sandboxing Auto-review Subagents Workflows Models Cyber Safety Glossary Using Codex App Overview Features Settings Review Automations Worktrees Local Environments In-app browser Chrome extension Computer Use Appshots Commands Windows Troubleshooting IDE Extension Overview Features Settings IDE Commands Slash commands CLI Overview Featur"
+      },
+      {
+        "keyword": "Automations",
+        "excerpt": "emories Chronicle Sandboxing Auto-review Subagents Workflows Models Cyber Safety Glossary Using Codex App Overview Features Settings Review Automations Worktrees Local Environments In-app browser Chrome extension Computer Use Appshots Commands Windows Troubleshooting IDE Extension Overview Features Settings IDE Commands Slash commands CLI Overview Features Command Line Options Slash commands Web O"
+      },
+      {
+        "keyword": "Skills",
+        "excerpt": "rkflows Voice agents ChatKit Overview Customize Widgets Actions Advanced integrations Tools Web search MCP and Connectors Secure MCP Tunnel Skills Shell Computer use File search and retrieval File search Retrieval Tool search More tools Apply Patch Local shell Image generation Code interpreter Run and scale Conversation state Background mode Streaming WebSocket mode Webhooks File inputs Context ma"
+      },
+      {
+        "keyword": "Plugins",
+        "excerpt": "Config File Config Basics Advanced Config Config Reference Environment Variables Sample Config Permissions Speed Rules Hooks AGENTS.md MCP Plugins Overview Build plugins Sites Skills Overview Record & Replay Subagents Administration Authentication Overview Access tokens Agent approvals & security Remote connections Deployment Amazon Bedrock Enterprise Admin Setup Governance Managed configuration"
+      },
+      {
+        "keyword": "Sites",
+        "excerpt": "nced Config Config Reference Environment Variables Sample Config Permissions Speed Rules Hooks AGENTS.md MCP Plugins Overview Build plugins Sites Skills Overview Record & Replay Subagents Administration Authentication Overview Access tokens Agent approvals & security Remote connections Deployment Amazon Bedrock Enterprise Admin Setup Governance Managed configuration Windows Automation Non-interact"
+      },
+      {
+        "keyword": "in-app browser",
+        "excerpt": "Subagents Workflows Models Cyber Safety Glossary Using Codex App Overview Features Settings Review Automations Worktrees Local Environments In-app browser Chrome extension Computer Use Appshots Commands Windows Troubleshooting IDE Extension Overview Features Settings IDE Commands Slash commands CLI Overview Features Command Line Options Slash commands Web Overview Environments Internet Access Inte"
+      },
+      {
+        "keyword": "Computer use",
+        "excerpt": "agents ChatKit Overview Customize Widgets Actions Advanced integrations Tools Web search MCP and Connectors Secure MCP Tunnel Skills Shell Computer use File search and retrieval File search Retrieval Tool search More tools Apply Patch Local shell Image generation Code interpreter Run and scale Conversation state Background mode Streaming WebSocket mode Webhooks File inputs Context management Comp"
+      },
+      {
+        "keyword": "Image generation",
+        "excerpt": "Secure MCP Tunnel Skills Shell Computer use File search and retrieval File search Retrieval Tool search More tools Apply Patch Local shell Image generation Code interpreter Run and scale Conversation state Background mode Streaming WebSocket mode Webhooks File inputs Context management Compaction Counting tokens Prompt caching Prompting Overview Prompt engineering Citation formatting Migration gu"
+      },
+      {
+        "keyword": "Authentication",
+        "excerpt": "IP egress ranges Admin APIs Deprecations MCP for deep research Developer mode ChatGPT Actions Introduction Getting started Actions library Authentication Production Data retrieval Sending files Docs Use cases Getting Started Overview Quickstart Explore use cases Import to Codex Pricing Concepts Prompting Customization Memories Chronicle Sandboxing Auto-review Subagents Workflows Models Cyber Safe"
+      },
+      {
+        "keyword": "Subagents",
+        "excerpt": "ed Overview Quickstart Explore use cases Import to Codex Pricing Concepts Prompting Customization Memories Chronicle Sandboxing Auto-review Subagents Workflows Models Cyber Safety Glossary Using Codex App Overview Features Settings Review Automations Worktrees Local Environments In-app browser Chrome extension Computer Use Appshots Commands Windows Troubleshooting IDE Extension Overview Features S"
+      }
+    ],
+    "text_sample": "App – Codex | OpenAI Developers Home API Docs Guides and concepts for the OpenAI API API reference Endpoints, parameters, and responses Codex Docs Guides, concepts, and product docs for Codex Use cases Example workflows and tasks teams hand to Codex ChatGPT Apps SDK Build apps to extend ChatGPT Workspace Agents Trigger published ChatGPT workspace agents Commerce Build commerce flows in ChatGPT Ads Publish and measure ads in ChatGPT Resources Showcase Demo apps to get inspired Blog Learnings and experiences from developers Cookbook Notebook examples for building with OpenAI models Learn Docs, videos, and demo apps for building with OpenAI Community Programs, meetups, and support for builders Start searching API Dashboard Search the Codex docs Search docs Suggested responses create reasoning_effort realtime prompt caching Primary navigation API API Reference Codex ChatGPT Resources Search docs Suggested responses create reasoning_effort realtime prompt caching Get started Overview Quickstart Models Pricing SDKs and CLI OpenAI SDK Agents SDK OpenAI CLI Latest: GPT-5.5 Prompt guidance Core concepts Text generation Code generation Images and vision Audio and speech Structured output Fun"
+  },
+  {
+    "id": "codex_cli",
+    "title": "Codex CLI",
+    "url": "https://developers.openai.com/codex/cli",
+    "type": "official",
+    "fetched_at": "20260620T034304Z",
+    "status": 200,
+    "error": null,
+    "page_title": "CLI – Codex | OpenAI Developers",
+    "hits": [
+      {
+        "keyword": "Developer mode",
+        "excerpt": "ols Resources Terms and policies Changelog Your data Permissions Rate limits IP egress ranges Admin APIs Deprecations MCP for deep research Developer mode ChatGPT Actions Introduction Getting started Actions library Authentication Production Data retrieval Sending files Docs Use cases Getting Started Overview Quickstart Explore use cases Import to Codex Pricing Concepts Prompting Customization Mem"
+      },
+      {
+        "keyword": "Chrome extension",
+        "excerpt": "lows Models Cyber Safety Glossary Using Codex App Overview Features Settings Review Automations Worktrees Local Environments In-app browser Chrome extension Computer Use Appshots Commands Windows Troubleshooting IDE Extension Overview Features Settings IDE Commands Slash commands CLI Overview Features Command Line Options Slash commands Web Overview Environments Internet Access Integrations GitHub"
+      },
+      {
+        "keyword": "GPT-5.5",
+        "excerpt": "asoning_effort realtime prompt caching Get started Overview Quickstart Models Pricing SDKs and CLI OpenAI SDK Agents SDK OpenAI CLI Latest: GPT-5.5 Prompt guidance Core concepts Text generation Code generation Images and vision Audio and speech Structured output Function calling Responses API Using tools Agents SDK Overview Quickstart Agent definitions Models and providers Running agents Sandbox a"
+      },
+      {
+        "keyword": "Codex app",
+        "excerpt": "x Pricing Concepts Prompting Customization Memories Chronicle Sandboxing Auto-review Subagents Workflows Models Cyber Safety Glossary Using Codex App Overview Features Settings Review Automations Worktrees Local Environments In-app browser Chrome extension Computer Use Appshots Commands Windows Troubleshooting IDE Extension Overview Features Settings IDE Commands Slash commands CLI Overview Featur"
+      },
+      {
+        "keyword": "Automations",
+        "excerpt": "emories Chronicle Sandboxing Auto-review Subagents Workflows Models Cyber Safety Glossary Using Codex App Overview Features Settings Review Automations Worktrees Local Environments In-app browser Chrome extension Computer Use Appshots Commands Windows Troubleshooting IDE Extension Overview Features Settings IDE Commands Slash commands CLI Overview Features Command Line Options Slash commands Web O"
+      },
+      {
+        "keyword": "Skills",
+        "excerpt": "rkflows Voice agents ChatKit Overview Customize Widgets Actions Advanced integrations Tools Web search MCP and Connectors Secure MCP Tunnel Skills Shell Computer use File search and retrieval File search Retrieval Tool search More tools Apply Patch Local shell Image generation Code interpreter Run and scale Conversation state Background mode Streaming WebSocket mode Webhooks File inputs Context ma"
+      },
+      {
+        "keyword": "Plugins",
+        "excerpt": "Config File Config Basics Advanced Config Config Reference Environment Variables Sample Config Permissions Speed Rules Hooks AGENTS.md MCP Plugins Overview Build plugins Sites Skills Overview Record & Replay Subagents Administration Authentication Overview Access tokens Agent approvals & security Remote connections Deployment Amazon Bedrock Enterprise Admin Setup Governance Managed configuration"
+      },
+      {
+        "keyword": "Sites",
+        "excerpt": "nced Config Config Reference Environment Variables Sample Config Permissions Speed Rules Hooks AGENTS.md MCP Plugins Overview Build plugins Sites Skills Overview Record & Replay Subagents Administration Authentication Overview Access tokens Agent approvals & security Remote connections Deployment Amazon Bedrock Enterprise Admin Setup Governance Managed configuration Windows Automation Non-interact"
+      },
+      {
+        "keyword": "in-app browser",
+        "excerpt": "Subagents Workflows Models Cyber Safety Glossary Using Codex App Overview Features Settings Review Automations Worktrees Local Environments In-app browser Chrome extension Computer Use Appshots Commands Windows Troubleshooting IDE Extension Overview Features Settings IDE Commands Slash commands CLI Overview Features Command Line Options Slash commands Web Overview Environments Internet Access Inte"
+      },
+      {
+        "keyword": "Computer use",
+        "excerpt": "agents ChatKit Overview Customize Widgets Actions Advanced integrations Tools Web search MCP and Connectors Secure MCP Tunnel Skills Shell Computer use File search and retrieval File search Retrieval Tool search More tools Apply Patch Local shell Image generation Code interpreter Run and scale Conversation state Background mode Streaming WebSocket mode Webhooks File inputs Context management Comp"
+      },
+      {
+        "keyword": "Image generation",
+        "excerpt": "Secure MCP Tunnel Skills Shell Computer use File search and retrieval File search Retrieval Tool search More tools Apply Patch Local shell Image generation Code interpreter Run and scale Conversation state Background mode Streaming WebSocket mode Webhooks File inputs Context management Compaction Counting tokens Prompt caching Prompting Overview Prompt engineering Citation formatting Migration gu"
+      },
+      {
+        "keyword": "Authentication",
+        "excerpt": "IP egress ranges Admin APIs Deprecations MCP for deep research Developer mode ChatGPT Actions Introduction Getting started Actions library Authentication Production Data retrieval Sending files Docs Use cases Getting Started Overview Quickstart Explore use cases Import to Codex Pricing Concepts Prompting Customization Memories Chronicle Sandboxing Auto-review Subagents Workflows Models Cyber Safe"
+      },
+      {
+        "keyword": "Subagents",
+        "excerpt": "ed Overview Quickstart Explore use cases Import to Codex Pricing Concepts Prompting Customization Memories Chronicle Sandboxing Auto-review Subagents Workflows Models Cyber Safety Glossary Using Codex App Overview Features Settings Review Automations Worktrees Local Environments In-app browser Chrome extension Computer Use Appshots Commands Windows Troubleshooting IDE Extension Overview Features S"
+      }
+    ],
+    "text_sample": "CLI – Codex | OpenAI Developers Home API Docs Guides and concepts for the OpenAI API API reference Endpoints, parameters, and responses Codex Docs Guides, concepts, and product docs for Codex Use cases Example workflows and tasks teams hand to Codex ChatGPT Apps SDK Build apps to extend ChatGPT Workspace Agents Trigger published ChatGPT workspace agents Commerce Build commerce flows in ChatGPT Ads Publish and measure ads in ChatGPT Resources Showcase Demo apps to get inspired Blog Learnings and experiences from developers Cookbook Notebook examples for building with OpenAI models Learn Docs, videos, and demo apps for building with OpenAI Community Programs, meetups, and support for builders Start searching API Dashboard Search the Codex docs Search docs Suggested responses create reasoning_effort realtime prompt caching Primary navigation API API Reference Codex ChatGPT Resources Search docs Suggested responses create reasoning_effort realtime prompt caching Get started Overview Quickstart Models Pricing SDKs and CLI OpenAI SDK Agents SDK OpenAI CLI Latest: GPT-5.5 Prompt guidance Core concepts Text generation Code generation Images and vision Audio and speech Structured output Fun"
+  },
+  {
+    "id": "codex_ide",
+    "title": "Codex IDE extension",
+    "url": "https://developers.openai.com/codex/ide",
+    "type": "official",
+    "fetched_at": "20260620T034304Z",
+    "status": 200,
+    "error": null,
+    "page_title": "IDE extension – Codex | OpenAI Developers",
+    "hits": [
+      {
+        "keyword": "Developer mode",
+        "excerpt": "ols Resources Terms and policies Changelog Your data Permissions Rate limits IP egress ranges Admin APIs Deprecations MCP for deep research Developer mode ChatGPT Actions Introduction Getting started Actions library Authentication Production Data retrieval Sending files Docs Use cases Getting Started Overview Quickstart Explore use cases Import to Codex Pricing Concepts Prompting Customization Mem"
+      },
+      {
+        "keyword": "Chrome extension",
+        "excerpt": "lows Models Cyber Safety Glossary Using Codex App Overview Features Settings Review Automations Worktrees Local Environments In-app browser Chrome extension Computer Use Appshots Commands Windows Troubleshooting IDE Extension Overview Features Settings IDE Commands Slash commands CLI Overview Features Command Line Options Slash commands Web Overview Environments Internet Access Integrations GitHub"
+      },
+      {
+        "keyword": "GPT-5.5",
+        "excerpt": "asoning_effort realtime prompt caching Get started Overview Quickstart Models Pricing SDKs and CLI OpenAI SDK Agents SDK OpenAI CLI Latest: GPT-5.5 Prompt guidance Core concepts Text generation Code generation Images and vision Audio and speech Structured output Function calling Responses API Using tools Agents SDK Overview Quickstart Agent definitions Models and providers Running agents Sandbox a"
+      },
+      {
+        "keyword": "Codex app",
+        "excerpt": "x Pricing Concepts Prompting Customization Memories Chronicle Sandboxing Auto-review Subagents Workflows Models Cyber Safety Glossary Using Codex App Overview Features Settings Review Automations Worktrees Local Environments In-app browser Chrome extension Computer Use Appshots Commands Windows Troubleshooting IDE Extension Overview Features Settings IDE Commands Slash commands CLI Overview Featur"
+      },
+      {
+        "keyword": "Automations",
+        "excerpt": "emories Chronicle Sandboxing Auto-review Subagents Workflows Models Cyber Safety Glossary Using Codex App Overview Features Settings Review Automations Worktrees Local Environments In-app browser Chrome extension Computer Use Appshots Commands Windows Troubleshooting IDE Extension Overview Features Settings IDE Commands Slash commands CLI Overview Features Command Line Options Slash commands Web O"
+      },
+      {
+        "keyword": "Skills",
+        "excerpt": "rkflows Voice agents ChatKit Overview Customize Widgets Actions Advanced integrations Tools Web search MCP and Connectors Secure MCP Tunnel Skills Shell Computer use File search and retrieval File search Retrieval Tool search More tools Apply Patch Local shell Image generation Code interpreter Run and scale Conversation state Background mode Streaming WebSocket mode Webhooks File inputs Context ma"
+      },
+      {
+        "keyword": "Plugins",
+        "excerpt": "Config File Config Basics Advanced Config Config Reference Environment Variables Sample Config Permissions Speed Rules Hooks AGENTS.md MCP Plugins Overview Build plugins Sites Skills Overview Record & Replay Subagents Administration Authentication Overview Access tokens Agent approvals & security Remote connections Deployment Amazon Bedrock Enterprise Admin Setup Governance Managed configuration"
+      },
+      {
+        "keyword": "Sites",
+        "excerpt": "nced Config Config Reference Environment Variables Sample Config Permissions Speed Rules Hooks AGENTS.md MCP Plugins Overview Build plugins Sites Skills Overview Record & Replay Subagents Administration Authentication Overview Access tokens Agent approvals & security Remote connections Deployment Amazon Bedrock Enterprise Admin Setup Governance Managed configuration Windows Automation Non-interact"
+      },
+      {
+        "keyword": "in-app browser",
+        "excerpt": "Subagents Workflows Models Cyber Safety Glossary Using Codex App Overview Features Settings Review Automations Worktrees Local Environments In-app browser Chrome extension Computer Use Appshots Commands Windows Troubleshooting IDE Extension Overview Features Settings IDE Commands Slash commands CLI Overview Features Command Line Options Slash commands Web Overview Environments Internet Access Inte"
+      },
+      {
+        "keyword": "Computer use",
+        "excerpt": "agents ChatKit Overview Customize Widgets Actions Advanced integrations Tools Web search MCP and Connectors Secure MCP Tunnel Skills Shell Computer use File search and retrieval File search Retrieval Tool search More tools Apply Patch Local shell Image generation Code interpreter Run and scale Conversation state Background mode Streaming WebSocket mode Webhooks File inputs Context management Comp"
+      },
+      {
+        "keyword": "Image generation",
+        "excerpt": "Secure MCP Tunnel Skills Shell Computer use File search and retrieval File search Retrieval Tool search More tools Apply Patch Local shell Image generation Code interpreter Run and scale Conversation state Background mode Streaming WebSocket mode Webhooks File inputs Context management Compaction Counting tokens Prompt caching Prompting Overview Prompt engineering Citation formatting Migration gu"
+      },
+      {
+        "keyword": "Authentication",
+        "excerpt": "IP egress ranges Admin APIs Deprecations MCP for deep research Developer mode ChatGPT Actions Introduction Getting started Actions library Authentication Production Data retrieval Sending files Docs Use cases Getting Started Overview Quickstart Explore use cases Import to Codex Pricing Concepts Prompting Customization Memories Chronicle Sandboxing Auto-review Subagents Workflows Models Cyber Safe"
+      },
+      {
+        "keyword": "Subagents",
+        "excerpt": "ed Overview Quickstart Explore use cases Import to Codex Pricing Concepts Prompting Customization Memories Chronicle Sandboxing Auto-review Subagents Workflows Models Cyber Safety Glossary Using Codex App Overview Features Settings Review Automations Worktrees Local Environments In-app browser Chrome extension Computer Use Appshots Commands Windows Troubleshooting IDE Extension Overview Features S"
+      }
+    ],
+    "text_sample": "IDE extension – Codex | OpenAI Developers Home API Docs Guides and concepts for the OpenAI API API reference Endpoints, parameters, and responses Codex Docs Guides, concepts, and product docs for Codex Use cases Example workflows and tasks teams hand to Codex ChatGPT Apps SDK Build apps to extend ChatGPT Workspace Agents Trigger published ChatGPT workspace agents Commerce Build commerce flows in ChatGPT Ads Publish and measure ads in ChatGPT Resources Showcase Demo apps to get inspired Blog Learnings and experiences from developers Cookbook Notebook examples for building with OpenAI models Learn Docs, videos, and demo apps for building with OpenAI Community Programs, meetups, and support for builders Start searching API Dashboard Search the Codex docs Search docs Suggested responses create reasoning_effort realtime prompt caching Primary navigation API API Reference Codex ChatGPT Resources Search docs Suggested responses create reasoning_effort realtime prompt caching Get started Overview Quickstart Models Pricing SDKs and CLI OpenAI SDK Agents SDK OpenAI CLI Latest: GPT-5.5 Prompt guidance Core concepts Text generation Code generation Images and vision Audio and speech Structured "
+  },
+  {
+    "id": "codex_auth",
+    "title": "Codex authentication",
+    "url": "https://developers.openai.com/codex/auth",
+    "type": "official",
+    "fetched_at": "20260620T034304Z",
+    "status": 200,
+    "error": null,
+    "page_title": "Authentication – Codex | OpenAI Developers",
+    "hits": [
+      {
+        "keyword": "Developer mode",
+        "excerpt": "ols Resources Terms and policies Changelog Your data Permissions Rate limits IP egress ranges Admin APIs Deprecations MCP for deep research Developer mode ChatGPT Actions Introduction Getting started Actions library Authentication Production Data retrieval Sending files Docs Use cases Getting Started Overview Quickstart Explore use cases Import to Codex Pricing Concepts Prompting Customization Mem"
+      },
+      {
+        "keyword": "Chrome extension",
+        "excerpt": "lows Models Cyber Safety Glossary Using Codex App Overview Features Settings Review Automations Worktrees Local Environments In-app browser Chrome extension Computer Use Appshots Commands Windows Troubleshooting IDE Extension Overview Features Settings IDE Commands Slash commands CLI Overview Features Command Line Options Slash commands Web Overview Environments Internet Access Integrations GitHub"
+      },
+      {
+        "keyword": "GPT-5.5",
+        "excerpt": "asoning_effort realtime prompt caching Get started Overview Quickstart Models Pricing SDKs and CLI OpenAI SDK Agents SDK OpenAI CLI Latest: GPT-5.5 Prompt guidance Core concepts Text generation Code generation Images and vision Audio and speech Structured output Function calling Responses API Using tools Agents SDK Overview Quickstart Agent definitions Models and providers Running agents Sandbox a"
+      },
+      {
+        "keyword": "Codex app",
+        "excerpt": "x Pricing Concepts Prompting Customization Memories Chronicle Sandboxing Auto-review Subagents Workflows Models Cyber Safety Glossary Using Codex App Overview Features Settings Review Automations Worktrees Local Environments In-app browser Chrome extension Computer Use Appshots Commands Windows Troubleshooting IDE Extension Overview Features Settings IDE Commands Slash commands CLI Overview Featur"
+      },
+      {
+        "keyword": "Automations",
+        "excerpt": "emories Chronicle Sandboxing Auto-review Subagents Workflows Models Cyber Safety Glossary Using Codex App Overview Features Settings Review Automations Worktrees Local Environments In-app browser Chrome extension Computer Use Appshots Commands Windows Troubleshooting IDE Extension Overview Features Settings IDE Commands Slash commands CLI Overview Features Command Line Options Slash commands Web O"
+      },
+      {
+        "keyword": "Skills",
+        "excerpt": "rkflows Voice agents ChatKit Overview Customize Widgets Actions Advanced integrations Tools Web search MCP and Connectors Secure MCP Tunnel Skills Shell Computer use File search and retrieval File search Retrieval Tool search More tools Apply Patch Local shell Image generation Code interpreter Run and scale Conversation state Background mode Streaming WebSocket mode Webhooks File inputs Context ma"
+      },
+      {
+        "keyword": "Plugins",
+        "excerpt": "Config File Config Basics Advanced Config Config Reference Environment Variables Sample Config Permissions Speed Rules Hooks AGENTS.md MCP Plugins Overview Build plugins Sites Skills Overview Record & Replay Subagents Administration Authentication Overview Access tokens Agent approvals & security Remote connections Deployment Amazon Bedrock Enterprise Admin Setup Governance Managed configuration"
+      },
+      {
+        "keyword": "Sites",
+        "excerpt": "nced Config Config Reference Environment Variables Sample Config Permissions Speed Rules Hooks AGENTS.md MCP Plugins Overview Build plugins Sites Skills Overview Record & Replay Subagents Administration Authentication Overview Access tokens Agent approvals & security Remote connections Deployment Amazon Bedrock Enterprise Admin Setup Governance Managed configuration Windows Automation Non-interact"
+      },
+      {
+        "keyword": "in-app browser",
+        "excerpt": "Subagents Workflows Models Cyber Safety Glossary Using Codex App Overview Features Settings Review Automations Worktrees Local Environments In-app browser Chrome extension Computer Use Appshots Commands Windows Troubleshooting IDE Extension Overview Features Settings IDE Commands Slash commands CLI Overview Features Command Line Options Slash commands Web Overview Environments Internet Access Inte"
+      },
+      {
+        "keyword": "Computer use",
+        "excerpt": "agents ChatKit Overview Customize Widgets Actions Advanced integrations Tools Web search MCP and Connectors Secure MCP Tunnel Skills Shell Computer use File search and retrieval File search Retrieval Tool search More tools Apply Patch Local shell Image generation Code interpreter Run and scale Conversation state Background mode Streaming WebSocket mode Webhooks File inputs Context management Comp"
+      },
+      {
+        "keyword": "Image generation",
+        "excerpt": "Secure MCP Tunnel Skills Shell Computer use File search and retrieval File search Retrieval Tool search More tools Apply Patch Local shell Image generation Code interpreter Run and scale Conversation state Background mode Streaming WebSocket mode Webhooks File inputs Context management Compaction Counting tokens Prompt caching Prompting Overview Prompt engineering Citation formatting Migration gu"
+      },
+      {
+        "keyword": "Authentication",
+        "excerpt": "Authentication – Codex | OpenAI Developers Home API Docs Guides and concepts for the OpenAI API API reference Endpoints, parameters, and responses Codex Docs Guides, concepts, and product docs for Codex Use cases Example workflows and tasks teams hand to Codex"
+      },
+      {
+        "keyword": "Subagents",
+        "excerpt": "ed Overview Quickstart Explore use cases Import to Codex Pricing Concepts Prompting Customization Memories Chronicle Sandboxing Auto-review Subagents Workflows Models Cyber Safety Glossary Using Codex App Overview Features Settings Review Automations Worktrees Local Environments In-app browser Chrome extension Computer Use Appshots Commands Windows Troubleshooting IDE Extension Overview Features S"
+      }
+    ],
+    "text_sample": "Authentication – Codex | OpenAI Developers Home API Docs Guides and concepts for the OpenAI API API reference Endpoints, parameters, and responses Codex Docs Guides, concepts, and product docs for Codex Use cases Example workflows and tasks teams hand to Codex ChatGPT Apps SDK Build apps to extend ChatGPT Workspace Agents Trigger published ChatGPT workspace agents Commerce Build commerce flows in ChatGPT Ads Publish and measure ads in ChatGPT Resources Showcase Demo apps to get inspired Blog Learnings and experiences from developers Cookbook Notebook examples for building with OpenAI models Learn Docs, videos, and demo apps for building with OpenAI Community Programs, meetups, and support for builders Start searching API Dashboard Search the Codex docs Search docs Suggested responses create reasoning_effort realtime prompt caching Primary navigation API API Reference Codex ChatGPT Resources Search docs Suggested responses create reasoning_effort realtime prompt caching Get started Overview Quickstart Models Pricing SDKs and CLI OpenAI SDK Agents SDK OpenAI CLI Latest: GPT-5.5 Prompt guidance Core concepts Text generation Code generation Images and vision Audio and speech Structured"
+  },
+  {
+    "id": "codex_config_reference",
+    "title": "Codex config reference",
+    "url": "https://developers.openai.com/codex/config-reference",
+    "type": "official",
+    "fetched_at": "20260620T034304Z",
+    "status": 200,
+    "error": null,
+    "page_title": "Configuration Reference – Codex | OpenAI Developers",
+    "hits": [
+      {
+        "keyword": "Developer mode",
+        "excerpt": "ols Resources Terms and policies Changelog Your data Permissions Rate limits IP egress ranges Admin APIs Deprecations MCP for deep research Developer mode ChatGPT Actions Introduction Getting started Actions library Authentication Production Data retrieval Sending files Docs Use cases Getting Started Overview Quickstart Explore use cases Import to Codex Pricing Concepts Prompting Customization Mem"
+      },
+      {
+        "keyword": "Chrome extension",
+        "excerpt": "lows Models Cyber Safety Glossary Using Codex App Overview Features Settings Review Automations Worktrees Local Environments In-app browser Chrome extension Computer Use Appshots Commands Windows Troubleshooting IDE Extension Overview Features Settings IDE Commands Slash commands CLI Overview Features Command Line Options Slash commands Web Overview Environments Internet Access Integrations GitHub"
+      },
+      {
+        "keyword": "GPT-5.5",
+        "excerpt": "asoning_effort realtime prompt caching Get started Overview Quickstart Models Pricing SDKs and CLI OpenAI SDK Agents SDK OpenAI CLI Latest: GPT-5.5 Prompt guidance Core concepts Text generation Code generation Images and vision Audio and speech Structured output Function calling Responses API Using tools Agents SDK Overview Quickstart Agent definitions Models and providers Running agents Sandbox a"
+      },
+      {
+        "keyword": "Codex app",
+        "excerpt": "x Pricing Concepts Prompting Customization Memories Chronicle Sandboxing Auto-review Subagents Workflows Models Cyber Safety Glossary Using Codex App Overview Features Settings Review Automations Worktrees Local Environments In-app browser Chrome extension Computer Use Appshots Commands Windows Troubleshooting IDE Extension Overview Features Settings IDE Commands Slash commands CLI Overview Featur"
+      },
+      {
+        "keyword": "Automations",
+        "excerpt": "emories Chronicle Sandboxing Auto-review Subagents Workflows Models Cyber Safety Glossary Using Codex App Overview Features Settings Review Automations Worktrees Local Environments In-app browser Chrome extension Computer Use Appshots Commands Windows Troubleshooting IDE Extension Overview Features Settings IDE Commands Slash commands CLI Overview Features Command Line Options Slash commands Web O"
+      },
+      {
+        "keyword": "Skills",
+        "excerpt": "rkflows Voice agents ChatKit Overview Customize Widgets Actions Advanced integrations Tools Web search MCP and Connectors Secure MCP Tunnel Skills Shell Computer use File search and retrieval File search Retrieval Tool search More tools Apply Patch Local shell Image generation Code interpreter Run and scale Conversation state Background mode Streaming WebSocket mode Webhooks File inputs Context ma"
+      },
+      {
+        "keyword": "Plugins",
+        "excerpt": "Config File Config Basics Advanced Config Config Reference Environment Variables Sample Config Permissions Speed Rules Hooks AGENTS.md MCP Plugins Overview Build plugins Sites Skills Overview Record & Replay Subagents Administration Authentication Overview Access tokens Agent approvals & security Remote connections Deployment Amazon Bedrock Enterprise Admin Setup Governance Managed configuration"
+      },
+      {
+        "keyword": "Sites",
+        "excerpt": "nced Config Config Reference Environment Variables Sample Config Permissions Speed Rules Hooks AGENTS.md MCP Plugins Overview Build plugins Sites Skills Overview Record & Replay Subagents Administration Authentication Overview Access tokens Agent approvals & security Remote connections Deployment Amazon Bedrock Enterprise Admin Setup Governance Managed configuration Windows Automation Non-interact"
+      },
+      {
+        "keyword": "in-app browser",
+        "excerpt": "Subagents Workflows Models Cyber Safety Glossary Using Codex App Overview Features Settings Review Automations Worktrees Local Environments In-app browser Chrome extension Computer Use Appshots Commands Windows Troubleshooting IDE Extension Overview Features Settings IDE Commands Slash commands CLI Overview Features Command Line Options Slash commands Web Overview Environments Internet Access Inte"
+      },
+      {
+        "keyword": "Computer use",
+        "excerpt": "agents ChatKit Overview Customize Widgets Actions Advanced integrations Tools Web search MCP and Connectors Secure MCP Tunnel Skills Shell Computer use File search and retrieval File search Retrieval Tool search More tools Apply Patch Local shell Image generation Code interpreter Run and scale Conversation state Background mode Streaming WebSocket mode Webhooks File inputs Context management Comp"
+      },
+      {
+        "keyword": "Image generation",
+        "excerpt": "Secure MCP Tunnel Skills Shell Computer use File search and retrieval File search Retrieval Tool search More tools Apply Patch Local shell Image generation Code interpreter Run and scale Conversation state Background mode Streaming WebSocket mode Webhooks File inputs Context management Compaction Counting tokens Prompt caching Prompting Overview Prompt engineering Citation formatting Migration gu"
+      },
+      {
+        "keyword": "Authentication",
+        "excerpt": "IP egress ranges Admin APIs Deprecations MCP for deep research Developer mode ChatGPT Actions Introduction Getting started Actions library Authentication Production Data retrieval Sending files Docs Use cases Getting Started Overview Quickstart Explore use cases Import to Codex Pricing Concepts Prompting Customization Memories Chronicle Sandboxing Auto-review Subagents Workflows Models Cyber Safe"
+      },
+      {
+        "keyword": "config.toml",
+        "excerpt": "uilding AI Teams Releases Changelog Feature Maturity Open Source *+*]:mt-3\"> Copy Page Configuration Reference Complete reference for Codex config.toml and requirements.toml Copy Page Use this page as a searchable reference for Codex configuration files. For conceptual guidance and examples, start with Config basics and Advanced Config . config.toml User-level configuration lives in ~/.codex/confi"
+      },
+      {
+        "keyword": "Subagents",
+        "excerpt": "ed Overview Quickstart Explore use cases Import to Codex Pricing Concepts Prompting Customization Memories Chronicle Sandboxing Auto-review Subagents Workflows Models Cyber Safety Glossary Using Codex App Overview Features Settings Review Automations Worktrees Local Environments In-app browser Chrome extension Computer Use Appshots Commands Windows Troubleshooting IDE Extension Overview Features S"
+      }
+    ],
+    "text_sample": "Configuration Reference – Codex | OpenAI Developers Home API Docs Guides and concepts for the OpenAI API API reference Endpoints, parameters, and responses Codex Docs Guides, concepts, and product docs for Codex Use cases Example workflows and tasks teams hand to Codex ChatGPT Apps SDK Build apps to extend ChatGPT Workspace Agents Trigger published ChatGPT workspace agents Commerce Build commerce flows in ChatGPT Ads Publish and measure ads in ChatGPT Resources Showcase Demo apps to get inspired Blog Learnings and experiences from developers Cookbook Notebook examples for building with OpenAI models Learn Docs, videos, and demo apps for building with OpenAI Community Programs, meetups, and support for builders Start searching API Dashboard Search the Codex docs Search docs Suggested responses create reasoning_effort realtime prompt caching Primary navigation API API Reference Codex ChatGPT Resources Search docs Suggested responses create reasoning_effort realtime prompt caching Get started Overview Quickstart Models Pricing SDKs and CLI OpenAI SDK Agents SDK OpenAI CLI Latest: GPT-5.5 Prompt guidance Core concepts Text generation Code generation Images and vision Audio and speech S"
+  },
+  {
+    "id": "openai_codex_releases",
+    "title": "openai/codex releases",
+    "url": "https://github.com/openai/codex/releases",
+    "type": "github",
+    "fetched_at": "20260620T034304Z",
+    "status": 200,
+    "error": null,
+    "page_title": "Releases · openai/codex · GitHub",
+    "hits": [
+      {
+        "keyword": "Skills",
+        "excerpt": "re Development DevOps Security View all topics EXPLORE BY TYPE Customer stories Events & webinars Ebooks & reports Business insights GitHub Skills SUPPORT & SERVICES Documentation Customer support Community forum Trust center Partners View all resources Open Source COMMUNITY GitHub Sponsors Fund open source developers PROGRAMS Security Lab Maintainer Community Accelerator GitHub Stars Archive Prog"
+      },
+      {
+        "keyword": "Plugins",
+        "excerpt": "em permission paths across app-server and exec-server boundaries. ( #27819 , #27995 , #28032 , #28122 , #28165 , #28367 ) Selected executor plugins can activate their stdio MCP servers per thread; plugin discovery also adds a created-by-me marketplace and auth-specific curated catalogs. ( #27870 , #27884 , #27893 , #28203 , #28383 ) App-server clients can list immediate child threads, correlate ex"
+      },
+      {
+        "keyword": "Authentication",
+        "excerpt": ", while blocking PostToolUse hooks correctly reject code-mode tool calls. ( #26434 , #28365 ) Plugin capabilities now route consistently by authentication mode, deduplicate conflicting App/MCP declarations, and preserve remote marketplace ordering. ( #27461 , #27602 , #27607 , #27902 , #27958 , #28395 ) Windows sandbox execution repairs stale credentials automatically and gives PowerShell commands"
+      },
+      {
+        "keyword": "rate-limit reset",
+        "excerpt": ", #28383 ) App-server clients can list immediate child threads, correlate external-agent imports with detailed results, and read or redeem rate-limit reset credits. ( #26662 , #28008 , #28143 ) Realtime clients can explicitly append speech, control how Codex responses enter conversations, and omit startup context. ( #27917 , #28405 ) TUI input prompts can auto-resolve after inactivity, with a cou"
+      }
+    ],
+    "text_sample": "Releases · openai/codex · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes APPLICATION SECURITY GitHub Advanced Security Find and fix vulnerabilities Code security Secure your code as you build Secret protection Stop leaks before they start EXPLORE Why GitHub Documentation Blog Changelog Marketplace View all features Solutions BY COMPANY SIZE Enterprises Small and medium teams Startups Nonprofits BY USE CASE App Modernization DevSecOps DevOps CI/CD View all use cases BY INDUSTRY Healthcare Financial services Manufacturing Government View all industries View all solutions Resources EXPLORE BY TOPIC AI Software Development DevOps Security View all topics EXPLORE BY TYPE Customer stories Events & webinars Ebooks & reports Business insights GitHub Skills SUPPORT & SERVICES Documentation Customer support Community forum Trust center Partners View all"
+  },
+  {
+    "id": "chatgpt_release_notes",
+    "title": "ChatGPT release notes",
+    "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+    "type": "official",
+    "fetched_at": "20260620T034304Z",
+    "status": 403,
+    "error": "HTTP Error 403: Forbidden",
+    "hits": []
+  }
+]
