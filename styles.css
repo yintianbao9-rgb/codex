@@ -1244,6 +1244,74 @@ li {
   background: var(--panel-2);
 }
 
+.case-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 14px;
+}
+
+.case-card {
+  display: flex;
+  min-height: 260px;
+  flex-direction: column;
+  gap: 10px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 18px;
+  background: #fff;
+}
+
+.case-card span {
+  width: fit-content;
+  border: 1px solid rgba(0, 151, 136, 0.18);
+  border-radius: 999px;
+  padding: 4px 9px;
+  color: var(--brand);
+  background: rgba(0, 151, 136, 0.08);
+  font-size: 12px;
+  font-weight: 760;
+}
+
+.case-card h3 {
+  margin: 0;
+  font-size: 18px;
+  line-height: 1.35;
+}
+
+.case-card p {
+  margin: 0;
+  color: var(--muted);
+  line-height: 1.75;
+}
+
+.case-card ul {
+  margin: 0;
+  padding-left: 18px;
+  color: var(--ink);
+}
+
+.case-card li + li {
+  margin-top: 5px;
+}
+
+.case-card a {
+  margin-top: auto;
+  color: var(--brand);
+  font-weight: 760;
+  text-decoration: none;
+}
+
+.case-source {
+  margin: 16px 0 0;
+  color: var(--muted);
+}
+
+.case-source a {
+  color: var(--brand);
+  font-weight: 760;
+  text-decoration: none;
+}
+
 .steps {
   display: grid;
   grid-template-columns: repeat(5, minmax(0, 1fr));
@@ -1560,6 +1628,7 @@ footer {
   .module-manual,
   .split-board,
   .platform-guides,
+  .case-grid,
   .method-list,
   .visual-flow,
   .stats,
