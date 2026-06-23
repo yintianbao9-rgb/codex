@@ -1,0 +1,107 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" /><title>Codex × 飞书 CLI：一句话处理飞书数据 | baoge AI Codex 案例</title><link rel="stylesheet" href="../styles.css" /></head><body><header class="topbar">
+      <a class="brand" href="../index.html#top" aria-label="baoge AI 首页"><span class="brand-mark"><i></i><i></i><i></i></span><span>baoge AI</span></a>
+      <nav class="topnav" aria-label="主导航">
+        <a class="nav-link" href="../index.html#top">首页</a>
+        <a class="nav-link" href="../index.html#route">学习路线</a>
+        <a class="nav-link" href="../index.html#entry">入口地图</a>
+        <div class="nav-item"><a class="nav-link has-menu" href="../index.html#config">配置</a><div class="dropdown"><a href="../index.html#config"><b>配置总览</b><span>安装、权限、文件夹和排障</span></a><a href="../tutorials/lesson-08.html"><b>权限管理</b><span>只读、可写、审批和发布</span></a></div></div>
+        <div class="nav-item"><a class="nav-link has-menu" href="../index.html#official">资源</a><div class="dropdown"><a href="../index.html#official"><b>官方资料</b><span>OpenAI Codex 文档与更新</span></a><a href="../index.html#codex-latest"><b>Codex 最新</b><span>官网新能力和站点更新记录</span></a></div></div>
+        <div class="nav-item"><a class="nav-link has-menu" href="../tutorials/index.html">教程</a><div class="dropdown dropdown-lessons"><a href="../tutorials/lesson-01.html">01 Codex 桌面 App 下载与安装</a>
+            <a href="../tutorials/lesson-02.html">02 订阅 ChatGPT Plus / Pro</a>
+            <a href="../tutorials/lesson-03.html">03 了解 Codex 基本组成</a>
+            <a href="../tutorials/lesson-04.html">04 用手机端 Codex 跟进桌面任务</a>
+            <a href="../tutorials/lesson-05.html">05 连接第三方 API</a>
+            <a href="../tutorials/lesson-06.html">06 用 Codex 完成第一个任务</a>
+            <a href="../tutorials/lesson-07.html">07 任务的顺序执行和并行</a>
+            <a href="../tutorials/lesson-08.html">08 权限管理</a>
+            <a href="../tutorials/lesson-09.html">09 Skills 和 Plugins</a>
+            <a href="../tutorials/lesson-10.html">10 自动化</a>
+            <a href="../tutorials/lesson-11.html">11 如何设置自己的 Codex 桌面宠物</a>
+            <a href="../tutorials/lesson-12.html">12 安装与登录</a>
+            <a href="../tutorials/lesson-13.html">13 第一次让 Codex 改代码</a>
+            <a href="../tutorials/lesson-14.html">14 在 VS Code 中使用 Codex</a>
+            <a href="../tutorials/lesson-15.html">15 AGENTS.md</a>
+            <a href="../tutorials/lesson-16.html">16 沙盒与审批：Codex 的安全护栏</a>
+            <a href="../tutorials/lesson-17.html">17 Codex Cloud：使用云端模式</a>
+            <a href="../tutorials/lesson-18.html">18 Hooks</a>
+            <a href="../tutorials/lesson-19.html">19 排障手册</a></div></div>
+        <div class="nav-item"><a class="nav-link has-menu active" href="./index.html">实战案例</a><div class="dropdown dropdown-lessons"><a href="./case-01.html">01 Codex × PPT Skill：一句话生成演示文稿</a>
+        <a href="./case-02.html">02 Codex × Draw.io MCP：AI 自动绘制架构图</a>
+        <a href="./case-03.html">03 Codex × Playwright MCP：让 AI 像人一样操控浏览器</a>
+        <a href="./case-04.html">04 Codex × HyperFrames：用代码生成动画视频</a>
+        <a href="./case-05.html">05 Codex × Obsidian：在知识库中自动生成配图</a>
+        <a href="./case-06.html">06 Codex × 飞书 CLI：一句话处理飞书数据</a>
+        <a href="./case-07.html">07 Codex × LLM Wiki：在 Obsidian 中搭建 AI 知识库</a>
+        <a href="./case-08.html">08 Codex × Figma MCP：让 AI 读懂你的设计稿</a>
+        <a href="./case-09.html">09 Codex × Notion MCP：打通你的知识工作空间</a>
+        <a href="./case-10.html">10 Codex × DKFile：AI 网页一键发布到公网</a>
+        <a href="./case-11.html">11 Codex × 云服务器：远程定位并修复 Bug</a>
+        <a href="./case-12.html">12 Codex × Chrome：让 AI 直接控制浏览器</a>
+        <a href="./case-13.html">13 Codex × GitHub Actions：CI 失败自动修复实测</a>
+        <a href="./case-14.html">14 Codex × 临床文献综述：把医学问题整理成可复核证据表</a>
+        <a href="./case-15.html">15 Codex × Hatch Pet：用一张照片生成专属宠物</a>
+        <a href="./case-16.html">16 Codex × 安卓手机：扫码连接，远程操控</a>
+        <a href="./references.html">参考来源与致谢</a></div></div>
+        <div class="nav-item"><a class="nav-link has-menu" href="../index.html#community">交流群</a><div class="dropdown dropdown-community"><img src="../assets/baoge-ai-wechat-community.png" alt="微信搜索尹天保，关注并回复 codex交流群" /></div></div>
+        <div class="nav-item"><a class="nav-link has-menu" href="../index.html#support">赞助商</a><div class="dropdown dropdown-right"><a href="../index.html#support"><b>资源位说明</b><span>工具、开源项目、共建伙伴</span></a><a href="../index.html#entry"><b>推荐工具</b><span>Codex、GitHub、飞书等入口</span></a></div></div>
+      </nav>
+      <div class="toolbar" aria-label="快捷操作"><a class="icon-link" href="../index.html#roadmap" aria-label="GitHub共建">GH</a><a class="search-button" href="./case-01.html" aria-label="查看案例">⌕</a></div>
+    </header><div class="layout tutorial-layout lesson-page-layout"><aside class="sidebar tutorial-sidebar" aria-label="实战案例目录"><div class="side-title">实战案例</div><a href="./index.html">案例总览</a><a href="./case-01.html">01 Codex × PPT Skill：一句话生成演示文稿</a>
+        <a href="./case-02.html">02 Codex × Draw.io MCP：AI 自动绘制架构图</a>
+        <a href="./case-03.html">03 Codex × Playwright MCP：让 AI 像人一样操控浏览器</a>
+        <a href="./case-04.html">04 Codex × HyperFrames：用代码生成动画视频</a>
+        <a href="./case-05.html">05 Codex × Obsidian：在知识库中自动生成配图</a>
+        <a class="active" href="./case-06.html">06 Codex × 飞书 CLI：一句话处理飞书数据</a>
+        <a href="./case-07.html">07 Codex × LLM Wiki：在 Obsidian 中搭建 AI 知识库</a>
+        <a href="./case-08.html">08 Codex × Figma MCP：让 AI 读懂你的设计稿</a>
+        <a href="./case-09.html">09 Codex × Notion MCP：打通你的知识工作空间</a>
+        <a href="./case-10.html">10 Codex × DKFile：AI 网页一键发布到公网</a>
+        <a href="./case-11.html">11 Codex × 云服务器：远程定位并修复 Bug</a>
+        <a href="./case-12.html">12 Codex × Chrome：让 AI 直接控制浏览器</a>
+        <a href="./case-13.html">13 Codex × GitHub Actions：CI 失败自动修复实测</a>
+        <a href="./case-14.html">14 Codex × 临床文献综述：把医学问题整理成可复核证据表</a>
+        <a href="./case-15.html">15 Codex × Hatch Pet：用一张照片生成专属宠物</a>
+        <a href="./case-16.html">16 Codex × 安卓手机：扫码连接，远程操控</a>
+        <a href="./references.html">参考来源与致谢</a></aside><main id="top" class="content tutorial-content lesson-page-content"><div class="lesson-navline"><a href="./case-05.html">上一页</a><a href="./index.html">案例总览</a><a href="./case-07.html">下一页</a></div><div class="doc-lesson"><article class="doc-main lesson doc-article"><p class="lesson-kicker">06 实战案例</p>P26 年 3 月底，飞书正式开源了 飞书 CLI。</p><div class="source-note"><b>本站同步：</b><span>案例已从后台资料源同步为站内页面，可直接阅读；账号、付款、权限、客户数据等敏感动作请人工确认。</span></div><div class="doc-body"><h1>Codex × 飞书 CLI：一句话处理飞书数据</h1>
+<p>2026 年 3 月底，飞书正式开源了 <strong>飞书 CLI</strong>。</p>
+<p>如果你的团队或个人经常使用飞书，那么接入飞书 CLI 之后，你就拥有了一种全新的使用方式——<strong>在 Codex 里一句话处理飞书里的所有信息和数据</strong>。</p>
+<p>本篇介绍如何把 Codex 和飞书 CLI 结合，直接通过自然语言操作飞书中存储的数据和内容。</p>
+<h2 id="section-1">1. 安装飞书 CLI</h2>
+<p>把飞书 CLI 的 GitHub README 链接丢给 Codex，让它帮你完成所有安装：</p>
+<pre><code>帮我装一下所有的东西：https://github.com/larksuite/cli/blob/main/README.zh.md
+</code></pre>
+<p><figure class="article-shot"><img src="../assets/cases/case-06/img-01.png" alt="案例截图" loading="lazy" /><figcaption>操作截图</figcaption></figure></p>
+<h2 id="section-2">2. 提供飞书应用凭证</h2>
+<p>使用飞书 CLI 需要提供<strong>飞书开放平台应用凭证</strong>（App ID 和 App Secret）。</p>
+<p>不用担心不知道怎么获取——直接问 Codex，它会告诉你飞书开放平台的地址，并引导你在浏览器里创建应用。</p>
+<p><figure class="article-shot"><img src="../assets/cases/case-06/img-02.png" alt="案例截图" loading="lazy" /><figcaption>操作截图</figcaption></figure></p>
+<p>打开链接，创建应用：</p>
+<p><figure class="article-shot"><img src="../assets/cases/case-06/img-03.png" alt="案例截图" loading="lazy" /><figcaption>操作截图</figcaption></figure></p>
+<p>按照它的指引创建应用之后，把 App ID 和 App Secret 发给它，Codex 会自动完成飞书应用配置和权限申请。</p>
+<p><figure class="article-shot"><img src="../assets/cases/case-06/img-04.png" alt="案例截图" loading="lazy" /><figcaption>操作截图</figcaption></figure></p>
+<blockquote>
+<p>过程中会涉及<strong>手动授权</strong>操作。Codex 会提供跳转链接，点击在浏览器里放行对应权限即可，这样它才能读取和操作你的飞书数据。</p>
+</blockquote>
+<p><figure class="article-shot"><img src="../assets/cases/case-06/img-05.png" alt="案例截图" loading="lazy" /><figcaption>操作截图</figcaption></figure></p>
+<h2 id="section-3">3. 开始使用</h2>
+<p>配置完成后，Codex 就具备了非常丰富的飞书操作能力。让它列举一下可以访问的内容：</p>
+<p><figure class="article-shot"><img src="../assets/cases/case-06/img-06.png" alt="案例截图" loading="lazy" /><figcaption>操作截图</figcaption></figure></p>
+<p>Codex 还会贴心地告诉你第一次应该怎么用，连提示词都帮你准备好了。</p>
+<p><figure class="article-shot"><img src="../assets/cases/case-06/img-07.png" alt="案例截图" loading="lazy" /><figcaption>操作截图</figcaption></figure></p>
+<p><strong>实战演示：</strong> 我让它读取飞书云盘里一个关于&quot;知识管理&quot;的文件夹（共 14 篇文档），读取完成后直接调用 GPT 最新的生图模型，生成一张中文信息图。</p>
+<p>从处理过程中可以看到，它确实能够完整读取云盘内容，访问是正常的。</p>
+<p>执行到生图步骤时，它要求我提供 OpenAI 的 API Key：</p>
+<p><figure class="article-shot"><img src="../assets/cases/case-06/img-08.png" alt="案例截图" loading="lazy" /><figcaption>操作截图</figcaption></figure></p>
+<p>这其实是不合理的。<strong>订阅 Codex 和 ChatGPT Plus 之后，在 Codex 里可以直接调用 GPT 生图模型，完全不需要单独提供 API Key。</strong> 这时候直接反驳它就好了。</p>
+<p>反驳之后，它就会正确调用 <strong>GPT-Image-2</strong> 生成信息图，无需任何额外的 API Key。</p>
+<p><figure class="article-shot"><img src="../assets/cases/case-06/img-09.png" alt="案例截图" loading="lazy" /><figcaption>操作截图</figcaption></figure></p>
+<h2 id="section-4">参考来源</h2>
+<p>本文操作思路参考了「<strong>数字生命卡斯克</strong>」公众号的以下两篇文章，感谢原作者的分享：</p>
+<ul>
+<li>📝 <strong>飞书 CLI 开源发布介绍</strong>（本文主要参考）<br> 来源：微信公众号「数字生命卡斯克」<br> 链接：<a href="https://mp.weixin.qq.com/s/fvjxT_GgbEgxgsPCUlo-RQ" target="_blank" rel="noreferrer">https://mp.weixin.qq.com/s/fvjxT_GgbEgxgsPCUlo-RQ</a></li>
+<li>📝 <strong>团队如何用飞书 CLI 完成协作任务</strong>（扩展阅读）<br> 来源：微信公众号「数字生命卡斯克」<br> 链接：<a href="https://mp.weixin.qq.com/s/6vqkEvFYNEtUu3rTQAllzw" target="_blank" rel="noreferrer">https://mp.weixin.qq.com/s/6vqkEvFYNEtUu3rTQAllzw</a></li>
+</ul>
+<blockquote>
+<p>本文截图均为作者本人实际操作所得，文字内容在参考基础上进行了重新整理与二次创作。如有侵权，请联系删除。</p>
+</blockquote>
+</div></article><aside class="page-toc"><b>此页内容</b><a href="#section-1">1. 安装飞书 CLI</a><a href="#section-2">2. 提供飞书应用凭证</a><a href="#section-3">3. 开始使用</a><a href="#section-4">参考来源</a></aside></div><footer><p>最后同步：2026-06-23。案例为站内页面，方便公开阅读与后续共建。</p></footer></main></div></body></html>

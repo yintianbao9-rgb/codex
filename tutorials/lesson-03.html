@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>03 了解 Codex 桌面 App | baoge AI Codex 教程</title>
+    <title>03 了解 Codex 基本组成 | baoge AI Codex 教程</title>
     <link rel="stylesheet" href="../styles.css" />
   </head>
   <body>
@@ -16,262 +16,217 @@
         <a class="nav-link" href="../index.html#top">首页</a>
         <a class="nav-link" href="../index.html#route">学习路线</a>
         <a class="nav-link" href="../index.html#entry">入口地图</a>
-        <div class="nav-item">
-          <a class="nav-link has-menu" href="../index.html#config">配置</a>
-          <div class="dropdown">
-            <a href="../index.html#config"><b>配置总览</b><span>安装、权限、文件夹和排障</span></a>
-            <a href="../index.html#entry"><b>工具入口</b><span>桌面 App、CLI、IDE、Cloud</span></a>
-            <a href="./lesson-08.html"><b>权限管理</b><span>只读、可写、审批和发布</span></a>
-          </div>
-        </div>
-        <div class="nav-item">
-          <a class="nav-link has-menu" href="../index.html#official">资源</a>
-          <div class="dropdown">
-            <a href="../index.html#official"><b>官方资料</b><span>OpenAI Codex 文档与更新</span></a>
-            <a href="../index.html#codex-latest"><b>Codex 最新</b><span>官网新能力和站点更新记录</span></a>
-            <a href="../index.html#workflow"><b>模板与 SOP</b><span>输入、步骤、结果、验证</span></a>
-          </div>
-        </div>
-        <div class="nav-item">
-          <a class="nav-link has-menu active" href="./index.html">教程</a>
-          <div class="dropdown dropdown-lessons">
+        <div class="nav-item"><a class="nav-link has-menu" href="../index.html#config">配置</a><div class="dropdown"><a href="../index.html#config"><b>配置总览</b><span>安装、权限、文件夹和排障</span></a><a href="./lesson-08.html"><b>权限管理</b><span>只读、可写、审批和发布</span></a></div></div>
+        <div class="nav-item"><a class="nav-link has-menu" href="../index.html#official">资源</a><div class="dropdown"><a href="../index.html#official"><b>官方资料</b><span>OpenAI Codex 文档与更新</span></a><a href="../index.html#codex-latest"><b>Codex 最新</b><span>官网新能力和站点更新记录</span></a></div></div>
+        <div class="nav-item"><a class="nav-link has-menu active" href="./index.html">教程</a><div class="dropdown dropdown-lessons">
             <a href="./lesson-01.html">01 Codex 桌面 App 下载与安装</a>
-            <a href="./lesson-02.html">02 订阅 ChatGPT Plus</a>
-            <a href="./lesson-03.html">03 了解 Codex 桌面 App</a>
-            <a href="./lesson-04.html">04 手机端协同桌面任务</a>
+            <a href="./lesson-02.html">02 订阅 ChatGPT Plus / Pro</a>
+            <a href="./lesson-03.html">03 了解 Codex 基本组成</a>
+            <a href="./lesson-04.html">04 用手机端 Codex 跟进桌面任务</a>
             <a href="./lesson-05.html">05 连接第三方 API</a>
             <a href="./lesson-06.html">06 用 Codex 完成第一个任务</a>
-            <a href="./lesson-07.html">07 任务顺序执行与并行</a>
+            <a href="./lesson-07.html">07 任务的顺序执行和并行</a>
             <a href="./lesson-08.html">08 权限管理</a>
-            <a href="./lesson-09.html">09 技能与插件</a>
+            <a href="./lesson-09.html">09 Skills 和 Plugins</a>
             <a href="./lesson-10.html">10 自动化</a>
-            <a href="./lesson-11.html">11 桌面宠物</a>
-            <a href="./lesson-12.html">12 CLI 安装与登录</a>
+            <a href="./lesson-11.html">11 如何设置自己的 Codex 桌面宠物</a>
+            <a href="./lesson-12.html">12 安装与登录</a>
             <a href="./lesson-13.html">13 第一次让 Codex 改代码</a>
             <a href="./lesson-14.html">14 在 VS Code 中使用 Codex</a>
             <a href="./lesson-15.html">15 AGENTS.md</a>
-            <a href="./lesson-16.html">16 沙盒与审批</a>
+            <a href="./lesson-16.html">16 沙盒与审批：Codex 的安全护栏</a>
             <a href="./lesson-17.html">17 Codex Cloud：使用云端模式</a>
             <a href="./lesson-18.html">18 Hooks</a>
             <a href="./lesson-19.html">19 排障手册</a>
-          </div>
-        </div>
-        <div class="nav-item">
-          <a class="nav-link has-menu" href="../index.html#cases">实战案例</a>
-          <div class="dropdown">
-            <a href="../index.html#cases"><b>案例总览</b><span>20 个可复现任务</span></a>
-            <a href="../index.html#ui-visual"><b>UI 视觉专题</b><span>高级感官网生成流程</span></a>
-          </div>
-        </div>
-        <div class="nav-item">
-          <a class="nav-link has-menu" href="../index.html#community">交流群</a>
-          <div class="dropdown dropdown-community">
-            <img src="../assets/baoge-ai-wechat-community.png" alt="微信搜索尹天保，关注并回复 codex交流群" />
-          </div>
-        </div>
-        <div class="nav-item">
-          <a class="nav-link has-menu" href="../index.html#support">赞助商</a>
-          <div class="dropdown dropdown-right">
-            <a href="../index.html#support"><b>资源位说明</b><span>工具、开源项目、共建伙伴</span></a>
-            <a href="../index.html#entry"><b>推荐工具</b><span>Codex、GitHub、飞书等入口</span></a>
-          </div>
-        </div>
+          </div></div>
+        <div class="nav-item"><a class="nav-link has-menu" href="../cases/index.html">实战案例</a><div class="dropdown dropdown-lessons">
+            <a href="../cases/case-01.html">01 Codex × PPT Skill：一句话生成演示文稿</a>
+            <a href="../cases/case-02.html">02 Codex × Draw.io MCP：AI 自动绘制架构图</a>
+            <a href="../cases/case-03.html">03 Codex × Playwright MCP：让 AI 像人一样操控浏览器</a>
+            <a href="../cases/case-04.html">04 Codex × HyperFrames：用代码生成动画视频</a>
+            <a href="../cases/case-05.html">05 Codex × Obsidian：在知识库中自动生成配图</a>
+            <a href="../cases/case-06.html">06 Codex × 飞书 CLI：一句话处理飞书数据</a>
+            <a href="../cases/case-07.html">07 Codex × LLM Wiki：在 Obsidian 中搭建 AI 知识库</a>
+            <a href="../cases/case-08.html">08 Codex × Figma MCP：让 AI 读懂你的设计稿</a>
+            <a href="../cases/case-09.html">09 Codex × Notion MCP：打通你的知识工作空间</a>
+            <a href="../cases/case-10.html">10 Codex × DKFile：AI 网页一键发布到公网</a>
+            <a href="../cases/case-11.html">11 Codex × 云服务器：远程定位并修复 Bug</a>
+            <a href="../cases/case-12.html">12 Codex × Chrome：让 AI 直接控制浏览器</a>
+            <a href="../cases/case-13.html">13 Codex × GitHub Actions：CI 失败自动修复实测</a>
+            <a href="../cases/case-14.html">14 Codex × 临床文献综述：把医学问题整理成可复核证据表</a>
+            <a href="../cases/case-15.html">15 Codex × Hatch Pet：用一张照片生成专属宠物</a>
+            <a href="../cases/case-16.html">16 Codex × 安卓手机：扫码连接，远程操控</a>
+            <a href="../cases/references.html">参考来源与致谢</a>
+          </div></div>
+        <div class="nav-item"><a class="nav-link has-menu" href="../index.html#community">交流群</a><div class="dropdown dropdown-community"><img src="../assets/baoge-ai-wechat-community.png" alt="微信搜索尹天保，关注并回复 codex交流群" /></div></div>
+        <div class="nav-item"><a class="nav-link has-menu" href="../index.html#support">赞助商</a><div class="dropdown dropdown-right"><a href="../index.html#support"><b>资源位说明</b><span>工具、开源项目、共建伙伴</span></a><a href="../index.html#entry"><b>推荐工具</b><span>Codex、GitHub、飞书等入口</span></a></div></div>
       </nav>
-      <div class="toolbar" aria-label="快捷操作">
-        <a class="icon-link" href="../index.html#roadmap" aria-label="GitHub共建">GH</a>
-        <a class="search-button" href="./lesson-01.html" aria-label="开始学习">⌕</a>
-      </div>
+      <div class="toolbar" aria-label="快捷操作"><a class="icon-link" href="../index.html#roadmap" aria-label="GitHub共建">GH</a><a class="search-button" href="./lesson-01.html" aria-label="开始学习">⌕</a></div>
     </header>
 
     <div class="layout tutorial-layout lesson-page-layout">
       <aside class="sidebar tutorial-sidebar" aria-label="教程目录">
         <div class="side-title">教程目录</div>
         <a href="./lesson-01.html">01 Codex 桌面 App 下载与安装</a>
-        <a href="./lesson-02.html">02 订阅 ChatGPT Plus</a>
-        <a href="./lesson-03.html">03 了解 Codex 桌面 App</a>
-        <a href="./lesson-04.html">04 手机端协同桌面任务</a>
+        <a href="./lesson-02.html">02 订阅 ChatGPT Plus / Pro</a>
+        <a class="active" href="./lesson-03.html">03 了解 Codex 基本组成</a>
+        <a href="./lesson-04.html">04 用手机端 Codex 跟进桌面任务</a>
         <a href="./lesson-05.html">05 连接第三方 API</a>
         <a href="./lesson-06.html">06 用 Codex 完成第一个任务</a>
-        <a href="./lesson-07.html">07 任务顺序执行与并行</a>
+        <a href="./lesson-07.html">07 任务的顺序执行和并行</a>
         <a href="./lesson-08.html">08 权限管理</a>
-        <a href="./lesson-09.html">09 技能与插件</a>
+        <a href="./lesson-09.html">09 Skills 和 Plugins</a>
         <a href="./lesson-10.html">10 自动化</a>
-        <a href="./lesson-11.html">11 桌面宠物</a>
-        <a href="./lesson-12.html">12 CLI 安装与登录</a>
+        <a href="./lesson-11.html">11 如何设置自己的 Codex 桌面宠物</a>
+        <a href="./lesson-12.html">12 安装与登录</a>
         <a href="./lesson-13.html">13 第一次让 Codex 改代码</a>
         <a href="./lesson-14.html">14 在 VS Code 中使用 Codex</a>
         <a href="./lesson-15.html">15 AGENTS.md</a>
-        <a href="./lesson-16.html">16 沙盒与审批</a>
+        <a href="./lesson-16.html">16 沙盒与审批：Codex 的安全护栏</a>
         <a href="./lesson-17.html">17 Codex Cloud：使用云端模式</a>
         <a href="./lesson-18.html">18 Hooks</a>
         <a href="./lesson-19.html">19 排障手册</a>
       </aside>
-
       <main id="top" class="content tutorial-content lesson-page-content">
-        <div class="lesson-navline">
-          <a href="./lesson-02.html">上一节</a>
-          <a href="./index.html">教程目录</a>
-          <a href="./lesson-04.html">下一节</a>
-        </div>
-        <section id="lesson-03" class="lesson">
+        <div class="lesson-navline"><a href="./lesson-02.html">上一节：02 订阅 ChatGPT Plus / Pro</a><a href="./index.html">教程目录</a><a href="./lesson-04.html">下一节：04 用手机端 Codex 跟进桌面任务</a></div>
+        <article id="lesson-03" class="lesson doc-article">
           <p class="lesson-kicker">03 入门准备</p>
-          <h2>了解 Codex 桌面 App</h2>
-          <p class="lead">这一节不讲高深概念，只做一件事：打开 Codex 后，先把界面认清楚。小白只要能说出每个区域干什么，后面做任务就不会乱点。</p>
-          <div class="doc-lesson">
-            <article class="doc-main">
-              <div class="notice-box">
-                <b>本节结果</b>
-                <span>你能指着屏幕说出：哪里选项目、哪里输入任务、哪里加文件、哪里管权限、哪里看修改、哪里找设置、哪里开自动化。</span>
-              </div>
-              <figure class="article-shot">
-                <img src="../assets/lesson-03/codex-desktop-app-overview.svg" alt="Codex 桌面 App 总览示意图">
-                <figcaption>第三节先认 8 个区域：项目、任务、输入、上下文、权限、变更、终端、设置。</figcaption>
-              </figure>
+          <h1>了解 Codex 基本组成</h1>
+          <p class="lead">打开 Codex，左侧栏就两个入口：Chat（对话） 和 Project（项目）。</p>
+          <div class="source-note"><b>本站同步：</b><span>本节已同步为站内教程，可直接阅读；账号、套餐、权限和界面以实际显示为准。</span></div>
+          <div class="doc-body">
+<p>来源：<a href="https://codexguide.ai/guide/03-app-overview.html" target="_blank" rel="noreferrer">CodexGuide 原文</a>。原页面标注 MIT Licensed；原图与说明按页面内容保留。</p>
+<h1>了解 Codex 基本组成</h1>
+<blockquote>
+<p>💡 
+<strong>最后核对</strong>
+官方资料最后核对日期：2026-06-13。本章参考 <a href="https://developers.openai.com/codex/app" target="_blank" rel="noreferrer">Codex App docs</a>、<a href="https://developers.openai.com/codex/app/settings" target="_blank" rel="noreferrer">Settings</a>、<a href="https://developers.openai.com/codex/agent-approvals-security" target="_blank" rel="noreferrer">Agent approvals and security</a> 等官方资料。界面说明以当前 Codex 桌面 App 实际版本为准，不同系统、地区、客户端版本和账号套餐下显示可能略有差异。</p>
+</blockquote>
+<h2>认识对话和项目</h2>
+<p>打开 Codex，左侧栏就两个入口：<strong>Chat（对话）</strong> 和 <strong>Project（项目）</strong>。</p>
+<p><figure class="article-shot"><img src="../assets/tutorials/lesson-03/img-01.png" alt="教程截图" loading="lazy" /><figcaption>操作截图</figcaption></figure></p>
+<p><strong>Chat 对话</strong></p>
+<p>和 ChatGPT 网页版差不多，随手问问题。各对话互不相干，也不共享文件夹。</p>
+<p><strong>Project 项目</strong></p>
+<p>需要动本地文件时用它——写代码、改文档、做 PPT 都可以。项目里的所有对话共用同一个文件夹，方便一起管理。</p>
+<p><figure class="article-shot"><img src="../assets/tutorials/lesson-03/img-02.png" alt="教程截图" loading="lazy" /><figcaption>操作截图</figcaption></figure></p>
+<p>在项目里下达指令后，Codex 的修改会直接应用到你本地文件夹中的文件。</p>
+<h2>对话框功能说明</h2>
+<p>Codex 的对话框和 ChatGPT 网页版类似，支持：</p>
+<ol>
+<li><strong>添加上下文</strong>：可以附加文件、截图或其他参考内容</li>
+<li><strong>切换模型</strong>：在不同模型之间切换</li>
+</ol>
+<p>并额外支持：</p>
+<ol>
+<li><strong>控制权限</strong>：设定 Codex 在当前任务中的操作权限</li>
+<li><strong>选择工作目录</strong>：指定 Codex 在哪个本地文件夹下执行任务</li>
+</ol>
+<p><figure class="article-shot"><img src="../assets/tutorials/lesson-03/img-03.png" alt="教程截图" loading="lazy" /><figcaption>操作截图</figcaption></figure></p>
+<h2>插件与技能</h2>
+<p>包括 OpenAI 官方定制或推荐的插件与技能。</p>
+<p><figure class="article-shot"><img src="../assets/tutorials/lesson-03/img-04.png" alt="教程截图" loading="lazy" /><figcaption>操作截图</figcaption></figure></p>
+<p>Skills 默认包含 Skills Creator、Skills Installer、OpenAI Docs 等技能，用来创建、安装技能，或获取 OpenAI 官方最新文档。在对话框中使用 <code>$</code> 即可调用 Skills：</p>
+<p><figure class="article-shot"><img src="../assets/tutorials/lesson-03/img-05.png" alt="教程截图" loading="lazy" /><figcaption>操作截图</figcaption></figure></p>
+<p>插件是 OpenAI 定义的外部工具入口，也可能包含 Skills、MCP、脚本等能力。常见插件包括 Computer Use、Browser Use、PPT、Docs、Excel、Slack、GitHub 等。不同插件可能有额外配置。</p>
+<p><figure class="article-shot"><img src="../assets/tutorials/lesson-03/img-06.png" alt="教程截图" loading="lazy" /><figcaption>操作截图</figcaption></figure></p>
+<h2>自动化</h2>
+<p>Codex 支持自动化执行任务，包括使用 MCP 服务器、钩子和插件等。</p>
+<p><figure class="article-shot"><img src="../assets/tutorials/lesson-03/img-07.png" alt="教程截图" loading="lazy" /><figcaption>操作截图</figcaption></figure></p>
+<p>自动化会执行你指定的命令，你可以指定工作树、项目地址和定时的间隔。在下图中输入你的指令，并且配置即可。</p>
+<p><figure class="article-shot"><img src="../assets/tutorials/lesson-03/img-08.png" alt="教程截图" loading="lazy" /><figcaption>操作截图</figcaption></figure></p>
+<blockquote>
+<p>💡 
+<strong>注意</strong>
+自动化任务以默认沙盒设置运行。若工具调用需修改工作空间外文件、访问网络或操作电脑应用，该操作将执行失败。可通过规则选择性允许特定命令在沙盒外运行。</p>
+</blockquote>
+<h2>设置面板</h2>
+<p>点击左下角头像或设置图标可以打开设置面板。</p>
+<p><figure class="article-shot"><img src="../assets/tutorials/lesson-03/img-09.png" alt="教程截图" loading="lazy" /><figcaption>操作截图</figcaption></figure></p>
+<p><figure class="article-shot"><img src="../assets/tutorials/lesson-03/img-10.png" alt="教程截图" loading="lazy" /><figcaption>操作截图</figcaption></figure></p>
+<p>左侧是设置菜单。里面包含丰富的配置选项，详情如下：</p>
+<blockquote>
+<p>❗ 
+<strong>先用默认配置</strong>
+截图里的开关只是示例。尤其是「完全访问权限」、浏览器控制、电脑操控、钩子和 MCP 服务器，先按任务逐步开启。配置选项可参考如下。</p>
+</blockquote>
+<h2>设置说明</h2>
+<p>大部分情况下都是保持默认配置即可。配置很多时候都是按需开启。</p>
+<h3>个人</h3>
+<p>常规</p>
+<ul>
+<li><strong>工作模式</strong>：编程模式保留更多技术细节；日常工作模式更适合问答、整理和写作。</li>
+<li><strong>权限</strong>：提供三个权限选项。 <strong>默认权限</strong>：在沙盒环境中运行，安全但部分操作可能受限，例如访问工作目录外的文件、修改本机环境变量。<strong>自动审核</strong>：也称“替我审批”，部分越权命令可以在模型审核认定安全后自动使用，无须用户授权。<strong>完全访问权限</strong>：只在明确需要时临时开启，例如启用 computer use。</li>
+<li><strong>常规</strong>：可配置：文件打开位置、集成终端 Shell、Codex UI 的语言、底部面板、速度（指模型生成的速度）、代码审查、建议提示、从其他AI应用中导入工作内容，打开源许可证。<br> 通常而言，模型生成速度默认标准即可。仅在Pro 5x及以上的套餐才会推荐启用快速模式（消耗更多配额）。 </li>
+<li><strong>编辑器</strong>：可配置：上下文窗口使用情况、跟进行为、需按 ^ + 回车键发送长文本提示。</li>
+<li><strong>弹出窗口</strong>：可配置：弹出窗口快捷键、默认使用无项目聊天。</li>
+<li><strong>听写</strong>：可配置：按住听写快捷键、切换听写快捷键、保持听写栏可见、听写词典、最近的听写记录。</li>
+<li><strong>通知</strong>：可配置：轮次完成通知、权限通知、问题通知。。</li>
+</ul>
+<p><strong>推荐配置选项</strong>：通常而言，推荐开启自动审核、标准速度、始终轮次完成通知</p>
+<p>个人资料</p>
+<p>查看账号资料、Token 活动</p>
+<ul>
+<li><strong>资料</strong>：头像、名称、用户名。</li>
+<li><strong>用量</strong>：活动、token、任务记录等个人统计。</li>
+</ul>
+<p><strong>推荐配置选项</strong>：保持默认即可</p>
+<p>外观</p>
+<p>调整 UI 和配色方案。可配置：主题导入、主题复制、强调色、背景、前景、UI 字体、代码字体、半透明侧边栏、对比度、指针光标、动态效果、字号、差异标记、宠物外观。</p>
+<p><strong>推荐配置选项</strong>：按照自己的喜好即可。</p>
+<p>配置</p>
+<p>管理 agent 的执行边界和config.toml的配置</p>
+<ul>
+<li><strong>自定义 config.toml 设置</strong>：Codex 的核心配置文件。详情见：<a href="https://codexguide.ai/configuration/config-file.html" target="_blank" rel="noreferrer">config.toml 参考</a></li>
+<li><strong>工作空间依赖项</strong>：可配置 Codex 安装随附的Node.js和Python、进行诊断和重置并安装工作空间。</li>
+</ul>
+<p><strong>推荐配置选项</strong>：批准策略用按请求；沙盒用只读或工作区写入；联网按任务开启。</p>
+<p>个性化</p>
+<p>选择 Codex 的性格，配置自定义指令和记忆。</p>
+<p><strong>推荐配置选项</strong>：自定义指令写跨项目偏好。</p>
+<p>键盘快捷键</p>
+<p>查看、搜索和重设快捷键。</p>
+<p><strong>推荐配置选项</strong>：保持默认。后续根据需要自定义修改。</p>
+<p>使用情况和计费</p>
+<p>查看额度和套餐状态。</p>
+<h3>集成</h3>
+<p>MCP 服务器</p>
+<p>给 Codex 接入外部工具和上下文，比如文档、浏览器、设计工具或内部系统。</p>
+<p><strong>推荐配置选项</strong>：根据项目需要配置MCP。更多请看<a href="https://codexguide.ai/configuration/mcp-skills-subagents.html" target="_blank" rel="noreferrer">MCP,SKILLS和SubAgents</a>。</p>
+<p>浏览器</p>
+<p>让 Codex 打开网页、点击、输入、截图和检查页面状态。需要在插件处下载。可配置：清除浏览数据、批注截图、打开网站前审批、网站权限。</p>
+<p><strong>推荐配置选项</strong>：通常始终包含批注截图，审批则视情况选择。</p>
+<p>电脑操控</p>
+<p>让 Codex 看屏幕、点应用、输入内容。Codex会读取本机上已经安装的APP，然后通过视觉识别和脚本发起键鼠操作。需要在插件处下载。</p>
+<p><strong>需要注意</strong>：电脑操作会接管你的电脑，一般而言AI接管过程中不建议用户操作。</p>
+<h3>编码</h3>
+<p>钩子</p>
+<p>在 Codex 的生命周期事件中运行自定义脚本。可用于日志、提示检查、记忆整理、验证检查和按目录调整提示。详情见：<a href="https://codexguide.ai/guide/18-hooks.html" target="_blank" rel="noreferrer">Hooks</a>。</p>
+<p><strong>推荐配置选项</strong>：默认无需配置。当需要搭建工作流时再考虑。</p>
+<p>连接</p>
+<p>管理设备远程连接。可通过手机/SSH的方式远程连接Codex。</p>
+<p>Git</p>
+<p>让 Codex 按你的偏好处理 Git。可配置：分支前缀、PR 合并方法、侧边栏 PR 图标、强制推送、草稿 PR、旧工作树自动清理、保留数量、提交信息和 PR 标题/描述生成指令。</p>
+<p><strong>推荐配置选项</strong>：保持默认即可。视实际开发需要而修改。</p>
+<p>环境</p>
+<p>指定一个项目目录，告诉 Codex 这个项目该怎么构建和运行。可配置：设置脚本，清理脚本，自定义操作。例如安装依赖、构建项目、启动开发服务器和运行测试。</p>
+<p><strong>推荐配置选项</strong>：当你需要频繁地使用命令来打开一个项目时，考虑配置。</p>
+<p>工作树</p>
+<p>让 Codex 为不同任务准备独立的工作区。适合同时修不同问题、比较不同方案，或把长任务放到一边继续做别的事。使用前先确认当前改动已经保存或提交。</p>
+<p><strong>推荐配置选项</strong>：熟悉 Git 分支后再用。任务结束后清理不用的工作树。</p>
+<h3>已归档</h3>
+<p>已归档对话</p>
+<p>收起不再活跃的对话。可恢复。</p>
+<blockquote>
+<p>💡 
+<strong>注意</strong>
+设置页里的名称会随着客户端迭代变化。遇到和教程截图不一致时，先看 OpenAI 官方的 <a href="https://developers.openai.com/codex/app" target="_blank" rel="noreferrer">Codex App docs</a>，再回到本教程查中文场景解释。</p>
+</blockquote>
+<p>下一步：<a href="https://codexguide.ai/guide/04-mobile-control-desktop.html" target="_blank" rel="noreferrer">用手机端 Codex 跟进桌面任务</a></p>
 
-              <div id="lesson-03-map" class="article-section">
-                <h3>一、先看整张界面地图</h3>
-                <p>Codex 桌面 App 可以理解成一个“会干活的项目工作台”：左边选工作范围，中间对话下任务，右边看上下文、权限、变更和验证结果。新手最容易犯的错，是没看清自己选了哪个项目，就开始让 AI 读文件或改文件。</p>
-                <table class="doc-table">
-                  <thead><tr><th>区域</th><th>你要知道什么</th><th>小白最容易错在哪</th></tr></thead>
-                  <tbody>
-                    <tr><td>项目 / 对话</td><td>决定 Codex 正在处理哪个文件夹或哪段对话。</td><td>选错文件夹，把真实资料暴露给练习任务。</td></tr>
-                    <tr><td>任务对话区</td><td>看 Codex 的计划、回复、执行过程。</td><td>只看最后一句“完成了”，不看过程。</td></tr>
-                    <tr><td>输入框</td><td>写清目标、范围、限制、输出格式、验收方式。</td><td>只写“帮我弄一下”。</td></tr>
-                    <tr><td>上下文文件</td><td>告诉 Codex 当前能参考哪些文件、截图、网页。</td><td>一次塞太多资料，结果越跑越乱。</td></tr>
-                    <tr><td>权限 / 审批</td><td>决定 Codex 能读、能写、能运行命令到什么程度。</td><td>一上来给太高权限。</td></tr>
-                    <tr><td>变更区</td><td>查看 AI 到底改了哪些文件。</td><td>不看变更就接受结果。</td></tr>
-                    <tr><td>终端 / 命令</td><td>运行本地服务、测试、构建、检查报错。</td><td>不懂命令也直接执行。</td></tr>
-                    <tr><td>设置 / 个性化</td><td>配置账号、权限、记忆、自定义指令和集成。</td><td>不配置个性化，导致每次都要重新解释自己是谁。</td></tr>
-                  </tbody>
-                </table>
-              </div>
-
-              <div id="lesson-03-project" class="article-section">
-                <h3>二、项目和对话：先确认 Codex 在哪个文件夹里</h3>
-                <p>Project 决定 Codex 可以看到哪些文件。它就像你把助理带进哪间办公室。进错办公室，再聪明也会做错事。</p>
-                <ol>
-                  <li>第一次练习只选择第 01 节创建的 <code>codex-practice</code>。</li>
-                  <li>不要直接选择桌面、下载、微信资料、客户文件夹。</li>
-                  <li>真实项目开始前，先确认有没有备份或 Git 记录。</li>
-                  <li>如果只是问概念，不需要选项目，可以用普通 Chat。</li>
-                </ol>
-                <div class="notice-box">
-                  <b>记住一句话</b>
-                  <span>想让 Codex 处理文件，就进 Project；只是问概念、写草稿、解释术语，用 Chat 就够。</span>
-                </div>
-              </div>
-
-              <div id="lesson-03-input" class="article-section">
-                <h3>三、输入框：别聊天，要下任务</h3>
-                <p>Codex 的输入框不是普通聊天框。好的任务要包含 5 个部分：目标、范围、限制、输出、验收。</p>
-                <pre class="code-block">请只读取当前练习文件夹，不要修改任何文件。
-
-目标：帮我了解这个文件夹适合做什么。
-范围：只看当前文件夹里的文件。
-限制：不要读取上级目录，不要联网，不要创建新文件。
-输出：用 5 条 bullet 总结。
-验收：最后告诉我你读取了哪些文件。</pre>
-                <p>以后所有任务都按这个结构写，小白的成功率会明显提高。</p>
-              </div>
-
-              <div id="lesson-03-context" class="article-section">
-                <h3>四、上下文：给资料要少而准</h3>
-                <p>上下文可以是文件、截图、网页、文字说明。新手不要一次给 30 个文件。先给一个目标文件、一张截图、一段背景，让 Codex 做小闭环。</p>
-                <div class="split-board">
-                  <div>
-                    <h3>好的上下文</h3>
-                    <ul>
-                      <li>当前练习文件夹。</li>
-                      <li>一张界面截图。</li>
-                      <li>一段明确目标。</li>
-                      <li>一个输出模板。</li>
-                    </ul>
-                  </div>
-                  <div>
-                    <h3>不好的上下文</h3>
-                    <ul>
-                      <li>整个桌面。</li>
-                      <li>客户聊天原文。</li>
-                      <li>几十个无关文件。</li>
-                      <li>账号、付款、验证码截图。</li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-
-              <div id="lesson-03-permission" class="article-section">
-                <h3>五、权限：先只读，再放开</h3>
-                <p>权限决定 Codex 能做到哪一步。新手第一周默认只用“只读”和“写草稿”，不要直接让它大范围改文件、运行不懂的命令、发布外部内容。</p>
-                <div class="visual-steps">
-                  <article><span>01</span><div><h3>只读</h3><p>适合总结资料、解释项目、生成建议，不改任何文件。</p></div></article>
-                  <article><span>02</span><div><h3>写草稿</h3><p>适合生成 README、课程草稿、FAQ，不覆盖原文件。</p></div></article>
-                  <article><span>03</span><div><h3>改项目</h3><p>适合修改网页、代码、文档。必须看变更。</p></div></article>
-                  <article><span>04</span><div><h3>外发 / 发布</h3><p>适合 GitHub、飞书、消息发送。必须人工确认。</p></div></article>
-                </div>
-              </div>
-
-              <div id="lesson-03-review" class="article-section">
-                <h3>六、变更和终端：不要只听它说完成</h3>
-                <p>Codex 做完任务后，你要看三件事：改了哪些文件、页面能不能打开、命令有没有报错。没有验证，就不算完成。</p>
-                <ol>
-                  <li>看变更区：确认改动文件是不是预期范围。</li>
-                  <li>看预览：页面是否正常显示，文字是否重叠。</li>
-                  <li>看终端：服务是否启动，测试是否通过。</li>
-                  <li>看结果：输出是否能交给学员或客户。</li>
-                </ol>
-              </div>
-
-              <div id="lesson-03-settings" class="article-section">
-                <h3>七、设置：先知道在哪里，后面再深入</h3>
-                <p>设置里会有账号、主题、权限、浏览器、电脑操控、Git、Hooks、记忆、个性化等选项。第三节先知道入口在哪里，第 11 节会重点讲个性化和记忆。</p>
-                <p>新手不要乱开全部权限。每开一个集成，都要知道它能读什么、能写什么、会不会外发。</p>
-              </div>
-
-              <div id="lesson-03-homework" class="article-section">
-                <h3>八、本节作业</h3>
-                <ol>
-                  <li>打开 Codex 桌面 App。</li>
-                  <li>选中 <code>codex-practice</code> 练习文件夹。</li>
-                  <li>指出界面里的 8 个区域。</li>
-                  <li>输入下面这条只读任务。</li>
-                  <li>检查它是否说明读取了哪些文件。</li>
-                </ol>
-                <pre class="code-block">请只读取当前练习文件夹，不要修改任何文件。
-
-请告诉我：
-1. 当前项目文件夹叫什么
-2. 你看到了哪些文件
-3. 每个文件大概是做什么的
-4. 如果我要继续学习 Codex，下一步应该做什么</pre>
-              </div>
-
-              <div class="source-note">
-                <b>官方核对：</b>
-                <a href="https://developers.openai.com/codex/app" target="_blank" rel="noreferrer">Codex App docs</a>
-                <a href="https://developers.openai.com/codex/app/settings" target="_blank" rel="noreferrer">Codex app settings</a>
-              </div>
-            </article>
-            <aside class="page-toc" aria-label="此页内容">
-              <b>此页内容</b>
-              <a href="#lesson-03-map">界面地图</a>
-              <a href="#lesson-03-project">项目和对话</a>
-              <a href="#lesson-03-input">输入框</a>
-              <a href="#lesson-03-context">上下文</a>
-              <a href="#lesson-03-permission">权限</a>
-              <a href="#lesson-03-review">变更和终端</a>
-              <a href="#lesson-03-settings">设置</a>
-              <a href="#lesson-03-homework">本节作业</a>
-            </aside>
           </div>
-        </section>
-        <div class="lesson-navline lesson-navline-bottom">
-          <a href="./lesson-02.html">上一节</a>
-          <a href="./index.html">教程目录</a>
-          <a href="./lesson-04.html">下一节</a>
-        </div>
-        <footer>
-          <p>最后核对：2026-06-20。单节教程页，可从顶部“教程”菜单切换其他章节。</p>
-        </footer>
+        </article>
+        <footer><p>最后同步：2026-06-23。教程内容来自后台教程资料源，公开页面用于小白学习与共建。</p></footer>
       </main>
     </div>
   </body>

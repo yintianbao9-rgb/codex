@@ -574,6 +574,12 @@ a {
   font-weight: 760;
 }
 
+.source-note span {
+  color: var(--muted);
+  font-size: 14px;
+  line-height: 1.6;
+}
+
 .article-shot {
   max-width: 820px;
   margin: 24px 0 32px;
@@ -622,6 +628,117 @@ a {
 
 .doc-main {
   min-width: 0;
+}
+
+.doc-article h1 {
+  margin: 0 0 14px;
+  color: var(--ink);
+  font-size: clamp(30px, 4vw, 42px);
+  letter-spacing: 0;
+  line-height: 1.16;
+}
+
+.doc-body {
+  max-width: 820px;
+  color: #3f4652;
+  font-size: 17px;
+  line-height: 1.82;
+}
+
+.doc-body h2 {
+  margin: 46px 0 14px;
+  border-bottom: 1px solid var(--line);
+  padding-bottom: 10px;
+  color: var(--ink);
+  font-size: 28px;
+  line-height: 1.28;
+}
+
+.doc-body h3 {
+  margin: 30px 0 10px;
+  color: var(--ink);
+  font-size: 21px;
+}
+
+.doc-body p {
+  margin: 12px 0;
+}
+
+.doc-body ul,
+.doc-body ol {
+  margin: 12px 0 18px;
+  padding-left: 24px;
+}
+
+.doc-body li {
+  margin: 6px 0;
+}
+
+.doc-body a {
+  color: var(--green);
+  font-weight: 760;
+  text-decoration: none;
+}
+
+.doc-body blockquote {
+  margin: 22px 0;
+  border: 0;
+  border-radius: 8px;
+  padding: 18px 20px;
+  color: #27584f;
+  background: #ddf4ee;
+}
+
+.doc-body pre {
+  position: relative;
+  margin: 18px 0 24px;
+  border-radius: 8px;
+  padding: 18px 20px;
+  color: #d8e4ef;
+  background: #101820;
+  overflow-x: auto;
+}
+
+.doc-body code {
+  border-radius: 5px;
+  padding: 2px 5px;
+  color: #243041;
+  background: #eef3f8;
+  font-size: 0.92em;
+}
+
+.doc-body pre code {
+  padding: 0;
+  color: inherit;
+  background: transparent;
+  font-size: 14px;
+  line-height: 1.7;
+}
+
+.doc-body table {
+  width: 100%;
+  margin: 20px 0 28px;
+  border-collapse: collapse;
+  font-size: 15px;
+}
+
+.doc-body th,
+.doc-body td {
+  border: 1px solid #cfd8e3;
+  padding: 10px 12px;
+  text-align: left;
+  vertical-align: top;
+}
+
+.doc-body th {
+  color: var(--ink);
+  background: var(--panel-2);
+}
+
+.tutorial-sidebar a.active {
+  color: var(--green);
+  background: #dff3ef;
+  font-weight: 760;
 }
 
 .page-toc {

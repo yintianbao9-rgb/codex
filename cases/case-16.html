@@ -1,0 +1,188 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" /><title>Codex × 安卓手机：扫码连接，远程操控 | baoge AI Codex 案例</title><link rel="stylesheet" href="../styles.css" /></head><body><header class="topbar">
+      <a class="brand" href="../index.html#top" aria-label="baoge AI 首页"><span class="brand-mark"><i></i><i></i><i></i></span><span>baoge AI</span></a>
+      <nav class="topnav" aria-label="主导航">
+        <a class="nav-link" href="../index.html#top">首页</a>
+        <a class="nav-link" href="../index.html#route">学习路线</a>
+        <a class="nav-link" href="../index.html#entry">入口地图</a>
+        <div class="nav-item"><a class="nav-link has-menu" href="../index.html#config">配置</a><div class="dropdown"><a href="../index.html#config"><b>配置总览</b><span>安装、权限、文件夹和排障</span></a><a href="../tutorials/lesson-08.html"><b>权限管理</b><span>只读、可写、审批和发布</span></a></div></div>
+        <div class="nav-item"><a class="nav-link has-menu" href="../index.html#official">资源</a><div class="dropdown"><a href="../index.html#official"><b>官方资料</b><span>OpenAI Codex 文档与更新</span></a><a href="../index.html#codex-latest"><b>Codex 最新</b><span>官网新能力和站点更新记录</span></a></div></div>
+        <div class="nav-item"><a class="nav-link has-menu" href="../tutorials/index.html">教程</a><div class="dropdown dropdown-lessons"><a href="../tutorials/lesson-01.html">01 Codex 桌面 App 下载与安装</a>
+            <a href="../tutorials/lesson-02.html">02 订阅 ChatGPT Plus / Pro</a>
+            <a href="../tutorials/lesson-03.html">03 了解 Codex 基本组成</a>
+            <a href="../tutorials/lesson-04.html">04 用手机端 Codex 跟进桌面任务</a>
+            <a href="../tutorials/lesson-05.html">05 连接第三方 API</a>
+            <a href="../tutorials/lesson-06.html">06 用 Codex 完成第一个任务</a>
+            <a href="../tutorials/lesson-07.html">07 任务的顺序执行和并行</a>
+            <a href="../tutorials/lesson-08.html">08 权限管理</a>
+            <a href="../tutorials/lesson-09.html">09 Skills 和 Plugins</a>
+            <a href="../tutorials/lesson-10.html">10 自动化</a>
+            <a href="../tutorials/lesson-11.html">11 如何设置自己的 Codex 桌面宠物</a>
+            <a href="../tutorials/lesson-12.html">12 安装与登录</a>
+            <a href="../tutorials/lesson-13.html">13 第一次让 Codex 改代码</a>
+            <a href="../tutorials/lesson-14.html">14 在 VS Code 中使用 Codex</a>
+            <a href="../tutorials/lesson-15.html">15 AGENTS.md</a>
+            <a href="../tutorials/lesson-16.html">16 沙盒与审批：Codex 的安全护栏</a>
+            <a href="../tutorials/lesson-17.html">17 Codex Cloud：使用云端模式</a>
+            <a href="../tutorials/lesson-18.html">18 Hooks</a>
+            <a href="../tutorials/lesson-19.html">19 排障手册</a></div></div>
+        <div class="nav-item"><a class="nav-link has-menu active" href="./index.html">实战案例</a><div class="dropdown dropdown-lessons"><a href="./case-01.html">01 Codex × PPT Skill：一句话生成演示文稿</a>
+        <a href="./case-02.html">02 Codex × Draw.io MCP：AI 自动绘制架构图</a>
+        <a href="./case-03.html">03 Codex × Playwright MCP：让 AI 像人一样操控浏览器</a>
+        <a href="./case-04.html">04 Codex × HyperFrames：用代码生成动画视频</a>
+        <a href="./case-05.html">05 Codex × Obsidian：在知识库中自动生成配图</a>
+        <a href="./case-06.html">06 Codex × 飞书 CLI：一句话处理飞书数据</a>
+        <a href="./case-07.html">07 Codex × LLM Wiki：在 Obsidian 中搭建 AI 知识库</a>
+        <a href="./case-08.html">08 Codex × Figma MCP：让 AI 读懂你的设计稿</a>
+        <a href="./case-09.html">09 Codex × Notion MCP：打通你的知识工作空间</a>
+        <a href="./case-10.html">10 Codex × DKFile：AI 网页一键发布到公网</a>
+        <a href="./case-11.html">11 Codex × 云服务器：远程定位并修复 Bug</a>
+        <a href="./case-12.html">12 Codex × Chrome：让 AI 直接控制浏览器</a>
+        <a href="./case-13.html">13 Codex × GitHub Actions：CI 失败自动修复实测</a>
+        <a href="./case-14.html">14 Codex × 临床文献综述：把医学问题整理成可复核证据表</a>
+        <a href="./case-15.html">15 Codex × Hatch Pet：用一张照片生成专属宠物</a>
+        <a href="./case-16.html">16 Codex × 安卓手机：扫码连接，远程操控</a>
+        <a href="./references.html">参考来源与致谢</a></div></div>
+        <div class="nav-item"><a class="nav-link has-menu" href="../index.html#community">交流群</a><div class="dropdown dropdown-community"><img src="../assets/baoge-ai-wechat-community.png" alt="微信搜索尹天保，关注并回复 codex交流群" /></div></div>
+        <div class="nav-item"><a class="nav-link has-menu" href="../index.html#support">赞助商</a><div class="dropdown dropdown-right"><a href="../index.html#support"><b>资源位说明</b><span>工具、开源项目、共建伙伴</span></a><a href="../index.html#entry"><b>推荐工具</b><span>Codex、GitHub、飞书等入口</span></a></div></div>
+      </nav>
+      <div class="toolbar" aria-label="快捷操作"><a class="icon-link" href="../index.html#roadmap" aria-label="GitHub共建">GH</a><a class="search-button" href="./case-01.html" aria-label="查看案例">⌕</a></div>
+    </header><div class="layout tutorial-layout lesson-page-layout"><aside class="sidebar tutorial-sidebar" aria-label="实战案例目录"><div class="side-title">实战案例</div><a href="./index.html">案例总览</a><a href="./case-01.html">01 Codex × PPT Skill：一句话生成演示文稿</a>
+        <a href="./case-02.html">02 Codex × Draw.io MCP：AI 自动绘制架构图</a>
+        <a href="./case-03.html">03 Codex × Playwright MCP：让 AI 像人一样操控浏览器</a>
+        <a href="./case-04.html">04 Codex × HyperFrames：用代码生成动画视频</a>
+        <a href="./case-05.html">05 Codex × Obsidian：在知识库中自动生成配图</a>
+        <a href="./case-06.html">06 Codex × 飞书 CLI：一句话处理飞书数据</a>
+        <a href="./case-07.html">07 Codex × LLM Wiki：在 Obsidian 中搭建 AI 知识库</a>
+        <a href="./case-08.html">08 Codex × Figma MCP：让 AI 读懂你的设计稿</a>
+        <a href="./case-09.html">09 Codex × Notion MCP：打通你的知识工作空间</a>
+        <a href="./case-10.html">10 Codex × DKFile：AI 网页一键发布到公网</a>
+        <a href="./case-11.html">11 Codex × 云服务器：远程定位并修复 Bug</a>
+        <a href="./case-12.html">12 Codex × Chrome：让 AI 直接控制浏览器</a>
+        <a href="./case-13.html">13 Codex × GitHub Actions：CI 失败自动修复实测</a>
+        <a href="./case-14.html">14 Codex × 临床文献综述：把医学问题整理成可复核证据表</a>
+        <a href="./case-15.html">15 Codex × Hatch Pet：用一张照片生成专属宠物</a>
+        <a class="active" href="./case-16.html">16 Codex × 安卓手机：扫码连接，远程操控</a>
+        <a href="./references.html">参考来源与致谢</a></aside><main id="top" class="content tutorial-content lesson-page-content"><div class="lesson-navline"><a href="./case-15.html">上一页</a><a href="./index.html">案例总览</a><a href="./references.html">下一页</a></div><div class="doc-lesson"><article class="doc-main lesson doc-article"><p class="lesson-kicker">16 实战案例</p><h1>Codex × 安卓手机：扫码连接，远程操控</h1><p class="lead">Codex 支持连接手机端 ChatGPT App，连接后可以在手机上查看和管理 Codex 任务。</p><div class="source-note"><b>本站同步：</b><span>案例已从后台资料源同步为站内页面，可直接阅读；账号、付款、权限、客户数据等敏感动作请人工确认。</span></div><div class="doc-body"><p>Codex 支持连接手机端 ChatGPT App，连接后可以在手机上查看和管理 Codex 任务。</p>
+<p>本篇介绍如何将安卓手机与 Codex 配对连接。</p>
+<h2 id="section-1">1. 准备工作</h2>
+<p>在开始连接之前，请确保满足以下条件：</p>
+<table>
+<thead>
+<tr>
+<th>条件</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Codex App 为最新版</td>
+<td>检查电脑端是否有更新提示</td>
+</tr>
+<tr>
+<td>电脑端已安装并登录 Codex</td>
+<td>确保能正常使用</td>
+</tr>
+<tr>
+<td>手机上已安装 ChatGPT App</td>
+<td>从应用商店下载</td>
+</tr>
+<tr>
+<td>电脑和手机登录同一个 ChatGPT 账号</td>
+<td>这点非常重要</td>
+</tr>
+<tr>
+<td>电脑和手机在同一网络下</td>
+<td>比如连接同一个 WiFi</td>
+</tr>
+<tr>
+<td>电脑保持联网和唤醒状态</td>
+<td>不要让电脑进入睡眠</td>
+</tr>
+</tbody></table>
+<blockquote>
+<p>如果不确定是否满足条件，先逐一检查，避免连接时出问题。</p>
+</blockquote>
+<h2 id="section-2">2. 开启多因素身份验证</h2>
+<p>连接 Codex 之前，需要先在手机上开启多因素验证。</p>
+<p>打开 ChatGPT App，点击左上角头像 → 向下滑动找到「安全」→ 点击「验证器应用」。</p>
+<p><figure class="article-shot"><img src="../assets/cases/case-16/img-01.png" alt="案例截图" loading="lazy" /><figcaption>操作截图</figcaption></figure></p>
+<p><figure class="article-shot"><img src="../assets/cases/case-16/img-02.png" alt="案例截图" loading="lazy" /><figcaption>操作截图</figcaption></figure></p>
+<p>将显示的验证码复制到验证器应用（推荐 Google Authenticator 或 Microsoft Authenticator），然后输入返回的 6 位动态验证码。</p>
+<p><figure class="article-shot"><img src="../assets/cases/case-16/img-03.png" alt="案例截图" loading="lazy" /><figcaption>操作截图</figcaption></figure></p>
+<blockquote>
+<p>多因素验证可以保护账号安全，同时也是连接 Codex 移动端的必要条件。</p>
+</blockquote>
+<h2 id="section-3">3. 启动连接向导</h2>
+<p>打开 Codex，点击左侧菜单中的「设置 Codex 移动版」→ 点击「开始设置」。</p>
+<p><figure class="article-shot"><img src="../assets/cases/case-16/img-04.png" alt="案例截图" loading="lazy" /><figcaption>操作截图</figcaption></figure></p>
+<h2 id="section-4">4. 扫码连接</h2>
+<p>在弹出的窗口中选择「安卓」，使用手机自带的扫一扫功能扫描二维码。</p>
+<p><figure class="article-shot"><img src="../assets/cases/case-16/img-05.png" alt="案例截图" loading="lazy" /><figcaption>操作截图</figcaption></figure></p>
+<p>扫码后手机会显示以下界面：</p>
+<p><figure class="article-shot"><img src="../assets/cases/case-16/img-06.png" alt="案例截图" loading="lazy" /><figcaption>操作截图</figcaption></figure></p>
+<ul>
+<li>还没下载 ChatGPT App → 点击「下载」安装</li>
+<li>已下载并登录 → 点击「我已在桌面端登录」</li>
+</ul>
+<p>手机端会显示「等待桌面响应」：</p>
+<p><figure class="article-shot"><img src="../assets/cases/case-16/img-07.png" alt="案例截图" loading="lazy" /><figcaption>操作截图</figcaption></figure></p>
+<blockquote>
+<p>此时可能遇到的问题：网络不稳定可能导致连接失败；Mac 电脑的防火墙可能拦截连接。</p>
+</blockquote>
+<h2 id="section-5">5. 授权设备</h2>
+<p>连接建立后，点击「授权此设备」完成绑定。</p>
+<p><figure class="article-shot"><img src="../assets/cases/case-16/img-08.png" alt="案例截图" loading="lazy" /><figcaption>操作截图</figcaption></figure></p>
+<h2 id="section-6">6. 连接成功</h2>
+<p>连接成功后，电脑端会显示「已连接」状态，同时看到以下选项：</p>
+<p><figure class="article-shot"><img src="../assets/cases/case-16/img-09.png" alt="案例截图" loading="lazy" /><figcaption>操作截图</figcaption></figure></p>
+<table>
+<thead>
+<tr>
+<th>选项</th>
+<th>作用</th>
+<th>建议</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>让此电脑保持唤醒状态</td>
+<td>防止电脑睡眠，确保任务持续运行</td>
+<td>✅ 建议开启</td>
+</tr>
+<tr>
+<td>启用 Computer Use</td>
+<td>让 Codex 能够操作电脑上的应用程序</td>
+<td>⚠️ 权限敏感，新手先别开</td>
+</tr>
+<tr>
+<td>安装 Chrome 扩展程序</td>
+<td>让 Codex 能在浏览器中自动填表、浏览网页</td>
+<td>⚠️ 涉及账号安全，谨慎开启</td>
+</tr>
+</tbody></table>
+<blockquote>
+<p>🔐 安全提醒：Computer Use 让 Codex 可以控制你的电脑，不懂的情况下不要随意开启；Chrome 扩展涉及网页操作，在涉及账号、支付等敏感页面时要特别小心。</p>
+</blockquote>
+<h2 id="section-7">7. 验证连接状态</h2>
+<p><strong>手机端查看：</strong> 打开 ChatGPT App，可以看到电脑端的项目列表。</p>
+<p><figure class="article-shot"><img src="../assets/cases/case-16/img-10.png" alt="案例截图" loading="lazy" /><figcaption>操作截图</figcaption></figure></p>
+<p><strong>电脑端查看：</strong> 点击 Codex 左下角的手机图标 → 点击「管理连接」→ 查看已连接的安卓设备。</p>
+<p><figure class="article-shot"><img src="../assets/cases/case-16/img-11.png" alt="案例截图" loading="lazy" /><figcaption>操作截图</figcaption></figure></p>
+<p><figure class="article-shot"><img src="../assets/cases/case-16/img-12.png" alt="案例截图" loading="lazy" /><figcaption>操作截图</figcaption></figure></p>
+<h2 id="section-8">常见问题</h2>
+<h3>连接一直失败怎么办？</h3>
+<p><figure class="article-shot"><img src="../assets/cases/case-16/img-13.png" alt="案例截图" loading="lazy" /><figcaption>操作截图</figcaption></figure></p>
+<p>检查以下几点：</p>
+<ul>
+<li>确认电脑和手机在同一个 WiFi 网络下</li>
+<li>检查电脑防火墙是否阻止了 Codex</li>
+<li>确认 ChatGPT 账号已在两端登录</li>
+<li>尝试重启 Codex App 和手机 App</li>
+<li>在 Mac 端 Codex 内让 GPT 进行修复</li>
+</ul>
+<p><figure class="article-shot"><img src="../assets/cases/case-16/img-14.png" alt="案例截图" loading="lazy" /><figcaption>操作截图</figcaption></figure></p>
+<h3>连接后手机端看不到项目？</h3>
+<ul>
+<li>确认电脑端 Codex 正在运行</li>
+<li>检查电脑是否进入了睡眠状态</li>
+<li>尝试刷新手机端页面</li>
+</ul>
+</div></article><aside class="page-toc"><b>此页内容</b><a href="#section-1">1. 准备工作</a><a href="#section-2">2. 开启多因素身份验证</a><a href="#section-3">3. 启动连接向导</a><a href="#section-4">4. 扫码连接</a><a href="#section-5">5. 授权设备</a><a href="#section-6">6. 连接成功</a><a href="#section-7">7. 验证连接状态</a><a href="#section-8">常见问题</a></aside></div><footer><p>最后同步：2026-06-23。案例为站内页面，方便公开阅读与后续共建。</p></footer></main></div></body></html>

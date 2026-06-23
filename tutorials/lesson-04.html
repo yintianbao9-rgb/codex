@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>04 手机端协同桌面任务 | baoge AI Codex 教程</title>
+    <title>04 用手机端 Codex 跟进桌面任务 | baoge AI Codex 教程</title>
     <link rel="stylesheet" href="../styles.css" />
   </head>
   <body>
@@ -16,135 +16,183 @@
         <a class="nav-link" href="../index.html#top">首页</a>
         <a class="nav-link" href="../index.html#route">学习路线</a>
         <a class="nav-link" href="../index.html#entry">入口地图</a>
-        <div class="nav-item">
-          <a class="nav-link has-menu" href="../index.html#config">配置</a>
-          <div class="dropdown">
-            <a href="../index.html#config"><b>配置总览</b><span>安装、权限、文件夹和排障</span></a>
-            <a href="../index.html#entry"><b>工具入口</b><span>桌面 App、CLI、IDE、Cloud</span></a>
-            <a href="./lesson-08.html"><b>权限管理</b><span>只读、可写、审批和发布</span></a>
-          </div>
-        </div>
-        <div class="nav-item">
-          <a class="nav-link has-menu" href="../index.html#official">资源</a>
-          <div class="dropdown">
-            <a href="../index.html#official"><b>官方资料</b><span>OpenAI Codex 文档与更新</span></a>
-            <a href="../index.html#codex-latest"><b>Codex 最新</b><span>官网新能力和站点更新记录</span></a>
-            <a href="../index.html#workflow"><b>模板与 SOP</b><span>输入、步骤、结果、验证</span></a>
-          </div>
-        </div>
-        <div class="nav-item">
-          <a class="nav-link has-menu active" href="./index.html">教程</a>
-          <div class="dropdown dropdown-lessons">
+        <div class="nav-item"><a class="nav-link has-menu" href="../index.html#config">配置</a><div class="dropdown"><a href="../index.html#config"><b>配置总览</b><span>安装、权限、文件夹和排障</span></a><a href="./lesson-08.html"><b>权限管理</b><span>只读、可写、审批和发布</span></a></div></div>
+        <div class="nav-item"><a class="nav-link has-menu" href="../index.html#official">资源</a><div class="dropdown"><a href="../index.html#official"><b>官方资料</b><span>OpenAI Codex 文档与更新</span></a><a href="../index.html#codex-latest"><b>Codex 最新</b><span>官网新能力和站点更新记录</span></a></div></div>
+        <div class="nav-item"><a class="nav-link has-menu active" href="./index.html">教程</a><div class="dropdown dropdown-lessons">
             <a href="./lesson-01.html">01 Codex 桌面 App 下载与安装</a>
-            <a href="./lesson-02.html">02 订阅 ChatGPT Plus</a>
-            <a href="./lesson-03.html">03 了解 Codex 桌面 App</a>
-            <a href="./lesson-04.html">04 手机端协同桌面任务</a>
+            <a href="./lesson-02.html">02 订阅 ChatGPT Plus / Pro</a>
+            <a href="./lesson-03.html">03 了解 Codex 基本组成</a>
+            <a href="./lesson-04.html">04 用手机端 Codex 跟进桌面任务</a>
             <a href="./lesson-05.html">05 连接第三方 API</a>
             <a href="./lesson-06.html">06 用 Codex 完成第一个任务</a>
-            <a href="./lesson-07.html">07 任务顺序执行与并行</a>
+            <a href="./lesson-07.html">07 任务的顺序执行和并行</a>
             <a href="./lesson-08.html">08 权限管理</a>
-            <a href="./lesson-09.html">09 技能与插件</a>
+            <a href="./lesson-09.html">09 Skills 和 Plugins</a>
             <a href="./lesson-10.html">10 自动化</a>
-            <a href="./lesson-11.html">11 桌面宠物</a>
-            <a href="./lesson-12.html">12 CLI 安装与登录</a>
+            <a href="./lesson-11.html">11 如何设置自己的 Codex 桌面宠物</a>
+            <a href="./lesson-12.html">12 安装与登录</a>
             <a href="./lesson-13.html">13 第一次让 Codex 改代码</a>
             <a href="./lesson-14.html">14 在 VS Code 中使用 Codex</a>
             <a href="./lesson-15.html">15 AGENTS.md</a>
-            <a href="./lesson-16.html">16 沙盒与审批</a>
+            <a href="./lesson-16.html">16 沙盒与审批：Codex 的安全护栏</a>
             <a href="./lesson-17.html">17 Codex Cloud：使用云端模式</a>
             <a href="./lesson-18.html">18 Hooks</a>
             <a href="./lesson-19.html">19 排障手册</a>
-          </div>
-        </div>
-        <div class="nav-item">
-          <a class="nav-link has-menu" href="../index.html#cases">实战案例</a>
-          <div class="dropdown">
-            <a href="../index.html#cases"><b>案例总览</b><span>20 个可复现任务</span></a>
-            <a href="../index.html#ui-visual"><b>UI 视觉专题</b><span>高级感官网生成流程</span></a>
-          </div>
-        </div>
-        <div class="nav-item">
-          <a class="nav-link has-menu" href="../index.html#community">交流群</a>
-          <div class="dropdown dropdown-community">
-            <img src="../assets/baoge-ai-wechat-community.png" alt="微信搜索尹天保，关注并回复 codex交流群" />
-          </div>
-        </div>
-        <div class="nav-item">
-          <a class="nav-link has-menu" href="../index.html#support">赞助商</a>
-          <div class="dropdown dropdown-right">
-            <a href="../index.html#support"><b>资源位说明</b><span>工具、开源项目、共建伙伴</span></a>
-            <a href="../index.html#entry"><b>推荐工具</b><span>Codex、GitHub、飞书等入口</span></a>
-          </div>
-        </div>
+          </div></div>
+        <div class="nav-item"><a class="nav-link has-menu" href="../cases/index.html">实战案例</a><div class="dropdown dropdown-lessons">
+            <a href="../cases/case-01.html">01 Codex × PPT Skill：一句话生成演示文稿</a>
+            <a href="../cases/case-02.html">02 Codex × Draw.io MCP：AI 自动绘制架构图</a>
+            <a href="../cases/case-03.html">03 Codex × Playwright MCP：让 AI 像人一样操控浏览器</a>
+            <a href="../cases/case-04.html">04 Codex × HyperFrames：用代码生成动画视频</a>
+            <a href="../cases/case-05.html">05 Codex × Obsidian：在知识库中自动生成配图</a>
+            <a href="../cases/case-06.html">06 Codex × 飞书 CLI：一句话处理飞书数据</a>
+            <a href="../cases/case-07.html">07 Codex × LLM Wiki：在 Obsidian 中搭建 AI 知识库</a>
+            <a href="../cases/case-08.html">08 Codex × Figma MCP：让 AI 读懂你的设计稿</a>
+            <a href="../cases/case-09.html">09 Codex × Notion MCP：打通你的知识工作空间</a>
+            <a href="../cases/case-10.html">10 Codex × DKFile：AI 网页一键发布到公网</a>
+            <a href="../cases/case-11.html">11 Codex × 云服务器：远程定位并修复 Bug</a>
+            <a href="../cases/case-12.html">12 Codex × Chrome：让 AI 直接控制浏览器</a>
+            <a href="../cases/case-13.html">13 Codex × GitHub Actions：CI 失败自动修复实测</a>
+            <a href="../cases/case-14.html">14 Codex × 临床文献综述：把医学问题整理成可复核证据表</a>
+            <a href="../cases/case-15.html">15 Codex × Hatch Pet：用一张照片生成专属宠物</a>
+            <a href="../cases/case-16.html">16 Codex × 安卓手机：扫码连接，远程操控</a>
+            <a href="../cases/references.html">参考来源与致谢</a>
+          </div></div>
+        <div class="nav-item"><a class="nav-link has-menu" href="../index.html#community">交流群</a><div class="dropdown dropdown-community"><img src="../assets/baoge-ai-wechat-community.png" alt="微信搜索尹天保，关注并回复 codex交流群" /></div></div>
+        <div class="nav-item"><a class="nav-link has-menu" href="../index.html#support">赞助商</a><div class="dropdown dropdown-right"><a href="../index.html#support"><b>资源位说明</b><span>工具、开源项目、共建伙伴</span></a><a href="../index.html#entry"><b>推荐工具</b><span>Codex、GitHub、飞书等入口</span></a></div></div>
       </nav>
-      <div class="toolbar" aria-label="快捷操作">
-        <a class="icon-link" href="../index.html#roadmap" aria-label="GitHub共建">GH</a>
-        <a class="search-button" href="./lesson-01.html" aria-label="开始学习">⌕</a>
-      </div>
+      <div class="toolbar" aria-label="快捷操作"><a class="icon-link" href="../index.html#roadmap" aria-label="GitHub共建">GH</a><a class="search-button" href="./lesson-01.html" aria-label="开始学习">⌕</a></div>
     </header>
 
     <div class="layout tutorial-layout lesson-page-layout">
       <aside class="sidebar tutorial-sidebar" aria-label="教程目录">
         <div class="side-title">教程目录</div>
         <a href="./lesson-01.html">01 Codex 桌面 App 下载与安装</a>
-        <a href="./lesson-02.html">02 订阅 ChatGPT Plus</a>
-        <a href="./lesson-03.html">03 了解 Codex 桌面 App</a>
-        <a href="./lesson-04.html">04 手机端协同桌面任务</a>
+        <a href="./lesson-02.html">02 订阅 ChatGPT Plus / Pro</a>
+        <a href="./lesson-03.html">03 了解 Codex 基本组成</a>
+        <a class="active" href="./lesson-04.html">04 用手机端 Codex 跟进桌面任务</a>
         <a href="./lesson-05.html">05 连接第三方 API</a>
         <a href="./lesson-06.html">06 用 Codex 完成第一个任务</a>
-        <a href="./lesson-07.html">07 任务顺序执行与并行</a>
+        <a href="./lesson-07.html">07 任务的顺序执行和并行</a>
         <a href="./lesson-08.html">08 权限管理</a>
-        <a href="./lesson-09.html">09 技能与插件</a>
+        <a href="./lesson-09.html">09 Skills 和 Plugins</a>
         <a href="./lesson-10.html">10 自动化</a>
-        <a href="./lesson-11.html">11 桌面宠物</a>
-        <a href="./lesson-12.html">12 CLI 安装与登录</a>
+        <a href="./lesson-11.html">11 如何设置自己的 Codex 桌面宠物</a>
+        <a href="./lesson-12.html">12 安装与登录</a>
         <a href="./lesson-13.html">13 第一次让 Codex 改代码</a>
         <a href="./lesson-14.html">14 在 VS Code 中使用 Codex</a>
         <a href="./lesson-15.html">15 AGENTS.md</a>
-        <a href="./lesson-16.html">16 沙盒与审批</a>
+        <a href="./lesson-16.html">16 沙盒与审批：Codex 的安全护栏</a>
         <a href="./lesson-17.html">17 Codex Cloud：使用云端模式</a>
         <a href="./lesson-18.html">18 Hooks</a>
         <a href="./lesson-19.html">19 排障手册</a>
       </aside>
-
       <main id="top" class="content tutorial-content lesson-page-content">
-        <div class="lesson-navline">
-          <a href="./lesson-03.html">上一节</a>
-          <a href="./index.html">教程目录</a>
-          <a href="./lesson-05.html">下一节</a>
-        </div>
-        <section id="lesson-04" class="lesson">
+        <div class="lesson-navline"><a href="./lesson-03.html">上一节：03 了解 Codex 基本组成</a><a href="./index.html">教程目录</a><a href="./lesson-05.html">下一节：05 连接第三方 API</a></div>
+        <article id="lesson-04" class="lesson doc-article">
           <p class="lesson-kicker">04 入门准备</p>
-          <h2>手机端协同桌面任务</h2>
-          <p class="lead">手机端适合发起、补充、审批和跟进任务；桌面端适合读文件、改文件、跑验证。</p>
-          <figure class="visual-figure">
-            <div class="flow-visual" aria-label="手机端和桌面端协同流程">
-              <div class="flow-lane">
-                <b>手机端</b>
-                <span>想到任务</span><i></i><span>语音补充</span><i></i><span>查看进度</span><i></i><span>确认方向</span>
-              </div>
-              <div class="flow-lane">
-                <b>桌面端</b>
-                <span>读文件</span><i></i><span>改页面</span><i></i><span>跑验证</span><i></i><span>保存交付</span>
-              </div>
-            </div>
-            <figcaption>手机负责“发起和跟进”，桌面负责“读取、修改和验证”。不要在手机上处理高风险交付。</figcaption>
-          </figure>
-          <div class="lesson-grid">
-            <article><h3>适合手机做的事</h3><ul><li>路上想到任务，发给 Codex。</li><li>补充背景、口播想法、客户问题。</li><li>查看进度，让任务继续或停止。</li></ul></article>
-            <article><h3>适合桌面做的事</h3><ul><li>读取本地项目文件。</li><li>生成网页、文档、表格、脚本。</li><li>打开浏览器验证页面。</li><li>提交 Git 变更。</li></ul></article>
-            <article><h3>练习</h3><p>手机上发一句：请帮我整理今天客户问过的 5 个问题，回到桌面后把它整理成 `questions.md`。</p></article>
-            <article><h3>风险边界</h3><p>手机语音输入容易有识别错误。涉及客户隐私、报价、账号和合同，必须回到桌面人工确认。</p></article>
+          <h1>用手机端 Codex 跟进桌面任务</h1>
+          <p class="lead">Codex 现在支持 Android 和 iOS 手机。在手机上发消息，就能操作电脑上的 Codex。</p>
+          <div class="source-note"><b>本站同步：</b><span>本节已同步为站内教程，可直接阅读；账号、套餐、权限和界面以实际显示为准。</span></div>
+          <div class="doc-body">
+<p>来源：<a href="https://codexguide.ai/guide/04-mobile-control-desktop.html" target="_blank" rel="noreferrer">CodexGuide 原文</a>。原页面标注 MIT Licensed；原图与说明按页面内容保留。</p>
+<h1>用手机端 Codex 跟进桌面任务</h1>
+<blockquote>
+<p>💡 
+<strong>最后核对</strong>
+官方资料最后核对日期：2026-06-13。本文参考 OpenAI 官方文章 <a href="https://openai.com/index/work-with-codex-from-anywhere/" target="_blank" rel="noreferrer">Work with Codex from anywhere</a>。具体入口、可用地区、系统支持和界面名称会随客户端更新变化，请以当前 ChatGPT 手机 App 和 Codex 桌面 App 为准。</p>
+</blockquote>
+<p>Codex 现在支持 Android 和 iOS 手机。在手机上发消息，就能操作电脑上的 Codex。</p>
+<p>简单说：电脑上的 Codex 在跑，手机连过去，离开电脑时也能查看、回复、审批和调整任务。</p>
+<p>把 ChatGPT App 更新到最新版，然后选择连接电脑上的 Codex。</p>
+<p><figure class="article-shot"><img src="../assets/tutorials/lesson-04/img-01.jpg" alt="教程截图" loading="lazy" /><figcaption>操作截图</figcaption></figure></p>
+<p>连接桌面 Codex APP：</p>
+<p><figure class="article-shot"><img src="../assets/tutorials/lesson-04/img-02.jpg" alt="教程截图" loading="lazy" /><figcaption>操作截图</figcaption></figure></p>
+<p>在 ChatGPT 里打开 Codex 就能用。</p>
+<p><figure class="article-shot"><img src="../assets/tutorials/lesson-04/img-03.jpg" alt="教程截图" loading="lazy" /><figcaption>操作截图</figcaption></figure></p>
+<h2>它能做什么</h2>
+<p>手机连上电脑后，你可以在以下场景派上用场：</p>
+<ul>
+<li>查看正在进行的线程和任务状态。</li>
+<li>阅读 Codex 的阶段性输出、终端输出、截图、diff 和测试结果。</li>
+<li>回复 Codex 的进一步提问。</li>
+<li>审批命令、网络访问或其他需要人工确认的操作。</li>
+<li>改变任务方向、切换模型或补充新的上下文。</li>
+<li>新建任务，让 Codex 从已连接的开发环境里开始工作。</li>
+</ul>
+<p>任务实际还是在电脑上跑。文件、依赖、凭据、权限和本地配置不会因为连了手机就搬到手机上。</p>
+<h2>使用前提</h2>
+<p>使用前先确认：</p>
+<ul>
+<li>手机上安装并更新 ChatGPT App。</li>
+<li>电脑上安装并更新 Codex 桌面 App。</li>
+<li>手机和电脑登录同一个 ChatGPT / OpenAI 账号，且处在支持 Codex 的地区和套餐范围内。</li>
+<li>桌面 App 已经连接到对应项目，或 Codex 正在某台已授权机器、devbox、远程环境中运行。</li>
+<li>如果任务会写文件、跑命令、访问网络，仍然需要理解并确认对应权限。</li>
+</ul>
+<h2>推荐使用场景</h2>
+<p>手机端适合「离开电脑但不想让任务停住」的场景：</p>
+<ul>
+<li>通勤路上查看长任务进展。</li>
+<li>Codex 需要你选择方案时，快速给出方向。</li>
+<li>任务卡在权限审批时，从手机上批准或拒绝。</li>
+<li>会议前让 Codex 汇总最新代码、issue、文档或客户背景。</li>
+<li>突然想到一个改动点，先发给 Codex 开始探索，回到电脑后再细看 diff。</li>
+</ul>
+<h2>不适合怎么用</h2>
+<p>手机端不能替代完整的本地审查。下面这些事情最好回电脑上做：</p>
+<ul>
+<li>大范围代码合并前的最终 review。</li>
+<li>涉及生产环境、密钥、账单、发布部署的高风险操作。</li>
+<li>需要长时间阅读大量 diff 的任务。</li>
+<li>需要你手动操作 IDE、调试器或本地 GUI 的任务。</li>
+</ul>
+<p>毕竟电脑的大屏优势仍然是不可替代的。</p>
+<h2>一个典型流程</h2>
+<ol>
+<li>在电脑上打开 Codex 桌面 App，进入对应项目。</li>
+<li>让 Codex 开始一个需要较长时间的任务，例如排查失败测试或整理文档。</li>
+<li>离开电脑，在 ChatGPT 手机 App 中进入 Codex。</li>
+<li>打开同一个正在运行的任务线程。</li>
+<li>查看 Codex 的输出、截图、终端日志、测试结果或 diff。</li>
+<li>Codex 需要确认时，直接在手机上回复、审批或调整方向。</li>
+<li>回到电脑后，再做完整 diff review、运行验证命令和提交。</li>
+</ol>
+<h2>和 Codex Cloud 的区别</h2>
+<table>
+<thead>
+<tr>
+<th>对比项</th>
+<th>手机端连接桌面 App</th>
+<th>Codex Cloud</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>执行位置</td>
+<td>你的电脑、devbox 或远程环境</td>
+<td>OpenAI / ChatGPT 连接的云端任务环境</td>
+</tr>
+<tr>
+<td>文件与凭据</td>
+<td>留在原机器上</td>
+<td>依赖云端连接的仓库与授权</td>
+</tr>
+<tr>
+<td>适合任务</td>
+<td>跟进本地长任务、审批、查看结果</td>
+<td>不依赖本地电脑的仓库任务</td>
+</tr>
+<tr>
+<td>是否能离开电脑</td>
+<td>可以，但要确保网络通畅</td>
+<td>可以</td>
+</tr>
+</tbody></table>
+<p>下一步：<a href="https://codexguide.ai/guide/05-third-party-api.html" target="_blank" rel="noreferrer">连接第三方 API</a></p>
+
           </div>
-        </section>
-        <div class="lesson-navline lesson-navline-bottom">
-          <a href="./lesson-03.html">上一节</a>
-          <a href="./index.html">教程目录</a>
-          <a href="./lesson-05.html">下一节</a>
-        </div>
-        <footer>
-          <p>最后核对：2026-06-20。单节教程页，可从顶部“教程”菜单切换其他章节。</p>
-        </footer>
+        </article>
+        <footer><p>最后同步：2026-06-23。教程内容来自后台教程资料源，公开页面用于小白学习与共建。</p></footer>
       </main>
     </div>
   </body>

@@ -1,0 +1,202 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" /><title>Codex × 云服务器：远程定位并修复 Bug | baoge AI Codex 案例</title><link rel="stylesheet" href="../styles.css" /></head><body><header class="topbar">
+      <a class="brand" href="../index.html#top" aria-label="baoge AI 首页"><span class="brand-mark"><i></i><i></i><i></i></span><span>baoge AI</span></a>
+      <nav class="topnav" aria-label="主导航">
+        <a class="nav-link" href="../index.html#top">首页</a>
+        <a class="nav-link" href="../index.html#route">学习路线</a>
+        <a class="nav-link" href="../index.html#entry">入口地图</a>
+        <div class="nav-item"><a class="nav-link has-menu" href="../index.html#config">配置</a><div class="dropdown"><a href="../index.html#config"><b>配置总览</b><span>安装、权限、文件夹和排障</span></a><a href="../tutorials/lesson-08.html"><b>权限管理</b><span>只读、可写、审批和发布</span></a></div></div>
+        <div class="nav-item"><a class="nav-link has-menu" href="../index.html#official">资源</a><div class="dropdown"><a href="../index.html#official"><b>官方资料</b><span>OpenAI Codex 文档与更新</span></a><a href="../index.html#codex-latest"><b>Codex 最新</b><span>官网新能力和站点更新记录</span></a></div></div>
+        <div class="nav-item"><a class="nav-link has-menu" href="../tutorials/index.html">教程</a><div class="dropdown dropdown-lessons"><a href="../tutorials/lesson-01.html">01 Codex 桌面 App 下载与安装</a>
+            <a href="../tutorials/lesson-02.html">02 订阅 ChatGPT Plus / Pro</a>
+            <a href="../tutorials/lesson-03.html">03 了解 Codex 基本组成</a>
+            <a href="../tutorials/lesson-04.html">04 用手机端 Codex 跟进桌面任务</a>
+            <a href="../tutorials/lesson-05.html">05 连接第三方 API</a>
+            <a href="../tutorials/lesson-06.html">06 用 Codex 完成第一个任务</a>
+            <a href="../tutorials/lesson-07.html">07 任务的顺序执行和并行</a>
+            <a href="../tutorials/lesson-08.html">08 权限管理</a>
+            <a href="../tutorials/lesson-09.html">09 Skills 和 Plugins</a>
+            <a href="../tutorials/lesson-10.html">10 自动化</a>
+            <a href="../tutorials/lesson-11.html">11 如何设置自己的 Codex 桌面宠物</a>
+            <a href="../tutorials/lesson-12.html">12 安装与登录</a>
+            <a href="../tutorials/lesson-13.html">13 第一次让 Codex 改代码</a>
+            <a href="../tutorials/lesson-14.html">14 在 VS Code 中使用 Codex</a>
+            <a href="../tutorials/lesson-15.html">15 AGENTS.md</a>
+            <a href="../tutorials/lesson-16.html">16 沙盒与审批：Codex 的安全护栏</a>
+            <a href="../tutorials/lesson-17.html">17 Codex Cloud：使用云端模式</a>
+            <a href="../tutorials/lesson-18.html">18 Hooks</a>
+            <a href="../tutorials/lesson-19.html">19 排障手册</a></div></div>
+        <div class="nav-item"><a class="nav-link has-menu active" href="./index.html">实战案例</a><div class="dropdown dropdown-lessons"><a href="./case-01.html">01 Codex × PPT Skill：一句话生成演示文稿</a>
+        <a href="./case-02.html">02 Codex × Draw.io MCP：AI 自动绘制架构图</a>
+        <a href="./case-03.html">03 Codex × Playwright MCP：让 AI 像人一样操控浏览器</a>
+        <a href="./case-04.html">04 Codex × HyperFrames：用代码生成动画视频</a>
+        <a href="./case-05.html">05 Codex × Obsidian：在知识库中自动生成配图</a>
+        <a href="./case-06.html">06 Codex × 飞书 CLI：一句话处理飞书数据</a>
+        <a href="./case-07.html">07 Codex × LLM Wiki：在 Obsidian 中搭建 AI 知识库</a>
+        <a href="./case-08.html">08 Codex × Figma MCP：让 AI 读懂你的设计稿</a>
+        <a href="./case-09.html">09 Codex × Notion MCP：打通你的知识工作空间</a>
+        <a href="./case-10.html">10 Codex × DKFile：AI 网页一键发布到公网</a>
+        <a href="./case-11.html">11 Codex × 云服务器：远程定位并修复 Bug</a>
+        <a href="./case-12.html">12 Codex × Chrome：让 AI 直接控制浏览器</a>
+        <a href="./case-13.html">13 Codex × GitHub Actions：CI 失败自动修复实测</a>
+        <a href="./case-14.html">14 Codex × 临床文献综述：把医学问题整理成可复核证据表</a>
+        <a href="./case-15.html">15 Codex × Hatch Pet：用一张照片生成专属宠物</a>
+        <a href="./case-16.html">16 Codex × 安卓手机：扫码连接，远程操控</a>
+        <a href="./references.html">参考来源与致谢</a></div></div>
+        <div class="nav-item"><a class="nav-link has-menu" href="../index.html#community">交流群</a><div class="dropdown dropdown-community"><img src="../assets/baoge-ai-wechat-community.png" alt="微信搜索尹天保，关注并回复 codex交流群" /></div></div>
+        <div class="nav-item"><a class="nav-link has-menu" href="../index.html#support">赞助商</a><div class="dropdown dropdown-right"><a href="../index.html#support"><b>资源位说明</b><span>工具、开源项目、共建伙伴</span></a><a href="../index.html#entry"><b>推荐工具</b><span>Codex、GitHub、飞书等入口</span></a></div></div>
+      </nav>
+      <div class="toolbar" aria-label="快捷操作"><a class="icon-link" href="../index.html#roadmap" aria-label="GitHub共建">GH</a><a class="search-button" href="./case-01.html" aria-label="查看案例">⌕</a></div>
+    </header><div class="layout tutorial-layout lesson-page-layout"><aside class="sidebar tutorial-sidebar" aria-label="实战案例目录"><div class="side-title">实战案例</div><a href="./index.html">案例总览</a><a href="./case-01.html">01 Codex × PPT Skill：一句话生成演示文稿</a>
+        <a href="./case-02.html">02 Codex × Draw.io MCP：AI 自动绘制架构图</a>
+        <a href="./case-03.html">03 Codex × Playwright MCP：让 AI 像人一样操控浏览器</a>
+        <a href="./case-04.html">04 Codex × HyperFrames：用代码生成动画视频</a>
+        <a href="./case-05.html">05 Codex × Obsidian：在知识库中自动生成配图</a>
+        <a href="./case-06.html">06 Codex × 飞书 CLI：一句话处理飞书数据</a>
+        <a href="./case-07.html">07 Codex × LLM Wiki：在 Obsidian 中搭建 AI 知识库</a>
+        <a href="./case-08.html">08 Codex × Figma MCP：让 AI 读懂你的设计稿</a>
+        <a href="./case-09.html">09 Codex × Notion MCP：打通你的知识工作空间</a>
+        <a href="./case-10.html">10 Codex × DKFile：AI 网页一键发布到公网</a>
+        <a class="active" href="./case-11.html">11 Codex × 云服务器：远程定位并修复 Bug</a>
+        <a href="./case-12.html">12 Codex × Chrome：让 AI 直接控制浏览器</a>
+        <a href="./case-13.html">13 Codex × GitHub Actions：CI 失败自动修复实测</a>
+        <a href="./case-14.html">14 Codex × 临床文献综述：把医学问题整理成可复核证据表</a>
+        <a href="./case-15.html">15 Codex × Hatch Pet：用一张照片生成专属宠物</a>
+        <a href="./case-16.html">16 Codex × 安卓手机：扫码连接，远程操控</a>
+        <a href="./references.html">参考来源与致谢</a></aside><main id="top" class="content tutorial-content lesson-page-content"><div class="lesson-navline"><a href="./case-10.html">上一页</a><a href="./index.html">案例总览</a><a href="./case-12.html">下一页</a></div><div class="doc-lesson"><article class="doc-main lesson doc-article"><p class="lesson-kicker">11 实战案例</p><h1>Codex × 云服务器：远程定位并修复 Bug</h1><p class="lead">你的代码跑在云服务器上，本地一行代码都没有——Codex 照样能帮你找到 Bug、修好它、跑通测试。这篇文章手把手带你走一遍完整流程。</p><div class="source-note"><b>本站同步：</b><span>案例已从后台资料源同步为站内页面，可直接阅读；账号、付款、权限、客户数据等敏感动作请人工确认。</span></div><div class="doc-body"><blockquote>
+<p>你的代码跑在云服务器上，本地一行代码都没有——Codex 照样能帮你找到 Bug、修好它、跑通测试。这篇文章手把手带你走一遍完整流程。</p>
+</blockquote>
+<h2 id="section-1">一、背景：Codex 的远程模式是什么？</h2>
+<p>我们平时用 Codex CLI，默认都是在本地项目里跑。你的代码在 Mac 上，Codex 就在 Mac 上帮你改。</p>
+<p>但现实中有一种很常见的场景：<strong>代码不在你电脑上，在远程服务器里。</strong></p>
+<p>比如：</p>
+<ul>
+<li>项目部署在云服务器的 Docker 容器里</li>
+<li>你只有 SSH 权限，本地没有源码</li>
+<li>线上环境出了 Bug，需要直接在远程定位和修复</li>
+</ul>
+<p>Codex 的 <strong>远程模式（Remote Mode）</strong> 就是干这个的——你在本地敲命令，Codex 在远程服务器上读代码、改代码、跑测试，整个过程你的 Mac 上不需要克隆任何仓库。</p>
+<p>架构很简单：</p>
+<pre><code>┌──────────────────┐         SSH 隧道         ┌──────────────────────────┐
+│  你的 Mac 本地    │  ◀───────────────────▶   │  远程服务器（云主机）       │
+│  codex --remote  │       端口转发 9001       │  codex app-server        │
+│  （TUI 界面）     │                          │  （代码 + 运行环境）       │
+└──────────────────┘                          └──────────────────────────┘
+</code></pre>
+<p>本地只负责&quot;表达需求、审查结果&quot;，远程负责&quot;代码、依赖、运行&quot;。AI 在两者之间执行可验证的步骤。</p>
+<h2 id="section-2">二、实战场景：容器里的 Python 脚本报错了</h2>
+<h3>项目介绍</h3>
+<p>我在腾讯云服务器上有一个 Docker 容器 <code>codex-demo</code>，里面有一个小项目 <code>docker-health-demo</code>，用来生成容器健康检查报告。</p>
+<p>项目结构：</p>
+<pre><code>/workspace/docker-health-demo/
+├── containers.json           # 模拟的容器状态数据
+├── container_health.py       # 健康检查脚本（有 Bug）
+└── test_container_health.py  # pytest 测试文件
+</code></pre>
+<h3>问题复现</h3>
+<p>直接运行脚本：</p>
+<pre><code>python3 container_health.py
+</code></pre>
+<p>💥 报错：</p>
+<pre><code>KeyError: &#39;status&#39;
+</code></pre>
+<p><figure class="article-shot"><img src="../assets/cases/case-11/img-01.png" alt="案例截图" loading="lazy" /><figcaption>操作截图</figcaption></figure></p>
+<p>跑测试也一样挂：</p>
+<pre><code>pytest -q
+</code></pre>
+<pre><code>FAILED - KeyError: &#39;status&#39;
+</code></pre>
+<p>问题很明显：代码里读了一个叫 <code>status</code> 的字段，但数据文件里这个字段叫 <code>state</code>。一个字段名写错了。</p>
+<p>对人来说这是 30 秒的事；这篇文章的重点是<strong>演示 Codex 如何远程完成整个流程</strong>。</p>
+<h2 id="section-3">三、完整操作步骤</h2>
+<h3>第 1 步：在远程服务器上启动 app-server</h3>
+<p>SSH 登录你的云服务器，进入容器，在项目目录下启动 Codex 的 app-server：</p>
+<pre><code>ssh root@你的服务器IP
+docker exec -it codex-demo bash
+cd /workspace/docker-health-demo
+codex app-server --listen ws://0.0.0.0:9001
+</code></pre>
+<p>看到类似这样的输出就说明启动成功了：</p>
+<pre><code>codex app-server (WebSockets)
+  listening on: ws://0.0.0.0:9001
+  readyz: http://0.0.0.0:9001/readyz
+  healthz: http://0.0.0.0:9001/healthz
+</code></pre>
+<p><figure class="article-shot"><img src="../assets/cases/case-11/img-02.png" alt="案例截图" loading="lazy" /><figcaption>操作截图</figcaption></figure></p>
+<blockquote>
+<p>⚠️ 注意：不要加 <code>--ws-auth</code> 参数。通过 SSH 隧道连接时，安全性由 SSH 本身保证，不需要额外的 WebSocket 认证。</p>
+</blockquote>
+<h3>第 2 步：本地建立 SSH 端口转发</h3>
+<p>在 Mac 上<strong>新开一个终端窗口</strong>，建立 SSH 隧道把远程的 9001 端口映射到本地：</p>
+<pre><code>ssh -N -L 9001:127.0.0.1:9001 root@你的服务器IP
+</code></pre>
+<p>输入密码后没有任何输出是正常的——它就是一条安静的隧道，挂着就行。</p>
+<p>可以验证一下隧道是否通畅：</p>
+<pre><code>curl -i http://127.0.0.1:9001/healthz
+</code></pre>
+<p>返回 <code>HTTP/1.1 200 OK</code> 就说明隧道没问题。</p>
+<p><figure class="article-shot"><img src="../assets/cases/case-11/img-03.png" alt="案例截图" loading="lazy" /><figcaption>操作截图</figcaption></figure></p>
+<h3>第 3 步：本地登录 Codex（仅首次需要）</h3>
+<p>如果你从来没在本地登录过 Codex CLI，需要先完成一次登录：</p>
+<pre><code>codex auth login
+</code></pre>
+<p>它会在浏览器打开 OpenAI 的登录页面，登录你的 ChatGPT 账号即可。登录成功后终端会显示 <code>Successfully logged in</code>。</p>
+<blockquote>
+<p>💡 这一步只需要做一次，之后登录凭证会缓存在本地。</p>
+</blockquote>
+<h3>第 4 步：连接远程项目</h3>
+<p><strong>再开一个终端窗口</strong>，输入：</p>
+<pre><code>codex --remote ws://127.0.0.1:9001
+</code></pre>
+<p>如果一切顺利，你会看到 Codex 的 TUI 界面，<strong>目录显示的是远程容器里的路径</strong>：</p>
+<pre><code>&gt;_ OpenAI Codex (v0.130.0)
+
+model:     gpt-5.5   /model to change
+directory: /workspace/docker-health-demo
+</code></pre>
+<p><figure class="article-shot"><img src="../assets/cases/case-11/img-04.png" alt="案例截图" loading="lazy" /><figcaption>操作截图</figcaption></figure></p>
+<p>到这里，远程连接就成功了。你本地的 Codex 已经&quot;站在&quot;远程服务器的项目目录里了。</p>
+<h3>第 5 步：让 Codex 修复 Bug</h3>
+<p>在 Codex 的输入框里输入提示词：</p>
+<pre><code>find and fix the bug in container_health.py, then run pytest to verify
+</code></pre>
+<p><figure class="article-shot"><img src="../assets/cases/case-11/img-05.png" alt="案例截图" loading="lazy" /><figcaption>操作截图</figcaption></figure></p>
+<p>Codex 会自动完成以下步骤：</p>
+<ol>
+<li>读取 <code>container_health.py</code> 和 <code>containers.json</code></li>
+<li>发现字段名不匹配：代码里用了 <code>&quot;status&quot;</code>，数据里是 <code>&quot;state&quot;</code></li>
+<li>修改代码</li>
+<li>运行 <code>pytest -q</code> 验证修复结果</li>
+</ol>
+<p>修复完成后的输出：</p>
+<pre><code>python3 container_health.py
+</code></pre>
+<pre><code>container_health_report
+total=5
+running=3
+exited=2
+unhealthy=redis-cache,old-api
+</code></pre>
+<pre><code>pytest -q
+</code></pre>
+<pre><code>1 passed in 0.00s
+</code></pre>
+<p><figure class="article-shot"><img src="../assets/cases/case-11/img-06.png" alt="案例截图" loading="lazy" /><figcaption>操作截图</figcaption></figure></p>
+<p>Done。一个远程 Bug 修复的完整闭环。</p>
+<h2 id="section-4">五、总结</h2>
+<p>Codex 远程模式的核心价值：<strong>你不需要把代码拉到本地，就能让 AI 直接在远程环境里帮你定位和修复问题。</strong></p>
+<p>整个流程拆开来看就三件事：</p>
+<ol>
+<li>远程启动 <code>codex app-server</code></li>
+<li>本地 SSH 隧道转发端口</li>
+<li>本地 <code>codex --remote</code> 接入</li>
+</ol>
+<p>一旦连通，体验和本地使用 Codex 完全一致——读文件、改代码、跑测试，全部在远程执行。</p>
+<p>这对于以下场景特别有用：</p>
+<ul>
+<li>线上服务出 Bug，需要快速定位</li>
+<li>开发环境在远程 GPU 服务器上</li>
+<li>多人协作时需要直接在共享服务器上改代码</li>
+<li>本地机器性能不够，依赖装不全</li>
+</ul>
+<p>远程模式目前还是 Alpha 阶段，体验上还有一些粗糙的地方（比如 WebSocket 连接偶尔会降级为 HTTPS），但核心功能已经可用。未来随着 Codex 的迭代，这个能力只会越来越稳。</p>
+</div></article><aside class="page-toc"><b>此页内容</b><a href="#section-1">一、背景：Codex 的远程模式是什么？</a><a href="#section-2">二、实战场景：容器里的 Python 脚本报错了</a><a href="#section-3">三、完整操作步骤</a><a href="#section-4">五、总结</a></aside></div><footer><p>最后同步：2026-06-23。案例为站内页面，方便公开阅读与后续共建。</p></footer></main></div></body></html>

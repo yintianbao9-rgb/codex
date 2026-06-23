@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>09 技能与插件 | baoge AI Codex 教程</title>
+    <title>09 Skills 和 Plugins | baoge AI Codex 教程</title>
     <link rel="stylesheet" href="../styles.css" />
   </head>
   <body>
@@ -16,135 +16,469 @@
         <a class="nav-link" href="../index.html#top">首页</a>
         <a class="nav-link" href="../index.html#route">学习路线</a>
         <a class="nav-link" href="../index.html#entry">入口地图</a>
-        <div class="nav-item">
-          <a class="nav-link has-menu" href="../index.html#config">配置</a>
-          <div class="dropdown">
-            <a href="../index.html#config"><b>配置总览</b><span>安装、权限、文件夹和排障</span></a>
-            <a href="../index.html#entry"><b>工具入口</b><span>桌面 App、CLI、IDE、Cloud</span></a>
-            <a href="./lesson-08.html"><b>权限管理</b><span>只读、可写、审批和发布</span></a>
-          </div>
-        </div>
-        <div class="nav-item">
-          <a class="nav-link has-menu" href="../index.html#official">资源</a>
-          <div class="dropdown">
-            <a href="../index.html#official"><b>官方资料</b><span>OpenAI Codex 文档与更新</span></a>
-            <a href="../index.html#codex-latest"><b>Codex 最新</b><span>官网新能力和站点更新记录</span></a>
-            <a href="../index.html#workflow"><b>模板与 SOP</b><span>输入、步骤、结果、验证</span></a>
-          </div>
-        </div>
-        <div class="nav-item">
-          <a class="nav-link has-menu active" href="./index.html">教程</a>
-          <div class="dropdown dropdown-lessons">
+        <div class="nav-item"><a class="nav-link has-menu" href="../index.html#config">配置</a><div class="dropdown"><a href="../index.html#config"><b>配置总览</b><span>安装、权限、文件夹和排障</span></a><a href="./lesson-08.html"><b>权限管理</b><span>只读、可写、审批和发布</span></a></div></div>
+        <div class="nav-item"><a class="nav-link has-menu" href="../index.html#official">资源</a><div class="dropdown"><a href="../index.html#official"><b>官方资料</b><span>OpenAI Codex 文档与更新</span></a><a href="../index.html#codex-latest"><b>Codex 最新</b><span>官网新能力和站点更新记录</span></a></div></div>
+        <div class="nav-item"><a class="nav-link has-menu active" href="./index.html">教程</a><div class="dropdown dropdown-lessons">
             <a href="./lesson-01.html">01 Codex 桌面 App 下载与安装</a>
-            <a href="./lesson-02.html">02 订阅 ChatGPT Plus</a>
-            <a href="./lesson-03.html">03 了解 Codex 桌面 App</a>
-            <a href="./lesson-04.html">04 手机端协同桌面任务</a>
+            <a href="./lesson-02.html">02 订阅 ChatGPT Plus / Pro</a>
+            <a href="./lesson-03.html">03 了解 Codex 基本组成</a>
+            <a href="./lesson-04.html">04 用手机端 Codex 跟进桌面任务</a>
             <a href="./lesson-05.html">05 连接第三方 API</a>
             <a href="./lesson-06.html">06 用 Codex 完成第一个任务</a>
-            <a href="./lesson-07.html">07 任务顺序执行与并行</a>
+            <a href="./lesson-07.html">07 任务的顺序执行和并行</a>
             <a href="./lesson-08.html">08 权限管理</a>
-            <a href="./lesson-09.html">09 技能与插件</a>
+            <a href="./lesson-09.html">09 Skills 和 Plugins</a>
             <a href="./lesson-10.html">10 自动化</a>
-            <a href="./lesson-11.html">11 桌面宠物</a>
-            <a href="./lesson-12.html">12 CLI 安装与登录</a>
+            <a href="./lesson-11.html">11 如何设置自己的 Codex 桌面宠物</a>
+            <a href="./lesson-12.html">12 安装与登录</a>
             <a href="./lesson-13.html">13 第一次让 Codex 改代码</a>
             <a href="./lesson-14.html">14 在 VS Code 中使用 Codex</a>
             <a href="./lesson-15.html">15 AGENTS.md</a>
-            <a href="./lesson-16.html">16 沙盒与审批</a>
+            <a href="./lesson-16.html">16 沙盒与审批：Codex 的安全护栏</a>
             <a href="./lesson-17.html">17 Codex Cloud：使用云端模式</a>
             <a href="./lesson-18.html">18 Hooks</a>
             <a href="./lesson-19.html">19 排障手册</a>
-          </div>
-        </div>
-        <div class="nav-item">
-          <a class="nav-link has-menu" href="../index.html#cases">实战案例</a>
-          <div class="dropdown">
-            <a href="../index.html#cases"><b>案例总览</b><span>20 个可复现任务</span></a>
-            <a href="../index.html#ui-visual"><b>UI 视觉专题</b><span>高级感官网生成流程</span></a>
-          </div>
-        </div>
-        <div class="nav-item">
-          <a class="nav-link has-menu" href="../index.html#community">交流群</a>
-          <div class="dropdown dropdown-community">
-            <img src="../assets/baoge-ai-wechat-community.png" alt="微信搜索尹天保，关注并回复 codex交流群" />
-          </div>
-        </div>
-        <div class="nav-item">
-          <a class="nav-link has-menu" href="../index.html#support">赞助商</a>
-          <div class="dropdown dropdown-right">
-            <a href="../index.html#support"><b>资源位说明</b><span>工具、开源项目、共建伙伴</span></a>
-            <a href="../index.html#entry"><b>推荐工具</b><span>Codex、GitHub、飞书等入口</span></a>
-          </div>
-        </div>
+          </div></div>
+        <div class="nav-item"><a class="nav-link has-menu" href="../cases/index.html">实战案例</a><div class="dropdown dropdown-lessons">
+            <a href="../cases/case-01.html">01 Codex × PPT Skill：一句话生成演示文稿</a>
+            <a href="../cases/case-02.html">02 Codex × Draw.io MCP：AI 自动绘制架构图</a>
+            <a href="../cases/case-03.html">03 Codex × Playwright MCP：让 AI 像人一样操控浏览器</a>
+            <a href="../cases/case-04.html">04 Codex × HyperFrames：用代码生成动画视频</a>
+            <a href="../cases/case-05.html">05 Codex × Obsidian：在知识库中自动生成配图</a>
+            <a href="../cases/case-06.html">06 Codex × 飞书 CLI：一句话处理飞书数据</a>
+            <a href="../cases/case-07.html">07 Codex × LLM Wiki：在 Obsidian 中搭建 AI 知识库</a>
+            <a href="../cases/case-08.html">08 Codex × Figma MCP：让 AI 读懂你的设计稿</a>
+            <a href="../cases/case-09.html">09 Codex × Notion MCP：打通你的知识工作空间</a>
+            <a href="../cases/case-10.html">10 Codex × DKFile：AI 网页一键发布到公网</a>
+            <a href="../cases/case-11.html">11 Codex × 云服务器：远程定位并修复 Bug</a>
+            <a href="../cases/case-12.html">12 Codex × Chrome：让 AI 直接控制浏览器</a>
+            <a href="../cases/case-13.html">13 Codex × GitHub Actions：CI 失败自动修复实测</a>
+            <a href="../cases/case-14.html">14 Codex × 临床文献综述：把医学问题整理成可复核证据表</a>
+            <a href="../cases/case-15.html">15 Codex × Hatch Pet：用一张照片生成专属宠物</a>
+            <a href="../cases/case-16.html">16 Codex × 安卓手机：扫码连接，远程操控</a>
+            <a href="../cases/references.html">参考来源与致谢</a>
+          </div></div>
+        <div class="nav-item"><a class="nav-link has-menu" href="../index.html#community">交流群</a><div class="dropdown dropdown-community"><img src="../assets/baoge-ai-wechat-community.png" alt="微信搜索尹天保，关注并回复 codex交流群" /></div></div>
+        <div class="nav-item"><a class="nav-link has-menu" href="../index.html#support">赞助商</a><div class="dropdown dropdown-right"><a href="../index.html#support"><b>资源位说明</b><span>工具、开源项目、共建伙伴</span></a><a href="../index.html#entry"><b>推荐工具</b><span>Codex、GitHub、飞书等入口</span></a></div></div>
       </nav>
-      <div class="toolbar" aria-label="快捷操作">
-        <a class="icon-link" href="../index.html#roadmap" aria-label="GitHub共建">GH</a>
-        <a class="search-button" href="./lesson-01.html" aria-label="开始学习">⌕</a>
-      </div>
+      <div class="toolbar" aria-label="快捷操作"><a class="icon-link" href="../index.html#roadmap" aria-label="GitHub共建">GH</a><a class="search-button" href="./lesson-01.html" aria-label="开始学习">⌕</a></div>
     </header>
 
     <div class="layout tutorial-layout lesson-page-layout">
       <aside class="sidebar tutorial-sidebar" aria-label="教程目录">
         <div class="side-title">教程目录</div>
         <a href="./lesson-01.html">01 Codex 桌面 App 下载与安装</a>
-        <a href="./lesson-02.html">02 订阅 ChatGPT Plus</a>
-        <a href="./lesson-03.html">03 了解 Codex 桌面 App</a>
-        <a href="./lesson-04.html">04 手机端协同桌面任务</a>
+        <a href="./lesson-02.html">02 订阅 ChatGPT Plus / Pro</a>
+        <a href="./lesson-03.html">03 了解 Codex 基本组成</a>
+        <a href="./lesson-04.html">04 用手机端 Codex 跟进桌面任务</a>
         <a href="./lesson-05.html">05 连接第三方 API</a>
         <a href="./lesson-06.html">06 用 Codex 完成第一个任务</a>
-        <a href="./lesson-07.html">07 任务顺序执行与并行</a>
+        <a href="./lesson-07.html">07 任务的顺序执行和并行</a>
         <a href="./lesson-08.html">08 权限管理</a>
-        <a href="./lesson-09.html">09 技能与插件</a>
+        <a class="active" href="./lesson-09.html">09 Skills 和 Plugins</a>
         <a href="./lesson-10.html">10 自动化</a>
-        <a href="./lesson-11.html">11 桌面宠物</a>
-        <a href="./lesson-12.html">12 CLI 安装与登录</a>
+        <a href="./lesson-11.html">11 如何设置自己的 Codex 桌面宠物</a>
+        <a href="./lesson-12.html">12 安装与登录</a>
         <a href="./lesson-13.html">13 第一次让 Codex 改代码</a>
         <a href="./lesson-14.html">14 在 VS Code 中使用 Codex</a>
         <a href="./lesson-15.html">15 AGENTS.md</a>
-        <a href="./lesson-16.html">16 沙盒与审批</a>
+        <a href="./lesson-16.html">16 沙盒与审批：Codex 的安全护栏</a>
         <a href="./lesson-17.html">17 Codex Cloud：使用云端模式</a>
         <a href="./lesson-18.html">18 Hooks</a>
         <a href="./lesson-19.html">19 排障手册</a>
       </aside>
-
       <main id="top" class="content tutorial-content lesson-page-content">
-        <div class="lesson-navline">
-          <a href="./lesson-08.html">上一节</a>
-          <a href="./index.html">教程目录</a>
-          <a href="./lesson-10.html">下一节</a>
-        </div>
-        <section id="lesson-09" class="lesson">
+        <div class="lesson-navline"><a href="./lesson-08.html">上一节：08 权限管理</a><a href="./index.html">教程目录</a><a href="./lesson-10.html">下一节：10 自动化</a></div>
+        <article id="lesson-09" class="lesson doc-article">
           <p class="lesson-kicker">09 日常工作流</p>
-          <h2>Skills 与插件</h2>
-          <p class="lead">Skill 是把一次成功经验变成可复用流程。插件则把工具、Skills、MCP 能力打包成更完整的工作方式。</p>
-          <figure class="visual-figure">
-            <div class="flow-visual" aria-label="Skill 和插件关系图">
-              <div class="flow-lane">
-                <b>沉淀</b>
-                <span>一次成功任务</span><i></i><span>写成步骤</span><i></i><span>封装 Skill</span><i></i><span>接入插件</span>
-              </div>
-            </div>
-            <figcaption>一句话理解：Skill 是方法论，插件是工具箱。课程要教会学员把自己的重复工作变成 Skill。</figcaption>
-          </figure>
-          <div class="lesson-grid">
-            <article><h3>什么时候做 Skill</h3><ul><li>同一类任务重复三次以上。</li><li>需要固定输出格式。</li><li>需要读取一套参考资料。</li><li>希望别人也能照着跑。</li></ul></article>
-            <article><h3>baoge AI 可做的 Skills</h3><ul><li>口播脚本生成。</li><li>客户问题日报。</li><li>Codex 官网更新采集。</li><li>视频素材拆解。</li><li>公开教程页更新。</li></ul></article>
-            <article><h3>Skill 结构</h3><pre class="code-block">my-skill/
-  SKILL.md
-  scripts/
-  references/
-  assets/</pre></article>
-            <article><h3>本课产物</h3><p>把你最常做的一件事写成 Skill 草稿：触发条件、输入、步骤、输出、风险边界。</p></article>
+          <h1>Skills 和 Plugins</h1>
+          <p class="lead">Codex 里有两个经常一起出现、但含义不同的概念：Skills 和 Plugins。</p>
+          <div class="source-note"><b>本站同步：</b><span>本节已同步为站内教程，可直接阅读；账号、套餐、权限和界面以实际显示为准。</span></div>
+          <div class="doc-body">
+<p>来源：<a href="https://codexguide.ai/guide/09-skills-plugins.html" target="_blank" rel="noreferrer">CodexGuide 原文</a>。原页面标注 MIT Licensed；原图与说明按页面内容保留。</p>
+<h1>Skills 和 Plugins</h1>
+<p>Codex 里有两个经常一起出现、但含义不同的概念：Skills 和 Plugins。</p>
+<ul>
+<li><code>Skill</code> 是告诉 Codex 某类任务该怎么做的可复用流程说明。</li>
+<li><code>Plugin</code> 则是安装和分发单元，能把 Skills、MCP、Hooks、App 集成和资源文件打包到一起。</li>
+</ul>
+<blockquote>
+<p>💡 
+<strong>最后核对</strong>
+官方资料最后核对日期：2026-06-20。本文参考 <a href="https://agentskills.io/" target="_blank" rel="noreferrer">Agent Skills 标准</a>、<a href="https://developers.openai.com/codex/skills" target="_blank" rel="noreferrer">Codex Skills</a>、<a href="https://developers.openai.com/codex/plugins" target="_blank" rel="noreferrer">Codex Plugins</a> 与 <a href="https://developers.openai.com/codex/plugins/build" target="_blank" rel="noreferrer">Build plugins</a>。如果你的界面与本文截图不完全一致，请优先以当前客户端和工作区可用功能为准。</p>
+</blockquote>
+<p>如果你在 App 中看到了和技能、插件相关的入口，可以先用这张图定位它们：</p>
+<p><figure class="article-shot"><img src="../assets/tutorials/lesson-09/img-01.png" alt="教程截图" loading="lazy" /><figcaption>操作截图</figcaption></figure></p>
+<h2>三个核心概念</h2>
+<p>理解这三者最快的方式，是把 <code>AGENTS.md</code>、<code>Skill</code>、<code>Plugin</code> 放在一起看：</p>
+<table>
+<thead>
+<tr>
+<th>概念</th>
+<th>解决什么问题</th>
+<th>更像什么</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><code>AGENTS.md</code></td>
+<td>这个项目里所有任务都要遵守什么规则</td>
+<td>项目工作守则</td>
+</tr>
+<tr>
+<td><code>Skill</code></td>
+<td>某一类重复任务应该怎么做</td>
+<td>专项操作手册</td>
+</tr>
+<tr>
+<td><code>Plugin</code></td>
+<td>如何安装、分发和组合能力</td>
+<td>能力安装包</td>
+</tr>
+</tbody></table>
+<p><code>AGENTS.md</code> 像是项目里的通用工作规则，<code>Skill</code> 则是某一类任务的专项流程。写 PR Review、整理飞书文档、生成 PPT、修复 CI、做安全扫描，这些流程如果经常重复，就适合沉淀成 Skill。</p>
+<p>和 <code>AGENTS.md</code> 一样，Agent Skills 正在成为 coding agent 生态里的通用规范。</p>
+<h2>Agent Skills 标准</h2>
+<p>Agent Skills 是一个开放格式标准，旨在复用优秀的工作流，补充知识库等提示词、脚本、文档。Codex 支持它。标准里，一个 Skill 至少包含 <code>SKILL.md</code>，用 YAML frontmatter 写元数据，用 Markdown 写执行说明。</p>
+<p>一个最小的 <code>SKILL.md</code> 如下：</p>
+<pre><code>---
+name: doc-review
+description: Review Markdown documentation for structure, factual accuracy, links, and unclear wording. Use when the user asks to review or improve docs.
+---
+
+Read the target document first.
+Check whether claims are backed by sources.
+Report concrete issues before rewriting.
+</code></pre>
+<p>对应的目录结构通常是：</p>
+<pre><code>doc-review/
+├── SKILL.md
+├── scripts/
+├── references/
+└── assets/
+</code></pre>
+<p>其中只有 <code>SKILL.md</code> 是必需的，其他目录都是可选的。</p>
+<p>对于 <code>SKILL.md</code> ，标准里最重要的是 <code>name</code> 和 <code>description</code>：</p>
+<table>
+<thead>
+<tr>
+<th>字段</th>
+<th>是否必需</th>
+<th>作用</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><code>name</code></td>
+<td>是</td>
+<td>Skill 的稳定名称，通常使用小写字母、数字和连字符</td>
+</tr>
+<tr>
+<td><code>description</code></td>
+<td>是</td>
+<td>告诉 agent 这个 Skill 做什么，以及什么时候应该用</td>
+</tr>
+</tbody></table>
+<p><code>name</code> 要和父目录名保持一致。例如目录叫 <code>pdf-processing/</code>，frontmatter 里的 <code>name</code> 也应该是 <code>pdf-processing</code>。</p>
+<p><code>description</code> 很关键，因为 Codex 会用它判断什么时候该启用这个 Skill。好的描述要同时写清“能力”和“触发场景”：</p>
+<pre><code>description: Convert PDFs into clean Obsidian Markdown notes with headings, formulas, and source references. Use when the user asks to turn a PDF into study notes.
+</code></pre>
+<p>不太好的写法是：</p>
+<pre><code>description: Helps with documents.
+</code></pre>
+<p>后者太空，Codex 很难判断什么时候该用。</p>
+<p>Agent Skills 标准还定义了这些可选字段：</p>
+<table>
+<thead>
+<tr>
+<th>字段</th>
+<th>作用</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><code>license</code></td>
+<td>声明 Skill 的许可证，或指向随 Skill 一起打包的许可证文件</td>
+</tr>
+<tr>
+<td><code>compatibility</code></td>
+<td>说明运行环境要求，例如面向哪个 agent、是否需要系统依赖或网络访问</td>
+</tr>
+<tr>
+<td><code>metadata</code></td>
+<td>存放实现方自定义的键值信息</td>
+</tr>
+<tr>
+<td><code>allowed-tools</code></td>
+<td>实验字段，用来声明预批准工具；不同 agent 的支持程度可能不同</td>
+</tr>
+</tbody></table>
+<h2>Skill 目录结构</h2>
+<p>通常，<code>SKILL.md</code> 放入口说明，配套材料放到旁边目录，让 agent 先读最小必要信息，需要时再打开脚本、参考资料或模板。</p>
+<table>
+<thead>
+<tr>
+<th>目录</th>
+<th>适合放什么</th>
+<th>例子</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><code>scripts/</code></td>
+<td>可执行脚本</td>
+<td>PDF 提取、批量格式化、校验脚本</td>
+</tr>
+<tr>
+<td><code>references/</code></td>
+<td>按需读取的长文档</td>
+<td>API 规则、写作规范、公司流程</td>
+</tr>
+<tr>
+<td><code>assets/</code></td>
+<td>模板、图片、数据文件</td>
+<td>PPT 模板、表格模板、示例图</td>
+</tr>
+</tbody></table>
+<p>一般做法是：<code>SKILL.md</code> 放“什么时候用、按什么步骤做”；长规则、脚本和素材放到旁边目录里。不要把 Skill 写成一个超长提示词仓库。</p>
+<h2>标准与 Codex 的差异</h2>
+<p>这里有两层：Agent Skills 标准定义跨 agent 都能理解的通用结构；Codex 在这个标准之上加入自己的发现路径、上下文预算、启用方式、插件分发和 UI 元数据。例如 <code>.agents/openai.yaml</code> 可补充 UI 展示名称、调用策略和工具依赖声明，但它不是标准本身必需的。</p>
+<p>容易混淆的地方主要在于：</p>
+<table>
+<thead>
+<tr>
+<th>主题</th>
+<th>Agent Skills 标准</th>
+<th>Codex 实现</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>基础结构</td>
+<td><code>SKILL.md</code> 必需，<code>scripts/</code>、<code>references/</code>、<code>assets/</code> 可选</td>
+<td>支持这套结构，并可额外使用 <code>agents/openai.yaml</code></td>
+</tr>
+<tr>
+<td>元数据</td>
+<td><code>name</code>、<code>description</code> 必需；<code>license</code>、<code>compatibility</code>、<code>metadata</code>、<code>allowed-tools</code> 可选</td>
+<td>读取 <code>name</code> 和 <code>description</code> 做技能列表与匹配；<code>agents/openai.yaml</code> 可补 UI、策略和工具依赖</td>
+</tr>
+<tr>
+<td>发现位置</td>
+<td>标准只规定 Skill 自身结构，不规定某个客户端必须从哪里扫描</td>
+<td>Codex 会扫描仓库、用户、管理员和系统位置</td>
+</tr>
+<tr>
+<td>加载方式</td>
+<td>推荐渐进式披露</td>
+<td>Codex 选中后再读完整 <code>SKILL.md</code></td>
+</tr>
+<tr>
+<td>分发方式</td>
+<td>标准本身只描述 Skill 包</td>
+<td>Codex 推荐用 Plugin 分发可复用 Skills，或把 Skills 和 App / MCP / Hooks 一起打包</td>
+</tr>
+<tr>
+<td>隐式调用</td>
+<td>标准鼓励写好 <code>description</code> 方便 agent 判断</td>
+<td>Codex 支持显式 <code>$skill</code> 和基于 <code>description</code> 的隐式调用（即AI自主判断是否使用），并可用 <code>agents/openai.yaml</code> 关闭隐式调用</td>
+</tr>
+</tbody></table>
+<p>所以写给 Codex 的 Skill，最好先按 Agent Skills 标准写通用结构，再按需加入 Codex 扩展。这样 Codex 能稳定识别，迁移到其他支持该标准的工具也更容易。</p>
+<p><figure class="article-shot"><img src="../assets/tutorials/lesson-09/img-02.png" alt="教程截图" loading="lazy" /><figcaption>操作截图</figcaption></figure></p>
+<h2>Codex 如何使用 Skills</h2>
+<p>和其他Agent一样，Codex 使用渐进式加载（progressive disclosure）：启动时只把可用 Skills 的 <code>name</code>、<code>description</code> 和路径放入上下文，选中后再按需读取完整内容。之后如果 <code>SKILL.md</code> 提到脚本、参考资料或模板，Codex 也会按需读取或执行。</p>
+<p>这样做的好处是，你可以安装很多 Skills，却不会让每个 Skill 的完整说明一开始就占满上下文预算。</p>
+<p>Codex 启用 Skill 的方式有两种：显式调用（在提示词里写 <code>$skill-name</code>，或用 <code>/</code> 打开 Skills 菜单选择）和隐式匹配（任务描述与某个 Skill 的 <code>description</code> 匹配时，Codex 自动选择）。</p>
+<p><figure class="article-shot"><img src="../assets/tutorials/lesson-09/img-03.png" alt="教程截图" loading="lazy" /><figcaption>操作截图</figcaption></figure></p>
+<h2>Skill 存放位置</h2>
+<p>Codex 会从多个位置发现 Skills，主要分两类目录：<code>.agents</code> 更偏通用 Agent Skills 规范，适合写进仓库和跨工具复用；<code>.codex</code> 更偏 Codex 客户端自己的本地管理、安装和插件缓存。</p>
+<p>官方当前推荐的通用发现位置以 <code>.agents/skills</code> 为主：</p>
+<table>
+<thead>
+<tr>
+<th>范围</th>
+<th>常见位置</th>
+<th>适合场景</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>项目级</td>
+<td><code>$REPO_ROOT/.agents/skills</code></td>
+<td>团队共享，适合这个仓库所有人</td>
+</tr>
+<tr>
+<td>子目录级</td>
+<td>当前目录或父目录下的 <code>.agents/skills</code></td>
+<td>monorepo 里按模块放局部 Skill</td>
+</tr>
+<tr>
+<td>用户级</td>
+<td><code>$HOME/.agents/skills</code></td>
+<td>个人常用 Skill，跨项目复用</td>
+</tr>
+<tr>
+<td>管理员级</td>
+<td><code>/etc/codex/skills</code></td>
+<td>机器或容器里的默认 Skill</td>
+</tr>
+<tr>
+<td>系统级</td>
+<td>Codex 内置</td>
+<td>OpenAI 随 Codex 提供的内置 Skill</td>
+</tr>
+</tbody></table>
+<p>在实际 Codex 环境里，你也可能看到 <code>.codex</code> 相关位置：</p>
+<table>
+<thead>
+<tr>
+<th>位置</th>
+<th>怎么理解</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><code>$HOME/.codex/skills</code></td>
+<td>Codex 本地安装或历史版本常见的用户级 Skill 目录</td>
+</tr>
+<tr>
+<td><code>$REPO_ROOT/.codex/skills</code></td>
+<td>Codex 专属的项目级 Skill 目录；如果要跨 agent 共享，优先考虑 <code>.agents/skills</code></td>
+</tr>
+<tr>
+<td><code>$HOME/.codex/plugins/cache/.../skills</code></td>
+<td>插件安装后由 Codex 管理的缓存目录，通常不建议手动编辑</td>
+</tr>
+</tbody></table>
+<p>Codex 两者都会读取并加载到APP里。这两种存放方式是等价的。更加推荐 <code>.agent</code> 的方式，因为其他 Agent 也能发现。</p>
+<p>如果多个 Skill 使用同一个 <code>name</code>，不要假设它们会自动合并。更稳的做法是给 Skill 起清楚的名字，必要时加团队或项目前缀（如 <code>acme-doc-review</code>），避免团队 Skill 和个人 Skill 重名。</p>
+<h2>安装 Skill</h2>
+<p>除了手动放置，Codex 还内置了 <code>skill-installer</code>，可以利用这个辅助下载 Github 等可访问网站上的SKILLS。</p>
+<p>默认安装到 <code>~/.codex/skills</code>，安装后通常需要重启 Codex。哪些来源可用、能否访问私有仓库，会受 Codex 版本和工作区设置影响。</p>
+<h2>适用场景</h2>
+<p>适合沉淀成 Skill 的，通常是“重复出现、步骤稳定、需要专业判断”的任务：</p>
+<ul>
+<li>文档类：根据固定风格改写文章、生成课程笔记、整理会议纪要。</li>
+<li>代码类：按团队标准做 PR Review、修 CI、迁移测试写法。</li>
+<li>交付类：生成 PPT、导出 PDF、打包课程提交材料。</li>
+<li>集成类：按固定流程查询 GitHub、Feishu、Gmail、Slack。</li>
+</ul>
+<p>不太适合写成 Skill 的，是一次性的聊天偏好，或者整个项目都要遵守的通用规则。前者更适合普通提示词，后者更适合放在 <code>AGENTS.md</code>。</p>
+<h2>编写建议</h2>
+<p>写 Skill 时，通常建议注意这几点：</p>
+<ul>
+<li>名称稳定，使用小写 kebab-case，例如 <code>doc-review</code>、<code>github-fix-ci</code>。</li>
+<li><code>description</code> 写清触发场景。</li>
+<li><code>SKILL.md</code> 不要写成百科，优先写执行步骤、输入输出、边界、验证方式和异常处理。例如说明“输入是 Markdown 文档，输出是问题列表，遇到无权限文件时跳过并告知用户，需要人工判断时暂停询问”。</li>
+<li>长参考资料拆到 <code>references/</code>，脚本放到 <code>scripts/</code>，模板放到 <code>assets/</code>。</li>
+<li>如果脚本会联网、写文件或调用外部系统，要在说明里讲清风险和审批边界。</li>
+<li>不要把密钥、token、私有凭据写进 Skill。</li>
+</ul>
+<h2>创建 Skill</h2>
+<p>如果你想让 Codex 带着你创建或更新 Skill，可以调用内置的 <code>skill-creator</code>。它会围绕你的需求规划 Skill 的结构和内容。</p>
+<p>它通常提醒三个核心原则：</p>
+<ul>
+<li><strong>concise is key</strong>：说明简短，不要写成百科全书。</li>
+<li><strong>set appropriate degrees of freedom</strong>：给 Codex 判断空间，但不要放任偏离目标。</li>
+<li><strong>protect validation integrity</strong>：验证方式可靠，能判断 Skill 是否按预期工作。</li>
+</ul>
+<p>标准结构和前文一致：<code>SKILL.md</code> 必须，<code>agents/openai.yaml</code> 推荐，<code>scripts/</code> / <code>references/</code> / <code>assets/</code> 可选。流程大致是从具体例子出发，规划资源，初始化目录，编辑，校验，再迭代和 forward-test。</p>
+<p><code>skill-creator</code> 同样遵循 frontmatter 只写 <code>name</code> 和 <code>description</code> 的约定，<code>description</code> 是 Codex 决定是否启用的主要触发机制。</p>
+<h2>什么是 Plugin</h2>
+<p><code>Plugin</code> 更像一种打包和分发机制，把可复用工作流、应用集成、MCP 服务配置等能力组合起来，方便在项目或团队中统一安装和使用。</p>
+<p>一个 Plugin 可以包含：</p>
+<ul>
+<li>Skills：可复用的任务流程。</li>
+<li>Apps：连接 GitHub、Slack、Google Drive 这类外部应用。</li>
+<li>MCP servers：给 Codex 提供更多工具或共享信息。</li>
+<li>Hooks：在生命周期事件里自动运行检查或补充上下文。</li>
+<li>assets：图标、logo、截图等展示素材。</li>
+</ul>
+<p><figure class="article-shot"><img src="../assets/tutorials/lesson-09/img-04.png" alt="教程截图" loading="lazy" /><figcaption>操作截图</figcaption></figure></p>
+<p>安装或导入插件时，Codex 通常会要求你确认来源和能力范围：</p>
+<p><figure class="article-shot"><img src="../assets/tutorials/lesson-09/img-05.png" alt="教程截图" loading="lazy" /><figcaption>操作截图</figcaption></figure></p>
+<h2>Plugin 目录结构</h2>
+<p>一个典型 Plugin 的目录结构长这样：</p>
+<pre><code>my-plugin/
+├── .codex-plugin/
+│   └── plugin.json
+├── skills/
+│   └── my-skill/
+│       └── SKILL.md
+├── hooks/
+│   └── hooks.json
+├── .app.json
+├── .mcp.json
+└── assets/
+</code></pre>
+<p>其中 <code>.codex-plugin/plugin.json</code> 是必需入口。其他内容是否存在，取决于这个插件要打包什么能力。</p>
+<p>一个最小的 <code>plugin.json</code> 可以只声明名称、版本、描述和 skills 路径：</p>
+<pre><code>{
+  &quot;name&quot;: &quot;my-first-plugin&quot;,
+  &quot;version&quot;: &quot;1.0.0&quot;,
+  &quot;description&quot;: &quot;Reusable documentation workflows&quot;,
+  &quot;skills&quot;: &quot;./skills/&quot;
+}
+</code></pre>
+<p>如果你的插件还需要更多能力，可以继续声明：</p>
+<ul>
+<li><code>mcpServers</code>：指向 <code>.mcp.json</code></li>
+<li><code>apps</code>：指向 <code>.app.json</code></li>
+<li><code>hooks</code>：指向 hook 配置</li>
+<li><code>interface</code>：控制插件在安装界面里的名称、描述、图标、截图和默认提示词</li>
+</ul>
+<p>路径通常从插件根目录开始，使用 <code>./</code> 开头。只有 <code>plugin.json</code> 放在 <code>.codex-plugin/</code> 里，<code>skills/</code>、<code>hooks/</code>、<code>assets/</code>、<code>.mcp.json</code>、<code>.app.json</code> 都放在插件根目录。</p>
+<h2>如何选择 Skill 和 Plugin</h2>
+<p>Skill 是“工作说明书”，Plugin 是“装着说明书、工具和连接配置的工具箱”。换机器或分享给团队时，Plugin 可以一次性把这些能力带过去，不需要逐个目录复制配置。</p>
+<p>如果只是自己复用一个流程，通常先写 Skill 就够了。等到你想把这套能力分享给团队，或者需要连同 MCP、Hooks、App 集成一起分发，再考虑做成 Plugin。</p>
+<table>
+<thead>
+<tr>
+<th>需求</th>
+<th>更适合</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>复用一套写作、审查、排障流程</td>
+<td>Skill</td>
+</tr>
+<tr>
+<td>给个人工作流加脚本和模板</td>
+<td>Skill</td>
+</tr>
+<tr>
+<td>把多个 Skills 打包给团队安装</td>
+<td>Plugin</td>
+</tr>
+<tr>
+<td>同时分发 Skills、MCP、Hooks、App 集成</td>
+<td>Plugin</td>
+</tr>
+<tr>
+<td>做可安装、可启用、可禁用的能力包</td>
+<td>Plugin</td>
+</tr>
+</tbody></table>
+<h2>注意事项</h2>
+<ul>
+<li>插件和技能的具体入口会随版本变化。</li>
+<li>如果插件涉及外部系统、浏览器、邮箱、知识库或项目管理工具，先确认它是只读还是可写。</li>
+<li>涉及安装、写回外部系统或共享给团队时，最好保留人工复核。</li>
+<li>安装 Plugin 不等于自动获得权限，Codex 仍会受当前权限、沙盒、审批和外部服务登录状态约束。</li>
+<li>Plugin 里如果包含 Hooks，也不应该默认信任。非 managed hooks 通常需要用户审查后才会运行。</li>
+<li>团队共享的 Skill / Plugin 不要写个人路径、个人 token 或只在某台电脑上存在的脚本。</li>
+</ul>
+<h2>快速上手</h2>
+<p>如果你只是想体验，可以从互联网上下载一个你认为会你工作流有帮助的SKILLS。</p>
+<p>然后根据实际项目需要，利用AI自定义SKILLS。先从一个很小的 Skill 开始：</p>
+<pre><code>doc-polish/
+└── SKILL.md
+</code></pre>
+<p>只需注意：</p>
+<ol>
+<li>这个 Skill 什么时候用。</li>
+<li>Codex 应该按什么步骤做。</li>
+<li>做完后怎么验证结果。</li>
+</ol>
+<p>当后续有需要时，再加入 <code>references/</code>、<code>scripts/</code> 或 <code>assets/</code>等自定义的拓展资源。</p>
+
           </div>
-        </section>
-        <div class="lesson-navline lesson-navline-bottom">
-          <a href="./lesson-08.html">上一节</a>
-          <a href="./index.html">教程目录</a>
-          <a href="./lesson-10.html">下一节</a>
-        </div>
-        <footer>
-          <p>最后核对：2026-06-20。单节教程页，可从顶部“教程”菜单切换其他章节。</p>
-        </footer>
+        </article>
+        <footer><p>最后同步：2026-06-23。教程内容来自后台教程资料源，公开页面用于小白学习与共建。</p></footer>
       </main>
     </div>
   </body>

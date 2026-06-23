@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>12 CLI 安装与登录 | baoge AI Codex 教程</title>
+    <title>12 安装与登录 | baoge AI Codex 教程</title>
     <link rel="stylesheet" href="../styles.css" />
   </head>
   <body>
@@ -16,125 +16,186 @@
         <a class="nav-link" href="../index.html#top">首页</a>
         <a class="nav-link" href="../index.html#route">学习路线</a>
         <a class="nav-link" href="../index.html#entry">入口地图</a>
-        <div class="nav-item">
-          <a class="nav-link has-menu" href="../index.html#config">配置</a>
-          <div class="dropdown">
-            <a href="../index.html#config"><b>配置总览</b><span>安装、权限、文件夹和排障</span></a>
-            <a href="../index.html#entry"><b>工具入口</b><span>桌面 App、CLI、IDE、Cloud</span></a>
-            <a href="./lesson-08.html"><b>权限管理</b><span>只读、可写、审批和发布</span></a>
-          </div>
-        </div>
-        <div class="nav-item">
-          <a class="nav-link has-menu" href="../index.html#official">资源</a>
-          <div class="dropdown">
-            <a href="../index.html#official"><b>官方资料</b><span>OpenAI Codex 文档与更新</span></a>
-            <a href="../index.html#codex-latest"><b>Codex 最新</b><span>官网新能力和站点更新记录</span></a>
-            <a href="../index.html#workflow"><b>模板与 SOP</b><span>输入、步骤、结果、验证</span></a>
-          </div>
-        </div>
-        <div class="nav-item">
-          <a class="nav-link has-menu active" href="./index.html">教程</a>
-          <div class="dropdown dropdown-lessons">
+        <div class="nav-item"><a class="nav-link has-menu" href="../index.html#config">配置</a><div class="dropdown"><a href="../index.html#config"><b>配置总览</b><span>安装、权限、文件夹和排障</span></a><a href="./lesson-08.html"><b>权限管理</b><span>只读、可写、审批和发布</span></a></div></div>
+        <div class="nav-item"><a class="nav-link has-menu" href="../index.html#official">资源</a><div class="dropdown"><a href="../index.html#official"><b>官方资料</b><span>OpenAI Codex 文档与更新</span></a><a href="../index.html#codex-latest"><b>Codex 最新</b><span>官网新能力和站点更新记录</span></a></div></div>
+        <div class="nav-item"><a class="nav-link has-menu active" href="./index.html">教程</a><div class="dropdown dropdown-lessons">
             <a href="./lesson-01.html">01 Codex 桌面 App 下载与安装</a>
-            <a href="./lesson-02.html">02 订阅 ChatGPT Plus</a>
-            <a href="./lesson-03.html">03 了解 Codex 桌面 App</a>
-            <a href="./lesson-04.html">04 手机端协同桌面任务</a>
+            <a href="./lesson-02.html">02 订阅 ChatGPT Plus / Pro</a>
+            <a href="./lesson-03.html">03 了解 Codex 基本组成</a>
+            <a href="./lesson-04.html">04 用手机端 Codex 跟进桌面任务</a>
             <a href="./lesson-05.html">05 连接第三方 API</a>
             <a href="./lesson-06.html">06 用 Codex 完成第一个任务</a>
-            <a href="./lesson-07.html">07 任务顺序执行与并行</a>
+            <a href="./lesson-07.html">07 任务的顺序执行和并行</a>
             <a href="./lesson-08.html">08 权限管理</a>
-            <a href="./lesson-09.html">09 技能与插件</a>
+            <a href="./lesson-09.html">09 Skills 和 Plugins</a>
             <a href="./lesson-10.html">10 自动化</a>
-            <a href="./lesson-11.html">11 桌面宠物</a>
-            <a href="./lesson-12.html">12 CLI 安装与登录</a>
+            <a href="./lesson-11.html">11 如何设置自己的 Codex 桌面宠物</a>
+            <a href="./lesson-12.html">12 安装与登录</a>
             <a href="./lesson-13.html">13 第一次让 Codex 改代码</a>
             <a href="./lesson-14.html">14 在 VS Code 中使用 Codex</a>
             <a href="./lesson-15.html">15 AGENTS.md</a>
-            <a href="./lesson-16.html">16 沙盒与审批</a>
+            <a href="./lesson-16.html">16 沙盒与审批：Codex 的安全护栏</a>
             <a href="./lesson-17.html">17 Codex Cloud：使用云端模式</a>
             <a href="./lesson-18.html">18 Hooks</a>
             <a href="./lesson-19.html">19 排障手册</a>
-          </div>
-        </div>
-        <div class="nav-item">
-          <a class="nav-link has-menu" href="../index.html#cases">实战案例</a>
-          <div class="dropdown">
-            <a href="../index.html#cases"><b>案例总览</b><span>20 个可复现任务</span></a>
-            <a href="../index.html#ui-visual"><b>UI 视觉专题</b><span>高级感官网生成流程</span></a>
-          </div>
-        </div>
-        <div class="nav-item">
-          <a class="nav-link has-menu" href="../index.html#community">交流群</a>
-          <div class="dropdown dropdown-community">
-            <img src="../assets/baoge-ai-wechat-community.png" alt="微信搜索尹天保，关注并回复 codex交流群" />
-          </div>
-        </div>
-        <div class="nav-item">
-          <a class="nav-link has-menu" href="../index.html#support">赞助商</a>
-          <div class="dropdown dropdown-right">
-            <a href="../index.html#support"><b>资源位说明</b><span>工具、开源项目、共建伙伴</span></a>
-            <a href="../index.html#entry"><b>推荐工具</b><span>Codex、GitHub、飞书等入口</span></a>
-          </div>
-        </div>
+          </div></div>
+        <div class="nav-item"><a class="nav-link has-menu" href="../cases/index.html">实战案例</a><div class="dropdown dropdown-lessons">
+            <a href="../cases/case-01.html">01 Codex × PPT Skill：一句话生成演示文稿</a>
+            <a href="../cases/case-02.html">02 Codex × Draw.io MCP：AI 自动绘制架构图</a>
+            <a href="../cases/case-03.html">03 Codex × Playwright MCP：让 AI 像人一样操控浏览器</a>
+            <a href="../cases/case-04.html">04 Codex × HyperFrames：用代码生成动画视频</a>
+            <a href="../cases/case-05.html">05 Codex × Obsidian：在知识库中自动生成配图</a>
+            <a href="../cases/case-06.html">06 Codex × 飞书 CLI：一句话处理飞书数据</a>
+            <a href="../cases/case-07.html">07 Codex × LLM Wiki：在 Obsidian 中搭建 AI 知识库</a>
+            <a href="../cases/case-08.html">08 Codex × Figma MCP：让 AI 读懂你的设计稿</a>
+            <a href="../cases/case-09.html">09 Codex × Notion MCP：打通你的知识工作空间</a>
+            <a href="../cases/case-10.html">10 Codex × DKFile：AI 网页一键发布到公网</a>
+            <a href="../cases/case-11.html">11 Codex × 云服务器：远程定位并修复 Bug</a>
+            <a href="../cases/case-12.html">12 Codex × Chrome：让 AI 直接控制浏览器</a>
+            <a href="../cases/case-13.html">13 Codex × GitHub Actions：CI 失败自动修复实测</a>
+            <a href="../cases/case-14.html">14 Codex × 临床文献综述：把医学问题整理成可复核证据表</a>
+            <a href="../cases/case-15.html">15 Codex × Hatch Pet：用一张照片生成专属宠物</a>
+            <a href="../cases/case-16.html">16 Codex × 安卓手机：扫码连接，远程操控</a>
+            <a href="../cases/references.html">参考来源与致谢</a>
+          </div></div>
+        <div class="nav-item"><a class="nav-link has-menu" href="../index.html#community">交流群</a><div class="dropdown dropdown-community"><img src="../assets/baoge-ai-wechat-community.png" alt="微信搜索尹天保，关注并回复 codex交流群" /></div></div>
+        <div class="nav-item"><a class="nav-link has-menu" href="../index.html#support">赞助商</a><div class="dropdown dropdown-right"><a href="../index.html#support"><b>资源位说明</b><span>工具、开源项目、共建伙伴</span></a><a href="../index.html#entry"><b>推荐工具</b><span>Codex、GitHub、飞书等入口</span></a></div></div>
       </nav>
-      <div class="toolbar" aria-label="快捷操作">
-        <a class="icon-link" href="../index.html#roadmap" aria-label="GitHub共建">GH</a>
-        <a class="search-button" href="./lesson-01.html" aria-label="开始学习">⌕</a>
-      </div>
+      <div class="toolbar" aria-label="快捷操作"><a class="icon-link" href="../index.html#roadmap" aria-label="GitHub共建">GH</a><a class="search-button" href="./lesson-01.html" aria-label="开始学习">⌕</a></div>
     </header>
 
     <div class="layout tutorial-layout lesson-page-layout">
       <aside class="sidebar tutorial-sidebar" aria-label="教程目录">
         <div class="side-title">教程目录</div>
         <a href="./lesson-01.html">01 Codex 桌面 App 下载与安装</a>
-        <a href="./lesson-02.html">02 订阅 ChatGPT Plus</a>
-        <a href="./lesson-03.html">03 了解 Codex 桌面 App</a>
-        <a href="./lesson-04.html">04 手机端协同桌面任务</a>
+        <a href="./lesson-02.html">02 订阅 ChatGPT Plus / Pro</a>
+        <a href="./lesson-03.html">03 了解 Codex 基本组成</a>
+        <a href="./lesson-04.html">04 用手机端 Codex 跟进桌面任务</a>
         <a href="./lesson-05.html">05 连接第三方 API</a>
         <a href="./lesson-06.html">06 用 Codex 完成第一个任务</a>
-        <a href="./lesson-07.html">07 任务顺序执行与并行</a>
+        <a href="./lesson-07.html">07 任务的顺序执行和并行</a>
         <a href="./lesson-08.html">08 权限管理</a>
-        <a href="./lesson-09.html">09 技能与插件</a>
+        <a href="./lesson-09.html">09 Skills 和 Plugins</a>
         <a href="./lesson-10.html">10 自动化</a>
-        <a href="./lesson-11.html">11 桌面宠物</a>
-        <a href="./lesson-12.html">12 CLI 安装与登录</a>
+        <a href="./lesson-11.html">11 如何设置自己的 Codex 桌面宠物</a>
+        <a class="active" href="./lesson-12.html">12 安装与登录</a>
         <a href="./lesson-13.html">13 第一次让 Codex 改代码</a>
         <a href="./lesson-14.html">14 在 VS Code 中使用 Codex</a>
         <a href="./lesson-15.html">15 AGENTS.md</a>
-        <a href="./lesson-16.html">16 沙盒与审批</a>
+        <a href="./lesson-16.html">16 沙盒与审批：Codex 的安全护栏</a>
         <a href="./lesson-17.html">17 Codex Cloud：使用云端模式</a>
         <a href="./lesson-18.html">18 Hooks</a>
         <a href="./lesson-19.html">19 排障手册</a>
       </aside>
-
       <main id="top" class="content tutorial-content lesson-page-content">
-        <div class="lesson-navline">
-          <a href="./lesson-11.html">上一节</a>
-          <a href="./index.html">教程目录</a>
-          <a href="./lesson-13.html">下一节</a>
-        </div>
-        <section id="lesson-12" class="lesson">
+        <div class="lesson-navline"><a href="./lesson-11.html">上一节：11 如何设置自己的 Codex 桌面宠物</a><a href="./index.html">教程目录</a><a href="./lesson-13.html">下一节：13 第一次让 Codex 改代码</a></div>
+        <article id="lesson-12" class="lesson doc-article">
           <p class="lesson-kicker">12 CLI 与 IDE</p>
-          <h2>CLI 安装与登录</h2>
-          <p class="lead">CLI 适合开发者和进阶用户：它在终端里读仓库、改文件、运行命令、检查结果。</p>
-          <div class="lesson-grid">
-            <article><h3>适合谁</h3><ul><li>会打开终端。</li><li>知道项目目录在哪里。</li><li>需要跑测试、构建、Git 命令。</li><li>希望把 Codex 接入脚本或 CI。</li></ul></article>
-            <article><h3>基本流程</h3><ol><li>按官方 CLI 文档安装。</li><li>选择 ChatGPT 登录或 API Key 登录。</li><li>进入一个练习仓库。</li><li>让 Codex 先解释项目，不急着改。</li></ol></article>
-            <article><h3>第一条 CLI 指令</h3><pre class="code-block">请阅读这个仓库的文件结构，
-告诉我启动命令、测试命令、
-主要页面在哪里。
-先不要修改任何文件。</pre></article>
-            <article><h3>检查点</h3><p>CLI 任务要能留下命令、输出和修改记录。没有验证的改动，不要进入真实项目。</p></article>
+          <h1>安装与登录</h1>
+          <p class="lead">本页先覆盖 Codex CLI 的安装与登录。桌面端、ChatGPT、Cloud 和 IDE 入口会在 入口地图 中分别展开。</p>
+          <div class="source-note"><b>本站同步：</b><span>本节已同步为站内教程，可直接阅读；账号、套餐、权限和界面以实际显示为准。</span></div>
+          <div class="doc-body">
+<p>来源：<a href="https://codexguide.ai/guide/12-cli-installation.html" target="_blank" rel="noreferrer">CodexGuide 原文</a>。原页面标注 MIT Licensed；原图与说明按页面内容保留。</p>
+<h1>安装与登录</h1>
+<p>本页先覆盖 Codex CLI 的安装与登录。桌面端、ChatGPT、Cloud 和 IDE 入口会在 <a href="https://codexguide.ai/platform/" target="_blank" rel="noreferrer">入口地图</a> 中分别展开。</p>
+<blockquote>
+<p>💡 
+<strong>最后核对</strong>
+官方资料最后核对日期：2026-05-27。CLI 系统要求与安装方式参考 <a href="https://github.com/openai/codex" target="_blank" rel="noreferrer">openai/codex 官方仓库</a>、<a href="https://github.com/openai/codex/blob/main/docs/install.md" target="_blank" rel="noreferrer">CLI install 文档</a> 和 <a href="https://help.openai.com/en/articles/11096431-openai-codex-cli-getting-started" target="_blank" rel="noreferrer">Codex CLI Help Center</a>。</p>
+</blockquote>
+<h2>安装前检查</h2>
+<p>官方仓库当前给出的 CLI 运行环境建议：</p>
+<table>
+<thead>
+<tr>
+<th>项目</th>
+<th>建议</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>操作系统</td>
+<td>macOS 12+、Ubuntu 20.04+/Debian 10+、Windows 11 通过 WSL2</td>
+</tr>
+<tr>
+<td>Git</td>
+<td>推荐 2.23+，便于 PR 辅助能力</td>
+</tr>
+<tr>
+<td>内存</td>
+<td>4GB 起步，8GB 更稳</td>
+</tr>
+</tbody></table>
+<p>本地先确认：</p>
+<pre><code>node -v
+npm -v
+git --version
+</code></pre>
+<p><figure class="article-shot"><img src="../assets/tutorials/lesson-12/img-01.png" alt="教程截图" loading="lazy" /><figcaption>操作截图</figcaption></figure></p>
+<h2>安装 CLI</h2>
+<p>常见安装方式：</p>
+<pre><code>npm install -g @openai/codex
+</code></pre>
+<p>更新到最新版本：</p>
+<pre><code>npm install -g @openai/codex@latest
+</code></pre>
+<p>检查版本：</p>
+<pre><code>codex --version
+</code></pre>
+<p><figure class="article-shot"><img src="../assets/tutorials/lesson-12/img-02.png" alt="教程截图" loading="lazy" /><figcaption>操作截图</figcaption></figure></p>
+<h2>登录方式</h2>
+<p>运行：</p>
+<pre><code>codex
+</code></pre>
+<p>根据终端提示完成登录。官方资料说明 Codex 可以通过 ChatGPT 账号在多个入口中使用，具体可用计划、限额和组织策略以 <a href="https://help.openai.com/en/articles/11369540-codex-in-chatgpt" target="_blank" rel="noreferrer">Codex in ChatGPT Help Center</a> 为准。</p>
+<p><figure class="article-shot"><img src="../assets/tutorials/lesson-12/img-03.png" alt="教程截图" loading="lazy" /><figcaption>操作截图</figcaption></figure></p>
+<h2>第一次只读任务</h2>
+<p>进入一个本地项目根目录：</p>
+<pre><code>cd path/to/your/project
+codex
+</code></pre>
+<p>先让 Codex 只读仓库：</p>
+<pre><code>请先阅读这个仓库的目录结构、README、包管理器配置和测试配置。不要修改文件。请总结：
+1. 项目用途
+2. 主要技术栈
+3. 如何安装依赖和运行测试
+4. 你建议我下一步交给你的 3 个低风险任务
+</code></pre>
+<p><figure class="article-shot"><img src="../assets/tutorials/lesson-12/img-04.png" alt="教程截图" loading="lazy" /><figcaption>操作截图</figcaption></figure></p>
+<h2>安装失败时怎么判断</h2>
+<table>
+<thead>
+<tr>
+<th>现象</th>
+<th>可能原因</th>
+<th>处理方式</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><code>codex</code> 命令找不到</td>
+<td>npm global bin 未进 PATH</td>
+<td>查看 <code>npm bin -g</code>，把目录加入 shell PATH</td>
+</tr>
+<tr>
+<td>登录后仍提示无权限</td>
+<td>账号计划、组织策略或会话状态问题</td>
+<td>重新登录，并查看 Help Center 中的计划说明</td>
+</tr>
+<tr>
+<td>Windows 运行异常</td>
+<td>未使用 WSL2 或 shell 环境不完整</td>
+<td>按官方建议使用 Windows 11 + WSL2</td>
+</tr>
+<tr>
+<td>仓库命令跑不起来</td>
+<td>项目依赖未安装或本地环境缺失</td>
+<td>先安装项目依赖，再让 Codex 读取测试配置</td>
+</tr>
+</tbody></table>
+<p>完成后继续：<a href="https://codexguide.ai/guide/13-cli-first-run.html" target="_blank" rel="noreferrer">第一次让 Codex 改代码</a>。</p>
+
           </div>
-        </section>
-        <div class="lesson-navline lesson-navline-bottom">
-          <a href="./lesson-11.html">上一节</a>
-          <a href="./index.html">教程目录</a>
-          <a href="./lesson-13.html">下一节</a>
-        </div>
-        <footer>
-          <p>最后核对：2026-06-20。单节教程页，可从顶部“教程”菜单切换其他章节。</p>
-        </footer>
+        </article>
+        <footer><p>最后同步：2026-06-23。教程内容来自后台教程资料源，公开页面用于小白学习与共建。</p></footer>
       </main>
     </div>
   </body>

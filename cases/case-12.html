@@ -1,0 +1,120 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" /><title>Codex × Chrome：让 AI 直接控制浏览器 | baoge AI Codex 案例</title><link rel="stylesheet" href="../styles.css" /></head><body><header class="topbar">
+      <a class="brand" href="../index.html#top" aria-label="baoge AI 首页"><span class="brand-mark"><i></i><i></i><i></i></span><span>baoge AI</span></a>
+      <nav class="topnav" aria-label="主导航">
+        <a class="nav-link" href="../index.html#top">首页</a>
+        <a class="nav-link" href="../index.html#route">学习路线</a>
+        <a class="nav-link" href="../index.html#entry">入口地图</a>
+        <div class="nav-item"><a class="nav-link has-menu" href="../index.html#config">配置</a><div class="dropdown"><a href="../index.html#config"><b>配置总览</b><span>安装、权限、文件夹和排障</span></a><a href="../tutorials/lesson-08.html"><b>权限管理</b><span>只读、可写、审批和发布</span></a></div></div>
+        <div class="nav-item"><a class="nav-link has-menu" href="../index.html#official">资源</a><div class="dropdown"><a href="../index.html#official"><b>官方资料</b><span>OpenAI Codex 文档与更新</span></a><a href="../index.html#codex-latest"><b>Codex 最新</b><span>官网新能力和站点更新记录</span></a></div></div>
+        <div class="nav-item"><a class="nav-link has-menu" href="../tutorials/index.html">教程</a><div class="dropdown dropdown-lessons"><a href="../tutorials/lesson-01.html">01 Codex 桌面 App 下载与安装</a>
+            <a href="../tutorials/lesson-02.html">02 订阅 ChatGPT Plus / Pro</a>
+            <a href="../tutorials/lesson-03.html">03 了解 Codex 基本组成</a>
+            <a href="../tutorials/lesson-04.html">04 用手机端 Codex 跟进桌面任务</a>
+            <a href="../tutorials/lesson-05.html">05 连接第三方 API</a>
+            <a href="../tutorials/lesson-06.html">06 用 Codex 完成第一个任务</a>
+            <a href="../tutorials/lesson-07.html">07 任务的顺序执行和并行</a>
+            <a href="../tutorials/lesson-08.html">08 权限管理</a>
+            <a href="../tutorials/lesson-09.html">09 Skills 和 Plugins</a>
+            <a href="../tutorials/lesson-10.html">10 自动化</a>
+            <a href="../tutorials/lesson-11.html">11 如何设置自己的 Codex 桌面宠物</a>
+            <a href="../tutorials/lesson-12.html">12 安装与登录</a>
+            <a href="../tutorials/lesson-13.html">13 第一次让 Codex 改代码</a>
+            <a href="../tutorials/lesson-14.html">14 在 VS Code 中使用 Codex</a>
+            <a href="../tutorials/lesson-15.html">15 AGENTS.md</a>
+            <a href="../tutorials/lesson-16.html">16 沙盒与审批：Codex 的安全护栏</a>
+            <a href="../tutorials/lesson-17.html">17 Codex Cloud：使用云端模式</a>
+            <a href="../tutorials/lesson-18.html">18 Hooks</a>
+            <a href="../tutorials/lesson-19.html">19 排障手册</a></div></div>
+        <div class="nav-item"><a class="nav-link has-menu active" href="./index.html">实战案例</a><div class="dropdown dropdown-lessons"><a href="./case-01.html">01 Codex × PPT Skill：一句话生成演示文稿</a>
+        <a href="./case-02.html">02 Codex × Draw.io MCP：AI 自动绘制架构图</a>
+        <a href="./case-03.html">03 Codex × Playwright MCP：让 AI 像人一样操控浏览器</a>
+        <a href="./case-04.html">04 Codex × HyperFrames：用代码生成动画视频</a>
+        <a href="./case-05.html">05 Codex × Obsidian：在知识库中自动生成配图</a>
+        <a href="./case-06.html">06 Codex × 飞书 CLI：一句话处理飞书数据</a>
+        <a href="./case-07.html">07 Codex × LLM Wiki：在 Obsidian 中搭建 AI 知识库</a>
+        <a href="./case-08.html">08 Codex × Figma MCP：让 AI 读懂你的设计稿</a>
+        <a href="./case-09.html">09 Codex × Notion MCP：打通你的知识工作空间</a>
+        <a href="./case-10.html">10 Codex × DKFile：AI 网页一键发布到公网</a>
+        <a href="./case-11.html">11 Codex × 云服务器：远程定位并修复 Bug</a>
+        <a href="./case-12.html">12 Codex × Chrome：让 AI 直接控制浏览器</a>
+        <a href="./case-13.html">13 Codex × GitHub Actions：CI 失败自动修复实测</a>
+        <a href="./case-14.html">14 Codex × 临床文献综述：把医学问题整理成可复核证据表</a>
+        <a href="./case-15.html">15 Codex × Hatch Pet：用一张照片生成专属宠物</a>
+        <a href="./case-16.html">16 Codex × 安卓手机：扫码连接，远程操控</a>
+        <a href="./references.html">参考来源与致谢</a></div></div>
+        <div class="nav-item"><a class="nav-link has-menu" href="../index.html#community">交流群</a><div class="dropdown dropdown-community"><img src="../assets/baoge-ai-wechat-community.png" alt="微信搜索尹天保，关注并回复 codex交流群" /></div></div>
+        <div class="nav-item"><a class="nav-link has-menu" href="../index.html#support">赞助商</a><div class="dropdown dropdown-right"><a href="../index.html#support"><b>资源位说明</b><span>工具、开源项目、共建伙伴</span></a><a href="../index.html#entry"><b>推荐工具</b><span>Codex、GitHub、飞书等入口</span></a></div></div>
+      </nav>
+      <div class="toolbar" aria-label="快捷操作"><a class="icon-link" href="../index.html#roadmap" aria-label="GitHub共建">GH</a><a class="search-button" href="./case-01.html" aria-label="查看案例">⌕</a></div>
+    </header><div class="layout tutorial-layout lesson-page-layout"><aside class="sidebar tutorial-sidebar" aria-label="实战案例目录"><div class="side-title">实战案例</div><a href="./index.html">案例总览</a><a href="./case-01.html">01 Codex × PPT Skill：一句话生成演示文稿</a>
+        <a href="./case-02.html">02 Codex × Draw.io MCP：AI 自动绘制架构图</a>
+        <a href="./case-03.html">03 Codex × Playwright MCP：让 AI 像人一样操控浏览器</a>
+        <a href="./case-04.html">04 Codex × HyperFrames：用代码生成动画视频</a>
+        <a href="./case-05.html">05 Codex × Obsidian：在知识库中自动生成配图</a>
+        <a href="./case-06.html">06 Codex × 飞书 CLI：一句话处理飞书数据</a>
+        <a href="./case-07.html">07 Codex × LLM Wiki：在 Obsidian 中搭建 AI 知识库</a>
+        <a href="./case-08.html">08 Codex × Figma MCP：让 AI 读懂你的设计稿</a>
+        <a href="./case-09.html">09 Codex × Notion MCP：打通你的知识工作空间</a>
+        <a href="./case-10.html">10 Codex × DKFile：AI 网页一键发布到公网</a>
+        <a href="./case-11.html">11 Codex × 云服务器：远程定位并修复 Bug</a>
+        <a class="active" href="./case-12.html">12 Codex × Chrome：让 AI 直接控制浏览器</a>
+        <a href="./case-13.html">13 Codex × GitHub Actions：CI 失败自动修复实测</a>
+        <a href="./case-14.html">14 Codex × 临床文献综述：把医学问题整理成可复核证据表</a>
+        <a href="./case-15.html">15 Codex × Hatch Pet：用一张照片生成专属宠物</a>
+        <a href="./case-16.html">16 Codex × 安卓手机：扫码连接，远程操控</a>
+        <a href="./references.html">参考来源与致谢</a></aside><main id="top" class="content tutorial-content lesson-page-content"><div class="lesson-navline"><a href="./case-11.html">上一页</a><a href="./index.html">案例总览</a><a href="./case-13.html">下一页</a></div><div class="doc-lesson"><article class="doc-main lesson doc-article"><p class="lesson-kicker">12 实战案例</p><h1>Codex × Chrome：让 AI 直接控制浏览器</h1><p class="lead">这个案例介绍如何让 Codex 借助浏览器相关能力完成网页操作任务，比如打开页面、搜索内容、点击结果和返回链接。</p><div class="source-note"><b>本站同步：</b><span>案例已从后台资料源同步为站内页面，可直接阅读；账号、付款、权限、客户数据等敏感动作请人工确认。</span></div><div class="doc-body"><p>这个案例介绍如何让 Codex 借助浏览器相关能力完成网页操作任务，比如打开页面、搜索内容、点击结果和返回链接。</p>
+<blockquote>
+<p>💡 
+<strong>最后核对</strong>
+官方资料最后核对日期：2026-05-27。本文参考 <a href="https://help.openai.com/en/articles/11369540-using-codex-with-your-chatgpt-plan" target="_blank" rel="noreferrer">Using Codex with your ChatGPT plan</a> 与 <a href="https://developers.openai.com/codex/explore/" target="_blank" rel="noreferrer">Codex use cases</a>。具体插件名称、安装流程和入口位置可能会随客户端版本或工作区配置变化。</p>
+</blockquote>
+<h2 id="section-1">适用场景</h2>
+<ul>
+<li>让 Codex 帮你在网页里搜索资料。</li>
+<li>让 Codex 打开某个站点并完成简单点击流程。</li>
+<li>在不离开当前工作区的前提下，把浏览器操作接入任务链路。</li>
+</ul>
+<h2 id="section-2">使用前先理解一件事</h2>
+<p>这里说的“控制浏览器”，更准确地说，是让 Codex 借助浏览器或浏览器插件能力去完成网页交互。不同工作区里，入口可能叫 <code>Chrome</code>、<code>Browser</code>，也可能表现为浏览器插件或内置浏览能力。</p>
+<p>因此，更稳妥的理解方式是：</p>
+<ol>
+<li>在当前工作区确认是否已经启用了相关浏览器能力。</li>
+<li>如果是第一次使用，按界面引导完成浏览器侧安装或授权。</li>
+<li>安装完成后，再在任务里明确告诉 Codex 你想让它做什么。</li>
+</ol>
+<h2 id="section-3">一个常见流程</h2>
+<p>如果你的客户端提供了 Chrome 相关插件或浏览器能力，常见流程通常类似这样：</p>
+<ol>
+<li>在 Codex 桌面 App 中找到对应的浏览器能力并启用。</li>
+<li>按引导完成浏览器侧的插件安装或连接配置。</li>
+<li>回到任务中，明确描述目标网页、搜索词和预期输出。</li>
+</ol>
+<p><figure class="article-shot"><img src="../assets/cases/case-12/img-01.png" alt="案例截图" loading="lazy" /><figcaption>操作截图</figcaption></figure></p>
+<p>第一次点击后会跳转到浏览器插件安装页，点击添加扩展即可</p>
+<p><figure class="article-shot"><img src="../assets/cases/case-12/img-02.png" alt="案例截图" loading="lazy" /><figcaption>操作截图</figcaption></figure></p>
+<h2 id="section-4">任务示例</h2>
+<p>你可以像下面这样给出一个明确任务：</p>
+<pre><code>请使用浏览器能力打开 Bilibili，搜索“RAG 知识库 教程”，找一个适合新手入门的视频，并把标题和链接返回给我。
+</code></pre>
+<p>一个类似任务完成后，Codex 可能会：</p>
+<ol>
+<li>打开目标站点。</li>
+<li>搜索你提供的关键词。</li>
+<li>进入相关结果页。</li>
+<li>把它认为最合适的结果链接返回给你。</li>
+</ol>
+<p><figure class="article-shot"><img src="../assets/cases/case-12/img-03.png" alt="案例截图" loading="lazy" /><figcaption>操作截图</figcaption></figure></p>
+<h2 id="section-5">你要重点检查什么</h2>
+<ul>
+<li>它打开的网站是不是你指定的那个站点。</li>
+<li>搜索词有没有被错误改写。</li>
+<li>点击结果后返回的是不是你真正需要的页面，而不是广告页或无关页。</li>
+<li>如果涉及登录态、个人数据或付费后台，是否会超出你愿意授权的范围。</li>
+</ul>
+<h2 id="section-6">风险提醒</h2>
+<ul>
+<li>浏览器相关能力通常比纯文本任务权限更高，第一次使用时建议从只读、低风险页面开始。</li>
+<li>不要直接让 Codex 操作带有支付、删除、发帖、提交表单等高风险页面，除非你准备全程复核。</li>
+<li>如果教程依赖插件安装，未来界面名称或入口位置可能变化，因此文档里应优先描述“能力和流程”，而不是把某个按钮位置写死。</li>
+</ul>
+</div></article><aside class="page-toc"><b>此页内容</b><a href="#section-1">适用场景</a><a href="#section-2">使用前先理解一件事</a><a href="#section-3">一个常见流程</a><a href="#section-4">任务示例</a><a href="#section-5">你要重点检查什么</a><a href="#section-6">风险提醒</a></aside></div><footer><p>最后同步：2026-06-23。案例为站内页面，方便公开阅读与后续共建。</p></footer></main></div></body></html>

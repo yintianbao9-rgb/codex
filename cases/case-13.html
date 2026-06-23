@@ -1,0 +1,175 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" /><title>Codex × GitHub Actions：CI 失败自动修复实测 | baoge AI Codex 案例</title><link rel="stylesheet" href="../styles.css" /></head><body><header class="topbar">
+      <a class="brand" href="../index.html#top" aria-label="baoge AI 首页"><span class="brand-mark"><i></i><i></i><i></i></span><span>baoge AI</span></a>
+      <nav class="topnav" aria-label="主导航">
+        <a class="nav-link" href="../index.html#top">首页</a>
+        <a class="nav-link" href="../index.html#route">学习路线</a>
+        <a class="nav-link" href="../index.html#entry">入口地图</a>
+        <div class="nav-item"><a class="nav-link has-menu" href="../index.html#config">配置</a><div class="dropdown"><a href="../index.html#config"><b>配置总览</b><span>安装、权限、文件夹和排障</span></a><a href="../tutorials/lesson-08.html"><b>权限管理</b><span>只读、可写、审批和发布</span></a></div></div>
+        <div class="nav-item"><a class="nav-link has-menu" href="../index.html#official">资源</a><div class="dropdown"><a href="../index.html#official"><b>官方资料</b><span>OpenAI Codex 文档与更新</span></a><a href="../index.html#codex-latest"><b>Codex 最新</b><span>官网新能力和站点更新记录</span></a></div></div>
+        <div class="nav-item"><a class="nav-link has-menu" href="../tutorials/index.html">教程</a><div class="dropdown dropdown-lessons"><a href="../tutorials/lesson-01.html">01 Codex 桌面 App 下载与安装</a>
+            <a href="../tutorials/lesson-02.html">02 订阅 ChatGPT Plus / Pro</a>
+            <a href="../tutorials/lesson-03.html">03 了解 Codex 基本组成</a>
+            <a href="../tutorials/lesson-04.html">04 用手机端 Codex 跟进桌面任务</a>
+            <a href="../tutorials/lesson-05.html">05 连接第三方 API</a>
+            <a href="../tutorials/lesson-06.html">06 用 Codex 完成第一个任务</a>
+            <a href="../tutorials/lesson-07.html">07 任务的顺序执行和并行</a>
+            <a href="../tutorials/lesson-08.html">08 权限管理</a>
+            <a href="../tutorials/lesson-09.html">09 Skills 和 Plugins</a>
+            <a href="../tutorials/lesson-10.html">10 自动化</a>
+            <a href="../tutorials/lesson-11.html">11 如何设置自己的 Codex 桌面宠物</a>
+            <a href="../tutorials/lesson-12.html">12 安装与登录</a>
+            <a href="../tutorials/lesson-13.html">13 第一次让 Codex 改代码</a>
+            <a href="../tutorials/lesson-14.html">14 在 VS Code 中使用 Codex</a>
+            <a href="../tutorials/lesson-15.html">15 AGENTS.md</a>
+            <a href="../tutorials/lesson-16.html">16 沙盒与审批：Codex 的安全护栏</a>
+            <a href="../tutorials/lesson-17.html">17 Codex Cloud：使用云端模式</a>
+            <a href="../tutorials/lesson-18.html">18 Hooks</a>
+            <a href="../tutorials/lesson-19.html">19 排障手册</a></div></div>
+        <div class="nav-item"><a class="nav-link has-menu active" href="./index.html">实战案例</a><div class="dropdown dropdown-lessons"><a href="./case-01.html">01 Codex × PPT Skill：一句话生成演示文稿</a>
+        <a href="./case-02.html">02 Codex × Draw.io MCP：AI 自动绘制架构图</a>
+        <a href="./case-03.html">03 Codex × Playwright MCP：让 AI 像人一样操控浏览器</a>
+        <a href="./case-04.html">04 Codex × HyperFrames：用代码生成动画视频</a>
+        <a href="./case-05.html">05 Codex × Obsidian：在知识库中自动生成配图</a>
+        <a href="./case-06.html">06 Codex × 飞书 CLI：一句话处理飞书数据</a>
+        <a href="./case-07.html">07 Codex × LLM Wiki：在 Obsidian 中搭建 AI 知识库</a>
+        <a href="./case-08.html">08 Codex × Figma MCP：让 AI 读懂你的设计稿</a>
+        <a href="./case-09.html">09 Codex × Notion MCP：打通你的知识工作空间</a>
+        <a href="./case-10.html">10 Codex × DKFile：AI 网页一键发布到公网</a>
+        <a href="./case-11.html">11 Codex × 云服务器：远程定位并修复 Bug</a>
+        <a href="./case-12.html">12 Codex × Chrome：让 AI 直接控制浏览器</a>
+        <a href="./case-13.html">13 Codex × GitHub Actions：CI 失败自动修复实测</a>
+        <a href="./case-14.html">14 Codex × 临床文献综述：把医学问题整理成可复核证据表</a>
+        <a href="./case-15.html">15 Codex × Hatch Pet：用一张照片生成专属宠物</a>
+        <a href="./case-16.html">16 Codex × 安卓手机：扫码连接，远程操控</a>
+        <a href="./references.html">参考来源与致谢</a></div></div>
+        <div class="nav-item"><a class="nav-link has-menu" href="../index.html#community">交流群</a><div class="dropdown dropdown-community"><img src="../assets/baoge-ai-wechat-community.png" alt="微信搜索尹天保，关注并回复 codex交流群" /></div></div>
+        <div class="nav-item"><a class="nav-link has-menu" href="../index.html#support">赞助商</a><div class="dropdown dropdown-right"><a href="../index.html#support"><b>资源位说明</b><span>工具、开源项目、共建伙伴</span></a><a href="../index.html#entry"><b>推荐工具</b><span>Codex、GitHub、飞书等入口</span></a></div></div>
+      </nav>
+      <div class="toolbar" aria-label="快捷操作"><a class="icon-link" href="../index.html#roadmap" aria-label="GitHub共建">GH</a><a class="search-button" href="./case-01.html" aria-label="查看案例">⌕</a></div>
+    </header><div class="layout tutorial-layout lesson-page-layout"><aside class="sidebar tutorial-sidebar" aria-label="实战案例目录"><div class="side-title">实战案例</div><a href="./index.html">案例总览</a><a href="./case-01.html">01 Codex × PPT Skill：一句话生成演示文稿</a>
+        <a href="./case-02.html">02 Codex × Draw.io MCP：AI 自动绘制架构图</a>
+        <a href="./case-03.html">03 Codex × Playwright MCP：让 AI 像人一样操控浏览器</a>
+        <a href="./case-04.html">04 Codex × HyperFrames：用代码生成动画视频</a>
+        <a href="./case-05.html">05 Codex × Obsidian：在知识库中自动生成配图</a>
+        <a href="./case-06.html">06 Codex × 飞书 CLI：一句话处理飞书数据</a>
+        <a href="./case-07.html">07 Codex × LLM Wiki：在 Obsidian 中搭建 AI 知识库</a>
+        <a href="./case-08.html">08 Codex × Figma MCP：让 AI 读懂你的设计稿</a>
+        <a href="./case-09.html">09 Codex × Notion MCP：打通你的知识工作空间</a>
+        <a href="./case-10.html">10 Codex × DKFile：AI 网页一键发布到公网</a>
+        <a href="./case-11.html">11 Codex × 云服务器：远程定位并修复 Bug</a>
+        <a href="./case-12.html">12 Codex × Chrome：让 AI 直接控制浏览器</a>
+        <a class="active" href="./case-13.html">13 Codex × GitHub Actions：CI 失败自动修复实测</a>
+        <a href="./case-14.html">14 Codex × 临床文献综述：把医学问题整理成可复核证据表</a>
+        <a href="./case-15.html">15 Codex × Hatch Pet：用一张照片生成专属宠物</a>
+        <a href="./case-16.html">16 Codex × 安卓手机：扫码连接，远程操控</a>
+        <a href="./references.html">参考来源与致谢</a></aside><main id="top" class="content tutorial-content lesson-page-content"><div class="lesson-navline"><a href="./case-12.html">上一页</a><a href="./index.html">案例总览</a><a href="./case-14.html">下一页</a></div><div class="doc-lesson"><article class="doc-main lesson doc-article"><p class="lesson-kicker">13 实战案例</p><h1>Codex × GitHub Actions：CI 失败自动修复实测</h1><p class="lead">这篇文章记录了一次真实的实测：CI 一挂，Codex 自动读代码、找问题、改好、开 PR，等你合并，全程不需要人工介入。</p><div class="source-note"><b>本站同步：</b><span>案例已从后台资料源同步为站内页面，可直接阅读；账号、付款、权限、客户数据等敏感动作请人工确认。</span></div><div class="doc-body"><p>这篇文章记录了一次真实的实测：CI 一挂，Codex 自动读代码、找问题、改好、开 PR，等你合并，全程不需要人工介入。</p>
+<p>演示用的是一个购物车项目。</p>
+<h2 id="section-1">传统方式是什么样的</h2>
+<p>CI 失败是开发日常里很常见的事，但处理起来并不轻松。</p>
+<p>通常的流程是这样的：收到邮件或消息通知 → 打开 CI 日志，逐行看报错 → 切换到本地，找到出问题的代码 → 修复、提交、再推一次 → 等 CI 重新跑，确认通过 → 开 PR，等人审查合并。</p>
+<p>整个链路全靠人在中间串起来。如果报错信息不明确，还要加上一段排查时间。遇到下班时间或者跨时区协作，一个 CI 失败拖到第二天才处理也很正常。</p>
+<p>引入 Codex 之后，这条链路发生了变化：CI 一失败，工作流自动触发 Codex，它自己读代码、定位问题、修好、开 PR。你需要做的，只是最后审一眼、点 Merge。</p>
+<h2 id="section-2">错误发生在哪里</h2>
+<p>项目的核心逻辑是计算购物车总价，满 100 减 20。</p>
+<p>折扣函数里埋了一个 bug：减号被写成了加号。</p>
+<pre><code>// 错误的代码
+if (total &gt;= 100) {
+    return total + 20;  // 应该是减号
+}
+</code></pre>
+<p>效果是：原价 120 元的商品，打完折后变成 140 元，越打折越贵。</p>
+<h2 id="section-3">提交后 CI 报了什么错</h2>
+<p>代码推到 GitHub 后，CI 自动跑测试，大约一分钟后失败。</p>
+<p><figure class="article-shot"><img src="../assets/cases/case-13/img-01.png" alt="案例截图" loading="lazy" /><figcaption>操作截图</figcaption></figure></p>
+<p>点进去看报错：</p>
+<p><figure class="article-shot"><img src="../assets/cases/case-13/img-02.png" alt="案例截图" loading="lazy" /><figcaption>操作截图</figcaption></figure></p>
+<p>测试期望拿到 100，实际拿到 140。错误直接指向了折扣计算的问题，非常明确。</p>
+<h2 id="section-4">配置文件长什么样</h2>
+<p>让 Codex 自动介入的关键，是在仓库里放一个 GitHub Actions 工作流文件。完整配置如下：</p>
+<pre><code>name: Codex Auto-Fix on Failure
+on:
+  workflow_run:
+    workflows: [&quot;CI&quot;]
+    types: [completed]
+permissions:
+  contents: write
+  pull-requests: write
+jobs:
+  auto-fix:
+    if: ${{ github.event.workflow_run.conclusion == &#39;failure&#39; }}
+    runs-on: ubuntu-latest
+    env:
+      OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      FAILED_WORKFLOW_NAME: ${{ github.event.workflow_run.name }}
+      FAILED_RUN_URL: ${{ github.event.workflow_run.html_url }}
+      FAILED_HEAD_BRANCH: ${{ github.event.workflow_run.head_branch }}
+      FAILED_HEAD_SHA: ${{ github.event.workflow_run.head_sha }}
+    steps:
+      - name: Checkout Failing Ref
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ env.FAILED_HEAD_SHA }}
+          fetch-depth: 0
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: &#39;20&#39;
+      - name: Install dependencies
+        run: npm install
+      - name: Run Codex
+        uses: openai/codex-action@main
+        with:
+          openai-api-key: ${{ secrets.OPENAI_API_KEY }}
+          prompt: &quot;这是一个 Node.js 项目，使用 Jest 做测试。请读取仓库代码，运行测试套件，找到导致测试失败的最小改动范围，修复它，然后停止。不要修改与失败无关的代码。&quot;
+          sandbox: workspace-write
+      - name: Verify tests pass
+        run: npm test --silent
+      - name: Create Pull Request
+        if: success()
+        uses: peter-evans/create-pull-request@v6
+        with:
+          commit-message: &quot;fix: Codex 自动修复失败的测试&quot;
+          branch: codex/auto-fix-${{ github.event.workflow_run.run_id }}
+          base: ${{ env.FAILED_HEAD_BRANCH }}
+          title: &quot;🤖 Codex 自动修复 CI 失败&quot;
+          body: |
+            Codex 检测到 CI 失败，自动生成了这个修复 PR。
+
+            失败的工作流：${{ env.FAILED_WORKFLOW_NAME }}
+            失败记录链接：${{ env.FAILED_RUN_URL }}
+
+            请检查改动内容，确认无误后合并。
+</code></pre>
+<p>几个值得注意的地方：</p>
+<p><strong>触发与过滤</strong>：监听名为 &quot;CI&quot; 的工作流，等它跑完再判断结果。<code>conclusion == &#39;failure&#39;</code> 确保只在失败时才真正执行，成功的话这个 job 直接跳过，不消耗资源。</p>
+<p><strong>记录失败现场</strong>：把失败那次 run 的分支、提交 SHA、日志链接都存进环境变量。这些信息最终会写进 PR 描述，方便事后追溯是哪次 CI 触发了这个修复。</p>
+<p><strong>检出失败的代码</strong>：<code>ref: ${{ env.FAILED_HEAD_SHA }}</code> 拉取失败那次提交的代码，确保 Codex 改的是真正出问题的版本。</p>
+<p><strong>Codex 修复</strong>：使用官方的 <code>openai/codex-action@main</code>，prompt 用中文写清楚要求——跑测试、找最小改动范围、修完停手，不碰无关代码。<code>sandbox: workspace-write</code> 允许它写文件。</p>
+<p><strong>先验证再开 PR</strong>：Codex 改完后先跑一次 <code>npm test</code>，确认测试通过了才执行 <code>create-pull-request</code>。<code>if: success()</code> 保证改错了的话不会开出一个还是红的 PR。</p>
+<h2 id="section-5">告诉 Codex 去做什么</h2>
+<p>CI 失败后，配置好的 Codex 工作流自动触发。它做了三件事：读取仓库代码、运行测试套件、定位问题并修改。</p>
+<p><figure class="article-shot"><img src="../assets/cases/case-13/img-03.png" alt="案例截图" loading="lazy" /><figcaption>操作截图</figcaption></figure></p>
+<p>整个过程大约一分钟。</p>
+<h2 id="section-6">修复过程中遇到了什么问题</h2>
+<p>实测踩了两个坑，记录在这里。</p>
+<p><strong>第一个坑：PR 权限没开</strong></p>
+<p>Codex 改好了代码，但开 PR 那步报错：</p>
+<pre><code>Error: GitHub Actions is not permitted to create or approve pull requests.
+</code></pre>
+<p>GitHub 仓库默认不允许 Actions 创建 PR，需要在 Settings 里手动开启。</p>
+<p><figure class="article-shot"><img src="../assets/cases/case-13/img-04.png" alt="案例截图" loading="lazy" /><figcaption>操作截图</figcaption></figure></p>
+<p>开启后重新触发，正常。</p>
+<p><strong>第二个坑：失败也计费</strong></p>
+<p>调试阶段反复触发了几次，最终账单是 $0.40。</p>
+<p>API 按 token 计费，不按成功次数——只要 AI 启动并读了代码，费用就已经产生。正常情况下一次成功的修复大约 $0.05–$0.10，多花的是调试成本。</p>
+<h2 id="section-7">修复成功后的结果</h2>
+<p>工作流跑完变绿，Pull Requests 页面出现一条自动生成的 PR。</p>
+<p><figure class="article-shot"><img src="../assets/cases/case-13/img-05.png" alt="案例截图" loading="lazy" /><figcaption>操作截图</figcaption></figure></p>
+<p>点进去看它改了什么：</p>
+<p><figure class="article-shot"><img src="../assets/cases/case-13/img-06.png" alt="案例截图" loading="lazy" /><figcaption>操作截图</figcaption></figure></p>
+<p>就改了这一个字符，其他代码一行没动。</p>
+<p>点 Merge，完成。</p>
+<h2 id="section-8">小结</h2>
+<p>这次实测验证了 Codex 通过 GitHub Actions 自动修复 CI 的能力是真实可用的——能准确定位问题、只改必要的代码、修完自动开 PR。</p>
+<p>有两点值得提前了解：一是 GitHub 仓库的 PR 权限需要手动开启，否则最后一步会失败；二是 API 按用量计费，调试阶段的失败也会产生费用，建议在 OpenAI 后台设置一个月度消费上限。</p>
+</div></article><aside class="page-toc"><b>此页内容</b><a href="#section-1">传统方式是什么样的</a><a href="#section-2">错误发生在哪里</a><a href="#section-3">提交后 CI 报了什么错</a><a href="#section-4">配置文件长什么样</a><a href="#section-5">告诉 Codex 去做什么</a><a href="#section-6">修复过程中遇到了什么问题</a><a href="#section-7">修复成功后的结果</a><a href="#section-8">小结</a></aside></div><footer><p>最后同步：2026-06-23。案例为站内页面，方便公开阅读与后续共建。</p></footer></main></div></body></html>
