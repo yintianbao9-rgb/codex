@@ -1,0 +1,113 @@
+# baoge AI 行业与 Codex 更新采集摘要
+
+- 采集时间 UTC：20260624T042119Z
+- 来源数量：14
+- 成功页面：11
+- 失败页面：3
+- 关键词命中：201
+
+## 重点命中
+
+### Codex Changelog
+- 类型：official
+- URL：https://developers.openai.com/codex/changelog
+- **Codex**：Changelog – Codex | OpenAI Developers Home API Docs Guides and concepts for the OpenAI API API reference Endpoints, parameters, and responses Codex Docs Guides, concepts, and product docs for Codex Use cases Example workflows and tasks teams hand to Codex Chat
+- **ChatGPT**：parameters, and responses Codex Docs Guides, concepts, and product docs for Codex Use cases Example workflows and tasks teams hand to Codex ChatGPT Apps SDK Build apps to extend ChatGPT Workspace Agents Trigger published ChatGPT workspace agents Commerce Build
+- **agent**：nd product docs for Codex Use cases Example workflows and tasks teams hand to Codex ChatGPT Apps SDK Build apps to extend ChatGPT Workspace Agents Trigger published ChatGPT workspace agents Commerce Build commerce flows in ChatGPT Ads Publish and measure ads i
+- **agents**：nd product docs for Codex Use cases Example workflows and tasks teams hand to Codex ChatGPT Apps SDK Build apps to extend ChatGPT Workspace Agents Trigger published ChatGPT workspace agents Commerce Build commerce flows in ChatGPT Ads Publish and measure ads i
+- **automation**：emories Chronicle Sandboxing Auto-review Subagents Workflows Models Cyber Safety Glossary Using Codex App Overview Features Settings Review Automations Worktrees Local Environments In-app browser Chrome extension Computer Use Appshots Commands Windows Troubles
+
+### Codex App
+- 类型：official
+- URL：https://developers.openai.com/codex/app
+- **Codex**：App – Codex | OpenAI Developers Home API Docs Guides and concepts for the OpenAI API API reference Endpoints, parameters, and responses Codex Docs Guides, concepts, and product docs for Codex Use cases Example workflows and tasks teams hand to Codex ChatGPT Ap
+- **ChatGPT**：parameters, and responses Codex Docs Guides, concepts, and product docs for Codex Use cases Example workflows and tasks teams hand to Codex ChatGPT Apps SDK Build apps to extend ChatGPT Workspace Agents Trigger published ChatGPT workspace agents Commerce Build
+- **agent**：nd product docs for Codex Use cases Example workflows and tasks teams hand to Codex ChatGPT Apps SDK Build apps to extend ChatGPT Workspace Agents Trigger published ChatGPT workspace agents Commerce Build commerce flows in ChatGPT Ads Publish and measure ads i
+- **agents**：nd product docs for Codex Use cases Example workflows and tasks teams hand to Codex ChatGPT Apps SDK Build apps to extend ChatGPT Workspace Agents Trigger published ChatGPT workspace agents Commerce Build commerce flows in ChatGPT Ads Publish and measure ads i
+- **automation**：emories Chronicle Sandboxing Auto-review Subagents Workflows Models Cyber Safety Glossary Using Codex App Overview Features Settings Review Automations Worktrees Local Environments In-app browser Chrome extension Computer Use Appshots Commands Windows Troubles
+
+### Codex CLI
+- 类型：official
+- URL：https://developers.openai.com/codex/cli
+- **Codex**：CLI – Codex | OpenAI Developers Home API Docs Guides and concepts for the OpenAI API API reference Endpoints, parameters, and responses Codex Docs Guides, concepts, and product docs for Codex Use cases Example workflows and tasks teams hand to Codex ChatGPT Ap
+- **ChatGPT**：parameters, and responses Codex Docs Guides, concepts, and product docs for Codex Use cases Example workflows and tasks teams hand to Codex ChatGPT Apps SDK Build apps to extend ChatGPT Workspace Agents Trigger published ChatGPT workspace agents Commerce Build
+- **agent**：nd product docs for Codex Use cases Example workflows and tasks teams hand to Codex ChatGPT Apps SDK Build apps to extend ChatGPT Workspace Agents Trigger published ChatGPT workspace agents Commerce Build commerce flows in ChatGPT Ads Publish and measure ads i
+- **agents**：nd product docs for Codex Use cases Example workflows and tasks teams hand to Codex ChatGPT Apps SDK Build apps to extend ChatGPT Workspace Agents Trigger published ChatGPT workspace agents Commerce Build commerce flows in ChatGPT Ads Publish and measure ads i
+- **automation**：emories Chronicle Sandboxing Auto-review Subagents Workflows Models Cyber Safety Glossary Using Codex App Overview Features Settings Review Automations Worktrees Local Environments In-app browser Chrome extension Computer Use Appshots Commands Windows Troubles
+
+### Codex IDE
+- 类型：official
+- URL：https://developers.openai.com/codex/ide
+- **Codex**：IDE extension – Codex | OpenAI Developers Home API Docs Guides and concepts for the OpenAI API API reference Endpoints, parameters, and responses Codex Docs Guides, concepts, and product docs for Codex Use cases Example workflows and tasks teams hand to Codex 
+- **ChatGPT**：parameters, and responses Codex Docs Guides, concepts, and product docs for Codex Use cases Example workflows and tasks teams hand to Codex ChatGPT Apps SDK Build apps to extend ChatGPT Workspace Agents Trigger published ChatGPT workspace agents Commerce Build
+- **agent**：nd product docs for Codex Use cases Example workflows and tasks teams hand to Codex ChatGPT Apps SDK Build apps to extend ChatGPT Workspace Agents Trigger published ChatGPT workspace agents Commerce Build commerce flows in ChatGPT Ads Publish and measure ads i
+- **agents**：nd product docs for Codex Use cases Example workflows and tasks teams hand to Codex ChatGPT Apps SDK Build apps to extend ChatGPT Workspace Agents Trigger published ChatGPT workspace agents Commerce Build commerce flows in ChatGPT Ads Publish and measure ads i
+- **automation**：emories Chronicle Sandboxing Auto-review Subagents Workflows Models Cyber Safety Glossary Using Codex App Overview Features Settings Review Automations Worktrees Local Environments In-app browser Chrome extension Computer Use Appshots Commands Windows Troubles
+
+### Codex Authentication
+- 类型：official
+- URL：https://developers.openai.com/codex/auth
+- **Codex**：Authentication – Codex | OpenAI Developers Home API Docs Guides and concepts for the OpenAI API API reference Endpoints, parameters, and responses Codex Docs Guides, concepts, and product docs for Codex Use cases Example workflows and tasks teams hand to Codex
+- **ChatGPT**：parameters, and responses Codex Docs Guides, concepts, and product docs for Codex Use cases Example workflows and tasks teams hand to Codex ChatGPT Apps SDK Build apps to extend ChatGPT Workspace Agents Trigger published ChatGPT workspace agents Commerce Build
+- **agent**：nd product docs for Codex Use cases Example workflows and tasks teams hand to Codex ChatGPT Apps SDK Build apps to extend ChatGPT Workspace Agents Trigger published ChatGPT workspace agents Commerce Build commerce flows in ChatGPT Ads Publish and measure ads i
+- **agents**：nd product docs for Codex Use cases Example workflows and tasks teams hand to Codex ChatGPT Apps SDK Build apps to extend ChatGPT Workspace Agents Trigger published ChatGPT workspace agents Commerce Build commerce flows in ChatGPT Ads Publish and measure ads i
+- **automation**：emories Chronicle Sandboxing Auto-review Subagents Workflows Models Cyber Safety Glossary Using Codex App Overview Features Settings Review Automations Worktrees Local Environments In-app browser Chrome extension Computer Use Appshots Commands Windows Troubles
+
+### Codex Config Reference
+- 类型：official
+- URL：https://developers.openai.com/codex/config-reference
+- **Codex**：Configuration Reference – Codex | OpenAI Developers Home API Docs Guides and concepts for the OpenAI API API reference Endpoints, parameters, and responses Codex Docs Guides, concepts, and product docs for Codex Use cases Example workflows and tasks teams hand
+- **ChatGPT**：parameters, and responses Codex Docs Guides, concepts, and product docs for Codex Use cases Example workflows and tasks teams hand to Codex ChatGPT Apps SDK Build apps to extend ChatGPT Workspace Agents Trigger published ChatGPT workspace agents Commerce Build
+- **agent**：nd product docs for Codex Use cases Example workflows and tasks teams hand to Codex ChatGPT Apps SDK Build apps to extend ChatGPT Workspace Agents Trigger published ChatGPT workspace agents Commerce Build commerce flows in ChatGPT Ads Publish and measure ads i
+- **agents**：nd product docs for Codex Use cases Example workflows and tasks teams hand to Codex ChatGPT Apps SDK Build apps to extend ChatGPT Workspace Agents Trigger published ChatGPT workspace agents Commerce Build commerce flows in ChatGPT Ads Publish and measure ads i
+- **automation**：emories Chronicle Sandboxing Auto-review Subagents Workflows Models Cyber Safety Glossary Using Codex App Overview Features Settings Review Automations Worktrees Local Environments In-app browser Chrome extension Computer Use Appshots Commands Windows Troubles
+
+### openai/codex Releases
+- 类型：github
+- URL：https://github.com/openai/codex/releases
+- **Codex**：Releases · openai/codex · GitHub Skip to content Navigation Menu Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry New Integrate ex
+- **ChatGPT**：ified mention selection visibility @canvrno-oai #27132 Emit Trusted MCP App Identity on Tool-Call Items @martinauyeung-oai #19049 feat: opt ChatGPT auth into agent identity @adrian-openai #28770 [connectors] Ignore synthetic links for app accessibility @adaley
+- **agent**：Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Co
+- **agents**：Toggle navigation Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry New Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Co
+- **CLI**：across agent threads, provide remaining-budget reminders, and abort turns when exhausted. ( #28746 , #28494 , #28707 , #29423 ) App-server clients can configure multi-agent delegation as disabled, explicit-request-only, or proactive at the thread and turn leve
+
+### GitHub AI & ML Blog
+- 类型：industry
+- URL：https://github.blog/ai-and-ml/
+- **agent**：se 40 automations to help, and learn more about some of my favorites. Ashley Willis · June 23, 2026 How we built an internal data analytics agent Qubot, our internal Copilot-powered analytics agent, allows any GitHub employee to ask questions about our data in
+- **agents**：g brute-force grep/decompile with real code intelligence. Bruno Borges · June 10, 2026 From one-off prompts to workflows: How to use custom agents in GitHub Copilot CLI Custom agents let GitHub Copilot CLI understand your stack and team workflows, turning one-
+- **automation**：ift security left. Learn more Enterprise software Enterprise software Explore how to write, build, and deploy enterprise software at scale. Automation Automating your way to faster and more secure ships. CI/CD Guides on continuous integration and delivery. Col
+- **automations**：documentation . Featured I automated my job (and it made me a better leader) Explore how my day as a senior leader looks now that I use 40 automations to help, and learn more about some of my favorites. Ashley Willis · June 23, 2026 How we built an internal da
+- **CLI**：The latest on AI & ML - The GitHub Blog Skip to content / Blog Changelog Docs Customer stories Try GitHub Copilot CLI Attend GitHub Universe AI & ML AI & ML Learn about artificial intelligence and machine learning across the GitHub ecosystem and the wider indu
+
+### GitHub Changelog
+- 类型：industry
+- URL：https://github.blog/changelog/
+- **Codex**：mprovement IP allow list coverage for EMU namespaces in general availability enterprise management tools Jun.05 Retired GPT-5.2 and GPT-5.2-Codex deprecated copilot Jun.05 Improvement CodeQL 2.25.6 adds Swift 6.3.2 support and improves C# coverage application 
+- **agent**：r Dependabot supply chain security Jun.23 Release GitHub Copilot app support for BYOK copilot Jun.22 Improvement New features and Claude as agent provider preview in JetBrains IDEs copilot Jun.19 Release AI credits consumed per user now in the Copilot usage me
+- **agents**：Opus 4.6 (fast) copilot Jun.18 Release MAI-Code-1-Flash available on more Copilot surfaces copilot Jun.18 Improvement Copilot code review: AGENTS.md support and UI improvements copilot Jun.18 Release Detecting Duplicate Issues &#8211; Public Preview and issue 
+- **CLI**：GitHub Changelog Skip to content / Blog Changelog Docs Customer stories Try GitHub Copilot CLI Attend GitHub Universe Search Changelog Docs Customer stories Attend GitHub Universe Try GitHub Copilot CLI Back to blog Changelog Copy RSS feed URL Follow @ghchange
+- **IDE**：ot supply chain security Jun.23 Release GitHub Copilot app support for BYOK copilot Jun.22 Improvement New features and Claude as agent provider preview in JetBrains IDEs copilot Jun.19 Release AI credits consumed per user now in the Copilot usage metrics API 
+
+### Anthropic News
+- 类型：industry
+- URL：https://www.anthropic.com/news
+- **agent**：ountries. Product May 28, 2026 Introducing Claude Opus 4.8 An upgrade to our Opus class of models, with stronger performance across coding, agentic tasks, and professional work, and the consistency to handle long-running work. News Search Date Category Title J
+- **agents**：Claude for Chrome Claude for Microsoft 365 Skills Download app Pricing Log in to Claude Models Mythos Fable Opus Sonnet Haiku Solutions AI agents Code modernization Coding Customer support Education Enterprise Financial services Government Healthcare Legal Lif
+- **Chrome**：ed cyber threats See more Products Claude Claude Code Claude Code Enterprise Claude Cowork @Claude Claude Design Claude Security Claude for Chrome Claude for Microsoft 365 Skills Download app Pricing Log in to Claude Models Mythos Fable Opus Sonnet Haiku Solut
+- **IDE**：oundry Console login Resources Blog Claude partner network Community Connectors Courses Customer stories Engineering at Anthropic Events Inside Claude Code Inside Claude Cowork Inside Claude Enterprise Plugins Powered by Claude Service partners Tutorials Use c
+- **plugins**：munity Connectors Courses Customer stories Engineering at Anthropic Events Inside Claude Code Inside Claude Cowork Inside Claude Enterprise Plugins Powered by Claude Service partners Tutorials Use cases Help and security Availability Status Support center Comp
+
+### Google AI Developers Blog
+- 类型：industry
+- URL：https://developers.googleblog.com/en/search/?query=Gemini
+- **agent**：h Smart Home TensorFlow TV Wallet Wear OS Workspace Technology Select all AI Cloud Mobile Web JUNE 22, 2026 / AI Build Cross-Language Multi-Agent Team with Google’s Agent Development Kit and A2A How a Python agent and a Go agent collaborate on contract complia
+- **agents**：agent collaborate on contract compliance using the Agent2Agent protocolY... JUNE 18, 2026 / AI How A2A is Building a World of Collaborative Agents Celebrating the first anniversary of the Agent-to-Agent (A2A) protocol, this blog post highlights how the framewo
+- **browser**：being transformed through Chrome DevTools for agents, the HTML-in-Canvas API, and the proposal of WebMCP, an open web standard that enables browser-based AI agents to execute complex tasks. MAY 12, 2026 / AI Build Long-running AI agents that pause, resume, and
+- **Chrome**：Management/Agile Q&A Release Notes Solutions Testing TotT Tutorials Product Select all Ads AI Edge Android Angular AR Assistant Auto Checks Chrome OS Chrome Web Cloud DeepMind Design Engineering Firebase Flutter Gemini Gemma Geo Go Google AI Studio Google Labs
+- **CLI**：ific tasks to local, on-device models like Gemini Nano to enhance user privacy. MAY 19, 2026 / AI An important update: Transitioning Gemini CLI to Antigravity CLI Google is unifying its AI terminal tools by transitioning the community-focused Gemini CLI into A
+
+## 本次失败源
+- ChatGPT Release Notes：403 HTTP Error 403: Forbidden
+- OpenAI News：403 HTTP Error 403: Forbidden
+- OpenAI Research：403 HTTP Error 403: Forbidden
