@@ -1,0 +1,3 @@
+{"id": "chatgpt_release_notes", "title": "ChatGPT Release Notes", "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes", "type": "official", "fetched_at": "20260630T042143Z", "status": 403, "error": "HTTP Error 403: Forbidden", "hits": [], "text_sample": ""}
+{"id": "openai_news", "title": "OpenAI News", "url": "https://openai.com/news/", "type": "industry", "fetched_at": "20260630T042143Z", "status": 403, "error": "HTTP Error 403: Forbidden", "hits": [], "text_sample": ""}
+{"id": "openai_research", "title": "OpenAI Research", "url": "https://openai.com/research/", "type": "industry", "fetched_at": "20260630T042143Z", "status": 403, "error": "HTTP Error 403: Forbidden", "hits": [], "text_sample": ""}
