@@ -1,0 +1,113 @@
+# baoge AI 行业与 Codex 更新采集摘要
+
+- 采集时间 UTC：20260923T043825Z
+- 来源数量：14
+- 成功页面：11
+- 失败页面：3
+- 关键词命中：189
+
+## 重点命中
+
+### Codex Changelog
+- 类型：official
+- URL：https://developers.openai.com/codex/changelog
+- **Codex**：ChatGPT & Codex changelog | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT Start searching API Dashboard Try ChatGPT Home API Codex Docs Guides
+- **ChatGPT**：ChatGPT & Codex changelog | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT Start searching API Dashboard Try ChatGPT Home API Codex Docs Guides
+- **agent**：lows and tasks teams can take on with ChatGPT or Codex Docs Use cases Training Resources ChatGPT Plugins Extend ChatGPT and Codex Workspace Agents Trigger published ChatGPT workspace agents Commerce Build commerce flows in ChatGPT Ads Publish and measure ads i
+- **agents**：lows and tasks teams can take on with ChatGPT or Codex Docs Use cases Training Resources ChatGPT Plugins Extend ChatGPT and Codex Workspace Agents Trigger published ChatGPT workspace agents Commerce Build commerce flows in ChatGPT Ads Publish and measure ads i
+- **automation**：European Economic Area, the United Kingdom, and Switzerland. You or your administrator must also enable Computer Use. Added bulk actions to automation run history so you can mark every run as read or archive eligible runs. Added thread handoff between local an
+
+### Codex App
+- 类型：official
+- URL：https://developers.openai.com/codex/app
+- **Codex**：versions of documentation pages are available by appending .md to the page URL. ChatGPT Start searching API Dashboard Try ChatGPT Home API Codex Docs Guides, concepts, and product docs for Codex Use cases Example workflows and tasks teams can take on with Chat
+- **ChatGPT**：ChatGPT desktop app | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT Start searching API Dashboard Try ChatGPT Home API Codex Docs Guides, conc
+- **agent**：lows and tasks teams can take on with ChatGPT or Codex Docs Use cases Training Resources ChatGPT Plugins Extend ChatGPT and Codex Workspace Agents Trigger published ChatGPT workspace agents Commerce Build commerce flows in ChatGPT Ads Publish and measure ads i
+- **agents**：lows and tasks teams can take on with ChatGPT or Codex Docs Use cases Training Resources ChatGPT Plugins Extend ChatGPT and Codex Workspace Agents Trigger published ChatGPT workspace agents Commerce Build commerce flows in ChatGPT Ads Publish and measure ads i
+- **browser**：ce Overview Workflows Projects and chats Sites Visualizations Scheduled tasks Long-running work Notifications Pets Codex Micro Capabilities Browser Computer use Voice Plugins Web search Image generation Image inputs Appshots Browser extension Work with files R
+
+### Codex CLI
+- 类型：official
+- URL：https://developers.openai.com/codex/cli
+- **Codex**：Codex CLI | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT Start searching API Dashboard Try ChatGPT Home API Codex Docs Guides, concepts, and 
+- **ChatGPT**：Codex CLI | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT Start searching API Dashboard Try ChatGPT Home API Codex Docs Guides, concepts, and 
+- **agent**：lows and tasks teams can take on with ChatGPT or Codex Docs Use cases Training Resources ChatGPT Plugins Extend ChatGPT and Codex Workspace Agents Trigger published ChatGPT workspace agents Commerce Build commerce flows in ChatGPT Ads Publish and measure ads i
+- **agents**：lows and tasks teams can take on with ChatGPT or Codex Docs Use cases Training Resources ChatGPT Plugins Extend ChatGPT and Codex Workspace Agents Trigger published ChatGPT workspace agents Commerce Build commerce flows in ChatGPT Ads Publish and measure ads i
+- **automation**：re the CLI reference Configure Codex Automate with codex exec See what Codex CLI can do Use one focused terminal loop for interactive work, automation, review, and delegation. 01 Keep the coding loop in your terminal Start Codex in a repository to explore unfa
+
+### Codex IDE
+- 类型：official
+- URL：https://developers.openai.com/codex/ide
+- **Codex**：Codex IDE extension | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT Start searching API Dashboard Try ChatGPT Home API Codex Docs Guides, conc
+- **ChatGPT**：Codex IDE extension | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT Start searching API Dashboard Try ChatGPT Home API Codex Docs Guides, conc
+- **agent**：lows and tasks teams can take on with ChatGPT or Codex Docs Use cases Training Resources ChatGPT Plugins Extend ChatGPT and Codex Workspace Agents Trigger published ChatGPT workspace agents Commerce Build commerce flows in ChatGPT Ads Publish and measure ads i
+- **agents**：lows and tasks teams can take on with ChatGPT or Codex Docs Use cases Training Resources ChatGPT Plugins Extend ChatGPT and Codex Workspace Agents Trigger published ChatGPT workspace agents Commerce Build commerce flows in ChatGPT Ads Publish and measure ads i
+- **browser**：ce Overview Workflows Projects and chats Sites Visualizations Scheduled tasks Long-running work Notifications Pets Codex Micro Capabilities Browser Computer use Voice Plugins Web search Image generation Image inputs Appshots Browser extension Work with files R
+
+### Codex Authentication
+- 类型：official
+- URL：https://developers.openai.com/codex/auth
+- **Codex**：versions of documentation pages are available by appending .md to the page URL. ChatGPT Start searching API Dashboard Try ChatGPT Home API Codex Docs Guides, concepts, and product docs for Codex Use cases Example workflows and tasks teams can take on with Chat
+- **ChatGPT**：Authentication | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT Start searching API Dashboard Try ChatGPT Home API Codex Docs Guides, concepts,
+- **agent**：lows and tasks teams can take on with ChatGPT or Codex Docs Use cases Training Resources ChatGPT Plugins Extend ChatGPT and Codex Workspace Agents Trigger published ChatGPT workspace agents Commerce Build commerce flows in ChatGPT Ads Publish and measure ads i
+- **agents**：lows and tasks teams can take on with ChatGPT or Codex Docs Use cases Training Resources ChatGPT Plugins Extend ChatGPT and Codex Workspace Agents Trigger published ChatGPT workspace agents Commerce Build commerce flows in ChatGPT Ads Publish and measure ads i
+- **automation**：e menu to see the active account or API key status. Select Log out to clear the current credentials. Use Codex access tokens for enterprise automation In ChatGPT Enterprise workspaces, admins can grant the access token permission so permitted members can creat
+
+### Codex Config Reference
+- 类型：official
+- URL：https://developers.openai.com/codex/config-reference
+- **Codex**：versions of documentation pages are available by appending .md to the page URL. ChatGPT Start searching API Dashboard Try ChatGPT Home API Codex Docs Guides, concepts, and product docs for Codex Use cases Example workflows and tasks teams can take on with Chat
+- **ChatGPT**：Configuration Reference | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT Start searching API Dashboard Try ChatGPT Home API Codex Docs Guides, 
+- **agent**：lows and tasks teams can take on with ChatGPT or Codex Docs Use cases Training Resources ChatGPT Plugins Extend ChatGPT and Codex Workspace Agents Trigger published ChatGPT workspace agents Commerce Build commerce flows in ChatGPT Ads Publish and measure ads i
+- **agents**：lows and tasks teams can take on with ChatGPT or Codex Docs Use cases Training Resources ChatGPT Plugins Extend ChatGPT and Codex Workspace Agents Trigger published ChatGPT workspace agents Commerce Build commerce flows in ChatGPT Ads Publish and measure ads i
+- **browser**：ce Overview Workflows Projects and chats Sites Visualizations Scheduled tasks Long-running work Notifications Pets Codex Micro Capabilities Browser Computer use Voice Plugins Web search Image generation Image inputs Appshots Browser extension Work with files R
+
+### openai/codex Releases
+- 类型：github
+- URL：https://github.com/openai/codex/releases
+- **Codex**：Releases · openai/codex · GitHub Skip to content Navigation Menu Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry Integrate external tools DEVELOPER
+- **agent**：nt Navigation Menu Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codes
+- **agents**：nt Navigation Menu Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codes
+- **CLI**：74a77 New Features Choose an optional fullscreen UI with /tui for your next launch, including transcript search, mouse selection, and right-click copying. ( #46732 , #46734 , #46883 , #46895 ) Voice conversations are enabled by default, with an F8 toggle, a /v
+- **IDE**：when terminals send pasted text as individual keystrokes. ( #45457 , #45454 ) Restore Plan mode when resuming sessions and preserve thread identity and settings when editing earlier prompts. ( #45519 , #45845 ) Recover login through system proxies and refresh 
+
+### GitHub AI & ML Blog
+- 类型：industry
+- URL：https://github.blog/ai-and-ml/
+- **agent**：st. GPS · September 18, 2026 Migrating the GitHub Copilot runtime to Rust, using Copilot A rewrite this size wasn&#8217;t affordable before agents. Here&#8217;s what porting the Copilot agent runtime to 800,000 lines of production Rust actually took. Stephen T
+- **agents**：st. GPS · September 18, 2026 Migrating the GitHub Copilot runtime to Rust, using Copilot A rewrite this size wasn&#8217;t affordable before agents. Here&#8217;s what porting the Copilot agent runtime to 800,000 lines of production Rust actually took. Stephen T
+- **automation**：ift security left. Learn more Enterprise software Enterprise software Explore how to write, build, and deploy enterprise software at scale. Automation Automating your way to faster and more secure ships. CI/CD Guides on continuous integration and delivery. Col
+- **browser**：port GitHub&#8217;s APAC marketing team. Tomoko Tanaka · September 11, 2026 GitHub Copilot app for Beginners: Using the diff, terminal, and browser Checking agent-generated code usually means hopping between tabs. Learn how to view diffs, run terminal commands
+- **CLI**：ops feeling scary and starts feeling powerful. Kayla Cinnamon · September 3, 2026 Decoding the new AI lingo: Loops, harnesses, squads, hill climbing&#8230; oh my! From loop engineering to harnesses, squads, and open weights, the GitHub Podcast breaks down the 
+
+### GitHub Changelog
+- 类型：industry
+- URL：https://github.blog/changelog/
+- **agent**：ment Copilot impact dashboard now shows feature engagement account management copilot enterprise management tools ... +2 Sep.17 Improvement Agentic CLI customizations now in the usage metrics API account management copilot enterprise management tools ... +2 Se
+- **agents**：ection copilot Sep.11 Improvement Profiles now show your highest achievement badge tier community engagement Sep.11 Improvement Add VS Code Agents to Copilot usage metrics account management copilot enterprise management tools ... +2 Sep.11 Improvement Auto-re
+- **automation**：18 Retired Upcoming deprecation of selected GitHub Copilot models in mid-October copilot Sep.18 Improvement Stage-only npm tokens for safer automation supply chain security Sep.17 Improvement Copilot impact dashboard now shows feature engagement account manage
+- **CLI**：vements Retired Filters ( 0 selected ) Clear all Filters ( 0 selected ) Match: Any All Tags Account management Actions Application Security Client apps Collaboration tools Community engagement Copilot Ecosystem & accessibility Enterprise management tools Platf
+- **IDE**：eleases — August 31 copilot Sep.04 Release GPT-6 Astra is generally available in GitHub Copilot copilot Sep.04 Release New API endpoint provides privacy-safe star history data collaboration tools Sep.03 Release Multiple trusted publishing configurations for np
+
+### Anthropic News
+- 类型：industry
+- URL：https://www.anthropic.com/news
+- **agent**：Previewing the Model Hardware Standard We’re opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers. News
+- **agents**：Previewing the Model Hardware Standard We’re opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific research labs and advanced manufacturers. News
+- **Chrome**：er See more Products Claude Claude Code Claude Code Enterprise Claude Cowork @Claude Claude Design Claude Science Claude Security Claude in Chrome Claude for Microsoft 365 Skills Download app Pricing Log in to Claude Models Mythos Fable Opus Sonnet Haiku Solut
+- **IDE**：. Announcements Sep 10, 2026 Detecting and countering misuse of AI: September 2026 Over the past eight months, our Threat Intelligence team identified and disrupted operations in which threat actors tried to use Claude for malicious activity. In this report, w
+- **plugins**：le login Resources Blog Claude partner network Community Connectors Courses Customer stories Developer blog Engineering at Anthropic Events Plugins Powered by Claude Service partners Tutorials Use cases Programs Startups Scientists Help and security Availabili
+
+### Google AI Developers Blog
+- 类型：industry
+- URL：https://developers.googleblog.com/en/search/?query=Gemini
+- **agent**：pers with deterministic, multi-language SDK generators that natively support strict typing and SSE streaming, alongside tools for compiling agent-native CLIs and documentation MCP servers. Engineering teams can now safely integrate this robust tooling directly
+- **agents**：API to programmatically block subsequent tool calls when an agent breaches defined risk thresholds. SEPT. 15, 2026 / AI Build zero-trust AI agents that judge intent, not just syntax This blog post explores how to transition AI agents from static, build-time se
+- **Chrome**：Management/Agile Q&A Release Notes Solutions Testing TotT Tutorials Product Select all Ads AI Edge Android Angular AR Assistant Auto Checks Chrome OS Chrome Web Cloud DeepMind Design Engineering Firebase Flutter Gemini Gemma Geo Go Google AI Studio Google Labs
+- **CLI**：oogle AI. Subscribers now get priority accelerators, Premium GPUs, and background execution for long training runs. SEPT. 17, 2026 / AI Why client SDK generation belongs in the open Google has partnered with Speakeasy to open-source their OpenAPI code generati
+- **IDE**：Announcements Beginner Best Practices Business and Leadership Case Studies Code Health Community Documentation Events Explore Hard How-To Guides Industry Trends Intermediate Learn Performance Problem-Solving Project Management/Agile Q&A Release Notes Solutions
+
+## 本次失败源
+- ChatGPT Release Notes：403 HTTP Error 403: Forbidden
+- OpenAI News：403 HTTP Error 403: Forbidden
+- OpenAI Research：403 HTTP Error 403: Forbidden
