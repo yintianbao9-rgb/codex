@@ -4,7 +4,7 @@
     "title": "Codex Changelog",
     "url": "https://developers.openai.com/codex/changelog",
     "type": "official",
-    "fetched_at": "20261012T054754Z",
+    "fetched_at": "20261013T064159Z",
     "status": 200,
     "error": null,
     "page_title": "ChatGPT & Codex changelog | ChatGPT Learn",
@@ -113,7 +113,7 @@
     "title": "Codex App",
     "url": "https://developers.openai.com/codex/app",
     "type": "official",
-    "fetched_at": "20261012T054754Z",
+    "fetched_at": "20261013T064159Z",
     "status": 200,
     "error": null,
     "page_title": "ChatGPT desktop app | ChatGPT Learn",
@@ -210,7 +210,7 @@
     "title": "Codex CLI",
     "url": "https://developers.openai.com/codex/cli",
     "type": "official",
-    "fetched_at": "20261012T054754Z",
+    "fetched_at": "20261013T064159Z",
     "status": 200,
     "error": null,
     "page_title": "Codex CLI | ChatGPT Learn",
@@ -311,7 +311,7 @@
     "title": "Codex IDE",
     "url": "https://developers.openai.com/codex/ide",
     "type": "official",
-    "fetched_at": "20261012T054754Z",
+    "fetched_at": "20261013T064159Z",
     "status": 200,
     "error": null,
     "page_title": "Codex IDE extension | ChatGPT Learn",
@@ -408,7 +408,7 @@
     "title": "Codex Authentication",
     "url": "https://developers.openai.com/codex/auth",
     "type": "official",
-    "fetched_at": "20261012T054754Z",
+    "fetched_at": "20261013T064159Z",
     "status": 200,
     "error": null,
     "page_title": "Authentication | ChatGPT Learn",
@@ -509,7 +509,7 @@
     "title": "Codex Config Reference",
     "url": "https://developers.openai.com/codex/config-reference",
     "type": "official",
-    "fetched_at": "20261012T054754Z",
+    "fetched_at": "20261013T064159Z",
     "status": 200,
     "error": null,
     "page_title": "Configuration Reference | ChatGPT Learn",
@@ -614,7 +614,7 @@
     "title": "openai/codex Releases",
     "url": "https://github.com/openai/codex/releases",
     "type": "github",
-    "fetched_at": "20261012T054754Z",
+    "fetched_at": "20261013T064159Z",
     "status": 200,
     "error": null,
     "page_title": "Releases · openai/codex · GitHub",
@@ -683,7 +683,7 @@
     "title": "ChatGPT Release Notes",
     "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
     "type": "official",
-    "fetched_at": "20261012T054754Z",
+    "fetched_at": "20261013T064159Z",
     "status": 403,
     "error": "HTTP Error 403: Forbidden",
     "hits": [],
@@ -694,7 +694,7 @@
     "title": "OpenAI News",
     "url": "https://openai.com/news/",
     "type": "industry",
-    "fetched_at": "20261012T054754Z",
+    "fetched_at": "20261013T064159Z",
     "status": 403,
     "error": "HTTP Error 403: Forbidden",
     "hits": [],
@@ -705,7 +705,7 @@
     "title": "OpenAI Research",
     "url": "https://openai.com/research/",
     "type": "industry",
-    "fetched_at": "20261012T054754Z",
+    "fetched_at": "20261013T064159Z",
     "status": 403,
     "error": "HTTP Error 403: Forbidden",
     "hits": [],
@@ -716,18 +716,18 @@
     "title": "GitHub AI & ML Blog",
     "url": "https://github.blog/ai-and-ml/",
     "type": "industry",
-    "fetched_at": "20261012T054754Z",
+    "fetched_at": "20261013T064159Z",
     "status": 200,
     "error": null,
     "page_title": "The latest on AI & ML - The GitHub Blog",
     "hits": [
       {
         "keyword": "agent",
-        "excerpt": "t. Erin Havens · October 7, 2026 ReviewBench: An open benchmark for AI code review We’re launching ReviewBench, a benchmark for code review agents built on representative GitHub pull requests, multi-source ground truth, calibrated evaluation, and production-aligned metrics. Michelle Zhou & Alejandro Carderera de Diego · October 5, 2026 AI is changing developer work. Here are three skills to strengthen. Learn to direc"
+        "excerpt": "app for Beginners: How to teach Copilot about your codebase Learn how to add custom instructions and skills to your repository, use custom agents, and connect MCP servers like Playwright. Christopher Harrison · October 12, 2026 Secret protection must scale with software Developers aren’t becoming more careless; they’re being outpaced. The tools that let developers create more software should also take on more of the"
       },
       {
         "keyword": "agents",
-        "excerpt": "t. Erin Havens · October 7, 2026 ReviewBench: An open benchmark for AI code review We’re launching ReviewBench, a benchmark for code review agents built on representative GitHub pull requests, multi-source ground truth, calibrated evaluation, and production-aligned metrics. Michelle Zhou & Alejandro Carderera de Diego · October 5, 2026 AI is changing developer work. Here are three skills to strengthen. Learn to direc"
+        "excerpt": "app for Beginners: How to teach Copilot about your codebase Learn how to add custom instructions and skills to your repository, use custom agents, and connect MCP servers like Playwright. Christopher Harrison · October 12, 2026 Secret protection must scale with software Developers aren’t becoming more careless; they’re being outpaced. The tools that let developers create more software should also take on more of the"
       },
       {
         "keyword": "automation",
@@ -751,7 +751,7 @@
       },
       {
         "keyword": "MCP",
-        "excerpt": "est with hundreds of inline review comments. Alberto Gimeno · September 23, 2026 Should you read the code, is RAG dead, and did Skills kill MCP? We dive into these questions and other AI hot takes on the latest episode of the GitHub Podcast. GPS · September 18, 2026 Migrating the GitHub Copilot runtime to Rust, using Copilot A rewrite this size wasn&#8217;t affordable before agents. Here&#8217;s what porting the Copi"
+        "excerpt": "How to teach Copilot about your codebase Learn how to add custom instructions and skills to your repository, use custom agents, and connect MCP servers like Playwright. Christopher Harrison · October 12, 2026 Secret protection must scale with software Developers aren’t becoming more careless; they’re being outpaced. The tools that let developers create more software should also take on more of the work of protecting"
       },
       {
         "keyword": "skills",
@@ -767,7 +767,7 @@
       },
       {
         "keyword": "workflow",
-        "excerpt": "re three skills to strengthen. Learn to direct AI agents, critically review their output, and keep technical judgment at the center of your workflow. Gwen Davis · October 2, 2026 GitHub Copilot app for Beginners: How to build custom workflows with canvases Describe the interface you need in plain English, then let the agent build a live surface you can both use and update—so you spend less time adapting to tools and"
+        "excerpt": "re three skills to strengthen. Learn to direct AI agents, critically review their output, and keep technical judgment at the center of your workflow. Gwen Davis · October 2, 2026 We do newsletters, too Discover tips, technical guides, and best practices in our biweekly newsletter just for devs. Your work email address Subscribe Yes please, I’d like GitHub and affiliates to use my information for personalized communic"
       }
     ],
     "text_sample": "The latest on AI & ML - The GitHub Blog Skip to content / Blog Changelog Docs Customer stories Try GitHub Copilot app Attend GitHub Universe AI & ML AI & ML Learn about artificial intelligence and machine learning across the GitHub ecosystem and the wider industry. Generative AI Learn how to build with generative AI. GitHub Copilot Change how you work with GitHub Copilot. LLMs Everything developers need to know about LLMs. Machine learning Machine learning tips, tricks, and best practices. How AI code generation works Explore the capabilities and benefits of AI code generation and how it can improve your developer experience. Learn more Developer skills Developer skills Resources for developers to grow in their skills and careers. Application development Insights and best practices for building apps. Career growth Tips & tricks to grow as a professional developer. GitHub Improve how you use GitHub at work. GitHub Education Learn how to move into your first professional role. Programming languages & frameworks Stay current on what’s new (or new again). Get started with GitHub documentation Learn how to start building, shipping, and maintaining software with GitHub. Learn more Engineering Engineering Get an inside look at how we’re building the home for all developers. Architecture & optimization Discover how we deliver a performant and highly available experience across the GitH"
@@ -777,7 +777,7 @@
     "title": "GitHub Changelog",
     "url": "https://github.blog/changelog/",
     "type": "industry",
-    "fetched_at": "20261012T054754Z",
+    "fetched_at": "20261013T064159Z",
     "status": 200,
     "error": null,
     "page_title": "GitHub Changelog",
@@ -788,7 +788,7 @@
       },
       {
         "keyword": "CLI",
-        "excerpt": "vements Retired Filters ( 0 selected ) Clear all Filters ( 0 selected ) Match: Any All Tags Account management Actions Application Security Client apps Collaboration tools Community engagement Copilot Ecosystem & accessibility Enterprise management tools Platform governance Projects & Issues Supply chain security Clear all Apply October Oct 2026 October Oct 2026 Oct.10 Release New controls and chat improvements in Co"
+        "excerpt": "vements Retired Filters ( 0 selected ) Clear all Filters ( 0 selected ) Match: Any All Tags Account management Actions Application Security Client apps Collaboration tools Community engagement Copilot Ecosystem & accessibility Enterprise management tools Platform governance Projects & Issues Supply chain security Clear all Apply October Oct 2026 October Oct 2026 Oct.12 Improvement Client telemetry user attribution an"
       },
       {
         "keyword": "IDE",
@@ -824,17 +824,17 @@
       },
       {
         "keyword": "config",
-        "excerpt": "Oct.02 Improvement Copilot code review: API support and new default effort level copilot Oct.02 Retired Unvalidated npm trusted publishing configurations now expire supply chain security Oct.02 Improvement npm staged publishing now supports creating new packages supply chain security Oct.02 Retired Selected models in GitHub Copilot deprecated copilot Oct.02 Release GitHub Copilot weekly releases — September 28 copil"
+        "excerpt": "s & Issues Supply chain security Clear all Apply October Oct 2026 October Oct 2026 Oct.12 Improvement Client telemetry user attribution and configurable capture client apps copilot enterprise management tools ... +2 Oct.12 Release Push attribution for commits in limited public preview application security platform governance ... +1 Oct.12 Improvement Anonymous organization-level registries for Dependabot supply chain"
       }
     ],
-    "text_sample": "GitHub Changelog Skip to content / Blog Changelog Docs Customer stories Try GitHub Copilot app Attend GitHub Universe Search Changelog Docs Customer stories Attend GitHub Universe Try GitHub Copilot app Back to blog Changelog Copy RSS feed URL Follow @ghchangelog on X All New Releases Improvements Retired Filters ( 0 selected ) Clear all Filters ( 0 selected ) Match: Any All Tags Account management Actions Application Security Client apps Collaboration tools Community engagement Copilot Ecosystem & accessibility Enterprise management tools Platform governance Projects & Issues Supply chain security Clear all Apply October Oct 2026 October Oct 2026 Oct.10 Release New controls and chat improvements in Copilot for JetBrains copilot enterprise management tools ... +1 Oct.09 Release GitHub Copilot weekly releases — October 5 copilot Oct.09 Improvement CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis application security Oct.08 Improvement Copilot code review: New organization billing options and controls copilot Oct.08 Improvement Triage role users or higher can now archive pull requests collaboration tools Oct.08 Improvement Screen readers can navigate timelines as lists ecosystem & accessibility projects & issues ... +1 Oct.08 Improvement Draft pull requests count toward pull request limits collaboration tools Oct.07 Release Claude Haiku 5.5 in GitHub Copilot copilot "
+    "text_sample": "GitHub Changelog Skip to content / Blog Changelog Docs Customer stories Try GitHub Copilot app Attend GitHub Universe Search Changelog Docs Customer stories Attend GitHub Universe Try GitHub Copilot app Back to blog Changelog Copy RSS feed URL Follow @ghchangelog on X All New Releases Improvements Retired Filters ( 0 selected ) Clear all Filters ( 0 selected ) Match: Any All Tags Account management Actions Application Security Client apps Collaboration tools Community engagement Copilot Ecosystem & accessibility Enterprise management tools Platform governance Projects & Issues Supply chain security Clear all Apply October Oct 2026 October Oct 2026 Oct.12 Improvement Client telemetry user attribution and configurable capture client apps copilot enterprise management tools ... +2 Oct.12 Release Push attribution for commits in limited public preview application security platform governance ... +1 Oct.12 Improvement Anonymous organization-level registries for Dependabot supply chain security Oct.10 Release New controls and chat improvements in Copilot for JetBrains copilot enterprise management tools ... +1 Oct.09 Release GitHub Copilot weekly releases — October 5 copilot Oct.09 Improvement CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis application security Oct.08 Improvement Copilot code review: New organization billing options and controls copilot Oct.08 Improvemen"
   },
   {
     "id": "anthropic_news",
     "title": "Anthropic News",
     "url": "https://www.anthropic.com/news",
     "type": "industry",
-    "fetched_at": "20261012T054754Z",
+    "fetched_at": "20261013T064159Z",
     "status": 200,
     "error": null,
     "page_title": "Newsroom \\ Anthropic",
@@ -883,7 +883,7 @@
     "title": "Google AI Developers Blog",
     "url": "https://developers.googleblog.com/en/search/?query=Gemini",
     "type": "industry",
-    "fetched_at": "20261012T054754Z",
+    "fetched_at": "20261013T064159Z",
     "status": 200,
     "error": null,
     "page_title": "Search - Google Developers Blog",
