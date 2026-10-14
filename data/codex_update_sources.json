@@ -4,7 +4,7 @@
     "title": "Codex Changelog",
     "url": "https://developers.openai.com/codex/changelog",
     "type": "official",
-    "fetched_at": "20261013T064159Z",
+    "fetched_at": "20261014T044512Z",
     "status": 200,
     "error": null,
     "page_title": "ChatGPT & Codex changelog | ChatGPT Learn",
@@ -113,7 +113,7 @@
     "title": "Codex App",
     "url": "https://developers.openai.com/codex/app",
     "type": "official",
-    "fetched_at": "20261013T064159Z",
+    "fetched_at": "20261014T044512Z",
     "status": 200,
     "error": null,
     "page_title": "ChatGPT desktop app | ChatGPT Learn",
@@ -210,7 +210,7 @@
     "title": "Codex CLI",
     "url": "https://developers.openai.com/codex/cli",
     "type": "official",
-    "fetched_at": "20261013T064159Z",
+    "fetched_at": "20261014T044512Z",
     "status": 200,
     "error": null,
     "page_title": "Codex CLI | ChatGPT Learn",
@@ -311,7 +311,7 @@
     "title": "Codex IDE",
     "url": "https://developers.openai.com/codex/ide",
     "type": "official",
-    "fetched_at": "20261013T064159Z",
+    "fetched_at": "20261014T044512Z",
     "status": 200,
     "error": null,
     "page_title": "Codex IDE extension | ChatGPT Learn",
@@ -408,7 +408,7 @@
     "title": "Codex Authentication",
     "url": "https://developers.openai.com/codex/auth",
     "type": "official",
-    "fetched_at": "20261013T064159Z",
+    "fetched_at": "20261014T044512Z",
     "status": 200,
     "error": null,
     "page_title": "Authentication | ChatGPT Learn",
@@ -509,7 +509,7 @@
     "title": "Codex Config Reference",
     "url": "https://developers.openai.com/codex/config-reference",
     "type": "official",
-    "fetched_at": "20261013T064159Z",
+    "fetched_at": "20261014T044512Z",
     "status": 200,
     "error": null,
     "page_title": "Configuration Reference | ChatGPT Learn",
@@ -614,7 +614,7 @@
     "title": "openai/codex Releases",
     "url": "https://github.com/openai/codex/releases",
     "type": "github",
-    "fetched_at": "20261013T064159Z",
+    "fetched_at": "20261014T044512Z",
     "status": 200,
     "error": null,
     "page_title": "Releases · openai/codex · GitHub",
@@ -683,7 +683,7 @@
     "title": "ChatGPT Release Notes",
     "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
     "type": "official",
-    "fetched_at": "20261013T064159Z",
+    "fetched_at": "20261014T044512Z",
     "status": 403,
     "error": "HTTP Error 403: Forbidden",
     "hits": [],
@@ -694,7 +694,7 @@
     "title": "OpenAI News",
     "url": "https://openai.com/news/",
     "type": "industry",
-    "fetched_at": "20261013T064159Z",
+    "fetched_at": "20261014T044512Z",
     "status": 403,
     "error": "HTTP Error 403: Forbidden",
     "hits": [],
@@ -705,7 +705,7 @@
     "title": "OpenAI Research",
     "url": "https://openai.com/research/",
     "type": "industry",
-    "fetched_at": "20261013T064159Z",
+    "fetched_at": "20261014T044512Z",
     "status": 403,
     "error": "HTTP Error 403: Forbidden",
     "hits": [],
@@ -716,7 +716,7 @@
     "title": "GitHub AI & ML Blog",
     "url": "https://github.blog/ai-and-ml/",
     "type": "industry",
-    "fetched_at": "20261013T064159Z",
+    "fetched_at": "20261014T044512Z",
     "status": 200,
     "error": null,
     "page_title": "The latest on AI & ML - The GitHub Blog",
@@ -759,7 +759,7 @@
       },
       {
         "keyword": "model",
-        "excerpt": "review web apps side by side in the GitHub Copilot app. Kayla Cinnamon · September 10, 2026 Project HydraFusion: Frontier quality via multi-model orchestration In controlled offline evaluations, HydraFusion’s selective coding workflows matched or exceeded the evaluated Opus 5 baseline while reducing estimated workflow cost. Now available as a research preview in GitHub Copilot. GitHub Staff · September 4, 2026 GitHub"
+        "excerpt": "on and practical guides on GitHub’s own AI coding tool, GitHub Copilot, check out GitHub&#8217;s official documentation . Featured GitHub’s model for secret detection: Finding more secrets with less noise GitHub’s context-aware secret classifier improves detection quality, raises weighted acceptance by 11.5%, and reduces median scan execution time by 86%. Batu Ozturkler & Shengyu Fu · October 13, 2026 GitHub Copilot"
       },
       {
         "keyword": "developer",
@@ -767,7 +767,7 @@
       },
       {
         "keyword": "workflow",
-        "excerpt": "re three skills to strengthen. Learn to direct AI agents, critically review their output, and keep technical judgment at the center of your workflow. Gwen Davis · October 2, 2026 We do newsletters, too Discover tips, technical guides, and best practices in our biweekly newsletter just for devs. Your work email address Subscribe Yes please, I’d like GitHub and affiliates to use my information for personalized communic"
+        "excerpt": "re three skills to strengthen. Learn to direct AI agents, critically review their output, and keep technical judgment at the center of your workflow. Gwen Davis · October 2, 2026 GitHub Copilot app for Beginners: How to build custom workflows with canvases Describe the interface you need in plain English, then let the agent build a live surface you can both use and update—so you spend less time adapting to tools and"
       }
     ],
     "text_sample": "The latest on AI & ML - The GitHub Blog Skip to content / Blog Changelog Docs Customer stories Try GitHub Copilot app Attend GitHub Universe AI & ML AI & ML Learn about artificial intelligence and machine learning across the GitHub ecosystem and the wider industry. Generative AI Learn how to build with generative AI. GitHub Copilot Change how you work with GitHub Copilot. LLMs Everything developers need to know about LLMs. Machine learning Machine learning tips, tricks, and best practices. How AI code generation works Explore the capabilities and benefits of AI code generation and how it can improve your developer experience. Learn more Developer skills Developer skills Resources for developers to grow in their skills and careers. Application development Insights and best practices for building apps. Career growth Tips & tricks to grow as a professional developer. GitHub Improve how you use GitHub at work. GitHub Education Learn how to move into your first professional role. Programming languages & frameworks Stay current on what’s new (or new again). Get started with GitHub documentation Learn how to start building, shipping, and maintaining software with GitHub. Learn more Engineering Engineering Get an inside look at how we’re building the home for all developers. Architecture & optimization Discover how we deliver a performant and highly available experience across the GitH"
@@ -777,7 +777,7 @@
     "title": "GitHub Changelog",
     "url": "https://github.blog/changelog/",
     "type": "industry",
-    "fetched_at": "20261013T064159Z",
+    "fetched_at": "20261014T044512Z",
     "status": 200,
     "error": null,
     "page_title": "GitHub Changelog",
@@ -788,7 +788,7 @@
       },
       {
         "keyword": "CLI",
-        "excerpt": "vements Retired Filters ( 0 selected ) Clear all Filters ( 0 selected ) Match: Any All Tags Account management Actions Application Security Client apps Collaboration tools Community engagement Copilot Ecosystem & accessibility Enterprise management tools Platform governance Projects & Issues Supply chain security Clear all Apply October Oct 2026 October Oct 2026 Oct.12 Improvement Client telemetry user attribution an"
+        "excerpt": "vements Retired Filters ( 0 selected ) Clear all Filters ( 0 selected ) Match: Any All Tags Account management Actions Application Security Client apps Collaboration tools Community engagement Copilot Ecosystem & accessibility Enterprise management tools Platform governance Projects & Issues Supply chain security Clear all Apply October Oct 2026 October Oct 2026 Oct.13 Improvement GitHub App improvements for least pr"
       },
       {
         "keyword": "IDE",
@@ -811,6 +811,10 @@
         "excerpt": "b 2026 February Feb 2026 January Jan 2026 January Jan 2026 Pagination Prev 2026 2025 2024 ... 2018 2026 2025 ... 2018 Next Subscribe to our developer newsletter Discover tips, technical guides, and best practices in our biweekly newsletter just for devs. Enter your email * Subscribe By submitting, I agree to let GitHub and its affiliates use my information for personalized communications, targeted advertising, and ca"
       },
       {
+        "keyword": "Gemini",
+        "excerpt": "mprovement GitHub App improvements for least privilege and management enterprise management tools platform governance ... +1 Oct.13 Release Gemini 4 Argon in GitHub Copilot copilot Oct.13 Improvement Audit GitHub Code Quality finding dismissals and reopenings application security platform governance ... +1 Oct.13 Improvement Secret scanning blocks Anthropic keys by default, adds Salesforce application security Oct.13"
+      },
+      {
         "keyword": "Claude",
         "excerpt": "ibility projects & issues ... +1 Oct.08 Improvement Draft pull requests count toward pull request limits collaboration tools Oct.07 Release Claude Haiku 5.5 in GitHub Copilot copilot Oct.07 Release Purpose-built model for leaked secret detection application security copilot ... +1 Oct.07 Release Local sandboxing for GitHub Copilot now generally available application security copilot platform governance ... +2 Oct.07"
       },
@@ -824,17 +828,17 @@
       },
       {
         "keyword": "config",
-        "excerpt": "s & Issues Supply chain security Clear all Apply October Oct 2026 October Oct 2026 Oct.12 Improvement Client telemetry user attribution and configurable capture client apps copilot enterprise management tools ... +2 Oct.12 Release Push attribution for commits in limited public preview application security platform governance ... +1 Oct.12 Improvement Anonymous organization-level registries for Dependabot supply chain"
+        "excerpt": "mprovement Code scanning AI Scan metrics in security overview application security Oct.12 Improvement Client telemetry user attribution and configurable capture client apps copilot enterprise management tools ... +2 Oct.12 Release Push attribution for commits in limited public preview application security platform governance ... +1 Oct.12 Improvement Anonymous organization-level registries for Dependabot supply chain"
       }
     ],
-    "text_sample": "GitHub Changelog Skip to content / Blog Changelog Docs Customer stories Try GitHub Copilot app Attend GitHub Universe Search Changelog Docs Customer stories Attend GitHub Universe Try GitHub Copilot app Back to blog Changelog Copy RSS feed URL Follow @ghchangelog on X All New Releases Improvements Retired Filters ( 0 selected ) Clear all Filters ( 0 selected ) Match: Any All Tags Account management Actions Application Security Client apps Collaboration tools Community engagement Copilot Ecosystem & accessibility Enterprise management tools Platform governance Projects & Issues Supply chain security Clear all Apply October Oct 2026 October Oct 2026 Oct.12 Improvement Client telemetry user attribution and configurable capture client apps copilot enterprise management tools ... +2 Oct.12 Release Push attribution for commits in limited public preview application security platform governance ... +1 Oct.12 Improvement Anonymous organization-level registries for Dependabot supply chain security Oct.10 Release New controls and chat improvements in Copilot for JetBrains copilot enterprise management tools ... +1 Oct.09 Release GitHub Copilot weekly releases — October 5 copilot Oct.09 Improvement CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis application security Oct.08 Improvement Copilot code review: New organization billing options and controls copilot Oct.08 Improvemen"
+    "text_sample": "GitHub Changelog Skip to content / Blog Changelog Docs Customer stories Try GitHub Copilot app Attend GitHub Universe Search Changelog Docs Customer stories Attend GitHub Universe Try GitHub Copilot app Back to blog Changelog Copy RSS feed URL Follow @ghchangelog on X All New Releases Improvements Retired Filters ( 0 selected ) Clear all Filters ( 0 selected ) Match: Any All Tags Account management Actions Application Security Client apps Collaboration tools Community engagement Copilot Ecosystem & accessibility Enterprise management tools Platform governance Projects & Issues Supply chain security Clear all Apply October Oct 2026 October Oct 2026 Oct.13 Improvement GitHub App improvements for least privilege and management enterprise management tools platform governance ... +1 Oct.13 Release Gemini 4 Argon in GitHub Copilot copilot Oct.13 Improvement Audit GitHub Code Quality finding dismissals and reopenings application security platform governance ... +1 Oct.13 Improvement Secret scanning blocks Anthropic keys by default, adds Salesforce application security Oct.13 Improvement Enterprise managed settings enforcement updates client apps copilot enterprise management tools ... +2 Oct.13 Improvement Improved detection for withdrawn Dependabot alerts supply chain security Oct.13 Improvement Search and filter for budgets now available account management enterprise management tool"
   },
   {
     "id": "anthropic_news",
     "title": "Anthropic News",
     "url": "https://www.anthropic.com/news",
     "type": "industry",
-    "fetched_at": "20261013T064159Z",
+    "fetched_at": "20261014T044512Z",
     "status": 200,
     "error": null,
     "page_title": "Newsroom \\ Anthropic",
@@ -883,22 +887,22 @@
     "title": "Google AI Developers Blog",
     "url": "https://developers.googleblog.com/en/search/?query=Gemini",
     "type": "industry",
-    "fetched_at": "20261013T064159Z",
+    "fetched_at": "20261014T044512Z",
     "status": 200,
     "error": null,
     "page_title": "Search - Google Developers Blog",
     "hits": [
       {
         "keyword": "agent",
-        "excerpt": "TV Wallet Wear OS Workspace Technology Select all AI Cloud Mobile Web OCT. 8, 2026 / AI The Outer Loop, Insights First: An Ambient Quality Agent That Diagnoses Your Production Agent How do you keep improving an AI agent after the first 80%, once it serves real production traffic and silent quality regressions return HTTP 200 OK? We are open-sourcing AQuA (Ambient Quality Agent), a reference implementation that runs"
+        "excerpt": "imizing a 200,000-line Python codebase overnight with Gemini 4 Argon How our engineering team ran Gemini 4 Argon unattended overnight with .agents/skills and /goal mode to cut in-memory session prep overhead by 40% in long sessions and speed up cold imports by 21% in Google&#x27;s open-source Python Agent Development Kit (ADK). OCT. 8, 2026 / AI The Outer Loop, Insights First: An Ambient Quality Agent That Diagnoses"
       },
       {
         "keyword": "agents",
-        "excerpt": "a native remote Model Context Protocol (MCP) server, eliminating the need to build and maintain custom middleware to expose REST APIs to AI agents. By simply adding specific annotations (like x-google-api-management.mcp) to existing OpenAPI 3.x specifications, developers can instantly convert standard REST operations into discoverable, agent-ready tools. The gateway automatically transcodes incoming MCP JSON-RPC requ"
+        "excerpt": "imizing a 200,000-line Python codebase overnight with Gemini 4 Argon How our engineering team ran Gemini 4 Argon unattended overnight with .agents/skills and /goal mode to cut in-memory session prep overhead by 40% in long sessions and speed up cold imports by 21% in Google&#x27;s open-source Python Agent Development Kit (ADK). OCT. 8, 2026 / AI The Outer Loop, Insights First: An Ambient Quality Agent That Diagnoses"
       },
       {
         "keyword": "Chrome",
-        "excerpt": "Management/Agile Q&A Release Notes Solutions Testing TotT Tutorials Product Select all Ads AI Edge Android Angular AR Assistant Auto Checks Chrome OS Chrome Web Cloud DeepMind Design Engineering Firebase Flutter Gemini Gemma Geo Go Google AI Studio Google Labs Google Pay IDX Kaggle Keras Matter Pay Play Search Smart Home TensorFlow TV Wallet Wear OS Workspace Technology Select all AI Cloud Mobile Web OCT. 8, 2026 / A"
+        "excerpt": "Management/Agile Q&A Release Notes Solutions Testing TotT Tutorials Product Select all Ads AI Edge Android Angular AR Assistant Auto Checks Chrome OS Chrome Web Cloud DeepMind Design Engineering Firebase Flutter Gemini Gemma Geo Go Google AI Studio Google Labs Google Pay IDX Kaggle Keras Matter Pay Play Search Smart Home TensorFlow TV Wallet Wear OS Workspace Technology Select all AI Cloud Mobile Web OCT. 13, 2026 /"
       },
       {
         "keyword": "CLI",
@@ -913,12 +917,16 @@
         "excerpt": "ences, from sophisticated video effects to generative AI, across mobile and desktop platforms. SEPT. 24, 2026 / AI Turn your REST APIs into MCP tools with Google Cloud API Gateway Google Cloud API Gateway now acts as a native remote Model Context Protocol (MCP) server, eliminating the need to build and maintain custom middleware to expose REST APIs to AI agents. By simply adding specific annotations (like x-google-ap"
       },
       {
+        "keyword": "skills",
+        "excerpt": "a 200,000-line Python codebase overnight with Gemini 4 Argon How our engineering team ran Gemini 4 Argon unattended overnight with .agents/skills and /goal mode to cut in-memory session prep overhead by 40% in long sessions and speed up cold imports by 21% in Google&#x27;s open-source Python Agent Development Kit (ADK). OCT. 8, 2026 / AI The Outer Loop, Insights First: An Ambient Quality Agent That Diagnoses Your Pr"
+      },
+      {
         "keyword": "memory",
-        "excerpt": "obile developers to integrate local models via LiteRT-LM, cloud reasoning through Firebase AI, session persistence using Room, and semantic memory powered by AppSearch. Previous Next Filter Clear filters Content Type Select all Announcements Beginner Best Practices Business and Leadership Case Studies Code Health Community Documentation Events Explore Hard How-To Guides Industry Trends Intermediate Learn Performance"
+        "excerpt": "overnight with Gemini 4 Argon How our engineering team ran Gemini 4 Argon unattended overnight with .agents/skills and /goal mode to cut in-memory session prep overhead by 40% in long sessions and speed up cold imports by 21% in Google&#x27;s open-source Python Agent Development Kit (ADK). OCT. 8, 2026 / AI The Outer Loop, Insights First: An Ambient Quality Agent That Diagnoses Your Production Agent How do you keep i"
       },
       {
         "keyword": "model",
-        "excerpt": ". SEPT. 24, 2026 / AI Turn your REST APIs into MCP tools with Google Cloud API Gateway Google Cloud API Gateway now acts as a native remote Model Context Protocol (MCP) server, eliminating the need to build and maintain custom middleware to expose REST APIs to AI agents. By simply adding specific annotations (like x-google-api-management.mcp) to existing OpenAPI 3.x specifications, developers can instantly convert st"
+        "excerpt": "nology Select all AI Cloud Mobile Web OCT. 13, 2026 / AI Gemini 4 Argon for Robotics Gemini 4 Argon is a general-purpose physical reasoning model designed to enhance workflows across the robotics stack with advanced capabilities in physical understanding, code generation, and visual-semantic reasoning. Developers can access and integrate Argon across Google&#x27;s developer platforms—including Google AI Studio, the G"
       },
       {
         "keyword": "release",
@@ -926,21 +934,21 @@
       },
       {
         "keyword": "developer",
-        "excerpt": "Search - Google Developers Blog Community/Events Learn Blog YouTube Search Community/Events Learn Blog YouTube Search for \"Gemini\" 242 results Clear filters Filter by Content Type Select all Announcements Beginner Best Practices Business and Leadership Case Studies Code Health Community Document"
+        "excerpt": "Search - Google Developers Blog Community/Events Learn Blog YouTube Search Community/Events Learn Blog YouTube Search for \"Gemini\" 244 results Clear filters Filter by Content Type Select all Announcements Beginner Best Practices Business and Leadership Case Studies Code Health Community Document"
       },
       {
         "keyword": "Gemini",
-        "excerpt": "Search - Google Developers Blog Community/Events Learn Blog YouTube Search Community/Events Learn Blog YouTube Search for \"Gemini\" 242 results Clear filters Filter by Content Type Select all Announcements Beginner Best Practices Business and Leadership Case Studies Code Health Community Documentation Events Explore Hard How-To Guides Industry Trends Intermediate Learn Performance Problem-Solving Proj"
+        "excerpt": "Search - Google Developers Blog Community/Events Learn Blog YouTube Search Community/Events Learn Blog YouTube Search for \"Gemini\" 244 results Clear filters Filter by Content Type Select all Announcements Beginner Best Practices Business and Leadership Case Studies Code Health Community Documentation Events Explore Hard How-To Guides Industry Trends Intermediate Learn Performance Problem-Solving Proj"
       },
       {
         "keyword": "workflow",
-        "excerpt": "troducing Support for Local AI Models in the Antigravity SDK The Google Antigravity SDK now empowers developers to execute offline, agentic workflows locally using models like Gemma 4 26B A4B via LiteRT. This update facilitates powerful hybrid orchestration architectures, allowing a cloud model to act as a lightweight planner while local models securely handle token-intensive tasks—like code auditing and patching—dir"
+        "excerpt": "Mobile Web OCT. 13, 2026 / AI Gemini 4 Argon for Robotics Gemini 4 Argon is a general-purpose physical reasoning model designed to enhance workflows across the robotics stack with advanced capabilities in physical understanding, code generation, and visual-semantic reasoning. Developers can access and integrate Argon across Google&#x27;s developer platforms—including Google AI Studio, the Gemini API, and Google Anti"
       },
       {
         "keyword": "authentication",
         "excerpt": "erable, agent-ready tools. The gateway automatically transcodes incoming MCP JSON-RPC requests into REST calls, ensuring that your existing authentication, quotas, and logging policies apply seamlessly to agent traffic without requiring new infrastructure. SEPT. 23, 2026 / AI Introducing Support for Local AI Models in the Antigravity SDK The Google Antigravity SDK now empowers developers to execute offline, agentic w"
       }
     ],
-    "text_sample": "Search - Google Developers Blog Community/Events Learn Blog YouTube Search Community/Events Learn Blog YouTube Search for \"Gemini\" 242 results Clear filters Filter by Content Type Select all Announcements Beginner Best Practices Business and Leadership Case Studies Code Health Community Documentation Events Explore Hard How-To Guides Industry Trends Intermediate Learn Performance Problem-Solving Project Management/Agile Q&A Release Notes Solutions Testing TotT Tutorials Product Select all Ads AI Edge Android Angular AR Assistant Auto Checks Chrome OS Chrome Web Cloud DeepMind Design Engineering Firebase Flutter Gemini Gemma Geo Go Google AI Studio Google Labs Google Pay IDX Kaggle Keras Matter Pay Play Search Smart Home TensorFlow TV Wallet Wear OS Workspace Technology Select all AI Cloud Mobile Web OCT. 8, 2026 / AI The Outer Loop, Insights First: An Ambient Quality Agent That Diagnoses Your Production Agent How do you keep improving an AI agent after the first 80%, once it serves real production traffic and silent quality regressions return HTTP 200 OK? We are open-sourcing AQuA (Ambient Quality Agent), a reference implementation that runs beside your production agent in Google Cloud, sweeps and verifies failure clusters against conversation transcripts, and diagnoses root causes anchored to the exact deployed source snapshot. OCT. 8, 2026 / Mobile ML Drift: Next-Gen GPU AI/M"
+    "text_sample": "Search - Google Developers Blog Community/Events Learn Blog YouTube Search Community/Events Learn Blog YouTube Search for \"Gemini\" 244 results Clear filters Filter by Content Type Select all Announcements Beginner Best Practices Business and Leadership Case Studies Code Health Community Documentation Events Explore Hard How-To Guides Industry Trends Intermediate Learn Performance Problem-Solving Project Management/Agile Q&A Release Notes Solutions Testing TotT Tutorials Product Select all Ads AI Edge Android Angular AR Assistant Auto Checks Chrome OS Chrome Web Cloud DeepMind Design Engineering Firebase Flutter Gemini Gemma Geo Go Google AI Studio Google Labs Google Pay IDX Kaggle Keras Matter Pay Play Search Smart Home TensorFlow TV Wallet Wear OS Workspace Technology Select all AI Cloud Mobile Web OCT. 13, 2026 / AI Gemini 4 Argon for Robotics Gemini 4 Argon is a general-purpose physical reasoning model designed to enhance workflows across the robotics stack with advanced capabilities in physical understanding, code generation, and visual-semantic reasoning. Developers can access and integrate Argon across Google&#x27;s developer platforms—including Google AI Studio, the Gemini API, and Google Antigravity—to build and test sophisticated robotic applications. By leveraging simulation tools like MuJoCo and code-as-policies, engineers can seamlessly transition from real-world da"
   }
 ]
