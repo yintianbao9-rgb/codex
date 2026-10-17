@@ -4,7 +4,7 @@
     "title": "Codex Changelog",
     "url": "https://developers.openai.com/codex/changelog",
     "type": "official",
-    "fetched_at": "20261016T042256Z",
+    "fetched_at": "20261017T041559Z",
     "status": 200,
     "error": null,
     "page_title": "ChatGPT & Codex changelog | ChatGPT Learn",
@@ -63,7 +63,7 @@
       },
       {
         "keyword": "skills",
-        "excerpt": "ion calling Search and retrieval Web search File search Retrieval Connect tools and data MCP servers Secure MCP Tunnel Build tool workflows Skills Tool search Programmatic tool calling Async tool calling Computer and code Shell Computer use Apply Patch Local shell Code interpreter Media Image generation Overview GPT-Live Getting started Prompting Managing sessions Delegation and tools Migrate to GPT-Live Partner inte"
+        "excerpt": "ion calling Search and retrieval Web search File search Retrieval Connect tools and data MCP servers Secure MCP Tunnel Build tool workflows Skills Tool search Programmatic tool calling Async tool calling Computer and code Shell Computer use Integration recipes Driver reference Apply Patch Local shell Code interpreter Media Image generation Overview GPT-Live Getting started Prompting Managing sessions Delegation and t"
       },
       {
         "keyword": "memory",
@@ -113,7 +113,7 @@
     "title": "Codex App",
     "url": "https://developers.openai.com/codex/app",
     "type": "official",
-    "fetched_at": "20261016T042256Z",
+    "fetched_at": "20261017T041559Z",
     "status": 200,
     "error": null,
     "page_title": "ChatGPT desktop app | ChatGPT Learn",
@@ -160,7 +160,7 @@
       },
       {
         "keyword": "skills",
-        "excerpt": "ion calling Search and retrieval Web search File search Retrieval Connect tools and data MCP servers Secure MCP Tunnel Build tool workflows Skills Tool search Programmatic tool calling Async tool calling Computer and code Shell Computer use Apply Patch Local shell Code interpreter Media Image generation Overview GPT-Live Getting started Prompting Managing sessions Delegation and tools Migrate to GPT-Live Partner inte"
+        "excerpt": "ion calling Search and retrieval Web search File search Retrieval Connect tools and data MCP servers Secure MCP Tunnel Build tool workflows Skills Tool search Programmatic tool calling Async tool calling Computer and code Shell Computer use Integration recipes Driver reference Apply Patch Local shell Code interpreter Media Image generation Overview GPT-Live Getting started Prompting Managing sessions Delegation and t"
       },
       {
         "keyword": "memory",
@@ -210,7 +210,7 @@
     "title": "Codex CLI",
     "url": "https://developers.openai.com/codex/cli",
     "type": "official",
-    "fetched_at": "20261016T042256Z",
+    "fetched_at": "20261017T041559Z",
     "status": 200,
     "error": null,
     "page_title": "Codex CLI | ChatGPT Learn",
@@ -261,7 +261,7 @@
       },
       {
         "keyword": "skills",
-        "excerpt": "ion calling Search and retrieval Web search File search Retrieval Connect tools and data MCP servers Secure MCP Tunnel Build tool workflows Skills Tool search Programmatic tool calling Async tool calling Computer and code Shell Computer use Apply Patch Local shell Code interpreter Media Image generation Overview GPT-Live Getting started Prompting Managing sessions Delegation and tools Migrate to GPT-Live Partner inte"
+        "excerpt": "ion calling Search and retrieval Web search File search Retrieval Connect tools and data MCP servers Secure MCP Tunnel Build tool workflows Skills Tool search Programmatic tool calling Async tool calling Computer and code Shell Computer use Integration recipes Driver reference Apply Patch Local shell Code interpreter Media Image generation Overview GPT-Live Getting started Prompting Managing sessions Delegation and t"
       },
       {
         "keyword": "memory",
@@ -311,7 +311,7 @@
     "title": "Codex IDE",
     "url": "https://developers.openai.com/codex/ide",
     "type": "official",
-    "fetched_at": "20261016T042256Z",
+    "fetched_at": "20261017T041559Z",
     "status": 200,
     "error": null,
     "page_title": "Codex IDE extension | ChatGPT Learn",
@@ -358,7 +358,7 @@
       },
       {
         "keyword": "skills",
-        "excerpt": "ion calling Search and retrieval Web search File search Retrieval Connect tools and data MCP servers Secure MCP Tunnel Build tool workflows Skills Tool search Programmatic tool calling Async tool calling Computer and code Shell Computer use Apply Patch Local shell Code interpreter Media Image generation Overview GPT-Live Getting started Prompting Managing sessions Delegation and tools Migrate to GPT-Live Partner inte"
+        "excerpt": "ion calling Search and retrieval Web search File search Retrieval Connect tools and data MCP servers Secure MCP Tunnel Build tool workflows Skills Tool search Programmatic tool calling Async tool calling Computer and code Shell Computer use Integration recipes Driver reference Apply Patch Local shell Code interpreter Media Image generation Overview GPT-Live Getting started Prompting Managing sessions Delegation and t"
       },
       {
         "keyword": "memory",
@@ -408,7 +408,7 @@
     "title": "Codex Authentication",
     "url": "https://developers.openai.com/codex/auth",
     "type": "official",
-    "fetched_at": "20261016T042256Z",
+    "fetched_at": "20261017T041559Z",
     "status": 200,
     "error": null,
     "page_title": "Authentication | ChatGPT Learn",
@@ -459,7 +459,7 @@
       },
       {
         "keyword": "skills",
-        "excerpt": "ion calling Search and retrieval Web search File search Retrieval Connect tools and data MCP servers Secure MCP Tunnel Build tool workflows Skills Tool search Programmatic tool calling Async tool calling Computer and code Shell Computer use Apply Patch Local shell Code interpreter Media Image generation Overview GPT-Live Getting started Prompting Managing sessions Delegation and tools Migrate to GPT-Live Partner inte"
+        "excerpt": "ion calling Search and retrieval Web search File search Retrieval Connect tools and data MCP servers Secure MCP Tunnel Build tool workflows Skills Tool search Programmatic tool calling Async tool calling Computer and code Shell Computer use Integration recipes Driver reference Apply Patch Local shell Code interpreter Media Image generation Overview GPT-Live Getting started Prompting Managing sessions Delegation and t"
       },
       {
         "keyword": "memory",
@@ -509,7 +509,7 @@
     "title": "Codex Config Reference",
     "url": "https://developers.openai.com/codex/config-reference",
     "type": "official",
-    "fetched_at": "20261016T042256Z",
+    "fetched_at": "20261017T041559Z",
     "status": 200,
     "error": null,
     "page_title": "Configuration Reference | ChatGPT Learn",
@@ -564,7 +564,7 @@
       },
       {
         "keyword": "skills",
-        "excerpt": "ion calling Search and retrieval Web search File search Retrieval Connect tools and data MCP servers Secure MCP Tunnel Build tool workflows Skills Tool search Programmatic tool calling Async tool calling Computer and code Shell Computer use Apply Patch Local shell Code interpreter Media Image generation Overview GPT-Live Getting started Prompting Managing sessions Delegation and tools Migrate to GPT-Live Partner inte"
+        "excerpt": "ion calling Search and retrieval Web search File search Retrieval Connect tools and data MCP servers Secure MCP Tunnel Build tool workflows Skills Tool search Programmatic tool calling Async tool calling Computer and code Shell Computer use Integration recipes Driver reference Apply Patch Local shell Code interpreter Media Image generation Overview GPT-Live Getting started Prompting Managing sessions Delegation and t"
       },
       {
         "keyword": "memory",
@@ -614,7 +614,7 @@
     "title": "openai/codex Releases",
     "url": "https://github.com/openai/codex/releases",
     "type": "github",
-    "fetched_at": "20261016T042256Z",
+    "fetched_at": "20261017T041559Z",
     "status": 200,
     "error": null,
     "page_title": "Releases · openai/codex · GitHub",
@@ -683,7 +683,7 @@
     "title": "ChatGPT Release Notes",
     "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
     "type": "official",
-    "fetched_at": "20261016T042256Z",
+    "fetched_at": "20261017T041559Z",
     "status": 403,
     "error": "HTTP Error 403: Forbidden",
     "hits": [],
@@ -694,7 +694,7 @@
     "title": "OpenAI News",
     "url": "https://openai.com/news/",
     "type": "industry",
-    "fetched_at": "20261016T042256Z",
+    "fetched_at": "20261017T041559Z",
     "status": 403,
     "error": "HTTP Error 403: Forbidden",
     "hits": [],
@@ -705,7 +705,7 @@
     "title": "OpenAI Research",
     "url": "https://openai.com/research/",
     "type": "industry",
-    "fetched_at": "20261016T042256Z",
+    "fetched_at": "20261017T041559Z",
     "status": 403,
     "error": "HTTP Error 403: Forbidden",
     "hits": [],
@@ -716,7 +716,7 @@
     "title": "GitHub AI & ML Blog",
     "url": "https://github.blog/ai-and-ml/",
     "type": "industry",
-    "fetched_at": "20261016T042256Z",
+    "fetched_at": "20261017T041559Z",
     "status": 200,
     "error": null,
     "page_title": "The latest on AI & ML - The GitHub Blog",
@@ -777,7 +777,7 @@
     "title": "GitHub Changelog",
     "url": "https://github.blog/changelog/",
     "type": "industry",
-    "fetched_at": "20261016T042256Z",
+    "fetched_at": "20261017T041559Z",
     "status": 200,
     "error": null,
     "page_title": "GitHub Changelog",
@@ -788,7 +788,7 @@
       },
       {
         "keyword": "CLI",
-        "excerpt": "vements Retired Filters ( 0 selected ) Clear all Filters ( 0 selected ) Match: Any All Tags Account management Actions Application Security Client apps Collaboration tools Community engagement Copilot Ecosystem & accessibility Enterprise management tools Platform governance Projects & Issues Supply chain security Clear all Apply October Oct 2026 October Oct 2026 Oct.15 Improvement Multi-repo support and other improve"
+        "excerpt": "vements Retired Filters ( 0 selected ) Clear all Filters ( 0 selected ) Match: Any All Tags Account management Actions Application Security Client apps Collaboration tools Community engagement Copilot Ecosystem & accessibility Enterprise management tools Platform governance Projects & Issues Supply chain security Clear all Apply October Oct 2026 October Oct 2026 Oct.16 Release Open source license compliance generally"
       },
       {
         "keyword": "IDE",
@@ -831,33 +831,33 @@
         "excerpt": "mprovement Code scanning AI Scan metrics in security overview application security Oct.12 Improvement Client telemetry user attribution and configurable capture client apps copilot enterprise management tools ... +2 Oct.12 Release Push attribution for commits in limited public preview application security platform governance ... +1 Oct.12 Improvement Anonymous organization-level registries for Dependabot supply chain"
       }
     ],
-    "text_sample": "GitHub Changelog Skip to content / Blog Changelog Docs Customer stories Try GitHub Copilot app Attend GitHub Universe Search Changelog Docs Customer stories Attend GitHub Universe Try GitHub Copilot app Back to blog Changelog Copy RSS feed URL Follow @ghchangelog on X All New Releases Improvements Retired Filters ( 0 selected ) Clear all Filters ( 0 selected ) Match: Any All Tags Account management Actions Application Security Client apps Collaboration tools Community engagement Copilot Ecosystem & accessibility Enterprise management tools Platform governance Projects & Issues Supply chain security Clear all Apply October Oct 2026 October Oct 2026 Oct.15 Improvement Multi-repo support and other improvements for GitHub Copilot in Slack and Microsoft Teams collaboration tools copilot ... +1 Oct.15 Improvement Download GitHub Code Quality license usage as a CSV account management application security ... +1 Oct.15 Retired Upcoming deprecation of selected GitHub Copilot models in mid-November copilot Oct.15 Release AI Scan for pull requests generally available application security Oct.15 Release Agentic autofix for code scanning alerts general availability application security copilot ... +1 Oct.15 Retired Email notifications for repository push events have been retired community engagement Oct.14 Release HydraFusion updates and new Max option copilot Oct.14 Release GitHub Actions "
+    "text_sample": "GitHub Changelog Skip to content / Blog Changelog Docs Customer stories Try GitHub Copilot app Attend GitHub Universe Search Changelog Docs Customer stories Attend GitHub Universe Try GitHub Copilot app Back to blog Changelog Copy RSS feed URL Follow @ghchangelog on X All New Releases Improvements Retired Filters ( 0 selected ) Clear all Filters ( 0 selected ) Match: Any All Tags Account management Actions Application Security Client apps Collaboration tools Community engagement Copilot Ecosystem & accessibility Enterprise management tools Platform governance Projects & Issues Supply chain security Clear all Apply October Oct 2026 October Oct 2026 Oct.16 Release Open source license compliance generally available supply chain security Oct.15 Release Xcode 27 runner image generally available actions Oct.15 Improvement Multi-repository support and other improvements for GitHub in Slack and Teams collaboration tools copilot ... +1 Oct.15 Improvement Download GitHub Code Quality license usage as a CSV account management application security ... +1 Oct.15 Retired Upcoming deprecation of selected GitHub Copilot models in mid-November copilot Oct.15 Release AI Scan for pull requests generally available application security Oct.15 Release Agentic autofix for code scanning alerts general availability application security copilot ... +1 Oct.15 Retired Email notifications for repository pu"
   },
   {
     "id": "anthropic_news",
     "title": "Anthropic News",
     "url": "https://www.anthropic.com/news",
     "type": "industry",
-    "fetched_at": "20261016T042256Z",
+    "fetched_at": "20261017T041559Z",
     "status": 200,
     "error": null,
     "page_title": "Newsroom \\ Anthropic",
     "hits": [
       {
         "keyword": "agent",
-        "excerpt": "y Claude in Chrome Claude for Microsoft 365 Skills Download app Pricing Log in to Claude Models Mythos Fable Opus Sonnet Haiku Solutions AI agents Code modernization Coding Commerce Customer support Cybersecurity Enterprise Financial advisors Financial services Government Healthcare Higher education K-12 teachers Legal Life sciences Nonprofits Sales Small business Claude Platform Overview Developer docs Pricing Ecosy"
+        "excerpt": "r Google Workspace Claude for Microsoft 365 Skills Download app Pricing Log in to Claude Models Mythos Fable Opus Sonnet Haiku Solutions AI agents Code modernization Coding Commerce Customer support Cybersecurity Enterprise Financial advisors Financial services Government Healthcare Higher education K-12 teachers Legal Life sciences Nonprofits Sales Small business Claude Platform Overview Developer docs Pricing Ecosy"
       },
       {
         "keyword": "agents",
-        "excerpt": "y Claude in Chrome Claude for Microsoft 365 Skills Download app Pricing Log in to Claude Models Mythos Fable Opus Sonnet Haiku Solutions AI agents Code modernization Coding Commerce Customer support Cybersecurity Enterprise Financial advisors Financial services Government Healthcare Higher education K-12 teachers Legal Life sciences Nonprofits Sales Small business Claude Platform Overview Developer docs Pricing Ecosy"
+        "excerpt": "r Google Workspace Claude for Microsoft 365 Skills Download app Pricing Log in to Claude Models Mythos Fable Opus Sonnet Haiku Solutions AI agents Code modernization Coding Commerce Customer support Cybersecurity Enterprise Financial advisors Financial services Government Healthcare Higher education K-12 teachers Legal Life sciences Nonprofits Sales Small business Claude Platform Overview Developer docs Pricing Ecosy"
       },
       {
         "keyword": "Chrome",
-        "excerpt": "ts See more Products Claude Claude Code Claude Code Enterprise Claude Cowork @Claude Claude Design Claude Science Claude Security Claude in Chrome Claude for Microsoft 365 Skills Download app Pricing Log in to Claude Models Mythos Fable Opus Sonnet Haiku Solutions AI agents Code modernization Coding Commerce Customer support Cybersecurity Enterprise Financial advisors Financial services Government Healthcare Higher e"
+        "excerpt": "ts See more Products Claude Claude Code Claude Code Enterprise Claude Cowork @Claude Claude Design Claude Science Claude Security Claude in Chrome Claude for Google Workspace Claude for Microsoft 365 Skills Download app Pricing Log in to Claude Models Mythos Fable Opus Sonnet Haiku Solutions AI agents Code modernization Coding Commerce Customer support Cybersecurity Enterprise Financial advisors Financial services Go"
       },
       {
         "keyword": "CLI",
-        "excerpt": "10,000 engineers and tackle the enterprise AI talent gap Oct 1, 2026 Announcements Barclays scales Claude to upgrade operations and improve client experience Sep 23, 2026 Science Claude discovers a novel enzyme system with CRISPR-like repeats See more Products Claude Claude Code Claude Code Enterprise Claude Cowork @Claude Claude Design Claude Science Claude Security Claude in Chrome Claude for Microsoft 365 Skills D"
+        "excerpt": "10,000 engineers and tackle the enterprise AI talent gap Oct 1, 2026 Announcements Barclays scales Claude to upgrade operations and improve client experience Sep 23, 2026 Science Claude discovers a novel enzyme system with CRISPR-like repeats See more Products Claude Claude Code Claude Code Enterprise Claude Cowork @Claude Claude Design Claude Science Claude Security Claude in Chrome Claude for Google Workspace Claud"
       },
       {
         "keyword": "plugins",
@@ -865,7 +865,7 @@
       },
       {
         "keyword": "skills",
-        "excerpt": "de Code Claude Code Enterprise Claude Cowork @Claude Claude Design Claude Science Claude Security Claude in Chrome Claude for Microsoft 365 Skills Download app Pricing Log in to Claude Models Mythos Fable Opus Sonnet Haiku Solutions AI agents Code modernization Coding Commerce Customer support Cybersecurity Enterprise Financial advisors Financial services Government Healthcare Higher education K-12 teachers Legal Lif"
+        "excerpt": "se Claude Cowork @Claude Claude Design Claude Science Claude Security Claude in Chrome Claude for Google Workspace Claude for Microsoft 365 Skills Download app Pricing Log in to Claude Models Mythos Fable Opus Sonnet Haiku Solutions AI agents Code modernization Coding Commerce Customer support Cybersecurity Enterprise Financial advisors Financial services Government Healthcare Higher education K-12 teachers Legal Lif"
       },
       {
         "keyword": "model",
@@ -887,7 +887,7 @@
     "title": "Google AI Developers Blog",
     "url": "https://developers.googleblog.com/en/search/?query=Gemini",
     "type": "industry",
-    "fetched_at": "20261016T042256Z",
+    "fetched_at": "20261017T041559Z",
     "status": 200,
     "error": null,
     "page_title": "Search - Google Developers Blog",
