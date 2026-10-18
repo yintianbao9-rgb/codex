@@ -4,7 +4,7 @@
     "title": "Codex Changelog",
     "url": "https://developers.openai.com/codex/changelog",
     "type": "official",
-    "fetched_at": "20261017T041559Z",
+    "fetched_at": "20261018T042109Z",
     "status": 200,
     "error": null,
     "page_title": "ChatGPT & Codex changelog | ChatGPT Learn",
@@ -113,7 +113,7 @@
     "title": "Codex App",
     "url": "https://developers.openai.com/codex/app",
     "type": "official",
-    "fetched_at": "20261017T041559Z",
+    "fetched_at": "20261018T042109Z",
     "status": 200,
     "error": null,
     "page_title": "ChatGPT desktop app | ChatGPT Learn",
@@ -210,7 +210,7 @@
     "title": "Codex CLI",
     "url": "https://developers.openai.com/codex/cli",
     "type": "official",
-    "fetched_at": "20261017T041559Z",
+    "fetched_at": "20261018T042109Z",
     "status": 200,
     "error": null,
     "page_title": "Codex CLI | ChatGPT Learn",
@@ -311,7 +311,7 @@
     "title": "Codex IDE",
     "url": "https://developers.openai.com/codex/ide",
     "type": "official",
-    "fetched_at": "20261017T041559Z",
+    "fetched_at": "20261018T042109Z",
     "status": 200,
     "error": null,
     "page_title": "Codex IDE extension | ChatGPT Learn",
@@ -408,7 +408,7 @@
     "title": "Codex Authentication",
     "url": "https://developers.openai.com/codex/auth",
     "type": "official",
-    "fetched_at": "20261017T041559Z",
+    "fetched_at": "20261018T042109Z",
     "status": 200,
     "error": null,
     "page_title": "Authentication | ChatGPT Learn",
@@ -509,7 +509,7 @@
     "title": "Codex Config Reference",
     "url": "https://developers.openai.com/codex/config-reference",
     "type": "official",
-    "fetched_at": "20261017T041559Z",
+    "fetched_at": "20261018T042109Z",
     "status": 200,
     "error": null,
     "page_title": "Configuration Reference | ChatGPT Learn",
@@ -614,7 +614,7 @@
     "title": "openai/codex Releases",
     "url": "https://github.com/openai/codex/releases",
     "type": "github",
-    "fetched_at": "20261017T041559Z",
+    "fetched_at": "20261018T042109Z",
     "status": 200,
     "error": null,
     "page_title": "Releases · openai/codex · GitHub",
@@ -683,7 +683,7 @@
     "title": "ChatGPT Release Notes",
     "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
     "type": "official",
-    "fetched_at": "20261017T041559Z",
+    "fetched_at": "20261018T042109Z",
     "status": 403,
     "error": "HTTP Error 403: Forbidden",
     "hits": [],
@@ -694,7 +694,7 @@
     "title": "OpenAI News",
     "url": "https://openai.com/news/",
     "type": "industry",
-    "fetched_at": "20261017T041559Z",
+    "fetched_at": "20261018T042109Z",
     "status": 403,
     "error": "HTTP Error 403: Forbidden",
     "hits": [],
@@ -705,7 +705,7 @@
     "title": "OpenAI Research",
     "url": "https://openai.com/research/",
     "type": "industry",
-    "fetched_at": "20261017T041559Z",
+    "fetched_at": "20261018T042109Z",
     "status": 403,
     "error": "HTTP Error 403: Forbidden",
     "hits": [],
@@ -716,7 +716,7 @@
     "title": "GitHub AI & ML Blog",
     "url": "https://github.blog/ai-and-ml/",
     "type": "industry",
-    "fetched_at": "20261017T041559Z",
+    "fetched_at": "20261018T042109Z",
     "status": 200,
     "error": null,
     "page_title": "The latest on AI & ML - The GitHub Blog",
@@ -777,7 +777,7 @@
     "title": "GitHub Changelog",
     "url": "https://github.blog/changelog/",
     "type": "industry",
-    "fetched_at": "20261017T041559Z",
+    "fetched_at": "20261018T042109Z",
     "status": 200,
     "error": null,
     "page_title": "GitHub Changelog",
@@ -838,7 +838,7 @@
     "title": "Anthropic News",
     "url": "https://www.anthropic.com/news",
     "type": "industry",
-    "fetched_at": "20261017T041559Z",
+    "fetched_at": "20261018T042109Z",
     "status": 200,
     "error": null,
     "page_title": "Newsroom \\ Anthropic",
@@ -887,7 +887,7 @@
     "title": "Google AI Developers Blog",
     "url": "https://developers.googleblog.com/en/search/?query=Gemini",
     "type": "industry",
-    "fetched_at": "20261017T041559Z",
+    "fetched_at": "20261018T042109Z",
     "status": 200,
     "error": null,
     "page_title": "Search - Google Developers Blog",
@@ -902,11 +902,11 @@
       },
       {
         "keyword": "Chrome",
-        "excerpt": "Management/Agile Q&A Release Notes Solutions Testing TotT Tutorials Product Select all Ads AI Edge Android Angular AR Assistant Auto Checks Chrome OS Chrome Web Cloud DeepMind Design Engineering Firebase Flutter Gemini Gemma Geo Go Google AI Studio Google Labs Google Pay IDX Kaggle Keras Matter Pay Play Search Smart Home TensorFlow TV Wallet Wear OS Workspace Technology Select all AI Cloud Mobile Web OCT. 15, 2026 /"
+        "excerpt": "ment/Agile Q&A Release Notes Solutions Solve Testing TotT Tutorials Product Select all Ads AI Edge Android Angular AR Assistant Auto Checks Chrome OS Chrome Web Cloud DeepMind Design Engineering Firebase Flutter Gemini Gemma Geo Go Google AI Studio Google Labs Google Pay IDX Kaggle Keras Matter Pay Play Search Smart Home TensorFlow TV Wallet Wear OS Workspace Technology Select all AI Cloud Mobile Web OCT. 15, 2026 /"
       },
       {
         "keyword": "IDE",
-        "excerpt": "Announcements Beginner Best Practices Business and Leadership Case Studies Code Health Community Documentation Events Explore Hard How-To Guides Industry Trends Intermediate Learn Performance Problem-Solving Project Management/Agile Q&A Release Notes Solutions Testing TotT Tutorials Product Select all Ads AI Edge Android Angular AR Assistant Auto Checks Chrome OS Chrome Web Cloud DeepMind Design Engineering Firebase"
+        "excerpt": "Announcements Beginner Best Practices Business and Leadership Case Studies Code Health Community Documentation Events Explore Hard How-To Guides Industry Trends Influence Intermediate Learn Performance Problem-Solving Project Management/Agile Q&A Release Notes Solutions Solve Testing TotT Tutorials Product Select all Ads AI Edge Android Angular AR Assistant Auto Checks Chrome OS Chrome Web Cloud DeepMind Design Engin"
       },
       {
         "keyword": "MCP",
@@ -930,7 +930,7 @@
       },
       {
         "keyword": "release",
-        "excerpt": "Documentation Events Explore Hard How-To Guides Industry Trends Intermediate Learn Performance Problem-Solving Project Management/Agile Q&A Release Notes Solutions Testing TotT Tutorials Product Select all Ads AI Edge Android Angular AR Assistant Auto Checks Chrome OS Chrome Web Cloud DeepMind Design Engineering Firebase Flutter Gemini Gemma Geo Go Google AI Studio Google Labs Google Pay IDX Kaggle Keras Matter Pay P"
+        "excerpt": "ion Events Explore Hard How-To Guides Industry Trends Influence Intermediate Learn Performance Problem-Solving Project Management/Agile Q&A Release Notes Solutions Solve Testing TotT Tutorials Product Select all Ads AI Edge Android Angular AR Assistant Auto Checks Chrome OS Chrome Web Cloud DeepMind Design Engineering Firebase Flutter Gemini Gemma Geo Go Google AI Studio Google Labs Google Pay IDX Kaggle Keras Matter"
       },
       {
         "keyword": "developer",
@@ -938,7 +938,7 @@
       },
       {
         "keyword": "Gemini",
-        "excerpt": "Search - Google Developers Blog Community/Events Learn Blog YouTube Search Community/Events Learn Blog YouTube Search for \"Gemini\" 247 results Clear filters Filter by Content Type Select all Announcements Beginner Best Practices Business and Leadership Case Studies Code Health Community Documentation Events Explore Hard How-To Guides Industry Trends Intermediate Learn Performance Problem-Solving Proj"
+        "excerpt": "Search - Google Developers Blog Community/Events Learn Blog YouTube Search Community/Events Learn Blog YouTube Search for \"Gemini\" 247 results Clear filters Filter by Content Type Select all Announcements Beginner Best Practices Business and Leadership Case Studies Code Health Community Documentation Events Explore Hard How-To Guides Industry Trends Influence Intermediate Learn Performance Problem-So"
       },
       {
         "keyword": "workflow",
@@ -949,6 +949,6 @@
         "excerpt": "erable, agent-ready tools. The gateway automatically transcodes incoming MCP JSON-RPC requests into REST calls, ensuring that your existing authentication, quotas, and logging policies apply seamlessly to agent traffic without requiring new infrastructure. SEPT. 23, 2026 / AI Introducing Support for Local AI Models in the Antigravity SDK The Google Antigravity SDK now empowers developers to execute offline, agentic w"
       }
     ],
-    "text_sample": "Search - Google Developers Blog Community/Events Learn Blog YouTube Search Community/Events Learn Blog YouTube Search for \"Gemini\" 247 results Clear filters Filter by Content Type Select all Announcements Beginner Best Practices Business and Leadership Case Studies Code Health Community Documentation Events Explore Hard How-To Guides Industry Trends Intermediate Learn Performance Problem-Solving Project Management/Agile Q&A Release Notes Solutions Testing TotT Tutorials Product Select all Ads AI Edge Android Angular AR Assistant Auto Checks Chrome OS Chrome Web Cloud DeepMind Design Engineering Firebase Flutter Gemini Gemma Geo Go Google AI Studio Google Labs Google Pay IDX Kaggle Keras Matter Pay Play Search Smart Home TensorFlow TV Wallet Wear OS Workspace Technology Select all AI Cloud Mobile Web OCT. 15, 2026 / AI Three layers, one repo: a tour of google/adk-recipes The google/adk-recipes repository unifies Agent Development Kit (ADK) resources into three structured layers—core/, plugins/, and contrib/—serving as a single source of truth for building AI agents. Developers can leverage reference patterns, install modular vertical skills (such as retail product search and virtual try-on) directly into their coding assistants, and deploy production-ready services across multiple languages. This cohesive structure streamlines the entire workflow from initial scaffolding to full"
+    "text_sample": "Search - Google Developers Blog Community/Events Learn Blog YouTube Search Community/Events Learn Blog YouTube Search for \"Gemini\" 247 results Clear filters Filter by Content Type Select all Announcements Beginner Best Practices Business and Leadership Case Studies Code Health Community Documentation Events Explore Hard How-To Guides Industry Trends Influence Intermediate Learn Performance Problem-Solving Project Management/Agile Q&A Release Notes Solutions Solve Testing TotT Tutorials Product Select all Ads AI Edge Android Angular AR Assistant Auto Checks Chrome OS Chrome Web Cloud DeepMind Design Engineering Firebase Flutter Gemini Gemma Geo Go Google AI Studio Google Labs Google Pay IDX Kaggle Keras Matter Pay Play Search Smart Home TensorFlow TV Wallet Wear OS Workspace Technology Select all AI Cloud Mobile Web OCT. 15, 2026 / AI Three layers, one repo: a tour of google/adk-recipes The google/adk-recipes repository unifies Agent Development Kit (ADK) resources into three structured layers—core/, plugins/, and contrib/—serving as a single source of truth for building AI agents. Developers can leverage reference patterns, install modular vertical skills (such as retail product search and virtual try-on) directly into their coding assistants, and deploy production-ready services across multiple languages. This cohesive structure streamlines the entire workflow from initial sca"
   }
 ]
