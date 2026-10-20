@@ -4,7 +4,7 @@
     "title": "Codex Changelog",
     "url": "https://developers.openai.com/codex/changelog",
     "type": "official",
-    "fetched_at": "20261019T043103Z",
+    "fetched_at": "20261020T044015Z",
     "status": 200,
     "error": null,
     "page_title": "ChatGPT & Codex changelog | ChatGPT Learn",
@@ -113,7 +113,7 @@
     "title": "Codex App",
     "url": "https://developers.openai.com/codex/app",
     "type": "official",
-    "fetched_at": "20261019T043103Z",
+    "fetched_at": "20261020T044015Z",
     "status": 200,
     "error": null,
     "page_title": "ChatGPT desktop app | ChatGPT Learn",
@@ -210,7 +210,7 @@
     "title": "Codex CLI",
     "url": "https://developers.openai.com/codex/cli",
     "type": "official",
-    "fetched_at": "20261019T043103Z",
+    "fetched_at": "20261020T044015Z",
     "status": 200,
     "error": null,
     "page_title": "Codex CLI | ChatGPT Learn",
@@ -311,7 +311,7 @@
     "title": "Codex IDE",
     "url": "https://developers.openai.com/codex/ide",
     "type": "official",
-    "fetched_at": "20261019T043103Z",
+    "fetched_at": "20261020T044015Z",
     "status": 200,
     "error": null,
     "page_title": "Codex IDE extension | ChatGPT Learn",
@@ -408,7 +408,7 @@
     "title": "Codex Authentication",
     "url": "https://developers.openai.com/codex/auth",
     "type": "official",
-    "fetched_at": "20261019T043103Z",
+    "fetched_at": "20261020T044015Z",
     "status": 200,
     "error": null,
     "page_title": "Authentication | ChatGPT Learn",
@@ -509,7 +509,7 @@
     "title": "Codex Config Reference",
     "url": "https://developers.openai.com/codex/config-reference",
     "type": "official",
-    "fetched_at": "20261019T043103Z",
+    "fetched_at": "20261020T044015Z",
     "status": 200,
     "error": null,
     "page_title": "Configuration Reference | ChatGPT Learn",
@@ -614,7 +614,7 @@
     "title": "openai/codex Releases",
     "url": "https://github.com/openai/codex/releases",
     "type": "github",
-    "fetched_at": "20261019T043103Z",
+    "fetched_at": "20261020T044015Z",
     "status": 200,
     "error": null,
     "page_title": "Releases · openai/codex · GitHub",
@@ -683,7 +683,7 @@
     "title": "ChatGPT Release Notes",
     "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
     "type": "official",
-    "fetched_at": "20261019T043103Z",
+    "fetched_at": "20261020T044015Z",
     "status": 403,
     "error": "HTTP Error 403: Forbidden",
     "hits": [],
@@ -694,7 +694,7 @@
     "title": "OpenAI News",
     "url": "https://openai.com/news/",
     "type": "industry",
-    "fetched_at": "20261019T043103Z",
+    "fetched_at": "20261020T044015Z",
     "status": 403,
     "error": "HTTP Error 403: Forbidden",
     "hits": [],
@@ -705,7 +705,7 @@
     "title": "OpenAI Research",
     "url": "https://openai.com/research/",
     "type": "industry",
-    "fetched_at": "20261019T043103Z",
+    "fetched_at": "20261020T044015Z",
     "status": 403,
     "error": "HTTP Error 403: Forbidden",
     "hits": [],
@@ -716,14 +716,14 @@
     "title": "GitHub AI & ML Blog",
     "url": "https://github.blog/ai-and-ml/",
     "type": "industry",
-    "fetched_at": "20261019T043103Z",
+    "fetched_at": "20261020T044015Z",
     "status": 200,
     "error": null,
     "page_title": "The latest on AI & ML - The GitHub Blog",
     "hits": [
       {
         "keyword": "agent",
-        "excerpt": "app for Beginners: How to teach Copilot about your codebase Learn how to add custom instructions and skills to your repository, use custom agents, and connect MCP servers like Playwright. Christopher Harrison · October 12, 2026 Secret protection must scale with software Developers aren’t becoming more careless; they’re being outpaced. The tools that let developers create more software should also take on more of the"
+        "excerpt": "ot, check out GitHub&#8217;s official documentation . Featured How to continue a GitHub Copilot app session in VS Code Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context. Kayla Cinnamon · October 19, 2026 GitHub’s model for secret detection: Finding more secrets with less noise GitHub’s context-aware secret classifier improves"
       },
       {
         "keyword": "agents",
@@ -759,7 +759,7 @@
       },
       {
         "keyword": "model",
-        "excerpt": "on and practical guides on GitHub’s own AI coding tool, GitHub Copilot, check out GitHub&#8217;s official documentation . Featured GitHub’s model for secret detection: Finding more secrets with less noise GitHub’s context-aware secret classifier improves detection quality, raises weighted acceptance by 11.5%, and reduces median scan execution time by 86%. Batu Ozturkler & Shengyu Fu · October 13, 2026 GitHub Copilot"
+        "excerpt": "tHub Copilot app into VS Code without losing the conversation, code changes, or working context. Kayla Cinnamon · October 19, 2026 GitHub’s model for secret detection: Finding more secrets with less noise GitHub’s context-aware secret classifier improves detection quality, raises weighted acceptance by 11.5%, and reduces median scan execution time by 86%. Batu Ozturkler & Shengyu Fu · October 13, 2026 GitHub Copilot"
       },
       {
         "keyword": "developer",
@@ -777,7 +777,7 @@
     "title": "GitHub Changelog",
     "url": "https://github.blog/changelog/",
     "type": "industry",
-    "fetched_at": "20261019T043103Z",
+    "fetched_at": "20261020T044015Z",
     "status": 200,
     "error": null,
     "page_title": "GitHub Changelog",
@@ -788,7 +788,7 @@
       },
       {
         "keyword": "CLI",
-        "excerpt": "vements Retired Filters ( 0 selected ) Clear all Filters ( 0 selected ) Match: Any All Tags Account management Actions Application Security Client apps Collaboration tools Community engagement Copilot Ecosystem & accessibility Enterprise management tools Platform governance Projects & Issues Supply chain security Clear all Apply October Oct 2026 October Oct 2026 Oct.16 Release Open source license compliance generally"
+        "excerpt": "vements Retired Filters ( 0 selected ) Clear all Filters ( 0 selected ) Match: Any All Tags Account management Actions Application Security Client apps Collaboration tools Community engagement Copilot Ecosystem & accessibility Enterprise management tools Platform governance Projects & Issues Supply chain security Clear all Apply October Oct 2026 October Oct 2026 Oct.19 Improvement Copilot model policy API for enterpr"
       },
       {
         "keyword": "IDE",
@@ -800,7 +800,7 @@
       },
       {
         "keyword": "model",
-        "excerpt": "uality license usage as a CSV account management application security ... +1 Oct.15 Retired Upcoming deprecation of selected GitHub Copilot models in mid-November copilot Oct.15 Release AI Scan for pull requests generally available application security Oct.15 Release Agentic autofix for code scanning alerts general availability application security copilot ... +1 Oct.15 Retired Email notifications for repository push"
+        "excerpt": "ls Platform governance Projects & Issues Supply chain security Clear all Apply October Oct 2026 October Oct 2026 Oct.19 Improvement Copilot model policy API for enterprise, orgs, and teams copilot enterprise management tools ... +1 Oct.19 Retired GitHub Copilot models deprecated on October 19, 2026 copilot Oct.19 Improvement Some Git over HTTPS may temporarily require authentication account management Oct.19 Retired"
       },
       {
         "keyword": "release",
@@ -829,16 +829,20 @@
       {
         "keyword": "config",
         "excerpt": "mprovement Code scanning AI Scan metrics in security overview application security Oct.12 Improvement Client telemetry user attribution and configurable capture client apps copilot enterprise management tools ... +2 Oct.12 Release Push attribution for commits in limited public preview application security platform governance ... +1 Oct.12 Improvement Anonymous organization-level registries for Dependabot supply chain"
+      },
+      {
+        "keyword": "authentication",
+        "excerpt": "Oct.19 Retired GitHub Copilot models deprecated on October 19, 2026 copilot Oct.19 Improvement Some Git over HTTPS may temporarily require authentication account management Oct.19 Retired CodeQL changes for macOS 27, Xcode 27, and Swift 6.4 application security Oct.16 Release Open source license compliance generally available supply chain security Oct.15 Release Xcode 27 runner image generally available actions Oct."
       }
     ],
-    "text_sample": "GitHub Changelog Skip to content / Blog Changelog Docs Customer stories Try GitHub Copilot app Attend GitHub Universe Search Changelog Docs Customer stories Attend GitHub Universe Try GitHub Copilot app Back to blog Changelog Copy RSS feed URL Follow @ghchangelog on X All New Releases Improvements Retired Filters ( 0 selected ) Clear all Filters ( 0 selected ) Match: Any All Tags Account management Actions Application Security Client apps Collaboration tools Community engagement Copilot Ecosystem & accessibility Enterprise management tools Platform governance Projects & Issues Supply chain security Clear all Apply October Oct 2026 October Oct 2026 Oct.16 Release Open source license compliance generally available supply chain security Oct.15 Release Xcode 27 runner image generally available actions Oct.15 Improvement Multi-repository support and other improvements for GitHub in Slack and Teams collaboration tools copilot ... +1 Oct.15 Improvement Download GitHub Code Quality license usage as a CSV account management application security ... +1 Oct.15 Retired Upcoming deprecation of selected GitHub Copilot models in mid-November copilot Oct.15 Release AI Scan for pull requests generally available application security Oct.15 Release Agentic autofix for code scanning alerts general availability application security copilot ... +1 Oct.15 Retired Email notifications for repository pu"
+    "text_sample": "GitHub Changelog Skip to content / Blog Changelog Docs Customer stories Try GitHub Copilot app Attend GitHub Universe Search Changelog Docs Customer stories Attend GitHub Universe Try GitHub Copilot app Back to blog Changelog Copy RSS feed URL Follow @ghchangelog on X All New Releases Improvements Retired Filters ( 0 selected ) Clear all Filters ( 0 selected ) Match: Any All Tags Account management Actions Application Security Client apps Collaboration tools Community engagement Copilot Ecosystem & accessibility Enterprise management tools Platform governance Projects & Issues Supply chain security Clear all Apply October Oct 2026 October Oct 2026 Oct.19 Improvement Copilot model policy API for enterprise, orgs, and teams copilot enterprise management tools ... +1 Oct.19 Retired GitHub Copilot models deprecated on October 19, 2026 copilot Oct.19 Improvement Some Git over HTTPS may temporarily require authentication account management Oct.19 Retired CodeQL changes for macOS 27, Xcode 27, and Swift 6.4 application security Oct.16 Release Open source license compliance generally available supply chain security Oct.15 Release Xcode 27 runner image generally available actions Oct.15 Improvement Multi-repository support and other improvements for GitHub in Slack and Teams collaboration tools copilot ... +1 Oct.15 Improvement Download GitHub Code Quality license usage as a CSV account"
   },
   {
     "id": "anthropic_news",
     "title": "Anthropic News",
     "url": "https://www.anthropic.com/news",
     "type": "industry",
-    "fetched_at": "20261019T043103Z",
+    "fetched_at": "20261020T044015Z",
     "status": 200,
     "error": null,
     "page_title": "Newsroom \\ Anthropic",
@@ -887,22 +891,22 @@
     "title": "Google AI Developers Blog",
     "url": "https://developers.googleblog.com/en/search/?query=Gemini",
     "type": "industry",
-    "fetched_at": "20261019T043103Z",
+    "fetched_at": "20261020T044015Z",
     "status": 200,
     "error": null,
     "page_title": "Search - Google Developers Blog",
     "hits": [
       {
         "keyword": "agent",
-        "excerpt": "t all AI Cloud Mobile Web OCT. 15, 2026 / AI Three layers, one repo: a tour of google/adk-recipes The google/adk-recipes repository unifies Agent Development Kit (ADK) resources into three structured layers—core/, plugins/, and contrib/—serving as a single source of truth for building AI agents. Developers can leverage reference patterns, install modular vertical skills (such as retail product search and virtual try-"
+        "excerpt": "Home TensorFlow TV Wallet Wear OS Workspace Technology Select all AI Cloud Mobile Web OCT. 19, 2026 / AI Step by Step guide: Build a Voice Agent That Never Goes Silent using ADK The open-source Agent Development Kit (ADK) and gemini-3.8-live enable developers to build responsive voice agents by implementing non-blocking tools in Python. Developers can use streaming tools to yield progress updates or background execu"
       },
       {
         "keyword": "agents",
-        "excerpt": "elopment Kit (ADK) resources into three structured layers—core/, plugins/, and contrib/—serving as a single source of truth for building AI agents. Developers can leverage reference patterns, install modular vertical skills (such as retail product search and virtual try-on) directly into their coding assistants, and deploy production-ready services across multiple languages. This cohesive structure streamlines the en"
+        "excerpt": "hat Never Goes Silent using ADK The open-source Agent Development Kit (ADK) and gemini-3.8-live enable developers to build responsive voice agents by implementing non-blocking tools in Python. Developers can use streaming tools to yield progress updates or background execution patterns to keep conversations fluid during long-running backend queries. Additionally, configuring response scheduling behaviors such as WHEN"
       },
       {
         "keyword": "Chrome",
-        "excerpt": "ment/Agile Q&A Release Notes Solutions Solve Testing TotT Tutorials Product Select all Ads AI Edge Android Angular AR Assistant Auto Checks Chrome OS Chrome Web Cloud DeepMind Design Engineering Firebase Flutter Gemini Gemma Geo Go Google AI Studio Google Labs Google Pay IDX Kaggle Keras Matter Pay Play Search Smart Home TensorFlow TV Wallet Wear OS Workspace Technology Select all AI Cloud Mobile Web OCT. 15, 2026 /"
+        "excerpt": "ment/Agile Q&A Release Notes Solutions Solve Testing TotT Tutorials Product Select all Ads AI Edge Android Angular AR Assistant Auto Checks Chrome OS Chrome Web Cloud DeepMind Design Engineering Firebase Flutter Gemini Gemma Geo Go Google AI Studio Google Labs Google Pay IDX Kaggle Keras Matter Pay Play Search Smart Home TensorFlow TV Wallet Wear OS Workspace Technology Select all AI Cloud Mobile Web OCT. 19, 2026 /"
       },
       {
         "keyword": "IDE",
@@ -934,21 +938,25 @@
       },
       {
         "keyword": "developer",
-        "excerpt": "Search - Google Developers Blog Community/Events Learn Blog YouTube Search Community/Events Learn Blog YouTube Search for \"Gemini\" 247 results Clear filters Filter by Content Type Select all Announcements Beginner Best Practices Business and Leadership Case Studies Code Health Community Document"
+        "excerpt": "Search - Google Developers Blog Community/Events Learn Blog YouTube Search Community/Events Learn Blog YouTube Search for \"Gemini\" 248 results Clear filters Filter by Content Type Select all Announcements Beginner Best Practices Business and Leadership Case Studies Code Health Community Document"
       },
       {
         "keyword": "Gemini",
-        "excerpt": "Search - Google Developers Blog Community/Events Learn Blog YouTube Search Community/Events Learn Blog YouTube Search for \"Gemini\" 247 results Clear filters Filter by Content Type Select all Announcements Beginner Best Practices Business and Leadership Case Studies Code Health Community Documentation Events Explore Hard How-To Guides Industry Trends Influence Intermediate Learn Performance Problem-So"
+        "excerpt": "Search - Google Developers Blog Community/Events Learn Blog YouTube Search Community/Events Learn Blog YouTube Search for \"Gemini\" 248 results Clear filters Filter by Content Type Select all Announcements Beginner Best Practices Business and Leadership Case Studies Code Health Community Documentation Events Explore Hard How-To Guides Industry Trends Influence Intermediate Learn Performance Problem-So"
       },
       {
         "keyword": "workflow",
         "excerpt": "nto their coding assistants, and deploy production-ready services across multiple languages. This cohesive structure streamlines the entire workflow from initial scaffolding to full deployment on Google Cloud infrastructure. OCT. 15, 2026 / AI Evaluating AI agents: moving past the vibe check A practical engineering guide and reference architecture for establishing continuous evaluation pipelines for multi-turn AI age"
       },
       {
+        "keyword": "config",
+        "excerpt": "s to yield progress updates or background execution patterns to keep conversations fluid during long-running backend queries. Additionally, configuring response scheduling behaviors such as WHEN_IDLE, INTERRUPT, or SILENT gives developers precise control over when and how tool results are delivered into the conversation. OCT. 15, 2026 / AI Three layers, one repo: a tour of google/adk-recipes The google/adk-recipes re"
+      },
+      {
         "keyword": "authentication",
         "excerpt": "erable, agent-ready tools. The gateway automatically transcodes incoming MCP JSON-RPC requests into REST calls, ensuring that your existing authentication, quotas, and logging policies apply seamlessly to agent traffic without requiring new infrastructure. SEPT. 23, 2026 / AI Introducing Support for Local AI Models in the Antigravity SDK The Google Antigravity SDK now empowers developers to execute offline, agentic w"
       }
     ],
-    "text_sample": "Search - Google Developers Blog Community/Events Learn Blog YouTube Search Community/Events Learn Blog YouTube Search for \"Gemini\" 247 results Clear filters Filter by Content Type Select all Announcements Beginner Best Practices Business and Leadership Case Studies Code Health Community Documentation Events Explore Hard How-To Guides Industry Trends Influence Intermediate Learn Performance Problem-Solving Project Management/Agile Q&A Release Notes Solutions Solve Testing TotT Tutorials Product Select all Ads AI Edge Android Angular AR Assistant Auto Checks Chrome OS Chrome Web Cloud DeepMind Design Engineering Firebase Flutter Gemini Gemma Geo Go Google AI Studio Google Labs Google Pay IDX Kaggle Keras Matter Pay Play Search Smart Home TensorFlow TV Wallet Wear OS Workspace Technology Select all AI Cloud Mobile Web OCT. 15, 2026 / AI Three layers, one repo: a tour of google/adk-recipes The google/adk-recipes repository unifies Agent Development Kit (ADK) resources into three structured layers—core/, plugins/, and contrib/—serving as a single source of truth for building AI agents. Developers can leverage reference patterns, install modular vertical skills (such as retail product search and virtual try-on) directly into their coding assistants, and deploy production-ready services across multiple languages. This cohesive structure streamlines the entire workflow from initial sca"
+    "text_sample": "Search - Google Developers Blog Community/Events Learn Blog YouTube Search Community/Events Learn Blog YouTube Search for \"Gemini\" 248 results Clear filters Filter by Content Type Select all Announcements Beginner Best Practices Business and Leadership Case Studies Code Health Community Documentation Events Explore Hard How-To Guides Industry Trends Influence Intermediate Learn Performance Problem-Solving Project Management/Agile Q&A Release Notes Solutions Solve Testing TotT Tutorials Product Select all Ads AI Edge Android Angular AR Assistant Auto Checks Chrome OS Chrome Web Cloud DeepMind Design Engineering Firebase Flutter Gemini Gemma Geo Go Google AI Studio Google Labs Google Pay IDX Kaggle Keras Matter Pay Play Search Smart Home TensorFlow TV Wallet Wear OS Workspace Technology Select all AI Cloud Mobile Web OCT. 19, 2026 / AI Step by Step guide: Build a Voice Agent That Never Goes Silent using ADK The open-source Agent Development Kit (ADK) and gemini-3.8-live enable developers to build responsive voice agents by implementing non-blocking tools in Python. Developers can use streaming tools to yield progress updates or background execution patterns to keep conversations fluid during long-running backend queries. Additionally, configuring response scheduling behaviors such as WHEN_IDLE, INTERRUPT, or SILENT gives developers precise control over when and how tool results a"
   }
 ]
