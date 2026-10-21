@@ -4,7 +4,7 @@
     "title": "Codex Changelog",
     "url": "https://developers.openai.com/codex/changelog",
     "type": "official",
-    "fetched_at": "20261020T044015Z",
+    "fetched_at": "20261021T043459Z",
     "status": 200,
     "error": null,
     "page_title": "ChatGPT & Codex changelog | ChatGPT Learn",
@@ -113,7 +113,7 @@
     "title": "Codex App",
     "url": "https://developers.openai.com/codex/app",
     "type": "official",
-    "fetched_at": "20261020T044015Z",
+    "fetched_at": "20261021T043459Z",
     "status": 200,
     "error": null,
     "page_title": "ChatGPT desktop app | ChatGPT Learn",
@@ -210,7 +210,7 @@
     "title": "Codex CLI",
     "url": "https://developers.openai.com/codex/cli",
     "type": "official",
-    "fetched_at": "20261020T044015Z",
+    "fetched_at": "20261021T043459Z",
     "status": 200,
     "error": null,
     "page_title": "Codex CLI | ChatGPT Learn",
@@ -311,7 +311,7 @@
     "title": "Codex IDE",
     "url": "https://developers.openai.com/codex/ide",
     "type": "official",
-    "fetched_at": "20261020T044015Z",
+    "fetched_at": "20261021T043459Z",
     "status": 200,
     "error": null,
     "page_title": "Codex IDE extension | ChatGPT Learn",
@@ -408,7 +408,7 @@
     "title": "Codex Authentication",
     "url": "https://developers.openai.com/codex/auth",
     "type": "official",
-    "fetched_at": "20261020T044015Z",
+    "fetched_at": "20261021T043459Z",
     "status": 200,
     "error": null,
     "page_title": "Authentication | ChatGPT Learn",
@@ -509,7 +509,7 @@
     "title": "Codex Config Reference",
     "url": "https://developers.openai.com/codex/config-reference",
     "type": "official",
-    "fetched_at": "20261020T044015Z",
+    "fetched_at": "20261021T043459Z",
     "status": 200,
     "error": null,
     "page_title": "Configuration Reference | ChatGPT Learn",
@@ -614,7 +614,7 @@
     "title": "openai/codex Releases",
     "url": "https://github.com/openai/codex/releases",
     "type": "github",
-    "fetched_at": "20261020T044015Z",
+    "fetched_at": "20261021T043459Z",
     "status": 200,
     "error": null,
     "page_title": "Releases · openai/codex · GitHub",
@@ -683,7 +683,7 @@
     "title": "ChatGPT Release Notes",
     "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
     "type": "official",
-    "fetched_at": "20261020T044015Z",
+    "fetched_at": "20261021T043459Z",
     "status": 403,
     "error": "HTTP Error 403: Forbidden",
     "hits": [],
@@ -694,7 +694,7 @@
     "title": "OpenAI News",
     "url": "https://openai.com/news/",
     "type": "industry",
-    "fetched_at": "20261020T044015Z",
+    "fetched_at": "20261021T043459Z",
     "status": 403,
     "error": "HTTP Error 403: Forbidden",
     "hits": [],
@@ -705,7 +705,7 @@
     "title": "OpenAI Research",
     "url": "https://openai.com/research/",
     "type": "industry",
-    "fetched_at": "20261020T044015Z",
+    "fetched_at": "20261021T043459Z",
     "status": 403,
     "error": "HTTP Error 403: Forbidden",
     "hits": [],
@@ -716,18 +716,18 @@
     "title": "GitHub AI & ML Blog",
     "url": "https://github.blog/ai-and-ml/",
     "type": "industry",
-    "fetched_at": "20261020T044015Z",
+    "fetched_at": "20261021T043459Z",
     "status": 200,
     "error": null,
     "page_title": "The latest on AI & ML - The GitHub Blog",
     "hits": [
       {
         "keyword": "agent",
-        "excerpt": "ot, check out GitHub&#8217;s official documentation . Featured How to continue a GitHub Copilot app session in VS Code Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context. Kayla Cinnamon · October 19, 2026 GitHub’s model for secret detection: Finding more secrets with less noise GitHub’s context-aware secret classifier improves"
+        "excerpt": "responsible for the results. Julien Dubois · October 20, 2026 How to continue a GitHub Copilot app session in VS Code Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context. Kayla Cinnamon · October 19, 2026 GitHub’s model for secret detection: Finding more secrets with less noise GitHub’s context-aware secret classifier improves"
       },
       {
         "keyword": "agents",
-        "excerpt": "app for Beginners: How to teach Copilot about your codebase Learn how to add custom instructions and skills to your repository, use custom agents, and connect MCP servers like Playwright. Christopher Harrison · October 12, 2026 Secret protection must scale with software Developers aren’t becoming more careless; they’re being outpaced. The tools that let developers create more software should also take on more of the"
+        "excerpt": "app for Beginners: How to teach Copilot about your codebase Learn how to add custom instructions and skills to your repository, use custom agents, and connect MCP servers like Playwright. Christopher Harrison · October 12, 2026 We do newsletters, too Discover tips, technical guides, and best practices in our biweekly newsletter just for devs. Your work email address Subscribe Yes please, I’d like GitHub and affiliat"
       },
       {
         "keyword": "automation",
@@ -751,7 +751,7 @@
       },
       {
         "keyword": "MCP",
-        "excerpt": "How to teach Copilot about your codebase Learn how to add custom instructions and skills to your repository, use custom agents, and connect MCP servers like Playwright. Christopher Harrison · October 12, 2026 Secret protection must scale with software Developers aren’t becoming more careless; they’re being outpaced. The tools that let developers create more software should also take on more of the work of protecting"
+        "excerpt": "How to teach Copilot about your codebase Learn how to add custom instructions and skills to your repository, use custom agents, and connect MCP servers like Playwright. Christopher Harrison · October 12, 2026 We do newsletters, too Discover tips, technical guides, and best practices in our biweekly newsletter just for devs. Your work email address Subscribe Yes please, I’d like GitHub and affiliates to use my informa"
       },
       {
         "keyword": "skills",
@@ -777,18 +777,18 @@
     "title": "GitHub Changelog",
     "url": "https://github.blog/changelog/",
     "type": "industry",
-    "fetched_at": "20261020T044015Z",
+    "fetched_at": "20261021T043459Z",
     "status": 200,
     "error": null,
     "page_title": "GitHub Changelog",
     "hits": [
       {
         "keyword": "agent",
-        "excerpt": "Hub Copilot models in mid-November copilot Oct.15 Release AI Scan for pull requests generally available application security Oct.15 Release Agentic autofix for code scanning alerts general availability application security copilot ... +1 Oct.15 Retired Email notifications for repository push events have been retired community engagement Oct.14 Release HydraFusion updates and new Max option copilot Oct.14 Release GitH"
+        "excerpt": "in mid-November copilot Oct.15 Release AI Scan for pull requests generally available application security universe26 ... +1 Oct.15 Release Agentic autofix for code scanning alerts general availability application security copilot universe26 ... +2 Oct.15 Retired Email notifications for repository push events have been retired community engagement Oct.14 Release HydraFusion updates and new Max option copilot Oct.14 R"
       },
       {
         "keyword": "CLI",
-        "excerpt": "vements Retired Filters ( 0 selected ) Clear all Filters ( 0 selected ) Match: Any All Tags Account management Actions Application Security Client apps Collaboration tools Community engagement Copilot Ecosystem & accessibility Enterprise management tools Platform governance Projects & Issues Supply chain security Clear all Apply October Oct 2026 October Oct 2026 Oct.19 Improvement Copilot model policy API for enterpr"
+        "excerpt": "vements Retired Filters ( 0 selected ) Clear all Filters ( 0 selected ) Match: Any All Tags Account management Actions Application Security Client apps Collaboration tools Community engagement Copilot Ecosystem & accessibility Enterprise management tools Platform governance Projects & Issues Supply chain security Clear all Apply October Oct 2026 October Oct 2026 Oct.20 Improvement Bulk migrate branch protections to r"
       },
       {
         "keyword": "IDE",
@@ -800,7 +800,7 @@
       },
       {
         "keyword": "model",
-        "excerpt": "ls Platform governance Projects & Issues Supply chain security Clear all Apply October Oct 2026 October Oct 2026 Oct.19 Improvement Copilot model policy API for enterprise, orgs, and teams copilot enterprise management tools ... +1 Oct.19 Retired GitHub Copilot models deprecated on October 19, 2026 copilot Oct.19 Improvement Some Git over HTTPS may temporarily require authentication account management Oct.19 Retired"
+        "excerpt": "se26 ... +1 Oct.20 Improvement Dependabot now supports npm 12, pnpm 11 and 12, and Bun 1.4 supply chain security Oct.19 Improvement Copilot model policy API for enterprise, orgs, and teams copilot enterprise management tools ... +1 Oct.19 Retired GitHub Copilot models deprecated on October 19, 2026 copilot Oct.19 Improvement Some Git over HTTPS may temporarily require authentication account management Oct.19 Retired"
       },
       {
         "keyword": "release",
@@ -832,66 +832,62 @@
       },
       {
         "keyword": "authentication",
-        "excerpt": "Oct.19 Retired GitHub Copilot models deprecated on October 19, 2026 copilot Oct.19 Improvement Some Git over HTTPS may temporarily require authentication account management Oct.19 Retired CodeQL changes for macOS 27, Xcode 27, and Swift 6.4 application security Oct.16 Release Open source license compliance generally available supply chain security Oct.15 Release Xcode 27 runner image generally available actions Oct."
+        "excerpt": "Oct.19 Retired GitHub Copilot models deprecated on October 19, 2026 copilot Oct.19 Improvement Some Git over HTTPS may temporarily require authentication account management Oct.19 Retired CodeQL changes for macOS 27, Xcode 27, and Swift 6.4 application security Oct.16 Release Open source license compliance generally available supply chain security universe26 ... +1 Oct.15 Release Xcode 27 runner image generally avai"
       }
     ],
-    "text_sample": "GitHub Changelog Skip to content / Blog Changelog Docs Customer stories Try GitHub Copilot app Attend GitHub Universe Search Changelog Docs Customer stories Attend GitHub Universe Try GitHub Copilot app Back to blog Changelog Copy RSS feed URL Follow @ghchangelog on X All New Releases Improvements Retired Filters ( 0 selected ) Clear all Filters ( 0 selected ) Match: Any All Tags Account management Actions Application Security Client apps Collaboration tools Community engagement Copilot Ecosystem & accessibility Enterprise management tools Platform governance Projects & Issues Supply chain security Clear all Apply October Oct 2026 October Oct 2026 Oct.19 Improvement Copilot model policy API for enterprise, orgs, and teams copilot enterprise management tools ... +1 Oct.19 Retired GitHub Copilot models deprecated on October 19, 2026 copilot Oct.19 Improvement Some Git over HTTPS may temporarily require authentication account management Oct.19 Retired CodeQL changes for macOS 27, Xcode 27, and Swift 6.4 application security Oct.16 Release Open source license compliance generally available supply chain security Oct.15 Release Xcode 27 runner image generally available actions Oct.15 Improvement Multi-repository support and other improvements for GitHub in Slack and Teams collaboration tools copilot ... +1 Oct.15 Improvement Download GitHub Code Quality license usage as a CSV account"
+    "text_sample": "GitHub Changelog Skip to content / Blog Changelog Docs Customer stories Try GitHub Copilot app Attend GitHub Universe Search Changelog Docs Customer stories Attend GitHub Universe Try GitHub Copilot app Back to blog Changelog Copy RSS feed URL Follow @ghchangelog on X All New Releases Improvements Retired Filters ( 0 selected ) Clear all Filters ( 0 selected ) Match: Any All Tags Account management Actions Application Security Client apps Collaboration tools Community engagement Copilot Ecosystem & accessibility Enterprise management tools Platform governance Projects & Issues Supply chain security Clear all Apply October Oct 2026 October Oct 2026 Oct.20 Improvement Bulk migrate branch protections to rulesets for a repository platform governance Oct.20 Improvement Updates to GitHub secret scanning application security Oct.20 Improvement Dependabot alerts REST API now includes dependency versions supply chain security Oct.20 Release GitHub package firewall in public preview supply chain security universe26 ... +1 Oct.20 Improvement Dependabot now supports npm 12, pnpm 11 and 12, and Bun 1.4 supply chain security Oct.19 Improvement Copilot model policy API for enterprise, orgs, and teams copilot enterprise management tools ... +1 Oct.19 Retired GitHub Copilot models deprecated on October 19, 2026 copilot Oct.19 Improvement Some Git over HTTPS may temporarily require authenticatio"
   },
   {
     "id": "anthropic_news",
     "title": "Anthropic News",
     "url": "https://www.anthropic.com/news",
     "type": "industry",
-    "fetched_at": "20261020T044015Z",
+    "fetched_at": "20261021T043459Z",
     "status": 200,
     "error": null,
     "page_title": "Newsroom \\ Anthropic",
     "hits": [
       {
         "keyword": "agent",
-        "excerpt": "r Google Workspace Claude for Microsoft 365 Skills Download app Pricing Log in to Claude Models Mythos Fable Opus Sonnet Haiku Solutions AI agents Code modernization Coding Commerce Customer support Cybersecurity Enterprise Financial advisors Financial services Government Healthcare Higher education K-12 teachers Legal Life sciences Nonprofits Sales Small business Claude Platform Overview Developer docs Pricing Ecosy"
+        "excerpt": "tments Company Try Claude News Latest news October 21, 2026 Announcements Sep 22, 2026 Introducing Claude Opus 5.5 Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads. Announcements Oct 18, 2026 Investing in the public benefit We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that incr"
       },
       {
         "keyword": "agents",
-        "excerpt": "r Google Workspace Claude for Microsoft 365 Skills Download app Pricing Log in to Claude Models Mythos Fable Opus Sonnet Haiku Solutions AI agents Code modernization Coding Commerce Customer support Cybersecurity Enterprise Financial advisors Financial services Government Healthcare Higher education K-12 teachers Legal Life sciences Nonprofits Sales Small business Claude Platform Overview Developer docs Pricing Ecosy"
+        "excerpt": "6 Introducing Claude Haiku 5.5 Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use. Announcements Sep 28, 2026 Introducing Claude Sonnet 5.5 Claude Sonnet 5.5 is a clear upgrade over Claude Sonnet 5, runs 30%+ faster, and costs up to 30% less for most work. Features Features Sep 21, 2026 The Situation Report A rare Ebola strain is spread"
       },
       {
-        "keyword": "Chrome",
-        "excerpt": "ce See more Products Claude Claude Code Claude Code Enterprise Claude Cowork @Claude Claude Design Claude Science Claude Security Claude in Chrome Claude for Google Workspace Claude for Microsoft 365 Skills Download app Pricing Log in to Claude Models Mythos Fable Opus Sonnet Haiku Solutions AI agents Code modernization Coding Commerce Customer support Cybersecurity Enterprise Financial advisors Financial services Go"
+        "keyword": "browser",
+        "excerpt": "g Claude Haiku 5.5 Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use. Announcements Sep 28, 2026 Introducing Claude Sonnet 5.5 Claude Sonnet 5.5 is a clear upgrade over Claude Sonnet 5, runs 30%+ faster, and costs up to 30% less for most work. Features Features Sep 21, 2026 The Situation Report A rare Ebola strain is spreading in the D"
       },
       {
         "keyword": "CLI",
-        "excerpt": "10,000 engineers and tackle the enterprise AI talent gap Oct 1, 2026 Announcements Barclays scales Claude to upgrade operations and improve client experience See more Products Claude Claude Code Claude Code Enterprise Claude Cowork @Claude Claude Design Claude Science Claude Security Claude in Chrome Claude for Google Workspace Claude for Microsoft 365 Skills Download app Pricing Log in to Claude Models Mythos Fable"
+        "excerpt": "re to +10,000 Americans. Read more Product Feb 23, 2026 The making of Claude Code The inside story of how Claude Code went from an internal CLI to Anthropic&#x27;s coding agent, told by researchers, engineers and early users who built it. Read more Agents Apr 21, 2026 Project Deal: our Claude-run marketplace experiment We created a marketplace for employees in our San Francisco office, with one big twist. We tasked C"
       },
       {
-        "keyword": "plugins",
-        "excerpt": "le login Resources Blog Claude partner network Community Connectors Courses Customer stories Developer blog Engineering at Anthropic Events Plugins Powered by Claude Service partners Tutorials Use cases Programs Campus Frontier Academy Scientists Startups Help and security Availability Status Support center Company Anthropic Careers Leadership Policy Economic Futures Research News Claude’s Constitution Claude Corps K"
-      },
-      {
-        "keyword": "skills",
-        "excerpt": "se Claude Cowork @Claude Claude Design Claude Science Claude Security Claude in Chrome Claude for Google Workspace Claude for Microsoft 365 Skills Download app Pricing Log in to Claude Models Mythos Fable Opus Sonnet Haiku Solutions AI agents Code modernization Coding Commerce Customer support Cybersecurity Enterprise Financial advisors Financial services Government Healthcare Higher education K-12 teachers Legal Lif"
+        "keyword": "IDE",
+        "excerpt": "u think will happen, and see how your answers compare to +10,000 Americans. Read more Product Feb 23, 2026 The making of Claude Code The inside story of how Claude Code went from an internal CLI to Anthropic&#x27;s coding agent, told by researchers, engineers and early users who built it. Read more Agents Apr 21, 2026 Project Deal: our Claude-run marketplace experiment We created a marketplace for employees in our Sa"
       },
       {
         "keyword": "model",
-        "excerpt": "to qualifying security professionals. Announcements Oct 7, 2026 Introducing Claude Haiku 5.5 Our fastest, cheapest, and most capable small model yet. It’s designed for high-volume, cost-sensitive work. Announcements Sep 28, 2026 Introducing Claude Sonnet 5.5 A clear upgrade over Sonnet 5 that runs 30% faster and costs up to 30% less for most work. Announcements Sep 22, 2026 Introducing Claude Opus 5.5 Opus 5.5 perfo"
+        "excerpt": "alifying security professionals. Announcements Oct 7, 2026 Introducing Claude Haiku 5.5 Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use. Announcements Sep 28, 2026 Introducing Claude Sonnet 5.5 Claude Sonnet 5.5 is a clear upgrade over Claude Sonnet 5, runs 30%+ faster, and costs up to 30% less for most work. Features Features Sep 21"
       },
       {
         "keyword": "developer",
-        "excerpt": "services Government Healthcare Higher education K-12 teachers Legal Life sciences Nonprofits Sales Small business Claude Platform Overview Developer docs Pricing Ecosystem Marketplace Regional compliance Claude on AWS Google Cloud Microsoft Foundry Console login Resources Blog Claude partner network Community Connectors Courses Customer stories Developer blog Engineering at Anthropic Events Plugins Powered by Claude"
+        "excerpt": "ernment to advance safe, responsible AI adoption. Strengthening our defenses against distillation attacks Illicit distillation allows model developers to copy frontier AI capabilities without creating proportionally robust safeguards. Here, we describe how we’ve reduced the rate of distillation by more than 90%. Safeguards Oct 12, 2026 Oct 12, 2026 Safeguards Strengthening our defenses against distillation attacks Il"
       },
       {
         "keyword": "Claude",
-        "excerpt": "Newsroom \\ Anthropic Skip to main content Skip to footer Research Policy Commitments Learn News Try Claude Newsroom Press inquiries press@anthropic.com Non-media inquiries How to get support Media assets Download press kit Expanding the Cyber Verification Program Announcements Oct 6, 2026 We’re launching a new, expanded version of our Cyber Verification Program, which makes adv"
+        "excerpt": "Newsroom \\ Anthropic Skip to main content News Research Policy Commitments Company Try Claude News Latest news October 21, 2026 Announcements Sep 22, 2026 Introducing Claude Opus 5.5 Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads. Announcements Oct 18, 2026 Investing in the public benefit We’re"
       }
     ],
-    "text_sample": "Newsroom \\ Anthropic Skip to main content Skip to footer Research Policy Commitments Learn News Try Claude Newsroom Press inquiries press@anthropic.com Non-media inquiries How to get support Media assets Download press kit Expanding the Cyber Verification Program Announcements Oct 6, 2026 We’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals. Announcements Oct 7, 2026 Introducing Claude Haiku 5.5 Our fastest, cheapest, and most capable small model yet. It’s designed for high-volume, cost-sensitive work. Announcements Sep 28, 2026 Introducing Claude Sonnet 5.5 A clear upgrade over Sonnet 5 that runs 30% faster and costs up to 30% less for most work. Announcements Sep 22, 2026 Introducing Claude Opus 5.5 Opus 5.5 performs at the level of Claude Fable 5.1 on most work and costs 40% less to run than Opus 5. Features Sep 22, 2026 The Situation Report A rare strain of Ebola, with no confirmed vaccine, is spreading through the east of the Democratic Republic of Congo. World health organizations are using Claude to move as fast as possible to combat it. News Search Date Category Title Oct 18, 2026 Announcements Investing in the public benefit Oct 15, 2026 Announcements An update on independent evaluators Oct 14, 2026 Policy Preparing for the 2026 "
+    "text_sample": "Newsroom \\ Anthropic Skip to main content News Research Policy Commitments Company Try Claude News Latest news October 21, 2026 Announcements Sep 22, 2026 Introducing Claude Opus 5.5 Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads. Announcements Oct 18, 2026 Investing in the public benefit We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows. Announcements Oct 6, 2026 Expanding the Cyber Verification Program We’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals. Announcements Oct 7, 2026 Introducing Claude Haiku 5.5 Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use. Announcements Sep 28, 2026 Introducing Claude Sonnet 5.5 Claude Sonnet 5.5 is a clear upgrade over Claude Sonnet 5, runs 30%+ faster, and costs up to 30% less for most work. Features Features Sep 21, 2026 The Situation Report A rare Ebola strain is spreading in the DRC, with no confirmed vaccine. Global health organizations are using Claude to respond as fast as possible. Read more Economics Sep 9, 2026 Scenarios for o"
   },
   {
     "id": "google_ai_developers",
     "title": "Google AI Developers Blog",
     "url": "https://developers.googleblog.com/en/search/?query=Gemini",
     "type": "industry",
-    "fetched_at": "20261020T044015Z",
+    "fetched_at": "20261021T043459Z",
     "status": 200,
     "error": null,
     "page_title": "Search - Google Developers Blog",
