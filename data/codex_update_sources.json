@@ -4,7 +4,7 @@
     "title": "Codex Changelog",
     "url": "https://developers.openai.com/codex/changelog",
     "type": "official",
-    "fetched_at": "20261022T043339Z",
+    "fetched_at": "20261023T043856Z",
     "status": 200,
     "error": null,
     "page_title": "ChatGPT & Codex changelog | ChatGPT Learn",
@@ -113,7 +113,7 @@
     "title": "Codex App",
     "url": "https://developers.openai.com/codex/app",
     "type": "official",
-    "fetched_at": "20261022T043339Z",
+    "fetched_at": "20261023T043856Z",
     "status": 200,
     "error": null,
     "page_title": "ChatGPT desktop app | ChatGPT Learn",
@@ -210,7 +210,7 @@
     "title": "Codex CLI",
     "url": "https://developers.openai.com/codex/cli",
     "type": "official",
-    "fetched_at": "20261022T043339Z",
+    "fetched_at": "20261023T043856Z",
     "status": 200,
     "error": null,
     "page_title": "Codex CLI | ChatGPT Learn",
@@ -311,7 +311,7 @@
     "title": "Codex IDE",
     "url": "https://developers.openai.com/codex/ide",
     "type": "official",
-    "fetched_at": "20261022T043339Z",
+    "fetched_at": "20261023T043856Z",
     "status": 200,
     "error": null,
     "page_title": "Codex IDE extension | ChatGPT Learn",
@@ -408,7 +408,7 @@
     "title": "Codex Authentication",
     "url": "https://developers.openai.com/codex/auth",
     "type": "official",
-    "fetched_at": "20261022T043339Z",
+    "fetched_at": "20261023T043856Z",
     "status": 200,
     "error": null,
     "page_title": "Authentication | ChatGPT Learn",
@@ -509,7 +509,7 @@
     "title": "Codex Config Reference",
     "url": "https://developers.openai.com/codex/config-reference",
     "type": "official",
-    "fetched_at": "20261022T043339Z",
+    "fetched_at": "20261023T043856Z",
     "status": 200,
     "error": null,
     "page_title": "Configuration Reference | ChatGPT Learn",
@@ -614,7 +614,7 @@
     "title": "openai/codex Releases",
     "url": "https://github.com/openai/codex/releases",
     "type": "github",
-    "fetched_at": "20261022T043339Z",
+    "fetched_at": "20261023T043856Z",
     "status": 200,
     "error": null,
     "page_title": "Releases · openai/codex · GitHub",
@@ -663,7 +663,7 @@
     "title": "ChatGPT Release Notes",
     "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
     "type": "official",
-    "fetched_at": "20261022T043339Z",
+    "fetched_at": "20261023T043856Z",
     "status": 403,
     "error": "HTTP Error 403: Forbidden",
     "hits": [],
@@ -674,7 +674,7 @@
     "title": "OpenAI News",
     "url": "https://openai.com/news/",
     "type": "industry",
-    "fetched_at": "20261022T043339Z",
+    "fetched_at": "20261023T043856Z",
     "status": 403,
     "error": "HTTP Error 403: Forbidden",
     "hits": [],
@@ -685,7 +685,7 @@
     "title": "OpenAI Research",
     "url": "https://openai.com/research/",
     "type": "industry",
-    "fetched_at": "20261022T043339Z",
+    "fetched_at": "20261023T043856Z",
     "status": 403,
     "error": "HTTP Error 403: Forbidden",
     "hits": [],
@@ -696,7 +696,7 @@
     "title": "GitHub AI & ML Blog",
     "url": "https://github.blog/ai-and-ml/",
     "type": "industry",
-    "fetched_at": "20261022T043339Z",
+    "fetched_at": "20261023T043856Z",
     "status": 200,
     "error": null,
     "page_title": "The latest on AI & ML - The GitHub Blog",
@@ -757,26 +757,38 @@
     "title": "GitHub Changelog",
     "url": "https://github.blog/changelog/",
     "type": "industry",
-    "fetched_at": "20261022T043339Z",
+    "fetched_at": "20261023T043856Z",
     "status": 200,
     "error": null,
     "page_title": "GitHub Changelog",
     "hits": [
       {
         "keyword": "agent",
-        "excerpt": "in mid-November copilot Oct.15 Release AI Scan for pull requests generally available application security universe26 ... +1 Oct.15 Release Agentic autofix for code scanning alerts general availability application security copilot universe26 ... +2 Oct.15 Retired Email notifications for repository push events have been retired community engagement Oct.14 Release HydraFusion updates and new Max option copilot Oct.14 R"
+        "excerpt": "tober Oct 2026 October Oct 2026 Oct.22 Release GitHub Copilot in Visual Studio — September update copilot Oct.22 Improvement Custom skills, agents, and MCP servers in usage metrics API account management copilot enterprise management tools ... +2 Oct.22 Improvement Global default for Copilot features generally available copilot enterprise management tools ... +1 Oct.22 Improvement Meta API endpoints updated for Actio"
+      },
+      {
+        "keyword": "agents",
+        "excerpt": "tober Oct 2026 October Oct 2026 Oct.22 Release GitHub Copilot in Visual Studio — September update copilot Oct.22 Improvement Custom skills, agents, and MCP servers in usage metrics API account management copilot enterprise management tools ... +2 Oct.22 Improvement Global default for Copilot features generally available copilot enterprise management tools ... +1 Oct.22 Improvement Meta API endpoints updated for Actio"
       },
       {
         "keyword": "CLI",
-        "excerpt": "vements Retired Filters ( 0 selected ) Clear all Filters ( 0 selected ) Match: Any All Tags Account management Actions Application Security Client apps Collaboration tools Community engagement Copilot Ecosystem & accessibility Enterprise management tools Platform governance Projects & Issues Supply chain security Universe ‘26 Clear all Apply October Oct 2026 October Oct 2026 Oct.21 Release GitHub CLI: Opt in to expir"
+        "excerpt": "vements Retired Filters ( 0 selected ) Clear all Filters ( 0 selected ) Match: Any All Tags Account management Actions Application Security Client apps Collaboration tools Community engagement Copilot Ecosystem & accessibility Enterprise management tools Platform governance Projects & Issues Supply chain security Universe ‘26 Clear all Apply October Oct 2026 October Oct 2026 Oct.22 Release GitHub Copilot in Visual St"
       },
       {
         "keyword": "IDE",
-        "excerpt": "ty copilot platform governance ... +2 Oct.07 Improvement Discover local models in GitHub Copilot CLI copilot Oct.06 Improvement Update your IDE to restore agent activity in Copilot usage metrics account management copilot enterprise management tools ... +2 Oct.06 Release Stacked pull requests generally available collaboration tools Oct.06 Improvement Code scanning AI Scan enablement status in security overview applic"
+        "excerpt": ".22 Improvement Meta API endpoints updated for Actions blob storage actions Oct.22 Improvement Public monitoring now available with data residency application security Oct.22 Improvement Pull requests: Saved whitespace preferences and improved split view collaboration tools Oct.22 Improvement Industry comparisons in the Copilot impact dashboard account management copilot enterprise management tools ... +2 Oct.21 Rele"
       },
       {
         "keyword": "GitHub",
         "excerpt": "GitHub Changelog Skip to content / Blog Changelog Docs Customer stories Try GitHub Copilot app Attend GitHub Universe Search Changelog Docs Customer stories Attend GitHub Universe Try GitHub Copilot app Back to blog Changelog Copy RSS feed URL Follow @ghchangelog on X All New Rel"
+      },
+      {
+        "keyword": "MCP",
+        "excerpt": "26 October Oct 2026 Oct.22 Release GitHub Copilot in Visual Studio — September update copilot Oct.22 Improvement Custom skills, agents, and MCP servers in usage metrics API account management copilot enterprise management tools ... +2 Oct.22 Improvement Global default for Copilot features generally available copilot enterprise management tools ... +1 Oct.22 Improvement Meta API endpoints updated for Actions blob stor"
+      },
+      {
+        "keyword": "skills",
+        "excerpt": "Apply October Oct 2026 October Oct 2026 Oct.22 Release GitHub Copilot in Visual Studio — September update copilot Oct.22 Improvement Custom skills, agents, and MCP servers in usage metrics API account management copilot enterprise management tools ... +2 Oct.22 Improvement Global default for Copilot features generally available copilot enterprise management tools ... +1 Oct.22 Improvement Meta API endpoints updated f"
       },
       {
         "keyword": "model",
@@ -815,21 +827,25 @@
         "excerpt": "Oct.19 Retired GitHub Copilot models deprecated on October 19, 2026 copilot Oct.19 Improvement Some Git over HTTPS may temporarily require authentication account management Oct.19 Retired CodeQL changes for macOS 27, Xcode 27, and Swift 6.4 application security Oct.16 Release Open source license compliance generally available supply chain security universe26 ... +1 Oct.15 Release Xcode 27 runner image generally avai"
       }
     ],
-    "text_sample": "GitHub Changelog Skip to content / Blog Changelog Docs Customer stories Try GitHub Copilot app Attend GitHub Universe Search Changelog Docs Customer stories Attend GitHub Universe Try GitHub Copilot app Back to blog Changelog Copy RSS feed URL Follow @ghchangelog on X All New Releases Improvements Retired Filters ( 0 selected ) Clear all Filters ( 0 selected ) Match: Any All Tags Account management Actions Application Security Client apps Collaboration tools Community engagement Copilot Ecosystem & accessibility Enterprise management tools Platform governance Projects & Issues Supply chain security Universe ‘26 Clear all Apply October Oct 2026 October Oct 2026 Oct.21 Release GitHub CLI: Opt in to expiring, auto-refreshing OAuth tokens application security client apps ... +1 Oct.20 Improvement Bulk migrate branch protections to rulesets for a repository platform governance Oct.20 Improvement Updates to GitHub secret scanning application security Oct.20 Improvement Dependabot alerts REST API now includes dependency versions supply chain security Oct.20 Release GitHub package firewall in public preview supply chain security universe26 ... +1 Oct.20 Improvement Dependabot now supports npm 12, pnpm 11 and 12, and Bun 1.4 supply chain security Oct.19 Improvement Copilot model policy API for enterprise, orgs, and teams copilot enterprise management tools ... +1 Oct.19 Retired GitHub C"
+    "text_sample": "GitHub Changelog Skip to content / Blog Changelog Docs Customer stories Try GitHub Copilot app Attend GitHub Universe Search Changelog Docs Customer stories Attend GitHub Universe Try GitHub Copilot app Back to blog Changelog Copy RSS feed URL Follow @ghchangelog on X All New Releases Improvements Retired Filters ( 0 selected ) Clear all Filters ( 0 selected ) Match: Any All Tags Account management Actions Application Security Client apps Collaboration tools Community engagement Copilot Ecosystem & accessibility Enterprise management tools Platform governance Projects & Issues Supply chain security Universe ‘26 Clear all Apply October Oct 2026 October Oct 2026 Oct.22 Release GitHub Copilot in Visual Studio — September update copilot Oct.22 Improvement Custom skills, agents, and MCP servers in usage metrics API account management copilot enterprise management tools ... +2 Oct.22 Improvement Global default for Copilot features generally available copilot enterprise management tools ... +1 Oct.22 Improvement Meta API endpoints updated for Actions blob storage actions Oct.22 Improvement Public monitoring now available with data residency application security Oct.22 Improvement Pull requests: Saved whitespace preferences and improved split view collaboration tools Oct.22 Improvement Industry comparisons in the Copilot impact dashboard account management copilot enterprise management"
   },
   {
     "id": "anthropic_news",
     "title": "Anthropic News",
     "url": "https://www.anthropic.com/news",
     "type": "industry",
-    "fetched_at": "20261022T043339Z",
+    "fetched_at": "20261023T043856Z",
     "status": 200,
     "error": null,
     "page_title": "Newsroom \\ Anthropic",
     "hits": [
       {
+        "keyword": "ChatGPT",
+        "excerpt": "en standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation. More than 70 agent platforms, including ChatGPT, Cursor, GitHub Copilot, and VS Code, have integrated Agent Skills since we published the standard in December 2025. Product Oct 22, 2026 Oct 22, 2026 Product Donating Agent Skills to the Agentic AI Foundation We’re donating Agent Skills, the open standard that gives AI a"
+      },
+      {
         "keyword": "agent",
-        "excerpt": "tments Company Try Claude News Latest news October 22, 2026 Announcements Sep 22, 2026 Introducing Claude Opus 5.5 Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads. Announcements Oct 18, 2026 Investing in the public benefit We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that incr"
+        "excerpt": "tments Company Try Claude News Latest news October 23, 2026 Announcements Sep 22, 2026 Introducing Claude Opus 5.5 Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads. Announcements Oct 18, 2026 Investing in the public benefit We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that incr"
       },
       {
         "keyword": "agents",
@@ -848,6 +864,14 @@
         "excerpt": "think will happen, and see how your answers compare to +10,000 Americans. Read more Features Feb 23, 2026 The making of Claude Code The inside story of how Claude Code went from an internal CLI to Anthropic&#x27;s coding agent, told by researchers, engineers and early users who built it. Read more Agents Apr 21, 2026 Project Deal: our Claude-run marketplace experiment We created a marketplace for employees in our Sa"
       },
       {
+        "keyword": "GitHub",
+        "excerpt": "gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation. More than 70 agent platforms, including ChatGPT, Cursor, GitHub Copilot, and VS Code, have integrated Agent Skills since we published the standard in December 2025. Product Oct 22, 2026 Oct 22, 2026 Product Donating Agent Skills to the Agentic AI Foundation We’re donating Agent Skills, the open standard that gives AI agents specialized"
+      },
+      {
+        "keyword": "skills",
+        "excerpt": "ters on Mars. Read more 01 / 05 All news All Product Company 279 ARTICLES Filter Most recent Title Description Category Date Donating Agent Skills to the Agentic AI Foundation We’re donating Agent Skills, the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation. More than 70 agent platforms, including ChatGPT, Cursor, GitHub Copilot, and VS Code, have integrated Agent S"
+      },
+      {
         "keyword": "model",
         "excerpt": "alifying security professionals. Announcements Oct 7, 2026 Introducing Claude Haiku 5.5 Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use. Announcements Sep 28, 2026 Introducing Claude Sonnet 5.5 Claude Sonnet 5.5 is a clear upgrade over Claude Sonnet 5, runs 30%+ faster, and costs up to 30% less for most work. Features Features Sep 21"
       },
@@ -857,36 +881,40 @@
       },
       {
         "keyword": "Claude",
-        "excerpt": "Newsroom \\ Anthropic Skip to main content News Research Policy Commitments Company Try Claude News Latest news October 22, 2026 Announcements Sep 22, 2026 Introducing Claude Opus 5.5 Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads. Announcements Oct 18, 2026 Investing in the public benefit We’re"
+        "excerpt": "Newsroom \\ Anthropic Skip to main content News Research Policy Commitments Company Try Claude News Latest news October 23, 2026 Announcements Sep 22, 2026 Introducing Claude Opus 5.5 Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads. Announcements Oct 18, 2026 Investing in the public benefit We’re"
+      },
+      {
+        "keyword": "workflow",
+        "excerpt": "ing Agent Skills to the Agentic AI Foundation We’re donating Agent Skills, the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation. More than 70 agent platforms, including ChatGPT, Cursor, GitHub Copilot, and VS Code, have integrated Agent Skills since we published the standard in December 2025. Product Oct 22, 2026 Oct 22, 2026 Product Donating Agent Skills to the Age"
       }
     ],
-    "text_sample": "Newsroom \\ Anthropic Skip to main content News Research Policy Commitments Company Try Claude News Latest news October 22, 2026 Announcements Sep 22, 2026 Introducing Claude Opus 5.5 Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads. Announcements Oct 18, 2026 Investing in the public benefit We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows. Announcements Oct 6, 2026 Expanding the Cyber Verification Program We’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals. Announcements Oct 7, 2026 Introducing Claude Haiku 5.5 Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use. Announcements Sep 28, 2026 Introducing Claude Sonnet 5.5 Claude Sonnet 5.5 is a clear upgrade over Claude Sonnet 5, runs 30%+ faster, and costs up to 30% less for most work. Features Features Sep 21, 2026 The Situation Report A rare Ebola strain is spreading in the DRC, with no confirmed vaccine. Global health organizations are using Claude to respond as fast as possible. Read more Economics Sep 9, 2026 Scenarios for o"
+    "text_sample": "Newsroom \\ Anthropic Skip to main content News Research Policy Commitments Company Try Claude News Latest news October 23, 2026 Announcements Sep 22, 2026 Introducing Claude Opus 5.5 Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads. Announcements Oct 18, 2026 Investing in the public benefit We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows. Announcements Oct 6, 2026 Expanding the Cyber Verification Program We’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals. Announcements Oct 7, 2026 Introducing Claude Haiku 5.5 Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use. Announcements Sep 28, 2026 Introducing Claude Sonnet 5.5 Claude Sonnet 5.5 is a clear upgrade over Claude Sonnet 5, runs 30%+ faster, and costs up to 30% less for most work. Features Features Sep 21, 2026 The Situation Report A rare Ebola strain is spreading in the DRC, with no confirmed vaccine. Global health organizations are using Claude to respond as fast as possible. Read more Economics Sep 9, 2026 Scenarios for o"
   },
   {
     "id": "google_ai_developers",
     "title": "Google AI Developers Blog",
     "url": "https://developers.googleblog.com/en/search/?query=Gemini",
     "type": "industry",
-    "fetched_at": "20261022T043339Z",
+    "fetched_at": "20261023T043856Z",
     "status": 200,
     "error": null,
     "page_title": "Search - Google Developers Blog",
     "hits": [
       {
         "keyword": "agent",
-        "excerpt": "Pay Play Search Smart Home TensorFlow TV Wallet Wear OS Workspace Technology Select all AI Cloud Mobile Web OCT. 21, 2026 / AI Powering the Agent Development Lifecycle with any framework, from ADK to LangChain and beyond The Agents CLI Extension System enables developers to use frameworks like LangChain, LangGraph, or custom enterprise stacks while retaining a unified deployment and evaluation workflow. It details a"
+        "excerpt": "mes, simplifying environment provisioning and infrastructure-as-code management. OCT. 22, 2026 / AI Architecting Governed, Self-Evolving AI Agents on Google Cloud Learn how Project Chrysalis combines Google Cloud&#x27;s Gemini Enterprise Agent Platform, Agent Development Kit (ADK), BigQuery, and a four-gate defense-in-depth security stack (Model Armor, Cloud KMS, Binary Authorization, and OPA) to build governed, self"
       },
       {
         "keyword": "agents",
-        "excerpt": "ll AI Cloud Mobile Web OCT. 21, 2026 / AI Powering the Agent Development Lifecycle with any framework, from ADK to LangChain and beyond The Agents CLI Extension System enables developers to use frameworks like LangChain, LangGraph, or custom enterprise stacks while retaining a unified deployment and evaluation workflow. It details a first-party LangChain template that scaffolds, runs, and deploys agents without requi"
+        "excerpt": "mes, simplifying environment provisioning and infrastructure-as-code management. OCT. 22, 2026 / AI Architecting Governed, Self-Evolving AI Agents on Google Cloud Learn how Project Chrysalis combines Google Cloud&#x27;s Gemini Enterprise Agent Platform, Agent Development Kit (ADK), BigQuery, and a four-gate defense-in-depth security stack (Model Armor, Cloud KMS, Binary Authorization, and OPA) to build governed, self"
       },
       {
         "keyword": "Chrome",
-        "excerpt": "ment/Agile Q&A Release Notes Solutions Solve Testing TotT Tutorials Product Select all Ads AI Edge Android Angular AR Assistant Auto Checks Chrome OS Chrome Web Cloud DeepMind Design Engineering Firebase Flutter Gemini Gemma Geo Go Google AI Studio Google Labs Google Pay IDX Kaggle Keras Matter Pay Play Search Smart Home TensorFlow TV Wallet Wear OS Workspace Technology Select all AI Cloud Mobile Web OCT. 21, 2026 /"
+        "excerpt": "ment/Agile Q&A Release Notes Solutions Solve Testing TotT Tutorials Product Select all Ads AI Edge Android Angular AR Assistant Auto Checks Chrome OS Chrome Web Cloud DeepMind Design Engineering Firebase Flutter Gemini Gemma Geo Go Google AI Studio Google Labs Google Pay IDX Kaggle Keras Matter Pay Play Search Smart Home TensorFlow TV Wallet Wear OS Workspace Technology Select all AI Cloud Mobile Web OCT. 22, 2026 /"
       },
       {
         "keyword": "CLI",
-        "excerpt": "loud Mobile Web OCT. 21, 2026 / AI Powering the Agent Development Lifecycle with any framework, from ADK to LangChain and beyond The Agents CLI Extension System enables developers to use frameworks like LangChain, LangGraph, or custom enterprise stacks while retaining a unified deployment and evaluation workflow. It details a first-party LangChain template that scaffolds, runs, and deploys agents without requiring th"
+        "excerpt": "in 1.8 seconds. OCT. 21, 2026 / AI Powering the Agent Development Lifecycle with any framework, from ADK to LangChain and beyond The Agents CLI Extension System enables developers to use frameworks like LangChain, LangGraph, or custom enterprise stacks while retaining a unified deployment and evaluation workflow. It details a first-party LangChain template that scaffolds, runs, and deploys agents without requiring th"
       },
       {
         "keyword": "IDE",
@@ -910,7 +938,7 @@
       },
       {
         "keyword": "model",
-        "excerpt": "achieve robust credential security without incurring high-QPS API performance overhead. Additionally, developers integrating multi-agent or Model Context Protocol (MCP) workloads can use Google Cloud Secure Token Service (STS) to handle secure token delegation across agent chains. OCT. 13, 2026 / AI Gemini 4 Argon for Robotics Gemini 4 Argon is a general-purpose physical reasoning model designed to enhance workflows"
+        "excerpt": "ogle Cloud&#x27;s Gemini Enterprise Agent Platform, Agent Development Kit (ADK), BigQuery, and a four-gate defense-in-depth security stack (Model Armor, Cloud KMS, Binary Authorization, and OPA) to build governed, self-evolving AI agents that remediate live production outages in 1.8 seconds. OCT. 21, 2026 / AI Powering the Agent Development Lifecycle with any framework, from ADK to LangChain and beyond The Agents CLI"
       },
       {
         "keyword": "release",
@@ -918,11 +946,11 @@
       },
       {
         "keyword": "developer",
-        "excerpt": "Search - Google Developers Blog Community/Events Learn Blog YouTube Search Community/Events Learn Blog YouTube Search for \"Gemini\" 249 results Clear filters Filter by Content Type Select all Announcements Beginner Best Practices Business and Leadership Case Studies Code Health Community Document"
+        "excerpt": "Search - Google Developers Blog Community/Events Learn Blog YouTube Search Community/Events Learn Blog YouTube Search for \"Gemini\" 251 results Clear filters Filter by Content Type Select all Announcements Beginner Best Practices Business and Leadership Case Studies Code Health Community Document"
       },
       {
         "keyword": "Gemini",
-        "excerpt": "Search - Google Developers Blog Community/Events Learn Blog YouTube Search Community/Events Learn Blog YouTube Search for \"Gemini\" 249 results Clear filters Filter by Content Type Select all Announcements Beginner Best Practices Business and Leadership Case Studies Code Health Community Documentation Events Explore Hard How-To Guides Industry Trends Influence Intermediate Learn Performance Problem-So"
+        "excerpt": "Search - Google Developers Blog Community/Events Learn Blog YouTube Search Community/Events Learn Blog YouTube Search for \"Gemini\" 251 results Clear filters Filter by Content Type Select all Announcements Beginner Best Practices Business and Leadership Case Studies Code Health Community Documentation Events Explore Hard How-To Guides Industry Trends Influence Intermediate Learn Performance Problem-So"
       },
       {
         "keyword": "workflow",
@@ -934,9 +962,9 @@
       },
       {
         "keyword": "authentication",
-        "excerpt": "erable, agent-ready tools. The gateway automatically transcodes incoming MCP JSON-RPC requests into REST calls, ensuring that your existing authentication, quotas, and logging policies apply seamlessly to agent traffic without requiring new infrastructure. Previous Next Filter Clear filters Content Type Select all Announcements Beginner Best Practices Business and Leadership Case Studies Code Health Community Documen"
+        "excerpt": "te allows developers to route long-lived, bi-directional streams and AI workloads directly through the gateway while maintaining consistent authentication, rate limiting, and observability. Additionally, gateways now feature deterministic default hostnames, simplifying environment provisioning and infrastructure-as-code management. OCT. 22, 2026 / AI Architecting Governed, Self-Evolving AI Agents on Google Cloud Lear"
       }
     ],
-    "text_sample": "Search - Google Developers Blog Community/Events Learn Blog YouTube Search Community/Events Learn Blog YouTube Search for \"Gemini\" 249 results Clear filters Filter by Content Type Select all Announcements Beginner Best Practices Business and Leadership Case Studies Code Health Community Documentation Events Explore Hard How-To Guides Industry Trends Influence Intermediate Learn Performance Problem-Solving Project Management/Agile Q&A Release Notes Solutions Solve Testing TotT Tutorials Product Select all Ads AI Edge Android Angular AR Assistant Auto Checks Chrome OS Chrome Web Cloud DeepMind Design Engineering Firebase Flutter Gemini Gemma Geo Go Google AI Studio Google Labs Google Pay IDX Kaggle Keras Matter Pay Play Search Smart Home TensorFlow TV Wallet Wear OS Workspace Technology Select all AI Cloud Mobile Web OCT. 21, 2026 / AI Powering the Agent Development Lifecycle with any framework, from ADK to LangChain and beyond The Agents CLI Extension System enables developers to use frameworks like LangChain, LangGraph, or custom enterprise stacks while retaining a unified deployment and evaluation workflow. It details a first-party LangChain template that scaffolds, runs, and deploys agents without requiring the Agent Development Kit (ADK). Additionally, it demonstrates how platform teams can author custom extensions to enforce policies such as automated software bill of mater"
+    "text_sample": "Search - Google Developers Blog Community/Events Learn Blog YouTube Search Community/Events Learn Blog YouTube Search for \"Gemini\" 251 results Clear filters Filter by Content Type Select all Announcements Beginner Best Practices Business and Leadership Case Studies Code Health Community Documentation Events Explore Hard How-To Guides Industry Trends Influence Intermediate Learn Performance Problem-Solving Project Management/Agile Q&A Release Notes Solutions Solve Testing TotT Tutorials Product Select all Ads AI Edge Android Angular AR Assistant Auto Checks Chrome OS Chrome Web Cloud DeepMind Design Engineering Firebase Flutter Gemini Gemma Geo Go Google AI Studio Google Labs Google Pay IDX Kaggle Keras Matter Pay Play Search Smart Home TensorFlow TV Wallet Wear OS Workspace Technology Select all AI Cloud Mobile Web OCT. 22, 2026 / Cloud Streaming comes to API Gateway: real-time and AI-ready APIs, without changing your spec API Gateway now supports real-time streaming—including Server-Sent Events, WebSockets, gRPC, and chunked transfer encoding—in Public Preview without requiring changes to your existing API specifications. This update allows developers to route long-lived, bi-directional streams and AI workloads directly through the gateway while maintaining consistent authentication, rate limiting, and observability. Additionally, gateways now feature deterministic default hos"
   }
 ]
