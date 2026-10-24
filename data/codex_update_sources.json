@@ -4,7 +4,7 @@
     "title": "Codex Changelog",
     "url": "https://developers.openai.com/codex/changelog",
     "type": "official",
-    "fetched_at": "20261023T043856Z",
+    "fetched_at": "20261024T042741Z",
     "status": 200,
     "error": null,
     "page_title": "ChatGPT & Codex changelog | ChatGPT Learn",
@@ -27,11 +27,11 @@
       },
       {
         "keyword": "automation",
-        "excerpt": "European Economic Area, the United Kingdom, and Switzerland. You or your administrator must also enable Computer Use. Added bulk actions to automation run history so you can mark every run as read or archive eligible runs. Added thread handoff between local and remote hosts , so you can move a thread to a matching project on a connected host and continue it there. Codex can also coordinate the handoff for you. Perfor"
+        "excerpt": "gents API Overview Quickstart Architecture Configuring Agents Sessions Run and continue sessions Events and items Manage sessions Scheduled automations Webhooks Environments and sandboxes OpenAI-hosted sandboxes Self-hosted sandboxes Sandbox lifecycle Pre-warm sandboxes Sandbox security Files and artifacts Tools and integrations Web search Computer use Functions MCP connections Plugins Vaults Multi-agent Observabilit"
       },
       {
         "keyword": "automations",
-        "excerpt": "ps. Made command, browser, integration, and source activity summaries easier to understand, and improved how completed chats present files, automations, and other durable output. Improved plugin management by including workspace plugins, refreshing plugin state more reliably after installation or removal, and letting you upload a new version of an already-shared plugin without changing its access. Improved usage-limi"
+        "excerpt": "gents API Overview Quickstart Architecture Configuring Agents Sessions Run and continue sessions Events and items Manage sessions Scheduled automations Webhooks Environments and sandboxes OpenAI-hosted sandboxes Self-hosted sandboxes Sandbox lifecycle Pre-warm sandboxes Sandbox security Files and artifacts Tools and integrations Web search Computer use Functions MCP connections Plugins Vaults Multi-agent Observabilit"
       },
       {
         "keyword": "browser",
@@ -113,7 +113,7 @@
     "title": "Codex App",
     "url": "https://developers.openai.com/codex/app",
     "type": "official",
-    "fetched_at": "20261023T043856Z",
+    "fetched_at": "20261024T042741Z",
     "status": 200,
     "error": null,
     "page_title": "ChatGPT desktop app | ChatGPT Learn",
@@ -133,6 +133,14 @@
       {
         "keyword": "agents",
         "excerpt": "Start searching API Dashboard Try ChatGPT Home API Overview Get started with the OpenAI API Models Explore models and compare capabilities Agents Build persistent agents on hosted infrastructure Tools Connect models to tools and data Audio & voice Build speech and realtime voice experiences Production Deploy and scale your API integrations API reference Explore endpoints, parameters, and responses ChatGPT Plugins Ex"
+      },
+      {
+        "keyword": "automation",
+        "excerpt": "gents API Overview Quickstart Architecture Configuring Agents Sessions Run and continue sessions Events and items Manage sessions Scheduled automations Webhooks Environments and sandboxes OpenAI-hosted sandboxes Self-hosted sandboxes Sandbox lifecycle Pre-warm sandboxes Sandbox security Files and artifacts Tools and integrations Web search Computer use Functions MCP connections Plugins Vaults Multi-agent Observabilit"
+      },
+      {
+        "keyword": "automations",
+        "excerpt": "gents API Overview Quickstart Architecture Configuring Agents Sessions Run and continue sessions Events and items Manage sessions Scheduled automations Webhooks Environments and sandboxes OpenAI-hosted sandboxes Self-hosted sandboxes Sandbox lifecycle Pre-warm sandboxes Sandbox security Files and artifacts Tools and integrations Web search Computer use Functions MCP connections Plugins Vaults Multi-agent Observabilit"
       },
       {
         "keyword": "browser",
@@ -210,7 +218,7 @@
     "title": "Codex CLI",
     "url": "https://developers.openai.com/codex/cli",
     "type": "official",
-    "fetched_at": "20261023T043856Z",
+    "fetched_at": "20261024T042741Z",
     "status": 200,
     "error": null,
     "page_title": "Codex CLI | ChatGPT Learn",
@@ -233,7 +241,11 @@
       },
       {
         "keyword": "automation",
-        "excerpt": "re the CLI reference Configure Codex Automate with codex exec See what Codex CLI can do Use one focused terminal loop for interactive work, automation, review, and delegation. 01 Keep the coding loop in your terminal Start Codex in a repository to explore unfamiliar code, plan a change, edit files, and run your local development tools. Steer the active turn, inspect commands and diffs as they appear, and keep follow-"
+        "excerpt": "gents API Overview Quickstart Architecture Configuring Agents Sessions Run and continue sessions Events and items Manage sessions Scheduled automations Webhooks Environments and sandboxes OpenAI-hosted sandboxes Self-hosted sandboxes Sandbox lifecycle Pre-warm sandboxes Sandbox security Files and artifacts Tools and integrations Web search Computer use Functions MCP connections Plugins Vaults Multi-agent Observabilit"
+      },
+      {
+        "keyword": "automations",
+        "excerpt": "gents API Overview Quickstart Architecture Configuring Agents Sessions Run and continue sessions Events and items Manage sessions Scheduled automations Webhooks Environments and sandboxes OpenAI-hosted sandboxes Self-hosted sandboxes Sandbox lifecycle Pre-warm sandboxes Sandbox security Files and artifacts Tools and integrations Web search Computer use Functions MCP connections Plugins Vaults Multi-agent Observabilit"
       },
       {
         "keyword": "browser",
@@ -311,7 +323,7 @@
     "title": "Codex IDE",
     "url": "https://developers.openai.com/codex/ide",
     "type": "official",
-    "fetched_at": "20261023T043856Z",
+    "fetched_at": "20261024T042741Z",
     "status": 200,
     "error": null,
     "page_title": "Codex IDE extension | ChatGPT Learn",
@@ -331,6 +343,14 @@
       {
         "keyword": "agents",
         "excerpt": "Start searching API Dashboard Try ChatGPT Home API Overview Get started with the OpenAI API Models Explore models and compare capabilities Agents Build persistent agents on hosted infrastructure Tools Connect models to tools and data Audio & voice Build speech and realtime voice experiences Production Deploy and scale your API integrations API reference Explore endpoints, parameters, and responses ChatGPT Plugins Ex"
+      },
+      {
+        "keyword": "automation",
+        "excerpt": "gents API Overview Quickstart Architecture Configuring Agents Sessions Run and continue sessions Events and items Manage sessions Scheduled automations Webhooks Environments and sandboxes OpenAI-hosted sandboxes Self-hosted sandboxes Sandbox lifecycle Pre-warm sandboxes Sandbox security Files and artifacts Tools and integrations Web search Computer use Functions MCP connections Plugins Vaults Multi-agent Observabilit"
+      },
+      {
+        "keyword": "automations",
+        "excerpt": "gents API Overview Quickstart Architecture Configuring Agents Sessions Run and continue sessions Events and items Manage sessions Scheduled automations Webhooks Environments and sandboxes OpenAI-hosted sandboxes Self-hosted sandboxes Sandbox lifecycle Pre-warm sandboxes Sandbox security Files and artifacts Tools and integrations Web search Computer use Functions MCP connections Plugins Vaults Multi-agent Observabilit"
       },
       {
         "keyword": "browser",
@@ -408,7 +428,7 @@
     "title": "Codex Authentication",
     "url": "https://developers.openai.com/codex/auth",
     "type": "official",
-    "fetched_at": "20261023T043856Z",
+    "fetched_at": "20261024T042741Z",
     "status": 200,
     "error": null,
     "page_title": "Authentication | ChatGPT Learn",
@@ -431,7 +451,11 @@
       },
       {
         "keyword": "automation",
-        "excerpt": "e menu to see the active account or API key status. Select Log out to clear the current credentials. Use Codex access tokens for enterprise automation In ChatGPT Enterprise workspaces, admins can grant the access token permission so permitted members can create Codex access tokens for trusted, non-interactive Codex local workflows. Use an access token when automation needs ChatGPT workspace access, ChatGPT-managed Co"
+        "excerpt": "gents API Overview Quickstart Architecture Configuring Agents Sessions Run and continue sessions Events and items Manage sessions Scheduled automations Webhooks Environments and sandboxes OpenAI-hosted sandboxes Self-hosted sandboxes Sandbox lifecycle Pre-warm sandboxes Sandbox security Files and artifacts Tools and integrations Web search Computer use Functions MCP connections Plugins Vaults Multi-agent Observabilit"
+      },
+      {
+        "keyword": "automations",
+        "excerpt": "gents API Overview Quickstart Architecture Configuring Agents Sessions Run and continue sessions Events and items Manage sessions Scheduled automations Webhooks Environments and sandboxes OpenAI-hosted sandboxes Self-hosted sandboxes Sandbox lifecycle Pre-warm sandboxes Sandbox security Files and artifacts Tools and integrations Web search Computer use Functions MCP connections Plugins Vaults Multi-agent Observabilit"
       },
       {
         "keyword": "browser",
@@ -509,7 +533,7 @@
     "title": "Codex Config Reference",
     "url": "https://developers.openai.com/codex/config-reference",
     "type": "official",
-    "fetched_at": "20261023T043856Z",
+    "fetched_at": "20261024T042741Z",
     "status": 200,
     "error": null,
     "page_title": "Configuration Reference | ChatGPT Learn",
@@ -532,7 +556,11 @@
       },
       {
         "keyword": "automation",
-        "excerpt": "pen and control directly. features.in_app_chat boolean Set to false to hide ChatGPT and ChatGPT Work conversation screens and related cloud automation UI in the ChatGPT desktop app. This setting does not block ChatGPT Voice or stop existing cloud tasks. Setting it to true does not bypass account, workspace-permission, or rollout checks. features.in_app_dictation boolean Set to false to disable in-app dictation in the"
+        "excerpt": "gents API Overview Quickstart Architecture Configuring Agents Sessions Run and continue sessions Events and items Manage sessions Scheduled automations Webhooks Environments and sandboxes OpenAI-hosted sandboxes Self-hosted sandboxes Sandbox lifecycle Pre-warm sandboxes Sandbox security Files and artifacts Tools and integrations Web search Computer use Functions MCP connections Plugins Vaults Multi-agent Observabilit"
+      },
+      {
+        "keyword": "automations",
+        "excerpt": "gents API Overview Quickstart Architecture Configuring Agents Sessions Run and continue sessions Events and items Manage sessions Scheduled automations Webhooks Environments and sandboxes OpenAI-hosted sandboxes Self-hosted sandboxes Sandbox lifecycle Pre-warm sandboxes Sandbox security Files and artifacts Tools and integrations Web search Computer use Functions MCP connections Plugins Vaults Multi-agent Observabilit"
       },
       {
         "keyword": "browser",
@@ -614,7 +642,7 @@
     "title": "openai/codex Releases",
     "url": "https://github.com/openai/codex/releases",
     "type": "github",
-    "fetched_at": "20261023T043856Z",
+    "fetched_at": "20261024T042741Z",
     "status": 200,
     "error": null,
     "page_title": "Releases · openai/codex · GitHub",
@@ -624,12 +652,24 @@
         "excerpt": "Releases · openai/codex · GitHub Skip to content Navigation Menu Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workfl"
       },
       {
+        "keyword": "ChatGPT",
+        "excerpt": "ization retries @jif-oai #53990 Keep host MCP and plugin configuration local with remote environments @jif-oai #53991 Report the reason for ChatGPT token refresh requests @tejsudha-openai #53996 Bump rustls to 0.23.46 @jif-oai #53997 Filter rollout filenames before checking compressed siblings @bbrown-oai #54003 Include compressed rollouts in doctor storage statistics @jif-oai #54008 Fix session lookup and resume aft"
+      },
+      {
         "keyword": "agent",
         "excerpt": "nt Navigation Menu Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes Code Quality Enforce quality at merge APPLICATION SECURITY GitHub Adva"
       },
       {
         "keyword": "agents",
         "excerpt": "nt Navigation Menu Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes Code Quality Enforce quality at merge APPLICATION SECURITY GitHub Adva"
+      },
+      {
+        "keyword": "CLI",
+        "excerpt": "ixel graphics. ( #54216 ) Authenticate enterprise MCP connections using eligible Codex account grants or dedicated sign-in, including OAuth clients requiring secrets. ( #55334 , #55859 , #56001 ) Mask credentials during supported remote Bash commands and Zsh snapshot sessions, including credentials from custom providers. ( #54309 , #54432 , #56049 ) The Amazon Bedrock setup wizard is now enabled by default, with API"
+      },
+      {
+        "keyword": "IDE",
+        "excerpt": ", #55859 , #56001 ) Mask credentials during supported remote Bash commands and Zsh snapshot sessions, including credentials from custom providers. ( #54309 , #54432 , #56049 ) The Amazon Bedrock setup wizard is now enabled by default, with API key entry grouped alongside other AWS sign-in methods when credentials are detected. ( #56033 , #56023 ) Bug Fixes Failed compaction no longer leaves partial summaries in conve"
       },
       {
         "keyword": "GitHub",
@@ -644,6 +684,14 @@
         "excerpt": "re Development DevOps Security View all topics EXPLORE BY TYPE Customer stories Events & webinars Ebooks & reports Business insights GitHub Skills SUPPORT & SERVICES Documentation Customer support Community forum Trust center Partners View all resources Open Source COMMUNITY GitHub Sponsors Fund open source developers PROGRAMS Security Lab Maintainer Community GitHub Stars Archive Program REPOSITORIES Topics Trending"
       },
       {
+        "keyword": "memory",
+        "excerpt": "sable during task removal @etraut-openai #53932 Preserve conversation history when compaction fails @jif-oai #53940 Bound rollout input for memory extraction @jif-oai #53947 Stop rollout reads when the calling task is cancelled @jif-oai #53963 Test memory extraction budgets with excluded items and ciphertext @jif-oai #53969 Avoid reconnect races in the daemon restart test @jif-oai #53987 Skip service backoff for stal"
+      },
+      {
+        "keyword": "model",
+        "excerpt": "res Save reusable prompts and slash commands in ten numbered /presets slots, with a keyboard menu for quick access. ( #54380 , #54381 ) Set model, reasoning effort, speed, and permission profiles directly with inline /model and /permissions arguments. ( #54378 , #54383 ) Preview viewed and generated images in the fullscreen transcript on terminals supporting Kitty or Sixel graphics. ( #54216 ) Authenticate enterprise"
+      },
+      {
         "keyword": "release",
         "excerpt": "Releases · openai/codex · GitHub Skip to content Navigation Menu Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry Integrate external tools DEVELOPER WORKFLOWS Actions A"
       },
@@ -654,16 +702,28 @@
       {
         "keyword": "workflow",
         "excerpt": "tHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes Code Quality Enforce quality at merge APPLICATION SECURITY GitHub Advanced Security Find and fix vulnerabilities Code security Secure your code a"
+      },
+      {
+        "keyword": "image generation",
+        "excerpt": "ificate loads @jif-oai #54057 Distinguish unsupported evidence in Decisions comparison metrics @swastik-oai #54058 Forward turn metadata to image generation and edit requests @duc-openai #54059 Support store-owned preparation when resuming threads @owenlin0 #54060 Limit unarchive scans to the requested thread's archived rollouts @bz-openai #54069 Fix Windows environment handling for remote MCP servers @iceweasel-oai"
+      },
+      {
+        "keyword": "config",
+        "excerpt": "et connections now handle proxy authentication challenges using the signed-in user’s Negotiate or NTLM credentials. ( #55994 , #56000 ) CLI configuration overrides are preserved when -c or --config appears at multiple subcommand levels. ( #56022 ) Queued prompts now wait for pending permission selections to resolve before continuing. ( #55682 ) Hardened sandbox checks for case-variant metadata paths on macOS and repl"
+      },
+      {
+        "keyword": "authentication",
+        "excerpt": "hread settings instead of replacing them with global defaults. ( #54008 , #55923 ) Windows HTTPS and WebSocket connections now handle proxy authentication challenges using the signed-in user’s Negotiate or NTLM credentials. ( #55994 , #56000 ) CLI configuration overrides are preserved when -c or --config appears at multiple subcommand levels. ( #56022 ) Queued prompts now wait for pending permission selections to res"
       }
     ],
-    "text_sample": "Releases · openai/codex · GitHub Skip to content Navigation Menu Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes Code Quality Enforce quality at merge APPLICATION SECURITY GitHub Advanced Security Find and fix vulnerabilities Code security Secure your code as you build Secret protection Stop leaks before they start EXPLORE Why GitHub Documentation Blog Changelog Marketplace View all features Solutions BY COMPANY SIZE Enterprises Small and medium teams Startups Nonprofits BY USE CASE App Modernization DevSecOps DevOps CI/CD View all use cases BY INDUSTRY Healthcare Financial services Manufacturing Government View all industries View all solutions Resources EXPLORE BY TOPIC AI Software Development DevOps Security View all topics EXPLORE BY TYPE Customer stories Events & webinars Ebooks & reports Business insights GitHub Skills SUPPORT & SERVICES Documentation Customer support Community forum Trust center Partners View all resources Open Source COMMUNITY GitHub Sponsors Fund open source developers PROGRAMS Security Lab Maintainer Community GitHub Stars Archive Program REPOSITORIES Topics Trending Collec"
+    "text_sample": "Releases · openai/codex · GitHub Skip to content Navigation Menu Sign in Appearance settings Platform AI CODE CREATION GitHub Copilot Write better code with AI GitHub Copilot app Direct agents from issue to merge MCP Registry Integrate external tools DEVELOPER WORKFLOWS Actions Automate any workflow Codespaces Instant dev environments Issues Plan and track work Code Review Manage code changes Code Quality Enforce quality at merge APPLICATION SECURITY GitHub Advanced Security Find and fix vulnerabilities Code security Secure your code as you build Secret protection Stop leaks before they start EXPLORE Why GitHub Documentation Blog Changelog Marketplace View all features Solutions BY COMPANY SIZE Enterprises Small and medium teams Startups Nonprofits BY USE CASE App Modernization DevSecOps DevOps CI/CD View all use cases BY INDUSTRY Healthcare Financial services Manufacturing Government See all industries View all solutions Resources EXPLORE BY TOPIC AI Software Development DevOps Security View all topics EXPLORE BY TYPE Customer stories Events & webinars Ebooks & reports Business insights GitHub Skills SUPPORT & SERVICES Documentation Customer support Community forum Trust center Partners View all resources Open Source COMMUNITY GitHub Sponsors Fund open source developers PROGRAMS Security Lab Maintainer Community GitHub Stars Archive Program REPOSITORIES Topics Trending Collect"
   },
   {
     "id": "chatgpt_release_notes",
     "title": "ChatGPT Release Notes",
     "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
     "type": "official",
-    "fetched_at": "20261023T043856Z",
+    "fetched_at": "20261024T042741Z",
     "status": 403,
     "error": "HTTP Error 403: Forbidden",
     "hits": [],
@@ -674,7 +734,7 @@
     "title": "OpenAI News",
     "url": "https://openai.com/news/",
     "type": "industry",
-    "fetched_at": "20261023T043856Z",
+    "fetched_at": "20261024T042741Z",
     "status": 403,
     "error": "HTTP Error 403: Forbidden",
     "hits": [],
@@ -685,7 +745,7 @@
     "title": "OpenAI Research",
     "url": "https://openai.com/research/",
     "type": "industry",
-    "fetched_at": "20261023T043856Z",
+    "fetched_at": "20261024T042741Z",
     "status": 403,
     "error": "HTTP Error 403: Forbidden",
     "hits": [],
@@ -696,7 +756,7 @@
     "title": "GitHub AI & ML Blog",
     "url": "https://github.blog/ai-and-ml/",
     "type": "industry",
-    "fetched_at": "20261023T043856Z",
+    "fetched_at": "20261024T042741Z",
     "status": 200,
     "error": null,
     "page_title": "The latest on AI & ML - The GitHub Blog",
@@ -757,22 +817,22 @@
     "title": "GitHub Changelog",
     "url": "https://github.blog/changelog/",
     "type": "industry",
-    "fetched_at": "20261023T043856Z",
+    "fetched_at": "20261024T042741Z",
     "status": 200,
     "error": null,
     "page_title": "GitHub Changelog",
     "hits": [
       {
         "keyword": "agent",
-        "excerpt": "tober Oct 2026 October Oct 2026 Oct.22 Release GitHub Copilot in Visual Studio — September update copilot Oct.22 Improvement Custom skills, agents, and MCP servers in usage metrics API account management copilot enterprise management tools ... +2 Oct.22 Improvement Global default for Copilot features generally available copilot enterprise management tools ... +1 Oct.22 Improvement Meta API endpoints updated for Actio"
+        "excerpt": "erprise management tools ... +1 Oct.22 Release GitHub Copilot in Visual Studio — September update copilot Oct.22 Improvement Custom skills, agents, and MCP servers in usage metrics API account management copilot enterprise management tools ... +2 Oct.22 Improvement Global default for Copilot features generally available copilot enterprise management tools ... +1 Oct.22 Improvement Meta API endpoints updated for Actio"
       },
       {
         "keyword": "agents",
-        "excerpt": "tober Oct 2026 October Oct 2026 Oct.22 Release GitHub Copilot in Visual Studio — September update copilot Oct.22 Improvement Custom skills, agents, and MCP servers in usage metrics API account management copilot enterprise management tools ... +2 Oct.22 Improvement Global default for Copilot features generally available copilot enterprise management tools ... +1 Oct.22 Improvement Meta API endpoints updated for Actio"
+        "excerpt": "erprise management tools ... +1 Oct.22 Release GitHub Copilot in Visual Studio — September update copilot Oct.22 Improvement Custom skills, agents, and MCP servers in usage metrics API account management copilot enterprise management tools ... +2 Oct.22 Improvement Global default for Copilot features generally available copilot enterprise management tools ... +1 Oct.22 Improvement Meta API endpoints updated for Actio"
       },
       {
         "keyword": "CLI",
-        "excerpt": "vements Retired Filters ( 0 selected ) Clear all Filters ( 0 selected ) Match: Any All Tags Account management Actions Application Security Client apps Collaboration tools Community engagement Copilot Ecosystem & accessibility Enterprise management tools Platform governance Projects & Issues Supply chain security Universe ‘26 Clear all Apply October Oct 2026 October Oct 2026 Oct.22 Release GitHub Copilot in Visual St"
+        "excerpt": "vements Retired Filters ( 0 selected ) Clear all Filters ( 0 selected ) Match: Any All Tags Account management Actions Application Security Client apps Collaboration tools Community engagement Copilot Ecosystem & accessibility Enterprise management tools Platform governance Projects & Issues Supply chain security Universe ‘26 Clear all Apply October Oct 2026 October Oct 2026 Oct.23 Improvement Usage metrics API adds"
       },
       {
         "keyword": "IDE",
@@ -784,11 +844,11 @@
       },
       {
         "keyword": "MCP",
-        "excerpt": "26 October Oct 2026 Oct.22 Release GitHub Copilot in Visual Studio — September update copilot Oct.22 Improvement Custom skills, agents, and MCP servers in usage metrics API account management copilot enterprise management tools ... +2 Oct.22 Improvement Global default for Copilot features generally available copilot enterprise management tools ... +1 Oct.22 Improvement Meta API endpoints updated for Actions blob stor"
+        "excerpt": "gement tools ... +1 Oct.22 Release GitHub Copilot in Visual Studio — September update copilot Oct.22 Improvement Custom skills, agents, and MCP servers in usage metrics API account management copilot enterprise management tools ... +2 Oct.22 Improvement Global default for Copilot features generally available copilot enterprise management tools ... +1 Oct.22 Improvement Meta API endpoints updated for Actions blob stor"
       },
       {
         "keyword": "skills",
-        "excerpt": "Apply October Oct 2026 October Oct 2026 Oct.22 Release GitHub Copilot in Visual Studio — September update copilot Oct.22 Improvement Custom skills, agents, and MCP servers in usage metrics API account management copilot enterprise management tools ... +2 Oct.22 Improvement Global default for Copilot features generally available copilot enterprise management tools ... +1 Oct.22 Improvement Meta API endpoints updated f"
+        "excerpt": "lity enterprise management tools ... +1 Oct.22 Release GitHub Copilot in Visual Studio — September update copilot Oct.22 Improvement Custom skills, agents, and MCP servers in usage metrics API account management copilot enterprise management tools ... +2 Oct.22 Improvement Global default for Copilot features generally available copilot enterprise management tools ... +1 Oct.22 Improvement Meta API endpoints updated f"
       },
       {
         "keyword": "model",
@@ -827,14 +887,14 @@
         "excerpt": "Oct.19 Retired GitHub Copilot models deprecated on October 19, 2026 copilot Oct.19 Improvement Some Git over HTTPS may temporarily require authentication account management Oct.19 Retired CodeQL changes for macOS 27, Xcode 27, and Swift 6.4 application security Oct.16 Release Open source license compliance generally available supply chain security universe26 ... +1 Oct.15 Release Xcode 27 runner image generally avai"
       }
     ],
-    "text_sample": "GitHub Changelog Skip to content / Blog Changelog Docs Customer stories Try GitHub Copilot app Attend GitHub Universe Search Changelog Docs Customer stories Attend GitHub Universe Try GitHub Copilot app Back to blog Changelog Copy RSS feed URL Follow @ghchangelog on X All New Releases Improvements Retired Filters ( 0 selected ) Clear all Filters ( 0 selected ) Match: Any All Tags Account management Actions Application Security Client apps Collaboration tools Community engagement Copilot Ecosystem & accessibility Enterprise management tools Platform governance Projects & Issues Supply chain security Universe ‘26 Clear all Apply October Oct 2026 October Oct 2026 Oct.22 Release GitHub Copilot in Visual Studio — September update copilot Oct.22 Improvement Custom skills, agents, and MCP servers in usage metrics API account management copilot enterprise management tools ... +2 Oct.22 Improvement Global default for Copilot features generally available copilot enterprise management tools ... +1 Oct.22 Improvement Meta API endpoints updated for Actions blob storage actions Oct.22 Improvement Public monitoring now available with data residency application security Oct.22 Improvement Pull requests: Saved whitespace preferences and improved split view collaboration tools Oct.22 Improvement Industry comparisons in the Copilot impact dashboard account management copilot enterprise management"
+    "text_sample": "GitHub Changelog Skip to content / Blog Changelog Docs Customer stories Try GitHub Copilot app Attend GitHub Universe Search Changelog Docs Customer stories Attend GitHub Universe Try GitHub Copilot app Back to blog Changelog Copy RSS feed URL Follow @ghchangelog on X All New Releases Improvements Retired Filters ( 0 selected ) Clear all Filters ( 0 selected ) Match: Any All Tags Account management Actions Application Security Client apps Collaboration tools Community engagement Copilot Ecosystem & accessibility Enterprise management tools Platform governance Projects & Issues Supply chain security Universe ‘26 Clear all Apply October Oct 2026 October Oct 2026 Oct.23 Improvement Usage metrics API adds usage from tools like OpenCode account management copilot enterprise management tools ... +2 Oct.23 Improvement Turn notifications into code with GitHub Copilot in Teams client apps copilot ... +1 Oct.23 Improvement EMU deletions fix account management Oct.23 Improvement Public monitoring adds triage, validity, API, and webhooks application security Oct.23 Improvement Enterprise installations for GitHub Apps generally available ecosystem & accessibility enterprise management tools ... +1 Oct.22 Release GitHub Copilot in Visual Studio — September update copilot Oct.22 Improvement Custom skills, agents, and MCP servers in usage metrics API account management copilot enterprise manag"
   },
   {
     "id": "anthropic_news",
     "title": "Anthropic News",
     "url": "https://www.anthropic.com/news",
     "type": "industry",
-    "fetched_at": "20261023T043856Z",
+    "fetched_at": "20261024T042741Z",
     "status": 200,
     "error": null,
     "page_title": "Newsroom \\ Anthropic",
@@ -845,7 +905,7 @@
       },
       {
         "keyword": "agent",
-        "excerpt": "tments Company Try Claude News Latest news October 23, 2026 Announcements Sep 22, 2026 Introducing Claude Opus 5.5 Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads. Announcements Oct 18, 2026 Investing in the public benefit We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that incr"
+        "excerpt": "tments Company Try Claude News Latest news October 24, 2026 Announcements Sep 22, 2026 Introducing Claude Opus 5.5 Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads. Announcements Oct 18, 2026 Investing in the public benefit We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that incr"
       },
       {
         "keyword": "agents",
@@ -881,21 +941,21 @@
       },
       {
         "keyword": "Claude",
-        "excerpt": "Newsroom \\ Anthropic Skip to main content News Research Policy Commitments Company Try Claude News Latest news October 23, 2026 Announcements Sep 22, 2026 Introducing Claude Opus 5.5 Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads. Announcements Oct 18, 2026 Investing in the public benefit We’re"
+        "excerpt": "Newsroom \\ Anthropic Skip to main content News Research Policy Commitments Company Try Claude News Latest news October 24, 2026 Announcements Sep 22, 2026 Introducing Claude Opus 5.5 Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads. Announcements Oct 18, 2026 Investing in the public benefit We’re"
       },
       {
         "keyword": "workflow",
         "excerpt": "ing Agent Skills to the Agentic AI Foundation We’re donating Agent Skills, the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation. More than 70 agent platforms, including ChatGPT, Cursor, GitHub Copilot, and VS Code, have integrated Agent Skills since we published the standard in December 2025. Product Oct 22, 2026 Oct 22, 2026 Product Donating Agent Skills to the Age"
       }
     ],
-    "text_sample": "Newsroom \\ Anthropic Skip to main content News Research Policy Commitments Company Try Claude News Latest news October 23, 2026 Announcements Sep 22, 2026 Introducing Claude Opus 5.5 Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads. Announcements Oct 18, 2026 Investing in the public benefit We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows. Announcements Oct 6, 2026 Expanding the Cyber Verification Program We’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals. Announcements Oct 7, 2026 Introducing Claude Haiku 5.5 Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use. Announcements Sep 28, 2026 Introducing Claude Sonnet 5.5 Claude Sonnet 5.5 is a clear upgrade over Claude Sonnet 5, runs 30%+ faster, and costs up to 30% less for most work. Features Features Sep 21, 2026 The Situation Report A rare Ebola strain is spreading in the DRC, with no confirmed vaccine. Global health organizations are using Claude to respond as fast as possible. Read more Economics Sep 9, 2026 Scenarios for o"
+    "text_sample": "Newsroom \\ Anthropic Skip to main content News Research Policy Commitments Company Try Claude News Latest news October 24, 2026 Announcements Sep 22, 2026 Introducing Claude Opus 5.5 Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads. Announcements Oct 18, 2026 Investing in the public benefit We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows. Announcements Oct 6, 2026 Expanding the Cyber Verification Program We’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals. Announcements Oct 7, 2026 Introducing Claude Haiku 5.5 Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use. Announcements Sep 28, 2026 Introducing Claude Sonnet 5.5 Claude Sonnet 5.5 is a clear upgrade over Claude Sonnet 5, runs 30%+ faster, and costs up to 30% less for most work. Features Features Sep 21, 2026 The Situation Report A rare Ebola strain is spreading in the DRC, with no confirmed vaccine. Global health organizations are using Claude to respond as fast as possible. Read more Economics Sep 9, 2026 Scenarios for o"
   },
   {
     "id": "google_ai_developers",
     "title": "Google AI Developers Blog",
     "url": "https://developers.googleblog.com/en/search/?query=Gemini",
     "type": "industry",
-    "fetched_at": "20261023T043856Z",
+    "fetched_at": "20261024T042741Z",
     "status": 200,
     "error": null,
     "page_title": "Search - Google Developers Blog",
