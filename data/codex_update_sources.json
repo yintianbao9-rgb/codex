@@ -4,7 +4,7 @@
     "title": "Codex Changelog",
     "url": "https://developers.openai.com/codex/changelog",
     "type": "official",
-    "fetched_at": "20261024T042741Z",
+    "fetched_at": "20261025T043130Z",
     "status": 200,
     "error": null,
     "page_title": "ChatGPT & Codex changelog | ChatGPT Learn",
@@ -36,10 +36,6 @@
       {
         "keyword": "browser",
         "excerpt": "iew Workflows Projects and chats Build plugins Visualizations Scheduled tasks Long-running work Notifications Pets Codex Micro Capabilities Browser Computer use Voice Composer Predictions Plugins Sign in with ChatGPT Web search Image generation Image inputs Appshots Browser extension Work with files Sites Overview Create a site Data and connections Publish and share Manage a site dots Meet dots Getting started Messag"
-      },
-      {
-        "keyword": "Chrome",
-        "excerpt": "e tools, and cloud sign-in 26.820 More browsers: Use the ChatGPT browser extension in Microsoft Edge, Brave, Opera, and Vivaldi, as well as Chrome. Set up your browser in Settings > Computer Use in the ChatGPT desktop app. All five support tab mentions and browser control; Opera doesn’t support side chat. Site tools (WebMCP): In the desktop app’s built-in browser, ChatGPT Work and Codex can use tools provided by a we"
       },
       {
         "keyword": "CLI",
@@ -113,7 +109,7 @@
     "title": "Codex App",
     "url": "https://developers.openai.com/codex/app",
     "type": "official",
-    "fetched_at": "20261024T042741Z",
+    "fetched_at": "20261025T043130Z",
     "status": 200,
     "error": null,
     "page_title": "ChatGPT desktop app | ChatGPT Learn",
@@ -218,7 +214,7 @@
     "title": "Codex CLI",
     "url": "https://developers.openai.com/codex/cli",
     "type": "official",
-    "fetched_at": "20261024T042741Z",
+    "fetched_at": "20261025T043130Z",
     "status": 200,
     "error": null,
     "page_title": "Codex CLI | ChatGPT Learn",
@@ -323,7 +319,7 @@
     "title": "Codex IDE",
     "url": "https://developers.openai.com/codex/ide",
     "type": "official",
-    "fetched_at": "20261024T042741Z",
+    "fetched_at": "20261025T043130Z",
     "status": 200,
     "error": null,
     "page_title": "Codex IDE extension | ChatGPT Learn",
@@ -428,7 +424,7 @@
     "title": "Codex Authentication",
     "url": "https://developers.openai.com/codex/auth",
     "type": "official",
-    "fetched_at": "20261024T042741Z",
+    "fetched_at": "20261025T043130Z",
     "status": 200,
     "error": null,
     "page_title": "Authentication | ChatGPT Learn",
@@ -533,7 +529,7 @@
     "title": "Codex Config Reference",
     "url": "https://developers.openai.com/codex/config-reference",
     "type": "official",
-    "fetched_at": "20261024T042741Z",
+    "fetched_at": "20261025T043130Z",
     "status": 200,
     "error": null,
     "page_title": "Configuration Reference | ChatGPT Learn",
@@ -642,7 +638,7 @@
     "title": "openai/codex Releases",
     "url": "https://github.com/openai/codex/releases",
     "type": "github",
-    "fetched_at": "20261024T042741Z",
+    "fetched_at": "20261025T043130Z",
     "status": 200,
     "error": null,
     "page_title": "Releases · openai/codex · GitHub",
@@ -723,7 +719,7 @@
     "title": "ChatGPT Release Notes",
     "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
     "type": "official",
-    "fetched_at": "20261024T042741Z",
+    "fetched_at": "20261025T043130Z",
     "status": 403,
     "error": "HTTP Error 403: Forbidden",
     "hits": [],
@@ -734,7 +730,7 @@
     "title": "OpenAI News",
     "url": "https://openai.com/news/",
     "type": "industry",
-    "fetched_at": "20261024T042741Z",
+    "fetched_at": "20261025T043130Z",
     "status": 403,
     "error": "HTTP Error 403: Forbidden",
     "hits": [],
@@ -745,7 +741,7 @@
     "title": "OpenAI Research",
     "url": "https://openai.com/research/",
     "type": "industry",
-    "fetched_at": "20261024T042741Z",
+    "fetched_at": "20261025T043130Z",
     "status": 403,
     "error": "HTTP Error 403: Forbidden",
     "hits": [],
@@ -756,7 +752,7 @@
     "title": "GitHub AI & ML Blog",
     "url": "https://github.blog/ai-and-ml/",
     "type": "industry",
-    "fetched_at": "20261024T042741Z",
+    "fetched_at": "20261025T043130Z",
     "status": 200,
     "error": null,
     "page_title": "The latest on AI & ML - The GitHub Blog",
@@ -817,7 +813,7 @@
     "title": "GitHub Changelog",
     "url": "https://github.blog/changelog/",
     "type": "industry",
-    "fetched_at": "20261024T042741Z",
+    "fetched_at": "20261025T043130Z",
     "status": 200,
     "error": null,
     "page_title": "GitHub Changelog",
@@ -894,7 +890,7 @@
     "title": "Anthropic News",
     "url": "https://www.anthropic.com/news",
     "type": "industry",
-    "fetched_at": "20261024T042741Z",
+    "fetched_at": "20261025T043130Z",
     "status": 200,
     "error": null,
     "page_title": "Newsroom \\ Anthropic",
@@ -905,7 +901,7 @@
       },
       {
         "keyword": "agent",
-        "excerpt": "tments Company Try Claude News Latest news October 24, 2026 Announcements Sep 22, 2026 Introducing Claude Opus 5.5 Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads. Announcements Oct 18, 2026 Investing in the public benefit We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that incr"
+        "excerpt": "tments Company Try Claude News Latest news October 25, 2026 Announcements Sep 22, 2026 Introducing Claude Opus 5.5 Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads. Announcements Oct 18, 2026 Investing in the public benefit We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that incr"
       },
       {
         "keyword": "agents",
@@ -941,21 +937,21 @@
       },
       {
         "keyword": "Claude",
-        "excerpt": "Newsroom \\ Anthropic Skip to main content News Research Policy Commitments Company Try Claude News Latest news October 24, 2026 Announcements Sep 22, 2026 Introducing Claude Opus 5.5 Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads. Announcements Oct 18, 2026 Investing in the public benefit We’re"
+        "excerpt": "Newsroom \\ Anthropic Skip to main content News Research Policy Commitments Company Try Claude News Latest news October 25, 2026 Announcements Sep 22, 2026 Introducing Claude Opus 5.5 Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads. Announcements Oct 18, 2026 Investing in the public benefit We’re"
       },
       {
         "keyword": "workflow",
         "excerpt": "ing Agent Skills to the Agentic AI Foundation We’re donating Agent Skills, the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation. More than 70 agent platforms, including ChatGPT, Cursor, GitHub Copilot, and VS Code, have integrated Agent Skills since we published the standard in December 2025. Product Oct 22, 2026 Oct 22, 2026 Product Donating Agent Skills to the Age"
       }
     ],
-    "text_sample": "Newsroom \\ Anthropic Skip to main content News Research Policy Commitments Company Try Claude News Latest news October 24, 2026 Announcements Sep 22, 2026 Introducing Claude Opus 5.5 Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads. Announcements Oct 18, 2026 Investing in the public benefit We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows. Announcements Oct 6, 2026 Expanding the Cyber Verification Program We’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals. Announcements Oct 7, 2026 Introducing Claude Haiku 5.5 Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use. Announcements Sep 28, 2026 Introducing Claude Sonnet 5.5 Claude Sonnet 5.5 is a clear upgrade over Claude Sonnet 5, runs 30%+ faster, and costs up to 30% less for most work. Features Features Sep 21, 2026 The Situation Report A rare Ebola strain is spreading in the DRC, with no confirmed vaccine. Global health organizations are using Claude to respond as fast as possible. Read more Economics Sep 9, 2026 Scenarios for o"
+    "text_sample": "Newsroom \\ Anthropic Skip to main content News Research Policy Commitments Company Try Claude News Latest news October 25, 2026 Announcements Sep 22, 2026 Introducing Claude Opus 5.5 Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads. Announcements Oct 18, 2026 Investing in the public benefit We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows. Announcements Oct 6, 2026 Expanding the Cyber Verification Program We’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals. Announcements Oct 7, 2026 Introducing Claude Haiku 5.5 Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use. Announcements Sep 28, 2026 Introducing Claude Sonnet 5.5 Claude Sonnet 5.5 is a clear upgrade over Claude Sonnet 5, runs 30%+ faster, and costs up to 30% less for most work. Features Features Sep 21, 2026 The Situation Report A rare Ebola strain is spreading in the DRC, with no confirmed vaccine. Global health organizations are using Claude to respond as fast as possible. Read more Economics Sep 9, 2026 Scenarios for o"
   },
   {
     "id": "google_ai_developers",
     "title": "Google AI Developers Blog",
     "url": "https://developers.googleblog.com/en/search/?query=Gemini",
     "type": "industry",
-    "fetched_at": "20261024T042741Z",
+    "fetched_at": "20261025T043130Z",
     "status": 200,
     "error": null,
     "page_title": "Search - Google Developers Blog",
