@@ -4,7 +4,7 @@
     "title": "Codex Changelog",
     "url": "https://developers.openai.com/codex/changelog",
     "type": "official",
-    "fetched_at": "20261029T053813Z",
+    "fetched_at": "20261030T053700Z",
     "status": 200,
     "error": null,
     "page_title": "ChatGPT & Codex changelog | ChatGPT Learn",
@@ -109,7 +109,7 @@
     "title": "Codex App",
     "url": "https://developers.openai.com/codex/app",
     "type": "official",
-    "fetched_at": "20261029T053813Z",
+    "fetched_at": "20261030T053700Z",
     "status": 200,
     "error": null,
     "page_title": "ChatGPT desktop app | ChatGPT Learn",
@@ -214,7 +214,7 @@
     "title": "Codex CLI",
     "url": "https://developers.openai.com/codex/cli",
     "type": "official",
-    "fetched_at": "20261029T053813Z",
+    "fetched_at": "20261030T053700Z",
     "status": 200,
     "error": null,
     "page_title": "Codex CLI | ChatGPT Learn",
@@ -319,7 +319,7 @@
     "title": "Codex IDE",
     "url": "https://developers.openai.com/codex/ide",
     "type": "official",
-    "fetched_at": "20261029T053813Z",
+    "fetched_at": "20261030T053700Z",
     "status": 200,
     "error": null,
     "page_title": "Codex IDE extension | ChatGPT Learn",
@@ -424,7 +424,7 @@
     "title": "Codex Authentication",
     "url": "https://developers.openai.com/codex/auth",
     "type": "official",
-    "fetched_at": "20261029T053813Z",
+    "fetched_at": "20261030T053700Z",
     "status": 200,
     "error": null,
     "page_title": "Authentication | ChatGPT Learn",
@@ -529,7 +529,7 @@
     "title": "Codex Config Reference",
     "url": "https://developers.openai.com/codex/config-reference",
     "type": "official",
-    "fetched_at": "20261029T053813Z",
+    "fetched_at": "20261030T053700Z",
     "status": 200,
     "error": null,
     "page_title": "Configuration Reference | ChatGPT Learn",
@@ -638,7 +638,7 @@
     "title": "openai/codex Releases",
     "url": "https://github.com/openai/codex/releases",
     "type": "github",
-    "fetched_at": "20261029T053813Z",
+    "fetched_at": "20261030T053700Z",
     "status": 200,
     "error": null,
     "page_title": "Releases · openai/codex · GitHub",
@@ -660,8 +660,12 @@
         "excerpt": "itory hosting, code review, and collaboration Copilot AI coding agent for tasks, projects and automated work Build & Ship Actions CI/CD and automation Code Quality Quality analysis, fixes, and enforcement Codespaces Cloud development environments Secure Code Security Vulnerability detection and remediation Secret Protection Secret scanning and leak prevention All Features Developers Learn Documentation Training Certi"
       },
       {
+        "keyword": "CLI",
+        "excerpt": "d Rust bindings and native Windows MSVC archive support. ( #57164 , #57269 , #57644 , #57832 ) Shipped the standalone executor in canonical CLI and app-server release packages. ( #57837 ) Standardized development and release builds on Node.js 24.22.1 and Rust 1.95.0. ( #57168 , #57373 ) Changelog Full Changelog: rust-v0.165.0...rust-v0.166.0 #56468 Preserve SystemRoot for Windows filesystem sandbox helpers @jif-oai #"
+      },
+      {
         "keyword": "IDE",
-        "excerpt": "ound View all tags github-actions released this 27 Oct 20:09 rust-v0.165.0 360319d New Features Added a built-in Google Cloud Vertex AI provider, configured with model_provider = \"gcp\" . ( #56265 ) Added GPT-6.1 Terra to the model catalogs. ( #57337 ) Added a repository filter to the session picker and directory grouping to the agent command center, making it easier to navigate sessions across linked worktrees. ( #56"
+        "excerpt": "elixxia-oai #56559 Remove Guardian snapshot-specific context helpers @felixxia-oai #56560 Allow configuring GCP project and location in provider settings @alexsong-oai #57164 Move the V8 Bazel build graph into Codex @seanh-oai #57165 Enforce V8 artifact profiles at Bazel target boundaries @seanh-oai #57166 Surface automatic marketplace update failures as startup warnings @dkovalenko-oai #57167 Track CUA tool call sta"
       },
       {
         "keyword": "GitHub",
@@ -669,15 +673,15 @@
       },
       {
         "keyword": "MCP",
-        "excerpt": "vided. ( #56090 ) Kept TUI preferences editable and immediately applicable when execution settings are invalid. ( #56091 ) Cancelled remote MCP tool requests when their local response futures are dropped. ( #56132 ) Prevented queued agent messages from restarting work after an interrupt or a switch to Plan mode. ( #56330 ) Stopped retrying when a provider reports that a model was not found, preserving its error messa"
+        "excerpt": "calls in rollout trace replay @cassirer-openai #57194 Classify rollout tool calls by their runtime handler @cassirer-openai #57196 Isolate MCP inputs and timeouts for callers sharing a connection @charliemarsh-oai #57197 Clarify skill toggle summaries in the TUI @fcoury-oai #57198 Report the local command working directory in PreToolUse hooks @eternal-openai #57199 Truncate rollout JSON summaries at UTF-8 character"
       },
       {
         "keyword": "memory",
-        "excerpt": "o the app-server API. ( #56351 ) Enabled reasoning effort changes during a conversation by default for supported models. ( #56163 ) Enabled memory v2 by default for fresh profiles and added support for importing external-agent memories into it. ( #56211 , #56414 ) Bug Fixes Fixed fresh TUI sessions to honor the server’s default approval reviewer when no explicit override is provided. ( #56090 ) Kept TUI preferences e"
+        "excerpt": "e V2 spawning in subagent context inheritance tests @tamird #57239 Make the MCP HTTP probe timeout test deterministic @jif-oai #57240 Bound memory baseline files and recover incomplete snapshots @dhruvgupta-oai #57241 Honor configured message limits for encrypted guardian transcripts @ioanbudea-OAI #57242 Reduce the default thread unload delay to one minute @jif-oai #57243 Pause Tokio time in startup draft handoff te"
       },
       {
         "keyword": "model",
-        "excerpt": "hub-actions released this 27 Oct 20:09 rust-v0.165.0 360319d New Features Added a built-in Google Cloud Vertex AI provider, configured with model_provider = \"gcp\" . ( #56265 ) Added GPT-6.1 Terra to the model catalogs. ( #57337 ) Added a repository filter to the session picker and directory grouping to the agent command center, making it easier to navigate sessions across linked worktrees. ( #56308 ) Added experiment"
+        "excerpt": "questions, choices, answers, and transcript replies. ( #57259 , #57292 ) Added GPT-6.1 Terra to the bundled, Vertex AI, and Amazon Bedrock model catalogs. ( #57293 ) Added codex queue --resume to resume unloaded threads after queueing a message. ( #57232 ) Added clearer safety-block explanations and selectable safer follow-up prompts in the TUI. ( #57363 , #57365 ) Added codex doctor --network-only for focused confi"
       },
       {
         "keyword": "release",
@@ -693,11 +697,11 @@
       },
       {
         "keyword": "config",
-        "excerpt": "iew all tags github-actions released this 27 Oct 20:09 rust-v0.165.0 360319d New Features Added a built-in Google Cloud Vertex AI provider, configured with model_provider = \"gcp\" . ( #56265 ) Added GPT-6.1 Terra to the model catalogs. ( #57337 ) Added a repository filter to the session picker and directory grouping to the agent command center, making it easier to navigate sessions across linked worktrees. ( #56308 )"
+        "excerpt": ":47 rust-v0.166.0 6ff1e1c New Features Added keyboard-driven transcript selection with word, line, and page motions, integrated search, and configurable shortcuts. ( #57221 , #57222 , #57223 , #57224 ) Rendered Markdown consistently in async questions, choices, answers, and transcript replies. ( #57259 , #57292 ) Added GPT-6.1 Terra to the bundled, Vertex AI, and Amazon Bedrock model catalogs. ( #57293 ) Added codex"
       },
       {
         "keyword": "authentication",
-        "excerpt": "empty final answers @eknight-oai #56139 Fix the MCP auth status test's IdP OAuth configuration @jif-oai #56153 Preserve safe enterprise MCP authentication error details @jif-oai #56154 Add managed network review domains before allow rules @olliem-oai #56163 Enable reasoning effort overrides by default @felixxia-oai #56182 Add AWS SigV4 signing to network proxy MITM hooks @viyatb-oai #56210 Stabilize the marketplace s"
+        "excerpt": "share interactive login setup @smurching-oai #57170 Update prebuilt argument-comment-lint to rust-v0.164.0 @tamird #57171 Integrate runtime authentication into model requests @cooper-oai #57172 Expose lifecycle timestamps on app-server thread items @charliemarsh-oai #57174 Add scoped request-body secret substitution to MITM hooks @viyatb-oai #57175 Integrate config-server policies with startup and authentication @smu"
       }
     ],
     "text_sample": "Releases · openai/codex · GitHub Skip to content Navigation Menu Sign in Products Platform GitHub Repository hosting, code review, and collaboration Copilot AI coding agent for tasks, projects and automated work Build & Ship Actions CI/CD and automation Code Quality Quality analysis, fixes, and enforcement Codespaces Cloud development environments Secure Code Security Vulnerability detection and remediation Secret Protection Secret scanning and leak prevention All Features Developers Learn Documentation Training Certifications Build Build with Copilot Customize Copilot Integrations Explore Trending repos GitHub Sponsors Events Changelog Changelog Your source for the latest features, improvements, and fixes across GitHub products, all in one place. Businesses By Stage Enterprises Team Startups Nonprofits By Industry Healthcare Financial services Manufacturing Government See all industries Evaluate GitHub Why GitHub Customer Stories Business insights Trust Center Add-ons GitHub Advanced Security Enterprise-grade code security Copilot for business Enterprise-grade AI features Premium Support Enterprise-grade 24/7 support Resources Learn & Connect Documentation Resource center Blog Events & webinars Community Forum Customer Stories Integrations Support Customer support Training GitHub Status Company About Partners Changelog GitHub Universe GitHub Universe The event for developers, "
@@ -707,7 +711,7 @@
     "title": "ChatGPT Release Notes",
     "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
     "type": "official",
-    "fetched_at": "20261029T053813Z",
+    "fetched_at": "20261030T053700Z",
     "status": 403,
     "error": "HTTP Error 403: Forbidden",
     "hits": [],
@@ -718,7 +722,7 @@
     "title": "OpenAI News",
     "url": "https://openai.com/news/",
     "type": "industry",
-    "fetched_at": "20261029T053813Z",
+    "fetched_at": "20261030T053700Z",
     "status": 403,
     "error": "HTTP Error 403: Forbidden",
     "hits": [],
@@ -729,7 +733,7 @@
     "title": "OpenAI Research",
     "url": "https://openai.com/research/",
     "type": "industry",
-    "fetched_at": "20261029T053813Z",
+    "fetched_at": "20261030T053700Z",
     "status": 403,
     "error": "HTTP Error 403: Forbidden",
     "hits": [],
@@ -740,7 +744,7 @@
     "title": "GitHub AI & ML Blog",
     "url": "https://github.blog/ai-and-ml/",
     "type": "industry",
-    "fetched_at": "20261029T053813Z",
+    "fetched_at": "20261030T053700Z",
     "status": 200,
     "error": null,
     "page_title": "The latest on AI & ML - The GitHub Blog",
@@ -801,7 +805,7 @@
     "title": "GitHub Changelog",
     "url": "https://github.blog/changelog/",
     "type": "industry",
-    "fetched_at": "20261029T053813Z",
+    "fetched_at": "20261030T053700Z",
     "status": 200,
     "error": null,
     "page_title": "GitHub Changelog",
@@ -816,15 +820,15 @@
       },
       {
         "keyword": "automation",
-        "excerpt": "puts your code, context, and history to work copilot universe26 ... +1 Oct.28 Improvement Build shared workflows for your team with Copilot Automations copilot universe26 ... +1 Oct.28 Release GitHub Copilot in VS Code, Universe releases copilot universe26 vs code ... +2 Oct.28 Release Generate and edit images directly in Copilot copilot universe26 ... +1 Oct.28 Release GitHub Copilot Fusion now supports selection of"
+        "excerpt": "puts your code, context, and history to work copilot universe26 ... +1 Oct.28 Improvement Build shared workflows for your team with Copilot Automations copilot universe26 ... +1 Oct.28 Improvement Repository plugin defaults and enterprise plugin controls generally available copilot universe26 ... +1 Oct.28 Release GitHub Copilot in VS Code, Universe releases copilot universe26 vs code ... +2 Oct.28 Release Generate a"
       },
       {
         "keyword": "automations",
-        "excerpt": "puts your code, context, and history to work copilot universe26 ... +1 Oct.28 Improvement Build shared workflows for your team with Copilot Automations copilot universe26 ... +1 Oct.28 Release GitHub Copilot in VS Code, Universe releases copilot universe26 vs code ... +2 Oct.28 Release Generate and edit images directly in Copilot copilot universe26 ... +1 Oct.28 Release GitHub Copilot Fusion now supports selection of"
+        "excerpt": "puts your code, context, and history to work copilot universe26 ... +1 Oct.28 Improvement Build shared workflows for your team with Copilot Automations copilot universe26 ... +1 Oct.28 Improvement Repository plugin defaults and enterprise plugin controls generally available copilot universe26 ... +1 Oct.28 Release GitHub Copilot in VS Code, Universe releases copilot universe26 vs code ... +2 Oct.28 Release Generate a"
       },
       {
         "keyword": "CLI",
-        "excerpt": "vements Retired Filters ( 0 selected ) Clear all Filters ( 0 selected ) Match: Any All Tags Account management Actions Application Security Client apps Collaboration tools Community engagement Copilot Ecosystem & accessibility Enterprise management tools Platform governance Projects & Issues Supply chain security Universe ‘26 Clear all Apply October Oct 2026 October Oct 2026 Oct.28 Release Route and orchestrate model"
+        "excerpt": "vements Retired Filters ( 0 selected ) Clear all Filters ( 0 selected ) Match: Any All Tags Account management Actions Application Security Client apps Collaboration tools Community engagement Copilot Ecosystem & accessibility Enterprise management tools Platform governance Projects & Issues Supply chain security Universe ‘26 Clear all Apply October Oct 2026 October Oct 2026 Oct.29 Improvement Webhook IP ranges added"
       },
       {
         "keyword": "IDE",
@@ -844,7 +848,7 @@
       },
       {
         "keyword": "model",
-        "excerpt": "Projects & Issues Supply chain security Universe ‘26 Clear all Apply October Oct 2026 October Oct 2026 Oct.28 Release Route and orchestrate models with GitHub Copilot Fusion copilot enterprise management tools universe26 ... +2 Oct.28 Release GitHub Copilot app, Universe releases copilot universe26 ... +1 Oct.28 Release GitHub Enterprise now includes access to GitHub Copilot copilot universe26 ... +1 Oct.28 Release S"
+        "excerpt": "October Oct 2026 Oct.29 Improvement Webhook IP ranges added to the Meta API ecosystem & accessibility Oct.28 Release Route and orchestrate models with GitHub Copilot Fusion copilot enterprise management tools universe26 ... +2 Oct.28 Release GitHub Copilot app, Universe releases copilot universe26 ... +1 Oct.28 Release GitHub Enterprise now includes access to GitHub Copilot copilot universe26 ... +1 Oct.28 Release S"
       },
       {
         "keyword": "release",
@@ -864,7 +868,7 @@
       },
       {
         "keyword": "workflow",
-        "excerpt": "2 Oct.28 Release GitHub intelligence puts your code, context, and history to work copilot universe26 ... +1 Oct.28 Improvement Build shared workflows for your team with Copilot Automations copilot universe26 ... +1 Oct.28 Release GitHub Copilot in VS Code, Universe releases copilot universe26 vs code ... +2 Oct.28 Release Generate and edit images directly in Copilot copilot universe26 ... +1 Oct.28 Release GitHub Cop"
+        "excerpt": "2 Oct.28 Release GitHub intelligence puts your code, context, and history to work copilot universe26 ... +1 Oct.28 Improvement Build shared workflows for your team with Copilot Automations copilot universe26 ... +1 Oct.28 Improvement Repository plugin defaults and enterprise plugin controls generally available copilot universe26 ... +1 Oct.28 Release GitHub Copilot in VS Code, Universe releases copilot universe26 vs"
       },
       {
         "keyword": "computer use",
@@ -879,14 +883,14 @@
         "excerpt": "ependabot alerts with reachability analysis supply chain security universe26 ... +1 Oct.27 Release GitHub Copilot supports server-to-server authentication copilot Oct.26 Release GitHub Copilot assisted permissions generally available copilot Oct.26 Release GPT-6.1 Terra in GitHub Copilot copilot Oct.23 Improvement Usage metrics API adds usage from tools like OpenCode account management copilot enterprise management t"
       }
     ],
-    "text_sample": "GitHub Changelog Skip to content / Blog Changelog Docs Customer stories Try GitHub Copilot app See what&#039;s new Search Changelog Docs Customer stories See what&#039;s new Try GitHub Copilot app Back to blog Changelog Copy RSS feed URL Follow @ghchangelog on X All New Releases Improvements Retired Filters ( 0 selected ) Clear all Filters ( 0 selected ) Match: Any All Tags Account management Actions Application Security Client apps Collaboration tools Community engagement Copilot Ecosystem & accessibility Enterprise management tools Platform governance Projects & Issues Supply chain security Universe ‘26 Clear all Apply October Oct 2026 October Oct 2026 Oct.28 Release Route and orchestrate models with GitHub Copilot Fusion copilot enterprise management tools universe26 ... +2 Oct.28 Release GitHub Copilot app, Universe releases copilot universe26 ... +1 Oct.28 Release GitHub Enterprise now includes access to GitHub Copilot copilot universe26 ... +1 Oct.28 Release Security extension for the GitHub Copilot app application security copilot universe26 ... +2 Oct.28 Release GitHub intelligence puts your code, context, and history to work copilot universe26 ... +1 Oct.28 Improvement Build shared workflows for your team with Copilot Automations copilot universe26 ... +1 Oct.28 Release GitHub Copilot in VS Code, Universe releases copilot universe26 vs code ... +2 Oct.28 Release Genera"
+    "text_sample": "GitHub Changelog Skip to content / Blog Changelog Docs Customer stories Try GitHub Copilot app See what&#039;s new Search Changelog Docs Customer stories See what&#039;s new Try GitHub Copilot app Back to blog Changelog Copy RSS feed URL Follow @ghchangelog on X All New Releases Improvements Retired Filters ( 0 selected ) Clear all Filters ( 0 selected ) Match: Any All Tags Account management Actions Application Security Client apps Collaboration tools Community engagement Copilot Ecosystem & accessibility Enterprise management tools Platform governance Projects & Issues Supply chain security Universe ‘26 Clear all Apply October Oct 2026 October Oct 2026 Oct.29 Improvement Webhook IP ranges added to the Meta API ecosystem & accessibility Oct.28 Release Route and orchestrate models with GitHub Copilot Fusion copilot enterprise management tools universe26 ... +2 Oct.28 Release GitHub Copilot app, Universe releases copilot universe26 ... +1 Oct.28 Release GitHub Enterprise now includes access to GitHub Copilot copilot universe26 ... +1 Oct.28 Release Security extension for the GitHub Copilot app application security copilot universe26 ... +2 Oct.28 Release GitHub intelligence puts your code, context, and history to work copilot universe26 ... +1 Oct.28 Improvement Build shared workflows for your team with Copilot Automations copilot universe26 ... +1 Oct.28 Improvement Repository "
   },
   {
     "id": "anthropic_news",
     "title": "Anthropic News",
     "url": "https://www.anthropic.com/news",
     "type": "industry",
-    "fetched_at": "20261029T053813Z",
+    "fetched_at": "20261030T053700Z",
     "status": 200,
     "error": null,
     "page_title": "Newsroom \\ Anthropic",
@@ -897,7 +901,7 @@
       },
       {
         "keyword": "agent",
-        "excerpt": "tments Company Try Claude News Latest news October 29, 2026 Announcements Sep 22, 2026 Introducing Claude Opus 5.5 Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads. Announcements Oct 18, 2026 Investing in the public benefit We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that incr"
+        "excerpt": "tments Company Try Claude News Latest news October 30, 2026 Announcements Sep 22, 2026 Introducing Claude Opus 5.5 Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads. Announcements Oct 18, 2026 Investing in the public benefit We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that incr"
       },
       {
         "keyword": "agents",
@@ -933,48 +937,44 @@
       },
       {
         "keyword": "Claude",
-        "excerpt": "Newsroom \\ Anthropic Skip to main content News Research Policy Commitments Company Try Claude News Latest news October 29, 2026 Announcements Sep 22, 2026 Introducing Claude Opus 5.5 Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads. Announcements Oct 18, 2026 Investing in the public benefit We’re"
+        "excerpt": "Newsroom \\ Anthropic Skip to main content News Research Policy Commitments Company Try Claude News Latest news October 30, 2026 Announcements Sep 22, 2026 Introducing Claude Opus 5.5 Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads. Announcements Oct 18, 2026 Investing in the public benefit We’re"
       },
       {
         "keyword": "workflow",
         "excerpt": "ing Agent Skills to the Agentic AI Foundation We’re donating Agent Skills, the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation. More than 70 agent platforms, including ChatGPT, Cursor, GitHub Copilot, and VS Code, have integrated Agent Skills since we published the standard in December 2025. Product Oct 22, 2026 Oct 22, 2026 Product Donating Agent Skills to the Age"
       }
     ],
-    "text_sample": "Newsroom \\ Anthropic Skip to main content News Research Policy Commitments Company Try Claude News Latest news October 29, 2026 Announcements Sep 22, 2026 Introducing Claude Opus 5.5 Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads. Announcements Oct 18, 2026 Investing in the public benefit We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows. Announcements Oct 26, 2026 Anthropic files S-1 with the SEC for proposed initial public offering Today, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock. Science Oct 27, 2026 Early progress on accelerating drug development with Claude We&#x27;re at the start of a major effort to speed up drug development with Claude. Over the past several months, our scientists have engaged in deep research partnerships with six organizations developing new medicines. Announcements Oct 7, 2026 Introducing Claude Haiku 5.5 Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use. Announcements Sep 28, 2026 Introducing Claude Sonnet 5.5 Claude Sonnet 5.5 is a clear upgrade "
+    "text_sample": "Newsroom \\ Anthropic Skip to main content News Research Policy Commitments Company Try Claude News Latest news October 30, 2026 Announcements Sep 22, 2026 Introducing Claude Opus 5.5 Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads. Announcements Oct 18, 2026 Investing in the public benefit We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows. Announcements Oct 26, 2026 Anthropic files S-1 with the SEC for proposed initial public offering Today, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock. Science Oct 27, 2026 Early progress on accelerating drug development with Claude We&#x27;re at the start of a major effort to speed up drug development with Claude. Over the past several months, our scientists have engaged in deep research partnerships with six organizations developing new medicines. Announcements Oct 7, 2026 Introducing Claude Haiku 5.5 Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use. Announcements Sep 28, 2026 Introducing Claude Sonnet 5.5 Claude Sonnet 5.5 is a clear upgrade "
   },
   {
     "id": "google_ai_developers",
     "title": "Google AI Developers Blog",
     "url": "https://developers.googleblog.com/en/search/?query=Gemini",
     "type": "industry",
-    "fetched_at": "20261029T053813Z",
+    "fetched_at": "20261030T053700Z",
     "status": 200,
     "error": null,
     "page_title": "Search - Google Developers Blog",
     "hits": [
       {
         "keyword": "agent",
-        "excerpt": "ay Play Search Smart Home TensorFlow TV Wallet Wear OS Workspace Technology Select all AI Cloud Mobile Web OCT. 28, 2026 / AI Hill-Climbing Agent Quality with Agents CLI Evaluation This post walks through the Agents CLI evaluation loop for systematically improving agent performance through continuous testing and grading. It demonstrates how to catch prompt regressions, evaluate model backend swaps using side-by-side"
+        "excerpt": "V Wallet Wear OS Workspace Technology Select all AI Cloud Mobile Web OCT. 29, 2026 / Mobile Build Generative UI Apps with A2UI & CopilotKit Agents See Google A2Ui in action! Learn how to natively render agentic UIs across Langchain, AWS Strands, Microsoft agents, and Google ADK using CopilotKit SDKs for A2UI. OCT. 28, 2026 / AI Hill-Climbing Agent Quality with Agents CLI Evaluation This post walks through the Agents"
       },
       {
         "keyword": "agents",
-        "excerpt": "t Home TensorFlow TV Wallet Wear OS Workspace Technology Select all AI Cloud Mobile Web OCT. 28, 2026 / AI Hill-Climbing Agent Quality with Agents CLI Evaluation This post walks through the Agents CLI evaluation loop for systematically improving agent performance through continuous testing and grading. It demonstrates how to catch prompt regressions, evaluate model backend swaps using side-by-side trace comparisons,"
+        "excerpt": "V Wallet Wear OS Workspace Technology Select all AI Cloud Mobile Web OCT. 29, 2026 / Mobile Build Generative UI Apps with A2UI & CopilotKit Agents See Google A2Ui in action! Learn how to natively render agentic UIs across Langchain, AWS Strands, Microsoft agents, and Google ADK using CopilotKit SDKs for A2UI. OCT. 28, 2026 / AI Hill-Climbing Agent Quality with Agents CLI Evaluation This post walks through the Agents"
       },
       {
         "keyword": "Chrome",
-        "excerpt": "ment/Agile Q&A Release Notes Solutions Solve Testing TotT Tutorials Product Select all Ads AI Edge Android Angular AR Assistant Auto Checks Chrome OS Chrome Web Cloud DeepMind Design Engineering Firebase Flutter Gemini Gemma Geo Go Google AI Studio Google Labs Google Pay IDX Kaggle Keras Matter Pay Play Search Smart Home TensorFlow TV Wallet Wear OS Workspace Technology Select all AI Cloud Mobile Web OCT. 28, 2026 /"
+        "excerpt": "ment/Agile Q&A Release Notes Solutions Solve Testing TotT Tutorials Product Select all Ads AI Edge Android Angular AR Assistant Auto Checks Chrome OS Chrome Web Cloud DeepMind Design Engineering Firebase Flutter Gemini Gemma Geo Go Google AI Studio Google Labs Google Pay IDX Kaggle Keras Matter Pay Play Search Smart Home TensorFlow TV Wallet Wear OS Workspace Technology Select all AI Cloud Mobile Web OCT. 29, 2026 /"
       },
       {
         "keyword": "CLI",
-        "excerpt": "Matter Pay Play Search Smart Home TensorFlow TV Wallet Wear OS Workspace Technology Select all AI Cloud Mobile Web OCT. 28, 2026 / AI Hill-Climbing Agent Quality with Agents CLI Evaluation This post walks through the Agents CLI evaluation loop for systematically improving agent performance through continuous testing and grading. It demonstrates how to catch prompt regressions, evaluate model backend swaps using side"
+        "excerpt": "render agentic UIs across Langchain, AWS Strands, Microsoft agents, and Google ADK using CopilotKit SDKs for A2UI. OCT. 28, 2026 / AI Hill-Climbing Agent Quality with Agents CLI Evaluation This post walks through the Agents CLI evaluation loop for systematically improving agent performance through continuous testing and grading. It demonstrates how to catch prompt regressions, evaluate model backend swaps using side"
       },
       {
         "keyword": "IDE",
         "excerpt": "Announcements Beginner Best Practices Business and Leadership Case Studies Code Health Community Documentation Events Explore Hard How-To Guides Industry Trends Influence Intermediate Learn Performance Problem-Solving Project Management/Agile Q&A Release Notes Solutions Solve Testing TotT Tutorials Product Select all Ads AI Edge Android Angular AR Assistant Auto Checks Chrome OS Chrome Web Cloud DeepMind Design Engin"
-      },
-      {
-        "keyword": "MCP",
-        "excerpt": "l security without incurring high-QPS API performance overhead. Additionally, developers integrating multi-agent or Model Context Protocol (MCP) workloads can use Google Cloud Secure Token Service (STS) to handle secure token delegation across agent chains. Previous Next Filter Clear filters Content Type Select all Announcements Beginner Best Practices Business and Leadership Case Studies Code Health Community Docume"
       },
       {
         "keyword": "plugins",
@@ -994,11 +994,11 @@
       },
       {
         "keyword": "developer",
-        "excerpt": "Search - Google Developers Blog Community/Events Learn Blog YouTube Search Community/Events Learn Blog YouTube Search for \"Gemini\" 254 results Clear filters Filter by Content Type Select all Announcements Beginner Best Practices Business and Leadership Case Studies Code Health Community Document"
+        "excerpt": "Search - Google Developers Blog Community/Events Learn Blog YouTube Search Community/Events Learn Blog YouTube Search for \"Gemini\" 255 results Clear filters Filter by Content Type Select all Announcements Beginner Best Practices Business and Leadership Case Studies Code Health Community Document"
       },
       {
         "keyword": "Gemini",
-        "excerpt": "Search - Google Developers Blog Community/Events Learn Blog YouTube Search Community/Events Learn Blog YouTube Search for \"Gemini\" 254 results Clear filters Filter by Content Type Select all Announcements Beginner Best Practices Business and Leadership Case Studies Code Health Community Documentation Events Explore Hard How-To Guides Industry Trends Influence Intermediate Learn Performance Problem-So"
+        "excerpt": "Search - Google Developers Blog Community/Events Learn Blog YouTube Search Community/Events Learn Blog YouTube Search for \"Gemini\" 255 results Clear filters Filter by Content Type Select all Announcements Beginner Best Practices Business and Leadership Case Studies Code Health Community Documentation Events Explore Hard How-To Guides Industry Trends Influence Intermediate Learn Performance Problem-So"
       },
       {
         "keyword": "workflow",
@@ -1013,6 +1013,6 @@
         "excerpt": "te allows developers to route long-lived, bi-directional streams and AI workloads directly through the gateway while maintaining consistent authentication, rate limiting, and observability. Additionally, gateways now feature deterministic default hostnames, simplifying environment provisioning and infrastructure-as-code management. OCT. 22, 2026 / AI Architecting Governed, Self-Evolving AI Agents on Google Cloud Lear"
       }
     ],
-    "text_sample": "Search - Google Developers Blog Community/Events Learn Blog YouTube Search Community/Events Learn Blog YouTube Search for \"Gemini\" 254 results Clear filters Filter by Content Type Select all Announcements Beginner Best Practices Business and Leadership Case Studies Code Health Community Documentation Events Explore Hard How-To Guides Industry Trends Influence Intermediate Learn Performance Problem-Solving Project Management/Agile Q&A Release Notes Solutions Solve Testing TotT Tutorials Product Select all Ads AI Edge Android Angular AR Assistant Auto Checks Chrome OS Chrome Web Cloud DeepMind Design Engineering Firebase Flutter Gemini Gemma Geo Go Google AI Studio Google Labs Google Pay IDX Kaggle Keras Matter Pay Play Search Smart Home TensorFlow TV Wallet Wear OS Workspace Technology Select all AI Cloud Mobile Web OCT. 28, 2026 / AI Hill-Climbing Agent Quality with Agents CLI Evaluation This post walks through the Agents CLI evaluation loop for systematically improving agent performance through continuous testing and grading. It demonstrates how to catch prompt regressions, evaluate model backend swaps using side-by-side trace comparisons, and automate evaluation passes. Developers will also learn how to integrate nightly scheduled runs with threshold-based alerting to track quality over time. OCT. 27, 2026 / Mobile Building Conversational Commerce with Multi-Agent Swarms on G"
+    "text_sample": "Search - Google Developers Blog Community/Events Learn Blog YouTube Search Community/Events Learn Blog YouTube Search for \"Gemini\" 255 results Clear filters Filter by Content Type Select all Announcements Beginner Best Practices Business and Leadership Case Studies Code Health Community Documentation Events Explore Hard How-To Guides Industry Trends Influence Intermediate Learn Performance Problem-Solving Project Management/Agile Q&A Release Notes Solutions Solve Testing TotT Tutorials Product Select all Ads AI Edge Android Angular AR Assistant Auto Checks Chrome OS Chrome Web Cloud DeepMind Design Engineering Firebase Flutter Gemini Gemma Geo Go Google AI Studio Google Labs Google Pay IDX Kaggle Keras Matter Pay Play Search Smart Home TensorFlow TV Wallet Wear OS Workspace Technology Select all AI Cloud Mobile Web OCT. 29, 2026 / Mobile Build Generative UI Apps with A2UI & CopilotKit Agents See Google A2Ui in action! Learn how to natively render agentic UIs across Langchain, AWS Strands, Microsoft agents, and Google ADK using CopilotKit SDKs for A2UI. OCT. 28, 2026 / AI Hill-Climbing Agent Quality with Agents CLI Evaluation This post walks through the Agents CLI evaluation loop for systematically improving agent performance through continuous testing and grading. It demonstrates how to catch prompt regressions, evaluate model backend swaps using side-by-side trace comparisons,"
   }
 ]
