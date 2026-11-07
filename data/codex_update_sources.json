@@ -4,7 +4,7 @@
     "title": "Codex Changelog",
     "url": "https://developers.openai.com/codex/changelog",
     "type": "official",
-    "fetched_at": "20261106T062919Z",
+    "fetched_at": "20261107T055011Z",
     "status": 200,
     "error": null,
     "page_title": "ChatGPT & Codex changelog | ChatGPT Learn",
@@ -39,7 +39,7 @@
       },
       {
         "keyword": "CLI",
-        "excerpt": "ation state Background mode Streaming WebSocket mode Mid-turn steering Multi-agent Webhooks File inputs Compaction Counting tokens SDKs and CLI OpenAI SDK OpenAI CLI Resources Changelog Deprecations Supported countries OpenAI Crawlers Terms and policies Legacy APIs Agent Builder Overview Migration guide Node reference Safety in building agents Evals Getting started Working with evals Prompt optimizer External models"
+        "excerpt": "ation state Background mode Streaming WebSocket mode Mid-turn steering Multi-agent Webhooks File inputs Compaction Counting tokens SDKs and CLI OpenAI SDK OpenAI CLI Cloud providers Amazon Bedrock Google Cloud Resources Changelog Deprecations Supported countries OpenAI Crawlers Terms and policies Legacy APIs Agent Builder Overview Migration guide Node reference Safety in building agents Evals Getting started Working"
       },
       {
         "keyword": "IDE",
@@ -47,7 +47,7 @@
       },
       {
         "keyword": "GitHub",
-        "excerpt": "LS Workload identity federation Federation rules X.509 certificates Kubernetes AWS Microsoft Azure Google Cloud Oracle Cloud Infrastructure GitHub Actions SPIFFE Idira IP egress ranges Amazon Bedrock Operations Rate limits Spend limits Admin APIs Error codes Overview Plugins Sign in with ChatGPT Commerce Ads Workspace Agents ChatGPT + Codex user docs Use cases Docs Overview Home Quickstart Core concepts Plugin archit"
+        "excerpt": "LS Workload identity federation Federation rules X.509 certificates Kubernetes AWS Microsoft Azure Google Cloud Oracle Cloud Infrastructure GitHub Actions SPIFFE Idira IP egress ranges Operations Rate limits Spend limits Admin APIs Error codes Overview Plugins Sign in with ChatGPT Commerce Ads Workspace Agents ChatGPT + Codex user docs Use cases Docs Overview Home Quickstart Core concepts Plugin architecture Skills M"
       },
       {
         "keyword": "MCP",
@@ -109,7 +109,7 @@
     "title": "Codex App",
     "url": "https://developers.openai.com/codex/app",
     "type": "official",
-    "fetched_at": "20261106T062919Z",
+    "fetched_at": "20261107T055011Z",
     "status": 200,
     "error": null,
     "page_title": "ChatGPT desktop app | ChatGPT Learn",
@@ -144,7 +144,7 @@
       },
       {
         "keyword": "CLI",
-        "excerpt": "ation state Background mode Streaming WebSocket mode Mid-turn steering Multi-agent Webhooks File inputs Compaction Counting tokens SDKs and CLI OpenAI SDK OpenAI CLI Resources Changelog Deprecations Supported countries OpenAI Crawlers Terms and policies Legacy APIs Agent Builder Overview Migration guide Node reference Safety in building agents Evals Getting started Working with evals Prompt optimizer External models"
+        "excerpt": "ation state Background mode Streaming WebSocket mode Mid-turn steering Multi-agent Webhooks File inputs Compaction Counting tokens SDKs and CLI OpenAI SDK OpenAI CLI Cloud providers Amazon Bedrock Google Cloud Resources Changelog Deprecations Supported countries OpenAI Crawlers Terms and policies Legacy APIs Agent Builder Overview Migration guide Node reference Safety in building agents Evals Getting started Working"
       },
       {
         "keyword": "IDE",
@@ -152,7 +152,7 @@
       },
       {
         "keyword": "GitHub",
-        "excerpt": "LS Workload identity federation Federation rules X.509 certificates Kubernetes AWS Microsoft Azure Google Cloud Oracle Cloud Infrastructure GitHub Actions SPIFFE Idira IP egress ranges Amazon Bedrock Operations Rate limits Spend limits Admin APIs Error codes Overview Plugins Sign in with ChatGPT Commerce Ads Workspace Agents ChatGPT + Codex user docs Use cases Docs Overview Home Quickstart Core concepts Plugin archit"
+        "excerpt": "LS Workload identity federation Federation rules X.509 certificates Kubernetes AWS Microsoft Azure Google Cloud Oracle Cloud Infrastructure GitHub Actions SPIFFE Idira IP egress ranges Operations Rate limits Spend limits Admin APIs Error codes Overview Plugins Sign in with ChatGPT Commerce Ads Workspace Agents ChatGPT + Codex user docs Use cases Docs Overview Home Quickstart Core concepts Plugin architecture Skills M"
       },
       {
         "keyword": "MCP",
@@ -214,7 +214,7 @@
     "title": "Codex CLI",
     "url": "https://developers.openai.com/codex/cli",
     "type": "official",
-    "fetched_at": "20261106T062919Z",
+    "fetched_at": "20261107T055011Z",
     "status": 200,
     "error": null,
     "page_title": "Codex CLI | ChatGPT Learn",
@@ -257,7 +257,7 @@
       },
       {
         "keyword": "GitHub",
-        "excerpt": "LS Workload identity federation Federation rules X.509 certificates Kubernetes AWS Microsoft Azure Google Cloud Oracle Cloud Infrastructure GitHub Actions SPIFFE Idira IP egress ranges Amazon Bedrock Operations Rate limits Spend limits Admin APIs Error codes Overview Plugins Sign in with ChatGPT Commerce Ads Workspace Agents ChatGPT + Codex user docs Use cases Docs Overview Home Quickstart Core concepts Plugin archit"
+        "excerpt": "LS Workload identity federation Federation rules X.509 certificates Kubernetes AWS Microsoft Azure Google Cloud Oracle Cloud Infrastructure GitHub Actions SPIFFE Idira IP egress ranges Operations Rate limits Spend limits Admin APIs Error codes Overview Plugins Sign in with ChatGPT Commerce Ads Workspace Agents ChatGPT + Codex user docs Use cases Docs Overview Home Quickstart Core concepts Plugin architecture Skills M"
       },
       {
         "keyword": "MCP",
@@ -319,7 +319,7 @@
     "title": "Codex IDE",
     "url": "https://developers.openai.com/codex/ide",
     "type": "official",
-    "fetched_at": "20261106T062919Z",
+    "fetched_at": "20261107T055011Z",
     "status": 200,
     "error": null,
     "page_title": "Codex IDE extension | ChatGPT Learn",
@@ -354,7 +354,7 @@
       },
       {
         "keyword": "CLI",
-        "excerpt": "ation state Background mode Streaming WebSocket mode Mid-turn steering Multi-agent Webhooks File inputs Compaction Counting tokens SDKs and CLI OpenAI SDK OpenAI CLI Resources Changelog Deprecations Supported countries OpenAI Crawlers Terms and policies Legacy APIs Agent Builder Overview Migration guide Node reference Safety in building agents Evals Getting started Working with evals Prompt optimizer External models"
+        "excerpt": "ation state Background mode Streaming WebSocket mode Mid-turn steering Multi-agent Webhooks File inputs Compaction Counting tokens SDKs and CLI OpenAI SDK OpenAI CLI Cloud providers Amazon Bedrock Google Cloud Resources Changelog Deprecations Supported countries OpenAI Crawlers Terms and policies Legacy APIs Agent Builder Overview Migration guide Node reference Safety in building agents Evals Getting started Working"
       },
       {
         "keyword": "IDE",
@@ -362,7 +362,7 @@
       },
       {
         "keyword": "GitHub",
-        "excerpt": "LS Workload identity federation Federation rules X.509 certificates Kubernetes AWS Microsoft Azure Google Cloud Oracle Cloud Infrastructure GitHub Actions SPIFFE Idira IP egress ranges Amazon Bedrock Operations Rate limits Spend limits Admin APIs Error codes Overview Plugins Sign in with ChatGPT Commerce Ads Workspace Agents ChatGPT + Codex user docs Use cases Docs Overview Home Quickstart Core concepts Plugin archit"
+        "excerpt": "LS Workload identity federation Federation rules X.509 certificates Kubernetes AWS Microsoft Azure Google Cloud Oracle Cloud Infrastructure GitHub Actions SPIFFE Idira IP egress ranges Operations Rate limits Spend limits Admin APIs Error codes Overview Plugins Sign in with ChatGPT Commerce Ads Workspace Agents ChatGPT + Codex user docs Use cases Docs Overview Home Quickstart Core concepts Plugin architecture Skills M"
       },
       {
         "keyword": "MCP",
@@ -424,7 +424,7 @@
     "title": "Codex Authentication",
     "url": "https://developers.openai.com/codex/auth",
     "type": "official",
-    "fetched_at": "20261106T062919Z",
+    "fetched_at": "20261107T055011Z",
     "status": 200,
     "error": null,
     "page_title": "Authentication | ChatGPT Learn",
@@ -459,7 +459,7 @@
       },
       {
         "keyword": "CLI",
-        "excerpt": "ation state Background mode Streaming WebSocket mode Mid-turn steering Multi-agent Webhooks File inputs Compaction Counting tokens SDKs and CLI OpenAI SDK OpenAI CLI Resources Changelog Deprecations Supported countries OpenAI Crawlers Terms and policies Legacy APIs Agent Builder Overview Migration guide Node reference Safety in building agents Evals Getting started Working with evals Prompt optimizer External models"
+        "excerpt": "ation state Background mode Streaming WebSocket mode Mid-turn steering Multi-agent Webhooks File inputs Compaction Counting tokens SDKs and CLI OpenAI SDK OpenAI CLI Cloud providers Amazon Bedrock Google Cloud Resources Changelog Deprecations Supported countries OpenAI Crawlers Terms and policies Legacy APIs Agent Builder Overview Migration guide Node reference Safety in building agents Evals Getting started Working"
       },
       {
         "keyword": "IDE",
@@ -467,7 +467,7 @@
       },
       {
         "keyword": "GitHub",
-        "excerpt": "LS Workload identity federation Federation rules X.509 certificates Kubernetes AWS Microsoft Azure Google Cloud Oracle Cloud Infrastructure GitHub Actions SPIFFE Idira IP egress ranges Amazon Bedrock Operations Rate limits Spend limits Admin APIs Error codes Overview Plugins Sign in with ChatGPT Commerce Ads Workspace Agents ChatGPT + Codex user docs Use cases Docs Overview Home Quickstart Core concepts Plugin archit"
+        "excerpt": "LS Workload identity federation Federation rules X.509 certificates Kubernetes AWS Microsoft Azure Google Cloud Oracle Cloud Infrastructure GitHub Actions SPIFFE Idira IP egress ranges Operations Rate limits Spend limits Admin APIs Error codes Overview Plugins Sign in with ChatGPT Commerce Ads Workspace Agents ChatGPT + Codex user docs Use cases Docs Overview Home Quickstart Core concepts Plugin architecture Skills M"
       },
       {
         "keyword": "MCP",
@@ -529,7 +529,7 @@
     "title": "Codex Config Reference",
     "url": "https://developers.openai.com/codex/config-reference",
     "type": "official",
-    "fetched_at": "20261106T062919Z",
+    "fetched_at": "20261107T055011Z",
     "status": 200,
     "error": null,
     "page_title": "Configuration Reference | ChatGPT Learn",
@@ -568,7 +568,7 @@
       },
       {
         "keyword": "CLI",
-        "excerpt": "ation state Background mode Streaming WebSocket mode Mid-turn steering Multi-agent Webhooks File inputs Compaction Counting tokens SDKs and CLI OpenAI SDK OpenAI CLI Resources Changelog Deprecations Supported countries OpenAI Crawlers Terms and policies Legacy APIs Agent Builder Overview Migration guide Node reference Safety in building agents Evals Getting started Working with evals Prompt optimizer External models"
+        "excerpt": "ation state Background mode Streaming WebSocket mode Mid-turn steering Multi-agent Webhooks File inputs Compaction Counting tokens SDKs and CLI OpenAI SDK OpenAI CLI Cloud providers Amazon Bedrock Google Cloud Resources Changelog Deprecations Supported countries OpenAI Crawlers Terms and policies Legacy APIs Agent Builder Overview Migration guide Node reference Safety in building agents Evals Getting started Working"
       },
       {
         "keyword": "IDE",
@@ -576,7 +576,7 @@
       },
       {
         "keyword": "GitHub",
-        "excerpt": "LS Workload identity federation Federation rules X.509 certificates Kubernetes AWS Microsoft Azure Google Cloud Oracle Cloud Infrastructure GitHub Actions SPIFFE Idira IP egress ranges Amazon Bedrock Operations Rate limits Spend limits Admin APIs Error codes Overview Plugins Sign in with ChatGPT Commerce Ads Workspace Agents ChatGPT + Codex user docs Use cases Docs Overview Home Quickstart Core concepts Plugin archit"
+        "excerpt": "LS Workload identity federation Federation rules X.509 certificates Kubernetes AWS Microsoft Azure Google Cloud Oracle Cloud Infrastructure GitHub Actions SPIFFE Idira IP egress ranges Operations Rate limits Spend limits Admin APIs Error codes Overview Plugins Sign in with ChatGPT Commerce Ads Workspace Agents ChatGPT + Codex user docs Use cases Docs Overview Home Quickstart Core concepts Plugin architecture Skills M"
       },
       {
         "keyword": "MCP",
@@ -638,7 +638,7 @@
     "title": "openai/codex Releases",
     "url": "https://github.com/openai/codex/releases",
     "type": "github",
-    "fetched_at": "20261106T062919Z",
+    "fetched_at": "20261107T055011Z",
     "status": 200,
     "error": null,
     "page_title": "Releases · openai/codex · GitHub",
@@ -665,7 +665,7 @@
       },
       {
         "keyword": "IDE",
-        "excerpt": "168.0-alpha.6 0.168.0-alpha.3 0.167.0-alpha.3.2 0.168.0-alpha.2 0.168.0-alpha.1 0.167.0-alpha.5 0.167.0-alpha.3.1 0.167.0-alpha.4 Collapse sidebar Releases --> Releases · openai/codex 0.167.0 0.167.0 Latest Latest Compare Choose a tag to compare Sorry, something went wrong. Filter Loading Sorry, something went wrong. Uh oh! There was an error while loading. Please reload this page . No results found View all tags git"
+        "excerpt": "168.0-alpha.7 0.168.0-alpha.6 0.168.0-alpha.3 0.167.0-alpha.3.2 0.168.0-alpha.2 0.168.0-alpha.1 0.167.0-alpha.5 0.167.0-alpha.3.1 Collapse sidebar Releases --> Releases · openai/codex 0.169.0-alpha.2 0.169.0-alpha.2 Pre-release Pre-release Compare Choose a tag to compare Sorry, something went wrong. Filter Loading Sorry, something went wrong. Uh oh! There was an error while loading. Please reload this page . No resul"
       },
       {
         "keyword": "GitHub",
@@ -715,7 +715,7 @@
     "title": "ChatGPT Release Notes",
     "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
     "type": "official",
-    "fetched_at": "20261106T062919Z",
+    "fetched_at": "20261107T055011Z",
     "status": 403,
     "error": "HTTP Error 403: Forbidden",
     "hits": [],
@@ -726,7 +726,7 @@
     "title": "OpenAI News",
     "url": "https://openai.com/news/",
     "type": "industry",
-    "fetched_at": "20261106T062919Z",
+    "fetched_at": "20261107T055011Z",
     "status": 403,
     "error": "HTTP Error 403: Forbidden",
     "hits": [],
@@ -737,7 +737,7 @@
     "title": "OpenAI Research",
     "url": "https://openai.com/research/",
     "type": "industry",
-    "fetched_at": "20261106T062919Z",
+    "fetched_at": "20261107T055011Z",
     "status": 403,
     "error": "HTTP Error 403: Forbidden",
     "hits": [],
@@ -748,18 +748,18 @@
     "title": "GitHub AI & ML Blog",
     "url": "https://github.blog/ai-and-ml/",
     "type": "industry",
-    "fetched_at": "20261106T062919Z",
+    "fetched_at": "20261107T055011Z",
     "status": 200,
     "error": null,
     "page_title": "The latest on AI & ML - The GitHub Blog",
     "hits": [
       {
         "keyword": "agent",
-        "excerpt": "responsible for the results. Julien Dubois · October 20, 2026 How to continue a GitHub Copilot app session in VS Code Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context. Kayla Cinnamon · October 19, 2026 GitHub’s model for secret detection: Finding more secrets with less noise GitHub’s context-aware secret classifier improves"
+        "excerpt": "oding tool, GitHub Copilot, check out GitHub&#8217;s official documentation . Featured Beyond code generation: A developer&#8217;s guide to agentic engineering Writing code got faster. The work around it didn&#8217;t. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment. Nick Liffen & Philip Holleran · November 6, 2026 How 3 J"
       },
       {
         "keyword": "agents",
-        "excerpt": "app for Beginners: How to teach Copilot about your codebase Learn how to add custom instructions and skills to your repository, use custom agents, and connect MCP servers like Playwright. Christopher Harrison · October 12, 2026 We do newsletters, too Discover tips, technical guides, and best practices in our biweekly newsletter just for devs. Your work email address Subscribe Yes please, I’d like GitHub and affiliat"
+        "excerpt": "app for Beginners: How to teach Copilot about your codebase Learn how to add custom instructions and skills to your repository, use custom agents, and connect MCP servers like Playwright. Christopher Harrison · October 12, 2026 Secret protection must scale with software Developers aren’t becoming more careless; they’re being outpaced. The tools that let developers create more software should also take on more of the"
       },
       {
         "keyword": "automation",
@@ -771,7 +771,7 @@
       },
       {
         "keyword": "CLI",
-        "excerpt": "ops feeling scary and starts feeling powerful. Kayla Cinnamon · September 3, 2026 Decoding the new AI lingo: Loops, harnesses, squads, hill climbing&#8230; oh my! From loop engineering to harnesses, squads, and open weights, the GitHub Podcast breaks down the AI terms showing up in developer conversations. Cassidy Williams · September 2, 2026 How we make AI coding more cost efficient without sacrificing task quality"
+        "excerpt": "ops feeling scary and starts feeling powerful. Kayla Cinnamon · September 3, 2026 Decoding the new AI lingo: Loops, harnesses, squads, hill climbing&#8230; oh my! From loop engineering to harnesses, squads, and open weights, the GitHub Podcast breaks down the AI terms showing up in developer conversations. Cassidy Williams · September 2, 2026 Posts pagination Page 1 Page 2 &hellip; Page 14 Next The world&#039;s large"
       },
       {
         "keyword": "IDE",
@@ -783,7 +783,7 @@
       },
       {
         "keyword": "MCP",
-        "excerpt": "How to teach Copilot about your codebase Learn how to add custom instructions and skills to your repository, use custom agents, and connect MCP servers like Playwright. Christopher Harrison · October 12, 2026 We do newsletters, too Discover tips, technical guides, and best practices in our biweekly newsletter just for devs. Your work email address Subscribe Yes please, I’d like GitHub and affiliates to use my informa"
+        "excerpt": "How to teach Copilot about your codebase Learn how to add custom instructions and skills to your repository, use custom agents, and connect MCP servers like Playwright. Christopher Harrison · October 12, 2026 Secret protection must scale with software Developers aren’t becoming more careless; they’re being outpaced. The tools that let developers create more software should also take on more of the work of protecting"
       },
       {
         "keyword": "skills",
@@ -791,7 +791,7 @@
       },
       {
         "keyword": "model",
-        "excerpt": "tHub Copilot app into VS Code without losing the conversation, code changes, or working context. Kayla Cinnamon · October 19, 2026 GitHub’s model for secret detection: Finding more secrets with less noise GitHub’s context-aware secret classifier improves detection quality, raises weighted acceptance by 11.5%, and reduces median scan execution time by 86%. Batu Ozturkler & Shengyu Fu · October 13, 2026 GitHub Copilot"
+        "excerpt": "tHub Copilot app into VS Code without losing the conversation, code changes, or working context. Kayla Cinnamon · October 19, 2026 GitHub’s model for secret detection: Finding more secrets with less noise GitHub’s context-aware secret classifier improves detection quality, raises weighted acceptance by 11.5%, and reduces median scan execution time by 86%. Batu Ozturkler & Shengyu Fu · October 13, 2026 We do newslette"
       },
       {
         "keyword": "developer",
@@ -809,18 +809,18 @@
     "title": "GitHub Changelog",
     "url": "https://github.blog/changelog/",
     "type": "industry",
-    "fetched_at": "20261106T062919Z",
+    "fetched_at": "20261107T055011Z",
     "status": 200,
     "error": null,
     "page_title": "GitHub Changelog",
     "hits": [
       {
         "keyword": "agent",
-        "excerpt": "n the Copilot usage API account management copilot enterprise management tools ... +2 Nov.03 Improvement Dependabot version updates support Agent Package Manager supply chain security Nov.03 Release Look up a resource&#8217;s cost center with the GitHub REST API account management enterprise management tools ... +1 Nov.03 Release GitHub Copilot is now available in JetBrains Air copilot Nov.03 Improvement CodeQL 2.27."
+        "excerpt": "t Copilot code review: API management and review overview updates copilot Nov.06 Improvement Copilot impact dashboard adds chat and VS Code agent usage account management copilot enterprise management tools ... +2 Nov.06 Release GitHub Copilot weekly releases — November 2 copilot Nov.06 Release @GitHub in Slack and Teams is generally available and more client apps copilot ... +1 Nov.05 Improvement Usage metrics API a"
       },
       {
         "keyword": "CLI",
-        "excerpt": "vements Retired Filters ( 0 selected ) Clear all Filters ( 0 selected ) Match: Any All Tags Account management Actions Application Security Client apps Collaboration tools Community engagement Copilot Ecosystem & accessibility Enterprise management tools Platform governance Projects & Issues Supply chain security Universe ‘26 Clear all Apply November Nov 2026 November Nov 2026 Nov.05 Improvement Usage metrics API add"
+        "excerpt": "vements Retired Filters ( 0 selected ) Clear all Filters ( 0 selected ) Match: Any All Tags Account management Actions Application Security Client apps Collaboration tools Community engagement Copilot Ecosystem & accessibility Enterprise management tools Platform governance Projects & Issues Supply chain security Universe ‘26 Clear all Apply November Nov 2026 November Nov 2026 Nov.06 Improvement Copilot code review:"
       },
       {
         "keyword": "IDE",
@@ -847,14 +847,14 @@
         "excerpt": "on security Nov.03 Improvement Dependabot now supports Python 3.15 supply chain security Nov.02 Improvement GitHub Desktop adds short-lived authentication tokens account management application security client apps ... +2 Nov.02 Improvement Security risk assessments include repository protection status application security Nov.02 Retired pull_request_target blocked by default December 2 actions application security .."
       }
     ],
-    "text_sample": "GitHub Changelog Skip to content / Blog Changelog Docs Customer stories Try GitHub Copilot app See what&#039;s new Search Changelog Docs Customer stories See what&#039;s new Try GitHub Copilot app Back to blog Changelog Copy RSS feed URL Follow @ghchangelog on X All New Releases Improvements Retired Filters ( 0 selected ) Clear all Filters ( 0 selected ) Match: Any All Tags Account management Actions Application Security Client apps Collaboration tools Community engagement Copilot Ecosystem & accessibility Enterprise management tools Platform governance Projects & Issues Supply chain security Universe ‘26 Clear all Apply November Nov 2026 November Nov 2026 Nov.05 Improvement Usage metrics API adds code review details and addressed rate account management copilot enterprise management tools ... +2 Nov.05 Improvement Usage metrics API flags telemetry and version gaps account management copilot enterprise management tools ... +2 Nov.05 Improvement Secret scanning upgrades detectors, adds SpaceX as partner application security Nov.05 Release New pull request overview page in public preview collaboration tools Nov.04 Improvement CodeQL 2.27.4 improves accuracy and query metadata application security Nov.04 Release GitHub Copilot is now available in Xcode&#8217;s coding assistant copilot Nov.03 Improvement BYOK and enterprise custom models in the Copilot usage API account management "
+    "text_sample": "GitHub Changelog Skip to content / Blog Changelog Docs Customer stories Try GitHub Copilot app See what&#039;s new Search Changelog Docs Customer stories See what&#039;s new Try GitHub Copilot app Back to blog Changelog Copy RSS feed URL Follow @ghchangelog on X All New Releases Improvements Retired Filters ( 0 selected ) Clear all Filters ( 0 selected ) Match: Any All Tags Account management Actions Application Security Client apps Collaboration tools Community engagement Copilot Ecosystem & accessibility Enterprise management tools Platform governance Projects & Issues Supply chain security Universe ‘26 Clear all Apply November Nov 2026 November Nov 2026 Nov.06 Improvement Copilot code review: API management and review overview updates copilot Nov.06 Improvement Copilot impact dashboard adds chat and VS Code agent usage account management copilot enterprise management tools ... +2 Nov.06 Release GitHub Copilot weekly releases — November 2 copilot Nov.06 Release @GitHub in Slack and Teams is generally available and more client apps copilot ... +1 Nov.05 Improvement Usage metrics API adds code review details and addressed rate account management copilot enterprise management tools ... +2 Nov.05 Improvement Usage metrics API flags telemetry and version gaps account management copilot enterprise management tools ... +2 Nov.05 Improvement Secret scanning upgrades detectors, adds S"
   },
   {
     "id": "anthropic_news",
     "title": "Anthropic News",
     "url": "https://www.anthropic.com/news",
     "type": "industry",
-    "fetched_at": "20261106T062919Z",
+    "fetched_at": "20261107T055011Z",
     "status": 200,
     "error": null,
     "page_title": "Newsroom \\ Anthropic",
@@ -865,7 +865,7 @@
       },
       {
         "keyword": "agent",
-        "excerpt": "tments Company Try Claude News Latest news November 6, 2026 Announcements Sep 22, 2026 Introducing Claude Opus 5.5 Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads. Announcements Oct 18, 2026 Investing in the public benefit We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that incr"
+        "excerpt": "tments Company Try Claude News Latest news November 7, 2026 Announcements Sep 22, 2026 Introducing Claude Opus 5.5 Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads. Announcements Oct 18, 2026 Investing in the public benefit We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that incr"
       },
       {
         "keyword": "agents",
@@ -901,21 +901,21 @@
       },
       {
         "keyword": "Claude",
-        "excerpt": "Newsroom \\ Anthropic Skip to main content News Research Policy Commitments Company Try Claude News Latest news November 6, 2026 Announcements Sep 22, 2026 Introducing Claude Opus 5.5 Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads. Announcements Oct 18, 2026 Investing in the public benefit We’re"
+        "excerpt": "Newsroom \\ Anthropic Skip to main content News Research Policy Commitments Company Try Claude News Latest news November 7, 2026 Announcements Sep 22, 2026 Introducing Claude Opus 5.5 Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads. Announcements Oct 18, 2026 Investing in the public benefit We’re"
       },
       {
         "keyword": "workflow",
         "excerpt": "ing Agent Skills to the Agentic AI Foundation We’re donating Agent Skills, the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation. More than 70 agent platforms, including ChatGPT, Cursor, GitHub Copilot, and VS Code, have integrated Agent Skills since we published the standard in December 2025. Product Oct 22, 2026 Oct 22, 2026 Product Donating Agent Skills to the Age"
       }
     ],
-    "text_sample": "Newsroom \\ Anthropic Skip to main content News Research Policy Commitments Company Try Claude News Latest news November 6, 2026 Announcements Sep 22, 2026 Introducing Claude Opus 5.5 Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads. Announcements Oct 18, 2026 Investing in the public benefit We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows. Announcements Oct 26, 2026 Anthropic files S-1 with the SEC for proposed initial public offering Today, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock. Science Oct 27, 2026 Early progress on accelerating drug development with Claude We&#x27;re at the start of a major effort to speed up drug development with Claude. Over the past several months, our scientists have engaged in deep research partnerships with six organizations developing new medicines. Announcements Oct 7, 2026 Introducing Claude Haiku 5.5 Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use. Announcements Sep 28, 2026 Introducing Claude Sonnet 5.5 Claude Sonnet 5.5 is a clear upgrade "
+    "text_sample": "Newsroom \\ Anthropic Skip to main content News Research Policy Commitments Company Try Claude News Latest news November 7, 2026 Announcements Sep 22, 2026 Introducing Claude Opus 5.5 Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads. Announcements Oct 18, 2026 Investing in the public benefit We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows. Announcements Oct 26, 2026 Anthropic files S-1 with the SEC for proposed initial public offering Today, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock. Science Oct 27, 2026 Early progress on accelerating drug development with Claude We&#x27;re at the start of a major effort to speed up drug development with Claude. Over the past several months, our scientists have engaged in deep research partnerships with six organizations developing new medicines. Announcements Oct 7, 2026 Introducing Claude Haiku 5.5 Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use. Announcements Sep 28, 2026 Introducing Claude Sonnet 5.5 Claude Sonnet 5.5 is a clear upgrade "
   },
   {
     "id": "google_ai_developers",
     "title": "Google AI Developers Blog",
     "url": "https://developers.googleblog.com/en/search/?query=Gemini",
     "type": "industry",
-    "fetched_at": "20261106T062919Z",
+    "fetched_at": "20261107T055011Z",
     "status": 200,
     "error": null,
     "page_title": "Search - Google Developers Blog",
