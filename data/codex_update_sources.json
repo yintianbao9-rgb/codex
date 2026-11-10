@@ -4,7 +4,7 @@
     "title": "Codex Changelog",
     "url": "https://developers.openai.com/codex/changelog",
     "type": "official",
-    "fetched_at": "20261109T060951Z",
+    "fetched_at": "20261110T070735Z",
     "status": 200,
     "error": null,
     "page_title": "ChatGPT & Codex changelog | ChatGPT Learn",
@@ -91,7 +91,7 @@
       },
       {
         "keyword": "image generation",
-        "excerpt": "tend prompting Reasoning Reasoning models Preserved reasoning Reasoning best practices Images Images and vision Image input cost calculator Image generation Overview Image prompting Realtime and audio Audio and speech Getting started Voice agents Specialized models Embeddings Moderation Overview Agents API Overview Quickstart Architecture Configuring Agents Sessions Run and continue sessions Events and items Manage s"
+        "excerpt": "ompt generation Frontend prompting Reasoning Reasoning models Reasoning best practices Images Images and vision Image input cost calculator Image generation Overview Image prompting Realtime and audio Audio and speech Getting started Voice agents Specialized models Embeddings Moderation Overview Agents API Overview Quickstart Architecture Configuring Agents Sessions Run and continue sessions Events and items Manage s"
       },
       {
         "keyword": "config",
@@ -109,7 +109,7 @@
     "title": "Codex App",
     "url": "https://developers.openai.com/codex/app",
     "type": "official",
-    "fetched_at": "20261109T060951Z",
+    "fetched_at": "20261110T070735Z",
     "status": 200,
     "error": null,
     "page_title": "ChatGPT desktop app | ChatGPT Learn",
@@ -196,7 +196,7 @@
       },
       {
         "keyword": "image generation",
-        "excerpt": "tend prompting Reasoning Reasoning models Preserved reasoning Reasoning best practices Images Images and vision Image input cost calculator Image generation Overview Image prompting Realtime and audio Audio and speech Getting started Voice agents Specialized models Embeddings Moderation Overview Agents API Overview Quickstart Architecture Configuring Agents Sessions Run and continue sessions Events and items Manage s"
+        "excerpt": "ompt generation Frontend prompting Reasoning Reasoning models Reasoning best practices Images Images and vision Image input cost calculator Image generation Overview Image prompting Realtime and audio Audio and speech Getting started Voice agents Specialized models Embeddings Moderation Overview Agents API Overview Quickstart Architecture Configuring Agents Sessions Run and continue sessions Events and items Manage s"
       },
       {
         "keyword": "config",
@@ -214,7 +214,7 @@
     "title": "Codex CLI",
     "url": "https://developers.openai.com/codex/cli",
     "type": "official",
-    "fetched_at": "20261109T060951Z",
+    "fetched_at": "20261110T070735Z",
     "status": 200,
     "error": null,
     "page_title": "Codex CLI | ChatGPT Learn",
@@ -301,7 +301,7 @@
       },
       {
         "keyword": "image generation",
-        "excerpt": "tend prompting Reasoning Reasoning models Preserved reasoning Reasoning best practices Images Images and vision Image input cost calculator Image generation Overview Image prompting Realtime and audio Audio and speech Getting started Voice agents Specialized models Embeddings Moderation Overview Agents API Overview Quickstart Architecture Configuring Agents Sessions Run and continue sessions Events and items Manage s"
+        "excerpt": "ompt generation Frontend prompting Reasoning Reasoning models Reasoning best practices Images Images and vision Image input cost calculator Image generation Overview Image prompting Realtime and audio Audio and speech Getting started Voice agents Specialized models Embeddings Moderation Overview Agents API Overview Quickstart Architecture Configuring Agents Sessions Run and continue sessions Events and items Manage s"
       },
       {
         "keyword": "config",
@@ -319,7 +319,7 @@
     "title": "Codex IDE",
     "url": "https://developers.openai.com/codex/ide",
     "type": "official",
-    "fetched_at": "20261109T060951Z",
+    "fetched_at": "20261110T070735Z",
     "status": 200,
     "error": null,
     "page_title": "Codex IDE extension | ChatGPT Learn",
@@ -406,7 +406,7 @@
       },
       {
         "keyword": "image generation",
-        "excerpt": "tend prompting Reasoning Reasoning models Preserved reasoning Reasoning best practices Images Images and vision Image input cost calculator Image generation Overview Image prompting Realtime and audio Audio and speech Getting started Voice agents Specialized models Embeddings Moderation Overview Agents API Overview Quickstart Architecture Configuring Agents Sessions Run and continue sessions Events and items Manage s"
+        "excerpt": "ompt generation Frontend prompting Reasoning Reasoning models Reasoning best practices Images Images and vision Image input cost calculator Image generation Overview Image prompting Realtime and audio Audio and speech Getting started Voice agents Specialized models Embeddings Moderation Overview Agents API Overview Quickstart Architecture Configuring Agents Sessions Run and continue sessions Events and items Manage s"
       },
       {
         "keyword": "config",
@@ -424,7 +424,7 @@
     "title": "Codex Authentication",
     "url": "https://developers.openai.com/codex/auth",
     "type": "official",
-    "fetched_at": "20261109T060951Z",
+    "fetched_at": "20261110T070735Z",
     "status": 200,
     "error": null,
     "page_title": "Authentication | ChatGPT Learn",
@@ -511,7 +511,7 @@
       },
       {
         "keyword": "image generation",
-        "excerpt": "tend prompting Reasoning Reasoning models Preserved reasoning Reasoning best practices Images Images and vision Image input cost calculator Image generation Overview Image prompting Realtime and audio Audio and speech Getting started Voice agents Specialized models Embeddings Moderation Overview Agents API Overview Quickstart Architecture Configuring Agents Sessions Run and continue sessions Events and items Manage s"
+        "excerpt": "ompt generation Frontend prompting Reasoning Reasoning models Reasoning best practices Images Images and vision Image input cost calculator Image generation Overview Image prompting Realtime and audio Audio and speech Getting started Voice agents Specialized models Embeddings Moderation Overview Agents API Overview Quickstart Architecture Configuring Agents Sessions Run and continue sessions Events and items Manage s"
       },
       {
         "keyword": "config",
@@ -529,7 +529,7 @@
     "title": "Codex Config Reference",
     "url": "https://developers.openai.com/codex/config-reference",
     "type": "official",
-    "fetched_at": "20261109T060951Z",
+    "fetched_at": "20261110T070735Z",
     "status": 200,
     "error": null,
     "page_title": "Configuration Reference | ChatGPT Learn",
@@ -620,7 +620,7 @@
       },
       {
         "keyword": "image generation",
-        "excerpt": "tend prompting Reasoning Reasoning models Preserved reasoning Reasoning best practices Images Images and vision Image input cost calculator Image generation Overview Image prompting Realtime and audio Audio and speech Getting started Voice agents Specialized models Embeddings Moderation Overview Agents API Overview Quickstart Architecture Configuring Agents Sessions Run and continue sessions Events and items Manage s"
+        "excerpt": "ompt generation Frontend prompting Reasoning Reasoning models Reasoning best practices Images Images and vision Image input cost calculator Image generation Overview Image prompting Realtime and audio Audio and speech Getting started Voice agents Specialized models Embeddings Moderation Overview Agents API Overview Quickstart Architecture Configuring Agents Sessions Run and continue sessions Events and items Manage s"
       },
       {
         "keyword": "config",
@@ -638,18 +638,84 @@
     "title": "openai/codex Releases",
     "url": "https://github.com/openai/codex/releases",
     "type": "github",
-    "fetched_at": "20261109T060951Z",
-    "status": 504,
-    "error": "HTTP Error 504: Gateway Time-out",
-    "hits": [],
-    "text_sample": ""
+    "fetched_at": "20261110T070735Z",
+    "status": 200,
+    "error": null,
+    "page_title": "Releases · openai/codex · GitHub",
+    "hits": [
+      {
+        "keyword": "Codex",
+        "excerpt": "Releases · openai/codex · GitHub Skip to content Navigation Menu Sign in Products Platform GitHub Repository hosting, code review, and collaboration Copilot AI coding agent for tasks, projects, and automated work Build & Ship Actions CI/CD and automation Code Quality Quality analysis, fixes, and e"
+      },
+      {
+        "keyword": "agent",
+        "excerpt": "itHub Skip to content Navigation Menu Sign in Products Platform GitHub Repository hosting, code review, and collaboration Copilot AI coding agent for tasks, projects, and automated work Build & Ship Actions CI/CD and automation Code Quality Quality analysis, fixes, and enforcement Codespaces Cloud development environments Secure Code Security Vulnerability detection and remediation Secret Protection Secret scanning a"
+      },
+      {
+        "keyword": "agents",
+        "excerpt": "s found View all tags github-actions released this 06 Nov 01:40 rust-v0.167.0 086ccc8 New Features Open the agent command center with codex agents --no-daemon . The command center and session picker now mark unread results ( #58238 , #58239 , #58263 , #58264 ). Switch between connected backends from the terminal session picker and keep your drafts when switching ( #58280 , #58457 ). Preview local image attachments wh"
+      },
+      {
+        "keyword": "automation",
+        "excerpt": "tory hosting, code review, and collaboration Copilot AI coding agent for tasks, projects, and automated work Build & Ship Actions CI/CD and automation Code Quality Quality analysis, fixes, and enforcement Codespaces Cloud development environments Secure Code Security Vulnerability detection and remediation Secret Protection Secret scanning and leak prevention All Features Developers Learn Documentation Training Certi"
+      },
+      {
+        "keyword": "CLI",
+        "excerpt": "en switching ( #58280 , #58457 ). Preview local image attachments while composing on supported terminals, and open viewed local images from clickable transcript paths ( #58261 , #58446 ). Find API key and cloud provider options under “Sign in another way.” Enable gcp_setup_wizard to set up Google Cloud Vertex AI with Application Default Credentials or a credential file ( #57857 , #58427 ). Opt into macOS or Windows s"
+      },
+      {
+        "keyword": "IDE",
+        "excerpt": "pha.6 0.167.0-alpha.4.1 0.169.0-alpha.3 0.169.0-alpha.2 0.167.0 0.168.0-alpha.7 0.168.0-alpha.6 0.168.0-alpha.3 0.167.0-alpha.3.2 Collapse sidebar Releases --> Releases · openai/codex 0.169.0-alpha.7 0.169.0-alpha.7 Pre-release Pre-release Compare Choose a tag to compare Sorry, something went wrong. Filter Loading Sorry, something went wrong. Uh oh! There was an error while loading. Please reload this page . No resul"
+      },
+      {
+        "keyword": "GitHub",
+        "excerpt": "Releases · openai/codex · GitHub Skip to content Navigation Menu Sign in Products Platform GitHub Repository hosting, code review, and collaboration Copilot AI coding agent for tasks, projects, and automated work Build & Ship Actions CI/CD and automation Code Quality Quality analysis, fixes, and enforceme"
+      },
+      {
+        "keyword": "MCP",
+        "excerpt": "imations @joesavona #57970 Add an experimental UI tree renderer for the status line @joesavona #57974 Apply session plugin overrides during MCP config refresh @TAFOYA-OAI #57978 Add per-chat leases for shared MCP connections @charliemarsh-oai #57985 Skip read-only volume-root expansion in the MXC sandbox @iceweasel-oai #58013 Fix argument comment lint tests after rust-clippy branch rename @seanh-oai #58025 Add trace-"
+      },
+      {
+        "keyword": "plugins",
+        "excerpt": "ering @seanh-oai #57850 Wire bounded output collection into the code mode runtime @seanh-oai #57855 Load TUI plugin mentions from installed plugins @zamoshchin-openai #57857 Add Google Cloud Vertex AI setup to TUI onboarding @alexsong-oai #57859 Extend the provider OAuth sign-in timeout to ten minutes @smurching-oai #57861 Skip resource template discovery for hosted Apps @khong-oai #57862 Keep resume picker paginatio"
+      },
+      {
+        "keyword": "skills",
+        "excerpt": "rtup help @imac-oai #58129 Persist subagent relationships before creating child storage @radai-oai #58130 Support pasted search text in the skills toggle view @xma-oai #58134 Prefer documented replacements for deprecation-driven model migrations @kkahadze-oai #58140 Route standalone web search through the thread's workspace context @sgarg-oai #58144 Record additional context counts, sizes, and truncation metrics @aki"
+      },
+      {
+        "keyword": "memory",
+        "excerpt": "now reference the Cargo packages shipped with the release ( #58717 , #58757 ). Linux musl builds use fewer allocator arenas to reduce idle memory after conversations unload ( #58399 ). Changelog Full Changelog: rust-v0.166.0...rust-v0.167.0 #57848 Add bounded Code Mode output collection and rendering @seanh-oai #57850 Wire bounded output collection into the code mode runtime @seanh-oai #57855 Load TUI plugin mention"
+      },
+      {
+        "keyword": "model",
+        "excerpt": "d patch details directly in the transcript while an approval prompt is open ( #58281 ). Bug Fixes Saved chats stay visible after you switch model providers. If a chat can’t resume, you can read its transcript and prepare an editable prompt to continue in a new chat ( #58202 ). Ctrl+L clears the terminal display while keeping earlier messages available through Ctrl+T ( #58266 ). Deleting text that exposes a leading !"
+      },
+      {
+        "keyword": "release",
+        "excerpt": "Releases · openai/codex · GitHub Skip to content Navigation Menu Sign in Products Platform GitHub Repository hosting, code review, and collaboration Copilot AI coding agent for tasks, projects, and automated work Build & Ship Actions CI/CD and automation Code Quality Quality anal"
+      },
+      {
+        "keyword": "developer",
+        "excerpt": "nvironments Secure Code Security Vulnerability detection and remediation Secret Protection Secret scanning and leak prevention All Features Developers Learn Documentation Training Certifications Build Build with Copilot Customize Copilot Integrations Explore Trending repos GitHub Sponsors Developer articles Changelog Changelog Your source for the latest features, improvements, and fixes across GitHub products, all in"
+      },
+      {
+        "keyword": "config",
+        "excerpt": "nsul47-oai #57870 Enable server-side output truncation for Code Mode sessions @seanh-oai #57876 Reuse the cached runtime keymap for default configuration @bc-openai #57883 Preserve status-line hyperlinks through footer layout and animations @joesavona #57970 Add an experimental UI tree renderer for the status line @joesavona #57974 Apply session plugin overrides during MCP config refresh @TAFOYA-OAI #57978 Add per-ch"
+      },
+      {
+        "keyword": "authentication",
+        "excerpt": "@charliemarsh-oai #58352 Allow Apps catalog discovery before the initial tool inventory completes @bkotsopoulos #58355 Fix remote executor authentication timeout recovery @jif-oai #58357 Extract pre-tool-use hook handling into a helper @swastik-oai #58361 Preserve model metadata origin through runtime resolution @ioanbudea-OAI #58368 Apply PreToolUse hooks before direct Guardian review policy checks @swastik-oai #58"
+      }
+    ],
+    "text_sample": "Releases · openai/codex · GitHub Skip to content Navigation Menu Sign in Products Platform GitHub Repository hosting, code review, and collaboration Copilot AI coding agent for tasks, projects, and automated work Build & Ship Actions CI/CD and automation Code Quality Quality analysis, fixes, and enforcement Codespaces Cloud development environments Secure Code Security Vulnerability detection and remediation Secret Protection Secret scanning and leak prevention All Features Developers Learn Documentation Training Certifications Build Build with Copilot Customize Copilot Integrations Explore Trending repos GitHub Sponsors Developer articles Changelog Changelog Your source for the latest features, improvements, and fixes across GitHub products, all in one place. Businesses By Stage Enterprises Team Startups Nonprofits By Industry Healthcare Financial services Manufacturing Government See all industries Evaluate GitHub Why GitHub Customer Stories Business insights Trust Center Add-ons GitHub Advanced Security Enterprise-grade code security Copilot for business Enterprise-grade AI features Premium Support Enterprise-grade 24/7 support Resources Learn & Connect Documentation Resource center Blog Events & webinars Community Forum Customer Stories Integrations Support Customer support Training GitHub Status Company About Partners Changelog GitHub Universe GitHub Universe The event for"
   },
   {
     "id": "chatgpt_release_notes",
     "title": "ChatGPT Release Notes",
     "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
     "type": "official",
-    "fetched_at": "20261109T060951Z",
+    "fetched_at": "20261110T070735Z",
     "status": 403,
     "error": "HTTP Error 403: Forbidden",
     "hits": [],
@@ -660,7 +726,7 @@
     "title": "OpenAI News",
     "url": "https://openai.com/news/",
     "type": "industry",
-    "fetched_at": "20261109T060951Z",
+    "fetched_at": "20261110T070735Z",
     "status": 403,
     "error": "HTTP Error 403: Forbidden",
     "hits": [],
@@ -671,7 +737,7 @@
     "title": "OpenAI Research",
     "url": "https://openai.com/research/",
     "type": "industry",
-    "fetched_at": "20261109T060951Z",
+    "fetched_at": "20261110T070735Z",
     "status": 403,
     "error": "HTTP Error 403: Forbidden",
     "hits": [],
@@ -682,7 +748,7 @@
     "title": "GitHub AI & ML Blog",
     "url": "https://github.blog/ai-and-ml/",
     "type": "industry",
-    "fetched_at": "20261109T060951Z",
+    "fetched_at": "20261110T070735Z",
     "status": 200,
     "error": null,
     "page_title": "The latest on AI & ML - The GitHub Blog",
@@ -743,7 +809,7 @@
     "title": "GitHub Changelog",
     "url": "https://github.blog/changelog/",
     "type": "industry",
-    "fetched_at": "20261109T060951Z",
+    "fetched_at": "20261110T070735Z",
     "status": 200,
     "error": null,
     "page_title": "GitHub Changelog",
@@ -754,7 +820,7 @@
       },
       {
         "keyword": "CLI",
-        "excerpt": "vements Retired Filters ( 0 selected ) Clear all Filters ( 0 selected ) Match: Any All Tags Account management Actions Application Security Client apps Collaboration tools Community engagement Copilot Ecosystem & accessibility Enterprise management tools Platform governance Projects & Issues Supply chain security Universe ‘26 Clear all Apply November Nov 2026 November Nov 2026 Nov.06 Improvement Copilot code review:"
+        "excerpt": "vements Retired Filters ( 0 selected ) Clear all Filters ( 0 selected ) Match: Any All Tags Account management Actions Application Security Client apps Collaboration tools Community engagement Copilot Ecosystem & accessibility Enterprise management tools Platform governance Projects & Issues Supply chain security Universe ‘26 Clear all Apply November Nov 2026 November Nov 2026 Nov.09 Release Claude Fable 5.2 in GitHu"
       },
       {
         "keyword": "IDE",
@@ -777,18 +843,26 @@
         "excerpt": "b 2026 February Feb 2026 January Jan 2026 January Jan 2026 Pagination Prev 2026 2025 2024 ... 2018 2026 2025 ... 2018 Next Subscribe to our developer newsletter Discover tips, technical guides, and best practices in our biweekly newsletter just for devs. Enter your email * Subscribe By submitting, I agree to let GitHub and its affiliates use my information for personalized communications, targeted advertising, and ca"
       },
       {
+        "keyword": "Claude",
+        "excerpt": "Platform governance Projects & Issues Supply chain security Universe ‘26 Clear all Apply November Nov 2026 November Nov 2026 Nov.09 Release Claude Fable 5.2 in GitHub Copilot copilot Nov.09 Improvement Secret scanning detects secrets in GitHub Actions workflow logs application security Nov.06 Improvement Copilot code review: API management and review overview updates copilot Nov.06 Improvement Copilot impact dashboar"
+      },
+      {
+        "keyword": "workflow",
+        "excerpt": "ber Nov 2026 Nov.09 Release Claude Fable 5.2 in GitHub Copilot copilot Nov.09 Improvement Secret scanning detects secrets in GitHub Actions workflow logs application security Nov.06 Improvement Copilot code review: API management and review overview updates copilot Nov.06 Improvement Copilot impact dashboard adds chat and VS Code agent usage account management copilot enterprise management tools ... +2 Nov.06 Release"
+      },
+      {
         "keyword": "authentication",
         "excerpt": "on security Nov.03 Improvement Dependabot now supports Python 3.15 supply chain security Nov.02 Improvement GitHub Desktop adds short-lived authentication tokens account management application security client apps ... +2 Nov.02 Improvement Security risk assessments include repository protection status application security Nov.02 Retired pull_request_target blocked by default December 2 actions application security .."
       }
     ],
-    "text_sample": "GitHub Changelog Skip to content / Blog Changelog Docs Customer stories Try GitHub Copilot app See what&#039;s new Search Changelog Docs Customer stories See what&#039;s new Try GitHub Copilot app Back to blog Changelog Copy RSS feed URL Follow @ghchangelog on X All New Releases Improvements Retired Filters ( 0 selected ) Clear all Filters ( 0 selected ) Match: Any All Tags Account management Actions Application Security Client apps Collaboration tools Community engagement Copilot Ecosystem & accessibility Enterprise management tools Platform governance Projects & Issues Supply chain security Universe ‘26 Clear all Apply November Nov 2026 November Nov 2026 Nov.06 Improvement Copilot code review: API management and review overview updates copilot Nov.06 Improvement Copilot impact dashboard adds chat and VS Code agent usage account management copilot enterprise management tools ... +2 Nov.06 Release GitHub Copilot weekly releases — November 2 copilot Nov.06 Release @GitHub in Slack and Teams is generally available and more client apps copilot ... +1 Nov.05 Improvement Usage metrics API adds code review details and addressed rate account management copilot enterprise management tools ... +2 Nov.05 Improvement Usage metrics API flags telemetry and version gaps account management copilot enterprise management tools ... +2 Nov.05 Improvement Secret scanning upgrades detectors, adds S"
+    "text_sample": "GitHub Changelog Skip to content / Blog Changelog Docs Customer stories Try GitHub Copilot app See what&#039;s new Search Changelog Docs Customer stories See what&#039;s new Try GitHub Copilot app Back to blog Changelog Copy RSS feed URL Follow @ghchangelog on X All New Releases Improvements Retired Filters ( 0 selected ) Clear all Filters ( 0 selected ) Match: Any All Tags Account management Actions Application Security Client apps Collaboration tools Community engagement Copilot Ecosystem & accessibility Enterprise management tools Platform governance Projects & Issues Supply chain security Universe ‘26 Clear all Apply November Nov 2026 November Nov 2026 Nov.09 Release Claude Fable 5.2 in GitHub Copilot copilot Nov.09 Improvement Secret scanning detects secrets in GitHub Actions workflow logs application security Nov.06 Improvement Copilot code review: API management and review overview updates copilot Nov.06 Improvement Copilot impact dashboard adds chat and VS Code agent usage account management copilot enterprise management tools ... +2 Nov.06 Release GitHub Copilot weekly releases — November 2 copilot Nov.06 Release @GitHub in Slack and Teams is generally available and more client apps copilot ... +1 Nov.05 Improvement Usage metrics API adds code review details and addressed rate account management copilot enterprise management tools ... +2 Nov.05 Improvement Usage metric"
   },
   {
     "id": "anthropic_news",
     "title": "Anthropic News",
     "url": "https://www.anthropic.com/news",
     "type": "industry",
-    "fetched_at": "20261109T060951Z",
+    "fetched_at": "20261110T070735Z",
     "status": 200,
     "error": null,
     "page_title": "Newsroom \\ Anthropic",
@@ -799,15 +873,15 @@
       },
       {
         "keyword": "agent",
-        "excerpt": "tments Company Try Claude News Latest news November 9, 2026 Announcements Sep 22, 2026 Introducing Claude Opus 5.5 Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads. Announcements Oct 18, 2026 Investing in the public benefit We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that incr"
+        "excerpt": "6 Introducing Claude Haiku 5.5 Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use. Announcements Sep 22, 2026 Introducing Claude Opus 5.5 Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads. Features Features Sep 21, 2026 The Situation Report A rare Ebola strain is sprea"
       },
       {
         "keyword": "agents",
-        "excerpt": "6 Introducing Claude Haiku 5.5 Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use. Announcements Sep 28, 2026 Introducing Claude Sonnet 5.5 Claude Sonnet 5.5 is a clear upgrade over Claude Sonnet 5, runs 30%+ faster, and costs up to 30% less for most work. Features Features Sep 21, 2026 The Situation Report A rare Ebola strain is spread"
+        "excerpt": "6 Introducing Claude Haiku 5.5 Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use. Announcements Sep 22, 2026 Introducing Claude Opus 5.5 Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads. Features Features Sep 21, 2026 The Situation Report A rare Ebola strain is sprea"
       },
       {
         "keyword": "browser",
-        "excerpt": "g Claude Haiku 5.5 Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use. Announcements Sep 28, 2026 Introducing Claude Sonnet 5.5 Claude Sonnet 5.5 is a clear upgrade over Claude Sonnet 5, runs 30%+ faster, and costs up to 30% less for most work. Features Features Sep 21, 2026 The Situation Report A rare Ebola strain is spreading in the D"
+        "excerpt": "g Claude Haiku 5.5 Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use. Announcements Sep 22, 2026 Introducing Claude Opus 5.5 Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads. Features Features Sep 21, 2026 The Situation Report A rare Ebola strain is spreading in the"
       },
       {
         "keyword": "CLI",
@@ -827,7 +901,7 @@
       },
       {
         "keyword": "model",
-        "excerpt": "ations developing new medicines. Announcements Oct 7, 2026 Introducing Claude Haiku 5.5 Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use. Announcements Sep 28, 2026 Introducing Claude Sonnet 5.5 Claude Sonnet 5.5 is a clear upgrade over Claude Sonnet 5, runs 30%+ faster, and costs up to 30% less for most work. Features Features Sep 21"
+        "excerpt": "Try Claude News Latest news November 10, 2026 Announcements Nov 9, 2026 Introducing Claude Fable 5.2 and Claude Mythos 5.2 Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences. Announcements Oct 18, 2026 Investing in the public benefit We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new e"
       },
       {
         "keyword": "developer",
@@ -835,21 +909,21 @@
       },
       {
         "keyword": "Claude",
-        "excerpt": "Newsroom \\ Anthropic Skip to main content News Research Policy Commitments Company Try Claude News Latest news November 9, 2026 Announcements Sep 22, 2026 Introducing Claude Opus 5.5 Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads. Announcements Oct 18, 2026 Investing in the public benefit We’re"
+        "excerpt": "Newsroom \\ Anthropic Skip to main content News Research Policy Commitments Company Try Claude News Latest news November 10, 2026 Announcements Nov 9, 2026 Introducing Claude Fable 5.2 and Claude Mythos 5.2 Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences. Announcements Oct"
       },
       {
         "keyword": "workflow",
         "excerpt": "ing Agent Skills to the Agentic AI Foundation We’re donating Agent Skills, the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation. More than 70 agent platforms, including ChatGPT, Cursor, GitHub Copilot, and VS Code, have integrated Agent Skills since we published the standard in December 2025. Product Oct 22, 2026 Oct 22, 2026 Product Donating Agent Skills to the Age"
       }
     ],
-    "text_sample": "Newsroom \\ Anthropic Skip to main content News Research Policy Commitments Company Try Claude News Latest news November 9, 2026 Announcements Sep 22, 2026 Introducing Claude Opus 5.5 Claude Opus 5.5 leads in agentic coding and knowledge work, and costs 40% less to run than Opus 5 on typical workloads. Announcements Oct 18, 2026 Investing in the public benefit We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows. Announcements Oct 26, 2026 Anthropic files S-1 with the SEC for proposed initial public offering Today, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock. Science Oct 27, 2026 Early progress on accelerating drug development with Claude We&#x27;re at the start of a major effort to speed up drug development with Claude. Over the past several months, our scientists have engaged in deep research partnerships with six organizations developing new medicines. Announcements Oct 7, 2026 Introducing Claude Haiku 5.5 Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use. Announcements Sep 28, 2026 Introducing Claude Sonnet 5.5 Claude Sonnet 5.5 is a clear upgrade "
+    "text_sample": "Newsroom \\ Anthropic Skip to main content News Research Policy Commitments Company Try Claude News Latest news November 10, 2026 Announcements Nov 9, 2026 Introducing Claude Fable 5.2 and Claude Mythos 5.2 Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences. Announcements Oct 18, 2026 Investing in the public benefit We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows. Announcements Oct 26, 2026 Anthropic files S-1 with the SEC for proposed initial public offering Today, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock. Science Oct 27, 2026 Early progress on accelerating drug development with Claude We&#x27;re at the start of a major effort to speed up drug development with Claude. Over the past several months, our scientists have engaged in deep research partnerships with six organizations developing new medicines. Announcements Oct 7, 2026 Introducing Claude Haiku 5.5 Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use. Announcements Sep 22, 2026 Introducing Claude O"
   },
   {
     "id": "google_ai_developers",
     "title": "Google AI Developers Blog",
     "url": "https://developers.googleblog.com/en/search/?query=Gemini",
     "type": "industry",
-    "fetched_at": "20261109T060951Z",
+    "fetched_at": "20261110T070735Z",
     "status": 200,
     "error": null,
     "page_title": "Search - Google Developers Blog",
@@ -864,27 +938,19 @@
       },
       {
         "keyword": "Chrome",
-        "excerpt": "ment/Agile Q&A Release Notes Solutions Solve Testing TotT Tutorials Product Select all Ads AI Edge Android Angular AR Assistant Auto Checks Chrome OS Chrome Web Cloud DeepMind Design Engineering Firebase Flutter Gemini Gemma Geo Go Google AI Studio Google Labs Google Pay IDX Kaggle Keras Matter Pay Play Search Smart Home TensorFlow TV Wallet Wear OS Workspace Technology Select all AI Cloud Mobile Web NOV. 3, 2026 / A"
+        "excerpt": "ment/Agile Q&A Release Notes Solutions Solve Testing TotT Tutorials Product Select all Ads AI Edge Android Angular AR Assistant Auto Checks Chrome OS Chrome Web Cloud DeepMind Design Engineering Firebase Flutter Gemini Gemma Geo Go Google AI Studio Google Labs Google Pay IDX Kaggle Keras Matter Pay Play Search Smart Home TensorFlow TV Wallet Wear OS Workspace Technology Select all AI Cloud Mobile Web NOV. 9, 2026 / A"
       },
       {
         "keyword": "CLI",
-        "excerpt": "o route across Gemini models and thinking levels Per-token API prices keep falling, yet engineering bills for autonomous coding agents keep climbing.... OCT. 29, 2026 / Mobile Build Generative UI Apps with A2UI & CopilotKit Agents See Google A2Ui in action! Learn how to natively render agentic UIs across Langchain, AWS Strands, Microsoft agents, and Google ADK using CopilotKit SDKs for A2UI. OCT. 28, 2026 / AI Hill-C"
+        "excerpt": "udio by prompting Gemini with real-world geospatial concepts. The integration eliminates traditional configuration hurdles by providing one-click demo keys that generate instantly without requiring Cloud Console redirects or credit cards. This setup grants developers immediate access to core APIs—including Maps, Places, and Routes—supported by daily sandbox quotas for seamless prototyping. NOV. 3, 2026 / AI Cost per"
       },
       {
         "keyword": "IDE",
         "excerpt": "Announcements Beginner Best Practices Business and Leadership Case Studies Code Health Community Documentation Events Explore Hard How-To Guides Industry Trends Influence Intermediate Learn Performance Problem-Solving Project Management/Agile Q&A Release Notes Solutions Solve Testing TotT Tutorials Product Select all Ads AI Edge Android Angular AR Assistant Auto Checks Chrome OS Chrome Web Cloud DeepMind Design Engin"
       },
       {
-        "keyword": "plugins",
-        "excerpt": "r of google/adk-recipes The google/adk-recipes repository unifies Agent Development Kit (ADK) resources into three structured layers—core/, plugins/, and contrib/—serving as a single source of truth for building AI agents. Developers can leverage reference patterns, install modular vertical skills (such as retail product search and virtual try-on) directly into their coding assistants, and deploy production-ready ser"
-      },
-      {
-        "keyword": "skills",
-        "excerpt": "d contrib/—serving as a single source of truth for building AI agents. Developers can leverage reference patterns, install modular vertical skills (such as retail product search and virtual try-on) directly into their coding assistants, and deploy production-ready services across multiple languages. This cohesive structure streamlines the entire workflow from initial scaffolding to full deployment on Google Cloud inf"
-      },
-      {
         "keyword": "model",
-        "excerpt": "Wear OS Workspace Technology Select all AI Cloud Mobile Web NOV. 3, 2026 / AI Cost per task: Using cheap classifiers to route across Gemini models and thinking levels Per-token API prices keep falling, yet engineering bills for autonomous coding agents keep climbing.... OCT. 29, 2026 / Mobile Build Generative UI Apps with A2UI & CopilotKit Agents See Google A2Ui in action! Learn how to natively render agentic UIs acr"
+        "excerpt": "Wallet Wear OS Workspace Technology Select all AI Cloud Mobile Web NOV. 9, 2026 / AI What is Pathways? Single-controller training for large models Pathways is a single-controller distributed training system designed to coordinate large-scale model training across multiple accelerator groups by representing computations as a global dataflow graph. Unlike traditional SPMD models like DDP and FSDP that rely on synchrono"
       },
       {
         "keyword": "release",
@@ -892,11 +958,11 @@
       },
       {
         "keyword": "developer",
-        "excerpt": "Search - Google Developers Blog Community/Events Learn Blog YouTube Search Community/Events Learn Blog YouTube Search for \"Gemini\" 256 results Clear filters Filter by Content Type Select all Announcements Beginner Best Practices Business and Leadership Case Studies Code Health Community Document"
+        "excerpt": "Search - Google Developers Blog Community/Events Learn Blog YouTube Search Community/Events Learn Blog YouTube Search for \"Gemini\" 258 results Clear filters Filter by Content Type Select all Announcements Beginner Best Practices Business and Leadership Case Studies Code Health Community Document"
       },
       {
         "keyword": "Gemini",
-        "excerpt": "Search - Google Developers Blog Community/Events Learn Blog YouTube Search Community/Events Learn Blog YouTube Search for \"Gemini\" 256 results Clear filters Filter by Content Type Select all Announcements Beginner Best Practices Business and Leadership Case Studies Code Health Community Documentation Events Explore Hard How-To Guides Industry Trends Influence Intermediate Learn Performance Problem-So"
+        "excerpt": "Search - Google Developers Blog Community/Events Learn Blog YouTube Search Community/Events Learn Blog YouTube Search for \"Gemini\" 258 results Clear filters Filter by Content Type Select all Announcements Beginner Best Practices Business and Leadership Case Studies Code Health Community Documentation Events Explore Hard How-To Guides Industry Trends Influence Intermediate Learn Performance Problem-So"
       },
       {
         "keyword": "workflow",
@@ -904,13 +970,13 @@
       },
       {
         "keyword": "config",
-        "excerpt": "s to yield progress updates or background execution patterns to keep conversations fluid during long-running backend queries. Additionally, configuring response scheduling behaviors such as WHEN_IDLE, INTERRUPT, or SILENT gives developers precise control over when and how tool results are delivered into the conversation. OCT. 15, 2026 / AI Three layers, one repo: a tour of google/adk-recipes The google/adk-recipes re"
+        "excerpt": "s Platform directly within Google AI Studio by prompting Gemini with real-world geospatial concepts. The integration eliminates traditional configuration hurdles by providing one-click demo keys that generate instantly without requiring Cloud Console redirects or credit cards. This setup grants developers immediate access to core APIs—including Maps, Places, and Routes—supported by daily sandbox quotas for seamless p"
       },
       {
         "keyword": "authentication",
         "excerpt": "te allows developers to route long-lived, bi-directional streams and AI workloads directly through the gateway while maintaining consistent authentication, rate limiting, and observability. Additionally, gateways now feature deterministic default hostnames, simplifying environment provisioning and infrastructure-as-code management. OCT. 22, 2026 / AI Architecting Governed, Self-Evolving AI Agents on Google Cloud Lear"
       }
     ],
-    "text_sample": "Search - Google Developers Blog Community/Events Learn Blog YouTube Search Community/Events Learn Blog YouTube Search for \"Gemini\" 256 results Clear filters Filter by Content Type Select all Announcements Beginner Best Practices Business and Leadership Case Studies Code Health Community Documentation Events Explore Hard How-To Guides Industry Trends Influence Intermediate Learn Performance Problem-Solving Project Management/Agile Q&A Release Notes Solutions Solve Testing TotT Tutorials Product Select all Ads AI Edge Android Angular AR Assistant Auto Checks Chrome OS Chrome Web Cloud DeepMind Design Engineering Firebase Flutter Gemini Gemma Geo Go Google AI Studio Google Labs Google Pay IDX Kaggle Keras Matter Pay Play Search Smart Home TensorFlow TV Wallet Wear OS Workspace Technology Select all AI Cloud Mobile Web NOV. 3, 2026 / AI Cost per task: Using cheap classifiers to route across Gemini models and thinking levels Per-token API prices keep falling, yet engineering bills for autonomous coding agents keep climbing.... OCT. 29, 2026 / Mobile Build Generative UI Apps with A2UI & CopilotKit Agents See Google A2Ui in action! Learn how to natively render agentic UIs across Langchain, AWS Strands, Microsoft agents, and Google ADK using CopilotKit SDKs for A2UI. OCT. 28, 2026 / AI Hill-Climbing Agent Quality with Agents CLI Evaluation This post walks through the Agents CLI evaluat"
+    "text_sample": "Search - Google Developers Blog Community/Events Learn Blog YouTube Search Community/Events Learn Blog YouTube Search for \"Gemini\" 258 results Clear filters Filter by Content Type Select all Announcements Beginner Best Practices Business and Leadership Case Studies Code Health Community Documentation Events Explore Hard How-To Guides Industry Trends Influence Intermediate Learn Performance Problem-Solving Project Management/Agile Q&A Release Notes Solutions Solve Testing TotT Tutorials Product Select all Ads AI Edge Android Angular AR Assistant Auto Checks Chrome OS Chrome Web Cloud DeepMind Design Engineering Firebase Flutter Gemini Gemma Geo Go Google AI Studio Google Labs Google Pay IDX Kaggle Keras Matter Pay Play Search Smart Home TensorFlow TV Wallet Wear OS Workspace Technology Select all AI Cloud Mobile Web NOV. 9, 2026 / AI What is Pathways? Single-controller training for large models Pathways is a single-controller distributed training system designed to coordinate large-scale model training across multiple accelerator groups by representing computations as a global dataflow graph. Unlike traditional SPMD models like DDP and FSDP that rely on synchronous collectives, Pathways uses asynchronous dispatch and a central scheduler to maximize hardware utilization and prevent deadlocks in complex workloads. By decoupling model definition from physical hardware via virtual d"
   }
 ]
