@@ -4,7 +4,7 @@
     "title": "Codex Changelog",
     "url": "https://developers.openai.com/codex/changelog",
     "type": "official",
-    "fetched_at": "20261110T070735Z",
+    "fetched_at": "20261111T055954Z",
     "status": 200,
     "error": null,
     "page_title": "ChatGPT & Codex changelog | ChatGPT Learn",
@@ -109,7 +109,7 @@
     "title": "Codex App",
     "url": "https://developers.openai.com/codex/app",
     "type": "official",
-    "fetched_at": "20261110T070735Z",
+    "fetched_at": "20261111T055954Z",
     "status": 200,
     "error": null,
     "page_title": "ChatGPT desktop app | ChatGPT Learn",
@@ -214,7 +214,7 @@
     "title": "Codex CLI",
     "url": "https://developers.openai.com/codex/cli",
     "type": "official",
-    "fetched_at": "20261110T070735Z",
+    "fetched_at": "20261111T055954Z",
     "status": 200,
     "error": null,
     "page_title": "Codex CLI | ChatGPT Learn",
@@ -319,7 +319,7 @@
     "title": "Codex IDE",
     "url": "https://developers.openai.com/codex/ide",
     "type": "official",
-    "fetched_at": "20261110T070735Z",
+    "fetched_at": "20261111T055954Z",
     "status": 200,
     "error": null,
     "page_title": "Codex IDE extension | ChatGPT Learn",
@@ -424,7 +424,7 @@
     "title": "Codex Authentication",
     "url": "https://developers.openai.com/codex/auth",
     "type": "official",
-    "fetched_at": "20261110T070735Z",
+    "fetched_at": "20261111T055954Z",
     "status": 200,
     "error": null,
     "page_title": "Authentication | ChatGPT Learn",
@@ -529,7 +529,7 @@
     "title": "Codex Config Reference",
     "url": "https://developers.openai.com/codex/config-reference",
     "type": "official",
-    "fetched_at": "20261110T070735Z",
+    "fetched_at": "20261111T055954Z",
     "status": 200,
     "error": null,
     "page_title": "Configuration Reference | ChatGPT Learn",
@@ -638,7 +638,7 @@
     "title": "openai/codex Releases",
     "url": "https://github.com/openai/codex/releases",
     "type": "github",
-    "fetched_at": "20261110T070735Z",
+    "fetched_at": "20261111T055954Z",
     "status": 200,
     "error": null,
     "page_title": "Releases · openai/codex · GitHub",
@@ -665,7 +665,7 @@
       },
       {
         "keyword": "IDE",
-        "excerpt": "pha.6 0.167.0-alpha.4.1 0.169.0-alpha.3 0.169.0-alpha.2 0.167.0 0.168.0-alpha.7 0.168.0-alpha.6 0.168.0-alpha.3 0.167.0-alpha.3.2 Collapse sidebar Releases --> Releases · openai/codex 0.169.0-alpha.7 0.169.0-alpha.7 Pre-release Pre-release Compare Choose a tag to compare Sorry, something went wrong. Filter Loading Sorry, something went wrong. Uh oh! There was an error while loading. Please reload this page . No resul"
+        "excerpt": "ha.9 0.169.0-alpha.10 0.167.0-alpha.4.2 0.169.0-alpha.7 0.169.0-alpha.6 0.167.0-alpha.4.1 0.169.0-alpha.3 0.169.0-alpha.2 0.167.0 Collapse sidebar Releases --> Releases · openai/codex 0.167.1 0.167.1 Latest Latest Compare Choose a tag to compare Sorry, something went wrong. Filter Loading Sorry, something went wrong. Uh oh! There was an error while loading. Please reload this page . No results found View all tags git"
       },
       {
         "keyword": "GitHub",
@@ -715,7 +715,7 @@
     "title": "ChatGPT Release Notes",
     "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
     "type": "official",
-    "fetched_at": "20261110T070735Z",
+    "fetched_at": "20261111T055954Z",
     "status": 403,
     "error": "HTTP Error 403: Forbidden",
     "hits": [],
@@ -726,7 +726,7 @@
     "title": "OpenAI News",
     "url": "https://openai.com/news/",
     "type": "industry",
-    "fetched_at": "20261110T070735Z",
+    "fetched_at": "20261111T055954Z",
     "status": 403,
     "error": "HTTP Error 403: Forbidden",
     "hits": [],
@@ -737,7 +737,7 @@
     "title": "OpenAI Research",
     "url": "https://openai.com/research/",
     "type": "industry",
-    "fetched_at": "20261110T070735Z",
+    "fetched_at": "20261111T055954Z",
     "status": 403,
     "error": "HTTP Error 403: Forbidden",
     "hits": [],
@@ -748,7 +748,7 @@
     "title": "GitHub AI & ML Blog",
     "url": "https://github.blog/ai-and-ml/",
     "type": "industry",
-    "fetched_at": "20261110T070735Z",
+    "fetched_at": "20261111T055954Z",
     "status": 200,
     "error": null,
     "page_title": "The latest on AI & ML - The GitHub Blog",
@@ -809,7 +809,7 @@
     "title": "GitHub Changelog",
     "url": "https://github.blog/changelog/",
     "type": "industry",
-    "fetched_at": "20261110T070735Z",
+    "fetched_at": "20261111T055954Z",
     "status": 200,
     "error": null,
     "page_title": "GitHub Changelog",
@@ -820,7 +820,7 @@
       },
       {
         "keyword": "CLI",
-        "excerpt": "vements Retired Filters ( 0 selected ) Clear all Filters ( 0 selected ) Match: Any All Tags Account management Actions Application Security Client apps Collaboration tools Community engagement Copilot Ecosystem & accessibility Enterprise management tools Platform governance Projects & Issues Supply chain security Universe ‘26 Clear all Apply November Nov 2026 November Nov 2026 Nov.09 Release Claude Fable 5.2 in GitHu"
+        "excerpt": "vements Retired Filters ( 0 selected ) Clear all Filters ( 0 selected ) Match: Any All Tags Account management Actions Application Security Client apps Collaboration tools Community engagement Copilot Ecosystem & accessibility Enterprise management tools Platform governance Projects & Issues Supply chain security Universe ‘26 Clear all Apply November Nov 2026 November Nov 2026 Nov.10 Improvement GitHub App support fo"
       },
       {
         "keyword": "IDE",
@@ -843,26 +843,34 @@
         "excerpt": "b 2026 February Feb 2026 January Jan 2026 January Jan 2026 Pagination Prev 2026 2025 2024 ... 2018 2026 2025 ... 2018 Next Subscribe to our developer newsletter Discover tips, technical guides, and best practices in our biweekly newsletter just for devs. Enter your email * Subscribe By submitting, I agree to let GitHub and its affiliates use my information for personalized communications, targeted advertising, and ca"
       },
       {
+        "keyword": "Gemini",
+        "excerpt": "2026 Nov.10 Improvement GitHub App support for Enterprise Copilot seat management copilot enterprise management tools ... +1 Nov.10 Release Gemini 4 Carbon in GitHub Copilot copilot Nov.10 Improvement C++ language server now auto-configures MSBuild builds copilot Nov.10 Improvement Dependabot alerts will pause on inactive repositories supply chain security Nov.10 Improvement A more informative GitHub dashboard collab"
+      },
+      {
         "keyword": "Claude",
-        "excerpt": "Platform governance Projects & Issues Supply chain security Universe ‘26 Clear all Apply November Nov 2026 November Nov 2026 Nov.09 Release Claude Fable 5.2 in GitHub Copilot copilot Nov.09 Improvement Secret scanning detects secrets in GitHub Actions workflow logs application security Nov.06 Improvement Copilot code review: API management and review overview updates copilot Nov.06 Improvement Copilot impact dashboar"
+        "excerpt": "se on inactive repositories supply chain security Nov.10 Improvement A more informative GitHub dashboard collaboration tools Nov.09 Release Claude Fable 5.2 in GitHub Copilot copilot Nov.09 Improvement Secret scanning detects secrets in GitHub Actions workflow logs application security Nov.06 Improvement Copilot code review: API management and review overview updates copilot Nov.06 Improvement Copilot impact dashboar"
       },
       {
         "keyword": "workflow",
-        "excerpt": "ber Nov 2026 Nov.09 Release Claude Fable 5.2 in GitHub Copilot copilot Nov.09 Improvement Secret scanning detects secrets in GitHub Actions workflow logs application security Nov.06 Improvement Copilot code review: API management and review overview updates copilot Nov.06 Improvement Copilot impact dashboard adds chat and VS Code agent usage account management copilot enterprise management tools ... +2 Nov.06 Release"
+        "excerpt": "ration tools Nov.09 Release Claude Fable 5.2 in GitHub Copilot copilot Nov.09 Improvement Secret scanning detects secrets in GitHub Actions workflow logs application security Nov.06 Improvement Copilot code review: API management and review overview updates copilot Nov.06 Improvement Copilot impact dashboard adds chat and VS Code agent usage account management copilot enterprise management tools ... +2 Nov.06 Release"
+      },
+      {
+        "keyword": "config",
+        "excerpt": "enterprise management tools ... +1 Nov.10 Release Gemini 4 Carbon in GitHub Copilot copilot Nov.10 Improvement C++ language server now auto-configures MSBuild builds copilot Nov.10 Improvement Dependabot alerts will pause on inactive repositories supply chain security Nov.10 Improvement A more informative GitHub dashboard collaboration tools Nov.09 Release Claude Fable 5.2 in GitHub Copilot copilot Nov.09 Improvement"
       },
       {
         "keyword": "authentication",
         "excerpt": "on security Nov.03 Improvement Dependabot now supports Python 3.15 supply chain security Nov.02 Improvement GitHub Desktop adds short-lived authentication tokens account management application security client apps ... +2 Nov.02 Improvement Security risk assessments include repository protection status application security Nov.02 Retired pull_request_target blocked by default December 2 actions application security .."
       }
     ],
-    "text_sample": "GitHub Changelog Skip to content / Blog Changelog Docs Customer stories Try GitHub Copilot app See what&#039;s new Search Changelog Docs Customer stories See what&#039;s new Try GitHub Copilot app Back to blog Changelog Copy RSS feed URL Follow @ghchangelog on X All New Releases Improvements Retired Filters ( 0 selected ) Clear all Filters ( 0 selected ) Match: Any All Tags Account management Actions Application Security Client apps Collaboration tools Community engagement Copilot Ecosystem & accessibility Enterprise management tools Platform governance Projects & Issues Supply chain security Universe ‘26 Clear all Apply November Nov 2026 November Nov 2026 Nov.09 Release Claude Fable 5.2 in GitHub Copilot copilot Nov.09 Improvement Secret scanning detects secrets in GitHub Actions workflow logs application security Nov.06 Improvement Copilot code review: API management and review overview updates copilot Nov.06 Improvement Copilot impact dashboard adds chat and VS Code agent usage account management copilot enterprise management tools ... +2 Nov.06 Release GitHub Copilot weekly releases — November 2 copilot Nov.06 Release @GitHub in Slack and Teams is generally available and more client apps copilot ... +1 Nov.05 Improvement Usage metrics API adds code review details and addressed rate account management copilot enterprise management tools ... +2 Nov.05 Improvement Usage metric"
+    "text_sample": "GitHub Changelog Skip to content / Blog Changelog Docs Customer stories Try GitHub Copilot app See what&#039;s new Search Changelog Docs Customer stories See what&#039;s new Try GitHub Copilot app Back to blog Changelog Copy RSS feed URL Follow @ghchangelog on X All New Releases Improvements Retired Filters ( 0 selected ) Clear all Filters ( 0 selected ) Match: Any All Tags Account management Actions Application Security Client apps Collaboration tools Community engagement Copilot Ecosystem & accessibility Enterprise management tools Platform governance Projects & Issues Supply chain security Universe ‘26 Clear all Apply November Nov 2026 November Nov 2026 Nov.10 Improvement GitHub App support for Enterprise Copilot seat management copilot enterprise management tools ... +1 Nov.10 Release Gemini 4 Carbon in GitHub Copilot copilot Nov.10 Improvement C++ language server now auto-configures MSBuild builds copilot Nov.10 Improvement Dependabot alerts will pause on inactive repositories supply chain security Nov.10 Improvement A more informative GitHub dashboard collaboration tools Nov.09 Release Claude Fable 5.2 in GitHub Copilot copilot Nov.09 Improvement Secret scanning detects secrets in GitHub Actions workflow logs application security Nov.06 Improvement Copilot code review: API management and review overview updates copilot Nov.06 Improvement Copilot impact dashboard adds chat"
   },
   {
     "id": "anthropic_news",
     "title": "Anthropic News",
     "url": "https://www.anthropic.com/news",
     "type": "industry",
-    "fetched_at": "20261110T070735Z",
+    "fetched_at": "20261111T055954Z",
     "status": 200,
     "error": null,
     "page_title": "Newsroom \\ Anthropic",
@@ -901,7 +909,7 @@
       },
       {
         "keyword": "model",
-        "excerpt": "Try Claude News Latest news November 10, 2026 Announcements Nov 9, 2026 Introducing Claude Fable 5.2 and Claude Mythos 5.2 Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences. Announcements Oct 18, 2026 Investing in the public benefit We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new e"
+        "excerpt": "Try Claude News Latest news November 11, 2026 Announcements Nov 9, 2026 Introducing Claude Fable 5.2 and Claude Mythos 5.2 Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences. Announcements Oct 18, 2026 Investing in the public benefit We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new e"
       },
       {
         "keyword": "developer",
@@ -909,21 +917,21 @@
       },
       {
         "keyword": "Claude",
-        "excerpt": "Newsroom \\ Anthropic Skip to main content News Research Policy Commitments Company Try Claude News Latest news November 10, 2026 Announcements Nov 9, 2026 Introducing Claude Fable 5.2 and Claude Mythos 5.2 Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences. Announcements Oct"
+        "excerpt": "Newsroom \\ Anthropic Skip to main content News Research Policy Commitments Company Try Claude News Latest news November 11, 2026 Announcements Nov 9, 2026 Introducing Claude Fable 5.2 and Claude Mythos 5.2 Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences. Announcements Oct"
       },
       {
         "keyword": "workflow",
         "excerpt": "ing Agent Skills to the Agentic AI Foundation We’re donating Agent Skills, the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation. More than 70 agent platforms, including ChatGPT, Cursor, GitHub Copilot, and VS Code, have integrated Agent Skills since we published the standard in December 2025. Product Oct 22, 2026 Oct 22, 2026 Product Donating Agent Skills to the Age"
       }
     ],
-    "text_sample": "Newsroom \\ Anthropic Skip to main content News Research Policy Commitments Company Try Claude News Latest news November 10, 2026 Announcements Nov 9, 2026 Introducing Claude Fable 5.2 and Claude Mythos 5.2 Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences. Announcements Oct 18, 2026 Investing in the public benefit We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows. Announcements Oct 26, 2026 Anthropic files S-1 with the SEC for proposed initial public offering Today, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock. Science Oct 27, 2026 Early progress on accelerating drug development with Claude We&#x27;re at the start of a major effort to speed up drug development with Claude. Over the past several months, our scientists have engaged in deep research partnerships with six organizations developing new medicines. Announcements Oct 7, 2026 Introducing Claude Haiku 5.5 Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use. Announcements Sep 22, 2026 Introducing Claude O"
+    "text_sample": "Newsroom \\ Anthropic Skip to main content News Research Policy Commitments Company Try Claude News Latest news November 11, 2026 Announcements Nov 9, 2026 Introducing Claude Fable 5.2 and Claude Mythos 5.2 Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences. Announcements Oct 18, 2026 Investing in the public benefit We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows. Announcements Oct 26, 2026 Anthropic files S-1 with the SEC for proposed initial public offering Today, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock. Science Oct 27, 2026 Early progress on accelerating drug development with Claude We&#x27;re at the start of a major effort to speed up drug development with Claude. Over the past several months, our scientists have engaged in deep research partnerships with six organizations developing new medicines. Announcements Oct 7, 2026 Introducing Claude Haiku 5.5 Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use. Announcements Sep 22, 2026 Introducing Claude O"
   },
   {
     "id": "google_ai_developers",
     "title": "Google AI Developers Blog",
     "url": "https://developers.googleblog.com/en/search/?query=Gemini",
     "type": "industry",
-    "fetched_at": "20261110T070735Z",
+    "fetched_at": "20261111T055954Z",
     "status": 200,
     "error": null,
     "page_title": "Search - Google Developers Blog",
@@ -938,7 +946,7 @@
       },
       {
         "keyword": "Chrome",
-        "excerpt": "ment/Agile Q&A Release Notes Solutions Solve Testing TotT Tutorials Product Select all Ads AI Edge Android Angular AR Assistant Auto Checks Chrome OS Chrome Web Cloud DeepMind Design Engineering Firebase Flutter Gemini Gemma Geo Go Google AI Studio Google Labs Google Pay IDX Kaggle Keras Matter Pay Play Search Smart Home TensorFlow TV Wallet Wear OS Workspace Technology Select all AI Cloud Mobile Web NOV. 9, 2026 / A"
+        "excerpt": "ment/Agile Q&A Release Notes Solutions Solve Testing TotT Tutorials Product Select all Ads AI Edge Android Angular AR Assistant Auto Checks Chrome OS Chrome Web Cloud DeepMind Design Engineering Firebase Flutter Gemini Gemma Geo Go Google AI Studio Google Labs Google Pay IDX Kaggle Keras Matter Pay Play Search Smart Home TensorFlow TV Wallet Wear OS Workspace Technology Select all AI Cloud Mobile Web NOV. 10, 2026 /"
       },
       {
         "keyword": "CLI",
@@ -950,7 +958,7 @@
       },
       {
         "keyword": "model",
-        "excerpt": "Wallet Wear OS Workspace Technology Select all AI Cloud Mobile Web NOV. 9, 2026 / AI What is Pathways? Single-controller training for large models Pathways is a single-controller distributed training system designed to coordinate large-scale model training across multiple accelerator groups by representing computations as a global dataflow graph. Unlike traditional SPMD models like DDP and FSDP that rely on synchrono"
+        "excerpt": "cations. Developers can leverage ML Kit for optimized Android performance, or use MediaPipe Tasks and LiteRT for cross-platform open-weight model integration. This local pipeline seamlessly pairs lightweight speech models with on-device small language models like Gemini Nano and Gemma 4 to enable real-time streaming transcription and low-latency synthesis. NOV. 9, 2026 / AI What is Pathways? Single-controller trainin"
       },
       {
         "keyword": "release",
@@ -958,11 +966,11 @@
       },
       {
         "keyword": "developer",
-        "excerpt": "Search - Google Developers Blog Community/Events Learn Blog YouTube Search Community/Events Learn Blog YouTube Search for \"Gemini\" 258 results Clear filters Filter by Content Type Select all Announcements Beginner Best Practices Business and Leadership Case Studies Code Health Community Document"
+        "excerpt": "Search - Google Developers Blog Community/Events Learn Blog YouTube Search Community/Events Learn Blog YouTube Search for \"Gemini\" 259 results Clear filters Filter by Content Type Select all Announcements Beginner Best Practices Business and Leadership Case Studies Code Health Community Document"
       },
       {
         "keyword": "Gemini",
-        "excerpt": "Search - Google Developers Blog Community/Events Learn Blog YouTube Search Community/Events Learn Blog YouTube Search for \"Gemini\" 258 results Clear filters Filter by Content Type Select all Announcements Beginner Best Practices Business and Leadership Case Studies Code Health Community Documentation Events Explore Hard How-To Guides Industry Trends Influence Intermediate Learn Performance Problem-So"
+        "excerpt": "Search - Google Developers Blog Community/Events Learn Blog YouTube Search Community/Events Learn Blog YouTube Search for \"Gemini\" 259 results Clear filters Filter by Content Type Select all Announcements Beginner Best Practices Business and Leadership Case Studies Code Health Community Documentation Events Explore Hard How-To Guides Industry Trends Influence Intermediate Learn Performance Problem-So"
       },
       {
         "keyword": "workflow",
@@ -977,6 +985,6 @@
         "excerpt": "te allows developers to route long-lived, bi-directional streams and AI workloads directly through the gateway while maintaining consistent authentication, rate limiting, and observability. Additionally, gateways now feature deterministic default hostnames, simplifying environment provisioning and infrastructure-as-code management. OCT. 22, 2026 / AI Architecting Governed, Self-Evolving AI Agents on Google Cloud Lear"
       }
     ],
-    "text_sample": "Search - Google Developers Blog Community/Events Learn Blog YouTube Search Community/Events Learn Blog YouTube Search for \"Gemini\" 258 results Clear filters Filter by Content Type Select all Announcements Beginner Best Practices Business and Leadership Case Studies Code Health Community Documentation Events Explore Hard How-To Guides Industry Trends Influence Intermediate Learn Performance Problem-Solving Project Management/Agile Q&A Release Notes Solutions Solve Testing TotT Tutorials Product Select all Ads AI Edge Android Angular AR Assistant Auto Checks Chrome OS Chrome Web Cloud DeepMind Design Engineering Firebase Flutter Gemini Gemma Geo Go Google AI Studio Google Labs Google Pay IDX Kaggle Keras Matter Pay Play Search Smart Home TensorFlow TV Wallet Wear OS Workspace Technology Select all AI Cloud Mobile Web NOV. 9, 2026 / AI What is Pathways? Single-controller training for large models Pathways is a single-controller distributed training system designed to coordinate large-scale model training across multiple accelerator groups by representing computations as a global dataflow graph. Unlike traditional SPMD models like DDP and FSDP that rely on synchronous collectives, Pathways uses asynchronous dispatch and a central scheduler to maximize hardware utilization and prevent deadlocks in complex workloads. By decoupling model definition from physical hardware via virtual d"
+    "text_sample": "Search - Google Developers Blog Community/Events Learn Blog YouTube Search Community/Events Learn Blog YouTube Search for \"Gemini\" 259 results Clear filters Filter by Content Type Select all Announcements Beginner Best Practices Business and Leadership Case Studies Code Health Community Documentation Events Explore Hard How-To Guides Industry Trends Influence Intermediate Learn Performance Problem-Solving Project Management/Agile Q&A Release Notes Solutions Solve Testing TotT Tutorials Product Select all Ads AI Edge Android Angular AR Assistant Auto Checks Chrome OS Chrome Web Cloud DeepMind Design Engineering Firebase Flutter Gemini Gemma Geo Go Google AI Studio Google Labs Google Pay IDX Kaggle Keras Matter Pay Play Search Smart Home TensorFlow TV Wallet Wear OS Workspace Technology Select all AI Cloud Mobile Web NOV. 10, 2026 / Mobile On-Device Speech Recognition and Text-to-Speech in Google AI Edge Gallery Google AI Edge Gallery now supports on-device, offline Automatic Speech Recognition (ASR) and Text-to-Speech (TTS) capabilities for building developer-friendly voice applications. Developers can leverage ML Kit for optimized Android performance, or use MediaPipe Tasks and LiteRT for cross-platform open-weight model integration. This local pipeline seamlessly pairs lightweight speech models with on-device small language models like Gemini Nano and Gemma 4 to enable real-ti"
   }
 ]
