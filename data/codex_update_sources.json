@@ -4,7 +4,7 @@
     "title": "Codex Changelog",
     "url": "https://developers.openai.com/codex/changelog",
     "type": "official",
-    "fetched_at": "20261112T070122Z",
+    "fetched_at": "20261113T062952Z",
     "status": 200,
     "error": null,
     "page_title": "ChatGPT & Codex changelog | ChatGPT Learn",
@@ -109,7 +109,7 @@
     "title": "Codex App",
     "url": "https://developers.openai.com/codex/app",
     "type": "official",
-    "fetched_at": "20261112T070122Z",
+    "fetched_at": "20261113T062952Z",
     "status": 200,
     "error": null,
     "page_title": "ChatGPT desktop app | ChatGPT Learn",
@@ -214,7 +214,7 @@
     "title": "Codex CLI",
     "url": "https://developers.openai.com/codex/cli",
     "type": "official",
-    "fetched_at": "20261112T070122Z",
+    "fetched_at": "20261113T062952Z",
     "status": 200,
     "error": null,
     "page_title": "Codex CLI | ChatGPT Learn",
@@ -319,7 +319,7 @@
     "title": "Codex IDE",
     "url": "https://developers.openai.com/codex/ide",
     "type": "official",
-    "fetched_at": "20261112T070122Z",
+    "fetched_at": "20261113T062952Z",
     "status": 200,
     "error": null,
     "page_title": "Codex IDE extension | ChatGPT Learn",
@@ -424,7 +424,7 @@
     "title": "Codex Authentication",
     "url": "https://developers.openai.com/codex/auth",
     "type": "official",
-    "fetched_at": "20261112T070122Z",
+    "fetched_at": "20261113T062952Z",
     "status": 200,
     "error": null,
     "page_title": "Authentication | ChatGPT Learn",
@@ -529,7 +529,7 @@
     "title": "Codex Config Reference",
     "url": "https://developers.openai.com/codex/config-reference",
     "type": "official",
-    "fetched_at": "20261112T070122Z",
+    "fetched_at": "20261113T062952Z",
     "status": 200,
     "error": null,
     "page_title": "Configuration Reference | ChatGPT Learn",
@@ -638,7 +638,7 @@
     "title": "openai/codex Releases",
     "url": "https://github.com/openai/codex/releases",
     "type": "github",
-    "fetched_at": "20261112T070122Z",
+    "fetched_at": "20261113T062952Z",
     "status": 200,
     "error": null,
     "page_title": "Releases · openai/codex · GitHub",
@@ -648,20 +648,44 @@
         "excerpt": "Releases · openai/codex · GitHub Skip to content Navigation Menu Sign in Products Platform GitHub Repository hosting, code review, and collaboration Copilot AI coding agent for tasks, projects, and automated work Build & Ship Actions CI/CD and automation Code Quality Quality analysis, fixes, and e"
       },
       {
+        "keyword": "ChatGPT",
+        "excerpt": "input from network access requests. ( #59256 ) Bug Fixes Local TUI history and resume pickers filter newly created threads by the signed-in ChatGPT account. ( #58918 ) Open and resumed chats use their saved model provider after you change the default for new chats. ( #59503 ) The TUI renders replies interrupted by tool calls as a single Markdown message and restores reasoning summaries when replaying a conversation."
+      },
+      {
         "keyword": "agent",
         "excerpt": "itHub Skip to content Navigation Menu Sign in Products Platform GitHub Repository hosting, code review, and collaboration Copilot AI coding agent for tasks, projects, and automated work Build & Ship Actions CI/CD and automation Code Quality Quality analysis, fixes, and enforcement Codespaces Cloud development environments Secure Code Security Vulnerability detection and remediation Secret Protection Secret scanning a"
+      },
+      {
+        "keyword": "agents",
+        "excerpt": "gateway, Bedrock, and GCP settings. ( #58845 , #58876 ) Chores Codex warns when features.multi_agent is explicitly configured and points to agents.enabled for disabling subagent tools. ( #59479 ) Contributors can run Bazel CI jobs locally without BuildBuddy credentials. ( #59055 ) Changelog Full Changelog: rust-v0.167.0...rust-v0.168.0 #58766 Distinguish update handoffs in TUI startup telemetry @etraut-openai #58767"
       },
       {
         "keyword": "automation",
         "excerpt": "tory hosting, code review, and collaboration Copilot AI coding agent for tasks, projects, and automated work Build & Ship Actions CI/CD and automation Code Quality Quality analysis, fixes, and enforcement Codespaces Cloud development environments Secure Code Security Vulnerability detection and remediation Secret Protection Secret scanning and leak prevention All Features Developers Learn Documentation Training Certi"
       },
       {
+        "keyword": "CLI",
+        "excerpt": ", #59527 , #59595 ) Attach recordings when using an audio-capable model. Codex skips confirmed rejected recordings on later turns and uses clip duration to keep more short recordings in context. ( #59234 , #59268 ) Enable features.image_generation_animation to generate or edit animated GIFs with optional frame count and timing controls. ( #59073 ) Fullscreen Codex displays image previews and pets in tmux on Ghostty"
+      },
+      {
         "keyword": "IDE",
-        "excerpt": "0.170.0-alpha.1 0.169.0-alpha.11.1 0.169.0-alpha.11 0.167.0-alpha.4.3 0.167.1 0.169.0-alpha.9 0.169.0-alpha.10 0.167.0-alpha.4.2 Collapse sidebar Releases --> Releases · openai/codex 0.170.0-alpha.2 0.170.0-alpha.2 Pre-release Pre-release Compare Choose a tag to compare Sorry, something went wrong. Filter Loading Sorry, something went wrong. Uh oh! There was an error while loading. Please reload this page . No resul"
+        "excerpt": "a.1 0.170.0-alpha.4 0.170.0-alpha.3 0.170.0-alpha.2 0.167.2 0.170.0-alpha.1 0.169.0-alpha.11.1 0.169.0-alpha.11 0.167.0-alpha.4.3 Collapse sidebar Releases --> Releases · openai/codex 0.168.0 0.168.0 Latest Latest Compare Choose a tag to compare Sorry, something went wrong. Filter Loading Sorry, something went wrong. Uh oh! There was an error while loading. Please reload this page . No results found View all tags git"
       },
       {
         "keyword": "GitHub",
         "excerpt": "Releases · openai/codex · GitHub Skip to content Navigation Menu Sign in Products Platform GitHub Repository hosting, code review, and collaboration Copilot AI coding agent for tasks, projects, and automated work Build & Ship Actions CI/CD and automation Code Quality Quality analysis, fixes, and enforceme"
+      },
+      {
+        "keyword": "MCP",
+        "excerpt": "uzzy file search gives filename matches more weight so matching parent directories are less likely to crowd them out. ( #59709 ) Idle local MCP servers on Windows leave filesystem I/O available to the rest of Codex. ( #59726 ) Documentation The app-server reference covers listing model providers, creating custom gateways, and updating gateway, Bedrock, and GCP settings. ( #58845 , #58876 ) Chores Codex warns when fea"
+      },
+      {
+        "keyword": "memory",
+        "excerpt": "HTTP MCP server for the agent message board @jif-oai #58908 Package the message board MCP connection as a plugin @jif-oai #58909 Add an in-memory launcher for the message-board MCP server @jif-oai #58918 Scope local history discovery to the current ChatGPT account @jif-oai #58927 Fix live stream reflow at the allocated conversation width @fcoury-oai #58931 Support direct Guardian review of patches invoked through ex"
+      },
+      {
+        "keyword": "model",
+        "excerpt": "lease reload this page . No results found View all tags github-actions released this 13 Nov 03:54 rust-v0.168.0 9480ec1 New Features Browse model providers under Sessions → Model providers and choose the default for new chats. ( #59541 , #59722 ) Enable features.tui_workspace to view a side conversation beside the main chat. Drag the divider to resize the panes or press leader z to zoom the focused pane. ( #58992 , #"
       },
       {
         "keyword": "release",
@@ -672,8 +696,16 @@
         "excerpt": "nvironments Secure Code Security Vulnerability detection and remediation Secret Protection Secret scanning and leak prevention All Features Developers Learn Documentation Training Certifications Build Build with Copilot Customize Copilot Integrations Explore Trending repos GitHub Sponsors Developer articles Changelog Changelog Your source for the latest features, improvements, and fixes across GitHub products, all in"
       },
       {
+        "keyword": "image generation",
+        "excerpt": "@etraut-openai #59071 Enforce strict third-party tool deferral in Code Mode Only @rishab-openai #59073 Add optional animated GIF output to image generation @Gan-Tu #59075 Add paginated history reads to the cloud client @bc-openai #59076 Clarify argument meanings in marketplace and guardian tests @fcoury-oai #59082 Make native startup libraries available to Windows voice-host tests @fcoury-oai #59107 Add opt-in recon"
+      },
+      {
         "keyword": "config",
-        "excerpt": "s tool updates incrementally by default on Google Cloud Vertex AI. To opt out, set incremental_tools_legacy_gcp = false under [features] in config.toml . ( #60617 , #60848 ) Changelog Full Changelog: rust-v0.167.1...rust-v0.167.2 Assets 196 argument-comment-lint sha256:7c9c9c3199c8fc8422d84001c54389851b8822b63f85364a6d82b590f149f72f 2.63 KB 2026-11-11T22:46:12Z argument-comment-lint-aarch64-apple-darwin.tar.gz sha256"
+        "excerpt": "m gateways, and updating gateway, Bedrock, and GCP settings. ( #58845 , #58876 ) Chores Codex warns when features.multi_agent is explicitly configured and points to agents.enabled for disabling subagent tools. ( #59479 ) Contributors can run Bazel CI jobs locally without BuildBuddy credentials. ( #59055 ) Changelog Full Changelog: rust-v0.167.0...rust-v0.168.0 #58766 Distinguish update handoffs in TUI startup telemet"
+      },
+      {
+        "keyword": "authentication",
+        "excerpt": "valenko-oai #59016 Make observed thread metadata writes atomic and retryable @dkovalenko-oai #59018 Add WebSocket connection metrics with reauthentication labels @bromano-oai #59020 Preserve sandbox context in prepared MCP calls @sayan-oai #59021 Allow concurrent readers of the installation ID @dkovalenko-oai #59025 Remove strict third-party tool deferral in Code Mode Only @rishab-openai #59028 Use prepared MCP owner"
       }
     ],
     "text_sample": "Releases · openai/codex · GitHub Skip to content Navigation Menu Sign in Products Platform GitHub Repository hosting, code review, and collaboration Copilot AI coding agent for tasks, projects, and automated work Build & Ship Actions CI/CD and automation Code Quality Quality analysis, fixes, and enforcement Codespaces Cloud development environments Secure Code Security Vulnerability detection and remediation Secret Protection Secret scanning and leak prevention All Features Developers Learn Documentation Training Certifications Build Build with Copilot Customize Copilot Integrations Explore Trending repos GitHub Sponsors Developer articles Changelog Changelog Your source for the latest features, improvements, and fixes across GitHub products, all in one place. Businesses By Stage Enterprises Team Startups Nonprofits By Industry Healthcare Financial services Manufacturing Government See all industries Evaluate GitHub Why GitHub Customer Stories Business insights Trust Center Add-ons GitHub Advanced Security Enterprise-grade code security Copilot for business Enterprise-grade AI features Premium Support Enterprise-grade 24/7 support Resources Learn & Connect Documentation Resource center Blog Events & webinars Community Forum Customer Stories Integrations Support Customer support Training GitHub Status Company About Partners Changelog GitHub Universe GitHub Universe The event for"
@@ -683,7 +715,7 @@
     "title": "ChatGPT Release Notes",
     "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
     "type": "official",
-    "fetched_at": "20261112T070122Z",
+    "fetched_at": "20261113T062952Z",
     "status": 403,
     "error": "HTTP Error 403: Forbidden",
     "hits": [],
@@ -694,7 +726,7 @@
     "title": "OpenAI News",
     "url": "https://openai.com/news/",
     "type": "industry",
-    "fetched_at": "20261112T070122Z",
+    "fetched_at": "20261113T062952Z",
     "status": 403,
     "error": "HTTP Error 403: Forbidden",
     "hits": [],
@@ -705,7 +737,7 @@
     "title": "OpenAI Research",
     "url": "https://openai.com/research/",
     "type": "industry",
-    "fetched_at": "20261112T070122Z",
+    "fetched_at": "20261113T062952Z",
     "status": 403,
     "error": "HTTP Error 403: Forbidden",
     "hits": [],
@@ -716,14 +748,14 @@
     "title": "GitHub AI & ML Blog",
     "url": "https://github.blog/ai-and-ml/",
     "type": "industry",
-    "fetched_at": "20261112T070122Z",
+    "fetched_at": "20261113T062952Z",
     "status": 200,
     "error": null,
     "page_title": "The latest on AI & ML - The GitHub Blog",
     "hits": [
       {
         "keyword": "agent",
-        "excerpt": "oding tool, GitHub Copilot, check out GitHub&#8217;s official documentation . Featured Beyond code generation: A developer&#8217;s guide to agentic engineering Writing code got faster. The work around it didn&#8217;t. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment. Nick Liffen & Philip Holleran · November 6, 2026 How 3 J"
+        "excerpt": "al guides on GitHub’s own AI coding tool, GitHub Copilot, check out GitHub&#8217;s official documentation . Featured Build once, run on any agent: A practical guide to agent skills Agent skills capture repeatable engineering work in files teams can review and reuse, while tools, project context, and permissions remain specific to the host that runs them. Andrea Griffiths · November 12, 2026 Beyond code generation: A"
       },
       {
         "keyword": "agents",
@@ -736,10 +768,6 @@
       {
         "keyword": "browser",
         "excerpt": "port GitHub&#8217;s APAC marketing team. Tomoko Tanaka · September 11, 2026 GitHub Copilot app for Beginners: Using the diff, terminal, and browser Checking agent-generated code usually means hopping between tabs. Learn how to view diffs, run terminal commands, and preview web apps side by side in the GitHub Copilot app. Kayla Cinnamon · September 10, 2026 Project HydraFusion: Frontier quality via multi-model orchest"
-      },
-      {
-        "keyword": "CLI",
-        "excerpt": "ops feeling scary and starts feeling powerful. Kayla Cinnamon · September 3, 2026 Decoding the new AI lingo: Loops, harnesses, squads, hill climbing&#8230; oh my! From loop engineering to harnesses, squads, and open weights, the GitHub Podcast breaks down the AI terms showing up in developer conversations. Cassidy Williams · September 2, 2026 Posts pagination Page 1 Page 2 &hellip; Page 14 Next The world&#039;s large"
       },
       {
         "keyword": "IDE",
@@ -759,7 +787,7 @@
       },
       {
         "keyword": "model",
-        "excerpt": "tHub Copilot app into VS Code without losing the conversation, code changes, or working context. Kayla Cinnamon · October 19, 2026 GitHub’s model for secret detection: Finding more secrets with less noise GitHub’s context-aware secret classifier improves detection quality, raises weighted acceptance by 11.5%, and reduces median scan execution time by 86%. Batu Ozturkler & Shengyu Fu · October 13, 2026 We do newslette"
+        "excerpt": "ersonalized communications, targeted advertising and campaign effectiveness. See GitHub Privacy Statement for more details. Latest GitHub’s model for secret detection: Finding more secrets with less noise GitHub’s context-aware secret classifier improves detection quality, raises weighted acceptance by 11.5%, and reduces median scan execution time by 86%. Batu Ozturkler & Shengyu Fu · October 13, 2026 GitHub Copilot"
       },
       {
         "keyword": "developer",
@@ -777,7 +805,7 @@
     "title": "GitHub Changelog",
     "url": "https://github.blog/changelog/",
     "type": "industry",
-    "fetched_at": "20261112T070122Z",
+    "fetched_at": "20261113T062952Z",
     "status": 200,
     "error": null,
     "page_title": "GitHub Changelog",
@@ -788,7 +816,7 @@
       },
       {
         "keyword": "CLI",
-        "excerpt": "vements Retired Filters ( 0 selected ) Clear all Filters ( 0 selected ) Match: Any All Tags Account management Actions Application Security Client apps Collaboration tools Community engagement Copilot Ecosystem & accessibility Enterprise management tools Platform governance Projects & Issues Supply chain security Universe ‘26 Clear all Apply November Nov 2026 November Nov 2026 Nov.11 Improvement Issue types and field"
+        "excerpt": "vements Retired Filters ( 0 selected ) Clear all Filters ( 0 selected ) Match: Any All Tags Account management Actions Application Security Client apps Collaboration tools Community engagement Copilot Ecosystem & accessibility Enterprise management tools Platform governance Projects & Issues Supply chain security Universe ‘26 Clear all Apply November Nov 2026 November Nov 2026 Nov.12 Retired Actions for ARM32 Linux &"
       },
       {
         "keyword": "IDE",
@@ -831,14 +859,14 @@
         "excerpt": "on security Nov.03 Improvement Dependabot now supports Python 3.15 supply chain security Nov.02 Improvement GitHub Desktop adds short-lived authentication tokens account management application security client apps ... +2 Nov.02 Improvement Security risk assessments include repository protection status application security Nov.02 Retired pull_request_target blocked by default December 2 actions application security .."
       }
     ],
-    "text_sample": "GitHub Changelog Skip to content / Blog Changelog Docs Customer stories Try GitHub Copilot app See what&#039;s new Search Changelog Docs Customer stories See what&#039;s new Try GitHub Copilot app Back to blog Changelog Copy RSS feed URL Follow @ghchangelog on X All New Releases Improvements Retired Filters ( 0 selected ) Clear all Filters ( 0 selected ) Match: Any All Tags Account management Actions Application Security Client apps Collaboration tools Community engagement Copilot Ecosystem & accessibility Enterprise management tools Platform governance Projects & Issues Supply chain security Universe ‘26 Clear all Apply November Nov 2026 November Nov 2026 Nov.11 Improvement Issue types and fields are available for personal accounts projects & issues Nov.10 Improvement GitHub App support for Enterprise Copilot seat management copilot enterprise management tools ... +1 Nov.10 Release Gemini 4 Carbon in GitHub Copilot copilot Nov.10 Improvement C++ language server now auto-configures MSBuild builds copilot Nov.10 Improvement Dependabot alerts will pause on inactive repositories supply chain security Nov.10 Improvement A more informative GitHub dashboard collaboration tools Nov.09 Release Claude Fable 5.2 in GitHub Copilot copilot Nov.09 Improvement Secret scanning detects secrets in GitHub Actions workflow logs application security Nov.06 Improvement Copilot code review: API mana"
+    "text_sample": "GitHub Changelog Skip to content / Blog Changelog Docs Customer stories Try GitHub Copilot app See what&#039;s new Search Changelog Docs Customer stories See what&#039;s new Try GitHub Copilot app Back to blog Changelog Copy RSS feed URL Follow @ghchangelog on X All New Releases Improvements Retired Filters ( 0 selected ) Clear all Filters ( 0 selected ) Match: Any All Tags Account management Actions Application Security Client apps Collaboration tools Community engagement Copilot Ecosystem & accessibility Enterprise management tools Platform governance Projects & Issues Supply chain security Universe ‘26 Clear all Apply November Nov 2026 November Nov 2026 Nov.12 Retired Actions for ARM32 Linux & Windows retirement actions Nov.12 Improvement Secret scanning detects Cloudflare service tokens application security Nov.12 Improvement Public monitoring alerts now have direct links application security Nov.11 Improvement Issue types and fields are available for personal accounts projects & issues Nov.10 Improvement GitHub App support for Enterprise Copilot seat management copilot enterprise management tools ... +1 Nov.10 Release Gemini 4 Carbon in GitHub Copilot copilot Nov.10 Improvement C++ language server now auto-configures MSBuild builds copilot Nov.10 Improvement Dependabot alerts will pause on inactive repositories supply chain security Nov.10 Improvement A more informative Gi"
   },
   {
     "id": "anthropic_news",
     "title": "Anthropic News",
     "url": "https://www.anthropic.com/news",
     "type": "industry",
-    "fetched_at": "20261112T070122Z",
+    "fetched_at": "20261113T062952Z",
     "status": 200,
     "error": null,
     "page_title": "Newsroom \\ Anthropic",
@@ -877,7 +905,7 @@
       },
       {
         "keyword": "model",
-        "excerpt": "Try Claude News Latest news November 12, 2026 Announcements Nov 9, 2026 Introducing Claude Fable 5.2 and Claude Mythos 5.2 Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences. Announcements Oct 18, 2026 Investing in the public benefit We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new e"
+        "excerpt": "Try Claude News Latest news November 13, 2026 Announcements Nov 9, 2026 Introducing Claude Fable 5.2 and Claude Mythos 5.2 Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences. Announcements Oct 18, 2026 Investing in the public benefit We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new e"
       },
       {
         "keyword": "developer",
@@ -885,36 +913,36 @@
       },
       {
         "keyword": "Claude",
-        "excerpt": "Newsroom \\ Anthropic Skip to main content News Research Policy Commitments Company Try Claude News Latest news November 12, 2026 Announcements Nov 9, 2026 Introducing Claude Fable 5.2 and Claude Mythos 5.2 Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences. Announcements Oct"
+        "excerpt": "Newsroom \\ Anthropic Skip to main content News Research Policy Commitments Company Try Claude News Latest news November 13, 2026 Announcements Nov 9, 2026 Introducing Claude Fable 5.2 and Claude Mythos 5.2 Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences. Announcements Oct"
       },
       {
         "keyword": "workflow",
         "excerpt": "ing Agent Skills to the Agentic AI Foundation We’re donating Agent Skills, the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation. More than 70 agent platforms, including ChatGPT, Cursor, GitHub Copilot, and VS Code, have integrated Agent Skills since we published the standard in December 2025. Product Oct 22, 2026 Oct 22, 2026 Product Donating Agent Skills to the Age"
       }
     ],
-    "text_sample": "Newsroom \\ Anthropic Skip to main content News Research Policy Commitments Company Try Claude News Latest news November 12, 2026 Announcements Nov 9, 2026 Introducing Claude Fable 5.2 and Claude Mythos 5.2 Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences. Announcements Oct 18, 2026 Investing in the public benefit We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows. Announcements Oct 26, 2026 Anthropic files S-1 with the SEC for proposed initial public offering Today, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock. Science Oct 27, 2026 Early progress on accelerating drug development with Claude We&#x27;re at the start of a major effort to speed up drug development with Claude. Over the past several months, our scientists have engaged in deep research partnerships with six organizations developing new medicines. Announcements Oct 7, 2026 Introducing Claude Haiku 5.5 Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use. Announcements Sep 22, 2026 Introducing Claude O"
+    "text_sample": "Newsroom \\ Anthropic Skip to main content News Research Policy Commitments Company Try Claude News Latest news November 13, 2026 Announcements Nov 9, 2026 Introducing Claude Fable 5.2 and Claude Mythos 5.2 Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences. Announcements Oct 18, 2026 Investing in the public benefit We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows. Announcements Oct 26, 2026 Anthropic files S-1 with the SEC for proposed initial public offering Today, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock. Science Oct 27, 2026 Early progress on accelerating drug development with Claude We&#x27;re at the start of a major effort to speed up drug development with Claude. Over the past several months, our scientists have engaged in deep research partnerships with six organizations developing new medicines. Announcements Oct 7, 2026 Introducing Claude Haiku 5.5 Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use. Announcements Sep 22, 2026 Introducing Claude O"
   },
   {
     "id": "google_ai_developers",
     "title": "Google AI Developers Blog",
     "url": "https://developers.googleblog.com/en/search/?query=Gemini",
     "type": "industry",
-    "fetched_at": "20261112T070122Z",
+    "fetched_at": "20261113T062952Z",
     "status": 200,
     "error": null,
     "page_title": "Search - Google Developers Blog",
     "hits": [
       {
         "keyword": "agent",
-        "excerpt": "ow TV Wallet Wear OS Workspace Technology Select all AI Cloud Mobile Web NOV. 11, 2026 / Mobile A2UI 1.0: Build delightful, fast, reliable, agentic experiences A2UI 1.0 is an open protocol for generative UI that enables AI agents to render interactive, native screens across web, mobile, and desktop applications. Developers can leverage open-source renderer SDKs—including React, Angular, Lit, Flutter, SwiftUI, and Jet"
+        "excerpt": "int solver catches latent out-of-bounds panics in Go code and uncovers a slice-capacity blind spot in go test -fuzz. NOV. 12, 2026 / AI How Agent Anomaly Detection scores on benchmarks we didn&#x27;t write Agent Anomaly Detection (AAD) provides asynchronous, low-latency monitoring for AI agents by analyzing OpenTelemetry traces and logs to flag goal hijacks and tool misuse. Tested across five public security benchmar"
       },
       {
         "keyword": "agents",
-        "excerpt": "026 / Mobile A2UI 1.0: Build delightful, fast, reliable, agentic experiences A2UI 1.0 is an open protocol for generative UI that enables AI agents to render interactive, native screens across web, mobile, and desktop applications. Developers can leverage open-source renderer SDKs—including React, Angular, Lit, Flutter, SwiftUI, and Jetpack Compose—alongside agent SDKs for Python, TypeScript, and Dart. The release int"
+        "excerpt": "maly Detection scores on benchmarks we didn&#x27;t write Agent Anomaly Detection (AAD) provides asynchronous, low-latency monitoring for AI agents by analyzing OpenTelemetry traces and logs to flag goal hijacks and tool misuse. Tested across five public security benchmarks, AAD successfully caught 87% of harmful instructions carried out by agents without adding runtime latency. Developers can integrate AAD alongside"
       },
       {
         "keyword": "Chrome",
-        "excerpt": "ment/Agile Q&A Release Notes Solutions Solve Testing TotT Tutorials Product Select all Ads AI Edge Android Angular AR Assistant Auto Checks Chrome OS Chrome Web Cloud DeepMind Design Engineering Firebase Flutter Gemini Gemma Geo Go Google AI Studio Google Labs Google Pay IDX Kaggle Keras Matter Pay Play Search Smart Home TensorFlow TV Wallet Wear OS Workspace Technology Select all AI Cloud Mobile Web NOV. 11, 2026 /"
+        "excerpt": "ment/Agile Q&A Release Notes Solutions Solve Testing TotT Tutorials Product Select all Ads AI Edge Android Angular AR Assistant Auto Checks Chrome OS Chrome Web Cloud DeepMind Design Engineering Firebase Flutter Gemini Gemma Geo Go Google AI Studio Google Labs Google Pay IDX Kaggle Keras Matter Pay Play Search Smart Home TensorFlow TV Wallet Wear OS Workspace Technology Select all AI Cloud Mobile Web NOV. 12, 2026 /"
       },
       {
         "keyword": "CLI",
@@ -934,25 +962,21 @@
       },
       {
         "keyword": "developer",
-        "excerpt": "Search - Google Developers Blog Community/Events Learn Blog YouTube Search Community/Events Learn Blog YouTube Search for \"Gemini\" 260 results Clear filters Filter by Content Type Select all Announcements Beginner Best Practices Business and Leadership Case Studies Code Health Community Document"
+        "excerpt": "Search - Google Developers Blog Community/Events Learn Blog YouTube Search Community/Events Learn Blog YouTube Search for \"Gemini\" 262 results Clear filters Filter by Content Type Select all Announcements Beginner Best Practices Business and Leadership Case Studies Code Health Community Document"
       },
       {
         "keyword": "Gemini",
-        "excerpt": "Search - Google Developers Blog Community/Events Learn Blog YouTube Search Community/Events Learn Blog YouTube Search for \"Gemini\" 260 results Clear filters Filter by Content Type Select all Announcements Beginner Best Practices Business and Leadership Case Studies Code Health Community Documentation Events Explore Hard How-To Guides Industry Trends Influence Intermediate Learn Performance Problem-So"
+        "excerpt": "Search - Google Developers Blog Community/Events Learn Blog YouTube Search Community/Events Learn Blog YouTube Search for \"Gemini\" 262 results Clear filters Filter by Content Type Select all Announcements Beginner Best Practices Business and Leadership Case Studies Code Health Community Documentation Events Explore Hard How-To Guides Industry Trends Influence Intermediate Learn Performance Problem-So"
       },
       {
         "keyword": "workflow",
-        "excerpt": "ost focused on building Conversational User Interfaces (CUIs) using AI. It outlines key developer focus areas, product stacks, and approval workflows required for publishing technical content through Google Developer Studio. The framework helps engineers organize their guides and solutions to effectively share AI-driven conversational interface designs with the developer community. OCT. 27, 2026 / Mobile Fast, reliab"
+        "excerpt": "ost focused on building Conversational User Interfaces (CUIs) using AI. It outlines key developer focus areas, product stacks, and approval workflows required for publishing technical content through Google Developer Studio. The framework helps engineers organize their guides and solutions to effectively share AI-driven conversational interface designs with the developer community. Previous Next Filter Clear filters"
       },
       {
         "keyword": "config",
         "excerpt": "s Platform directly within Google AI Studio by prompting Gemini with real-world geospatial concepts. The integration eliminates traditional configuration hurdles by providing one-click demo keys that generate instantly without requiring Cloud Console redirects or credit cards. This setup grants developers immediate access to core APIs—including Maps, Places, and Routes—supported by daily sandbox quotas for seamless p"
-      },
-      {
-        "keyword": "authentication",
-        "excerpt": "te allows developers to route long-lived, bi-directional streams and AI workloads directly through the gateway while maintaining consistent authentication, rate limiting, and observability. Additionally, gateways now feature deterministic default hostnames, simplifying environment provisioning and infrastructure-as-code management. Previous Next Filter Clear filters Content Type Select all Announcements Beginner Best"
       }
     ],
-    "text_sample": "Search - Google Developers Blog Community/Events Learn Blog YouTube Search Community/Events Learn Blog YouTube Search for \"Gemini\" 260 results Clear filters Filter by Content Type Select all Announcements Beginner Best Practices Business and Leadership Case Studies Code Health Community Documentation Events Explore Hard How-To Guides Industry Trends Influence Intermediate Learn Performance Problem-Solving Project Management/Agile Q&A Release Notes Solutions Solve Testing TotT Tutorials Product Select all Ads AI Edge Android Angular AR Assistant Auto Checks Chrome OS Chrome Web Cloud DeepMind Design Engineering Firebase Flutter Gemini Gemma Geo Go Google AI Studio Google Labs Google Pay IDX Kaggle Keras Matter Pay Play Search Smart Home TensorFlow TV Wallet Wear OS Workspace Technology Select all AI Cloud Mobile Web NOV. 11, 2026 / Mobile A2UI 1.0: Build delightful, fast, reliable, agentic experiences A2UI 1.0 is an open protocol for generative UI that enables AI agents to render interactive, native screens across web, mobile, and desktop applications. Developers can leverage open-source renderer SDKs—including React, Angular, Lit, Flutter, SwiftUI, and Jetpack Compose—alongside agent SDKs for Python, TypeScript, and Dart. The release introduces bidirectional function calls, swappable inference formats, and secure data binding to help teams seamlessly integrate generative UI int"
+    "text_sample": "Search - Google Developers Blog Community/Events Learn Blog YouTube Search Community/Events Learn Blog YouTube Search for \"Gemini\" 262 results Clear filters Filter by Content Type Select all Announcements Beginner Best Practices Business and Leadership Case Studies Code Health Community Documentation Events Explore Hard How-To Guides Industry Trends Influence Intermediate Learn Performance Problem-Solving Project Management/Agile Q&A Release Notes Solutions Solve Testing TotT Tutorials Product Select all Ads AI Edge Android Angular AR Assistant Auto Checks Chrome OS Chrome Web Cloud DeepMind Design Engineering Firebase Flutter Gemini Gemma Geo Go Google AI Studio Google Labs Google Pay IDX Kaggle Keras Matter Pay Play Search Smart Home TensorFlow TV Wallet Wear OS Workspace Technology Select all AI Cloud Mobile Web NOV. 12, 2026 / AI Catch Go bugs that fuzzing misses with Gemini and a constraint solver How pairing Go&#x27;s surviving compiler bounds-check traps with Gemini 4 Argon and the Z3 constraint solver catches latent out-of-bounds panics in Go code and uncovers a slice-capacity blind spot in go test -fuzz. NOV. 12, 2026 / AI How Agent Anomaly Detection scores on benchmarks we didn&#x27;t write Agent Anomaly Detection (AAD) provides asynchronous, low-latency monitoring for AI agents by analyzing OpenTelemetry traces and logs to flag goal hijacks and tool misuse. Tested ac"
   }
 ]
