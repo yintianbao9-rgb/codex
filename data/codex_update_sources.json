@@ -4,7 +4,7 @@
     "title": "Codex Changelog",
     "url": "https://developers.openai.com/codex/changelog",
     "type": "official",
-    "fetched_at": "20261113T062952Z",
+    "fetched_at": "20261114T060900Z",
     "status": 200,
     "error": null,
     "page_title": "ChatGPT & Codex changelog | ChatGPT Learn",
@@ -35,7 +35,7 @@
       },
       {
         "keyword": "browser",
-        "excerpt": "iew Workflows Projects and chats Build plugins Visualizations Scheduled tasks Long-running work Notifications Pets Codex Micro Capabilities Browser Computer use Voice Composer Predictions Plugins Sign in with ChatGPT Web search Image generation Image inputs Appshots Browser extension Work with files Sites Overview Create a site Data and connections Publish and share Manage a site dots Meet dots Getting started Messag"
+        "excerpt": "Sign in with ChatGPT Apps powered by your user's ChatGPT plan Commerce Build commerce flows in ChatGPT Agent Access Allow verified ChatGPT browser visits to your website Ads Publish and measure ads in ChatGPT Workspace Agents Trigger published ChatGPT workspace agents ChatGPT + Codex user docs Guides and product docs for ChatGPT and Codex Use cases Example workflows and tasks teams can take on with ChatGPT or Codex"
       },
       {
         "keyword": "CLI",
@@ -43,11 +43,11 @@
       },
       {
         "keyword": "IDE",
-        "excerpt": "s in ChatGPT Ads Publish and measure ads in ChatGPT Workspace Agents Trigger published ChatGPT workspace agents ChatGPT + Codex user docs Guides and product docs for ChatGPT and Codex Use cases Example workflows and tasks teams can take on with ChatGPT or Codex Docs Use cases Training Resources Resources Showcase Demo apps to get inspired Blog Learnings and experiences from developers Cookbook Notebook examples for b"
+        "excerpt": "your website Ads Publish and measure ads in ChatGPT Workspace Agents Trigger published ChatGPT workspace agents ChatGPT + Codex user docs Guides and product docs for ChatGPT and Codex Use cases Example workflows and tasks teams can take on with ChatGPT or Codex Docs Use cases Training Resources Resources Showcase Demo apps to get inspired Blog Learnings and experiences from developers Cookbook Notebook examples for b"
       },
       {
         "keyword": "GitHub",
-        "excerpt": "LS Workload identity federation Federation rules X.509 certificates Kubernetes AWS Microsoft Azure Google Cloud Oracle Cloud Infrastructure GitHub Actions SPIFFE Idira IP egress ranges Operations Rate limits Spend limits Admin APIs Error codes Overview Plugins Sign in with ChatGPT Commerce Ads Workspace Agents ChatGPT + Codex user docs Use cases Docs Overview Home Quickstart Core concepts Plugin architecture Skills M"
+        "excerpt": "LS Workload identity federation Federation rules X.509 certificates Kubernetes AWS Microsoft Azure Google Cloud Oracle Cloud Infrastructure GitHub Actions SPIFFE Idira IP egress ranges Operations Rate limits Spend limits Admin APIs Error codes Overview Plugins Sign in with ChatGPT Commerce Agent Access Ads Workspace Agents ChatGPT + Codex user docs Use cases Docs Overview Home Quickstart Core concepts Plugin architec"
       },
       {
         "keyword": "MCP",
@@ -55,7 +55,7 @@
       },
       {
         "keyword": "plugins",
-        "excerpt": "time voice experiences Production Deploy and scale your API integrations API reference Explore endpoints, parameters, and responses ChatGPT Plugins Extend ChatGPT and Codex Sign in with ChatGPT Apps powered by your user's ChatGPT plan Commerce Build commerce flows in ChatGPT Ads Publish and measure ads in ChatGPT Workspace Agents Trigger published ChatGPT workspace agents ChatGPT + Codex user docs Guides and product"
+        "excerpt": "time voice experiences Production Deploy and scale your API integrations API reference Explore endpoints, parameters, and responses ChatGPT Plugins Extend ChatGPT and Codex Sign in with ChatGPT Apps powered by your user's ChatGPT plan Commerce Build commerce flows in ChatGPT Agent Access Allow verified ChatGPT browser visits to your website Ads Publish and measure ads in ChatGPT Workspace Agents Trigger published Cha"
       },
       {
         "keyword": "skills",
@@ -102,21 +102,21 @@
         "excerpt": "& Budgets Targeting Product Feeds Hotel Feeds (limited beta) Conversion Tracking Reporting Troubleshooting Account Management API Reference Authentication Ad Account Audit Logs Campaigns Ad Groups Ads Insights Files Conversion Setup Home Get started Trigger workspace agent runs Authenticate with Workspace Agent access tokens Overview Features Configuration Developers Security Administration Use Cases Resources Docs O"
       }
     ],
-    "text_sample": "ChatGPT & Codex changelog | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT Start searching API Dashboard Try ChatGPT Theme Light Dark System Home API Overview Get started with the OpenAI API Models Explore models and compare capabilities Agents Build persistent agents on hosted infrastructure Tools Connect models to tools and data Audio & voice Build speech and realtime voice experiences Production Deploy and scale your API integrations API reference Explore endpoints, parameters, and responses ChatGPT Plugins Extend ChatGPT and Codex Sign in with ChatGPT Apps powered by your user's ChatGPT plan Commerce Build commerce flows in ChatGPT Ads Publish and measure ads in ChatGPT Workspace Agents Trigger published ChatGPT workspace agents ChatGPT + Codex user docs Guides and product docs for ChatGPT and Codex Use cases Example workflows and tasks teams can take on with ChatGPT or Codex Docs Use cases Training Resources Resources Showcase Demo apps to get inspired Blog Learnings and experiences from developers Cookbook Notebook examples for building with OpenAI models Learn Docs, videos, and demo apps for building with OpenAI Community Programs, meetups, and support for builders Overview Features Configuration Developers Security Administration Use Cases Resources Searc"
+    "text_sample": "ChatGPT & Codex changelog | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT Start searching API Dashboard Try ChatGPT Theme Light Dark System Home API Overview Get started with the OpenAI API Models Explore models and compare capabilities Agents Build persistent agents on hosted infrastructure Tools Connect models to tools and data Audio & voice Build speech and realtime voice experiences Production Deploy and scale your API integrations API reference Explore endpoints, parameters, and responses ChatGPT Plugins Extend ChatGPT and Codex Sign in with ChatGPT Apps powered by your user's ChatGPT plan Commerce Build commerce flows in ChatGPT Agent Access Allow verified ChatGPT browser visits to your website Ads Publish and measure ads in ChatGPT Workspace Agents Trigger published ChatGPT workspace agents ChatGPT + Codex user docs Guides and product docs for ChatGPT and Codex Use cases Example workflows and tasks teams can take on with ChatGPT or Codex Docs Use cases Training Resources Resources Showcase Demo apps to get inspired Blog Learnings and experiences from developers Cookbook Notebook examples for building with OpenAI models Learn Docs, videos, and demo apps for building with OpenAI Community Programs, meetups, and support for builders Overview Features Configu"
   },
   {
     "id": "codex_app",
     "title": "Codex App",
     "url": "https://developers.openai.com/codex/app",
     "type": "official",
-    "fetched_at": "20261113T062952Z",
+    "fetched_at": "20261114T060900Z",
     "status": 200,
     "error": null,
     "page_title": "ChatGPT desktop app | ChatGPT Learn",
     "hits": [
       {
         "keyword": "Codex",
-        "excerpt": "uction Deploy and scale your API integrations API reference Explore endpoints, parameters, and responses ChatGPT Plugins Extend ChatGPT and Codex Sign in with ChatGPT Apps powered by your user's ChatGPT plan Commerce Build commerce flows in ChatGPT Ads Publish and measure ads in ChatGPT Workspace Agents Trigger published ChatGPT workspace agents ChatGPT + Codex user docs Guides and product docs for ChatGPT and Codex"
+        "excerpt": "uction Deploy and scale your API integrations API reference Explore endpoints, parameters, and responses ChatGPT Plugins Extend ChatGPT and Codex Sign in with ChatGPT Apps powered by your user's ChatGPT plan Commerce Build commerce flows in ChatGPT Agent Access Allow verified ChatGPT browser visits to your website Ads Publish and measure ads in ChatGPT Workspace Agents Trigger published ChatGPT workspace agents ChatG"
       },
       {
         "keyword": "ChatGPT",
@@ -140,7 +140,7 @@
       },
       {
         "keyword": "browser",
-        "excerpt": "iew Workflows Projects and chats Build plugins Visualizations Scheduled tasks Long-running work Notifications Pets Codex Micro Capabilities Browser Computer use Voice Composer Predictions Plugins Sign in with ChatGPT Web search Image generation Image inputs Appshots Browser extension Work with files Sites Overview Create a site Data and connections Publish and share Manage a site dots Meet dots Getting started Messag"
+        "excerpt": "Sign in with ChatGPT Apps powered by your user's ChatGPT plan Commerce Build commerce flows in ChatGPT Agent Access Allow verified ChatGPT browser visits to your website Ads Publish and measure ads in ChatGPT Workspace Agents Trigger published ChatGPT workspace agents ChatGPT + Codex user docs Guides and product docs for ChatGPT and Codex Use cases Example workflows and tasks teams can take on with ChatGPT or Codex"
       },
       {
         "keyword": "CLI",
@@ -148,11 +148,11 @@
       },
       {
         "keyword": "IDE",
-        "excerpt": "s in ChatGPT Ads Publish and measure ads in ChatGPT Workspace Agents Trigger published ChatGPT workspace agents ChatGPT + Codex user docs Guides and product docs for ChatGPT and Codex Use cases Example workflows and tasks teams can take on with ChatGPT or Codex Docs Use cases Training Resources Resources Showcase Demo apps to get inspired Blog Learnings and experiences from developers Cookbook Notebook examples for b"
+        "excerpt": "your website Ads Publish and measure ads in ChatGPT Workspace Agents Trigger published ChatGPT workspace agents ChatGPT + Codex user docs Guides and product docs for ChatGPT and Codex Use cases Example workflows and tasks teams can take on with ChatGPT or Codex Docs Use cases Training Resources Resources Showcase Demo apps to get inspired Blog Learnings and experiences from developers Cookbook Notebook examples for b"
       },
       {
         "keyword": "GitHub",
-        "excerpt": "LS Workload identity federation Federation rules X.509 certificates Kubernetes AWS Microsoft Azure Google Cloud Oracle Cloud Infrastructure GitHub Actions SPIFFE Idira IP egress ranges Operations Rate limits Spend limits Admin APIs Error codes Overview Plugins Sign in with ChatGPT Commerce Ads Workspace Agents ChatGPT + Codex user docs Use cases Docs Overview Home Quickstart Core concepts Plugin architecture Skills M"
+        "excerpt": "LS Workload identity federation Federation rules X.509 certificates Kubernetes AWS Microsoft Azure Google Cloud Oracle Cloud Infrastructure GitHub Actions SPIFFE Idira IP egress ranges Operations Rate limits Spend limits Admin APIs Error codes Overview Plugins Sign in with ChatGPT Commerce Agent Access Ads Workspace Agents ChatGPT + Codex user docs Use cases Docs Overview Home Quickstart Core concepts Plugin architec"
       },
       {
         "keyword": "MCP",
@@ -160,7 +160,7 @@
       },
       {
         "keyword": "plugins",
-        "excerpt": "time voice experiences Production Deploy and scale your API integrations API reference Explore endpoints, parameters, and responses ChatGPT Plugins Extend ChatGPT and Codex Sign in with ChatGPT Apps powered by your user's ChatGPT plan Commerce Build commerce flows in ChatGPT Ads Publish and measure ads in ChatGPT Workspace Agents Trigger published ChatGPT workspace agents ChatGPT + Codex user docs Guides and product"
+        "excerpt": "time voice experiences Production Deploy and scale your API integrations API reference Explore endpoints, parameters, and responses ChatGPT Plugins Extend ChatGPT and Codex Sign in with ChatGPT Apps powered by your user's ChatGPT plan Commerce Build commerce flows in ChatGPT Agent Access Allow verified ChatGPT browser visits to your website Ads Publish and measure ads in ChatGPT Workspace Agents Trigger published Cha"
       },
       {
         "keyword": "skills",
@@ -207,14 +207,14 @@
         "excerpt": "& Budgets Targeting Product Feeds Hotel Feeds (limited beta) Conversion Tracking Reporting Troubleshooting Account Management API Reference Authentication Ad Account Audit Logs Campaigns Ad Groups Ads Insights Files Conversion Setup Home Get started Trigger workspace agent runs Authenticate with Workspace Agent access tokens Overview Features Configuration Developers Security Administration Use Cases Resources Docs O"
       }
     ],
-    "text_sample": "ChatGPT desktop app | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT Start searching API Dashboard Try ChatGPT Theme Light Dark System Home API Overview Get started with the OpenAI API Models Explore models and compare capabilities Agents Build persistent agents on hosted infrastructure Tools Connect models to tools and data Audio & voice Build speech and realtime voice experiences Production Deploy and scale your API integrations API reference Explore endpoints, parameters, and responses ChatGPT Plugins Extend ChatGPT and Codex Sign in with ChatGPT Apps powered by your user's ChatGPT plan Commerce Build commerce flows in ChatGPT Ads Publish and measure ads in ChatGPT Workspace Agents Trigger published ChatGPT workspace agents ChatGPT + Codex user docs Guides and product docs for ChatGPT and Codex Use cases Example workflows and tasks teams can take on with ChatGPT or Codex Docs Use cases Training Resources Resources Showcase Demo apps to get inspired Blog Learnings and experiences from developers Cookbook Notebook examples for building with OpenAI models Learn Docs, videos, and demo apps for building with OpenAI Community Programs, meetups, and support for builders Overview Features Configuration Developers Security Administration Use Cases Resources Search the "
+    "text_sample": "ChatGPT desktop app | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT Start searching API Dashboard Try ChatGPT Theme Light Dark System Home API Overview Get started with the OpenAI API Models Explore models and compare capabilities Agents Build persistent agents on hosted infrastructure Tools Connect models to tools and data Audio & voice Build speech and realtime voice experiences Production Deploy and scale your API integrations API reference Explore endpoints, parameters, and responses ChatGPT Plugins Extend ChatGPT and Codex Sign in with ChatGPT Apps powered by your user's ChatGPT plan Commerce Build commerce flows in ChatGPT Agent Access Allow verified ChatGPT browser visits to your website Ads Publish and measure ads in ChatGPT Workspace Agents Trigger published ChatGPT workspace agents ChatGPT + Codex user docs Guides and product docs for ChatGPT and Codex Use cases Example workflows and tasks teams can take on with ChatGPT or Codex Docs Use cases Training Resources Resources Showcase Demo apps to get inspired Blog Learnings and experiences from developers Cookbook Notebook examples for building with OpenAI models Learn Docs, videos, and demo apps for building with OpenAI Community Programs, meetups, and support for builders Overview Features Configuration"
   },
   {
     "id": "codex_cli",
     "title": "Codex CLI",
     "url": "https://developers.openai.com/codex/cli",
     "type": "official",
-    "fetched_at": "20261113T062952Z",
+    "fetched_at": "20261114T060900Z",
     "status": 200,
     "error": null,
     "page_title": "Codex CLI | ChatGPT Learn",
@@ -245,7 +245,7 @@
       },
       {
         "keyword": "browser",
-        "excerpt": "iew Workflows Projects and chats Build plugins Visualizations Scheduled tasks Long-running work Notifications Pets Codex Micro Capabilities Browser Computer use Voice Composer Predictions Plugins Sign in with ChatGPT Web search Image generation Image inputs Appshots Browser extension Work with files Sites Overview Create a site Data and connections Publish and share Manage a site dots Meet dots Getting started Messag"
+        "excerpt": "Sign in with ChatGPT Apps powered by your user's ChatGPT plan Commerce Build commerce flows in ChatGPT Agent Access Allow verified ChatGPT browser visits to your website Ads Publish and measure ads in ChatGPT Workspace Agents Trigger published ChatGPT workspace agents ChatGPT + Codex user docs Guides and product docs for ChatGPT and Codex Use cases Example workflows and tasks teams can take on with ChatGPT or Codex"
       },
       {
         "keyword": "CLI",
@@ -253,11 +253,11 @@
       },
       {
         "keyword": "IDE",
-        "excerpt": "s in ChatGPT Ads Publish and measure ads in ChatGPT Workspace Agents Trigger published ChatGPT workspace agents ChatGPT + Codex user docs Guides and product docs for ChatGPT and Codex Use cases Example workflows and tasks teams can take on with ChatGPT or Codex Docs Use cases Training Resources Resources Showcase Demo apps to get inspired Blog Learnings and experiences from developers Cookbook Notebook examples for b"
+        "excerpt": "your website Ads Publish and measure ads in ChatGPT Workspace Agents Trigger published ChatGPT workspace agents ChatGPT + Codex user docs Guides and product docs for ChatGPT and Codex Use cases Example workflows and tasks teams can take on with ChatGPT or Codex Docs Use cases Training Resources Resources Showcase Demo apps to get inspired Blog Learnings and experiences from developers Cookbook Notebook examples for b"
       },
       {
         "keyword": "GitHub",
-        "excerpt": "LS Workload identity federation Federation rules X.509 certificates Kubernetes AWS Microsoft Azure Google Cloud Oracle Cloud Infrastructure GitHub Actions SPIFFE Idira IP egress ranges Operations Rate limits Spend limits Admin APIs Error codes Overview Plugins Sign in with ChatGPT Commerce Ads Workspace Agents ChatGPT + Codex user docs Use cases Docs Overview Home Quickstart Core concepts Plugin architecture Skills M"
+        "excerpt": "LS Workload identity federation Federation rules X.509 certificates Kubernetes AWS Microsoft Azure Google Cloud Oracle Cloud Infrastructure GitHub Actions SPIFFE Idira IP egress ranges Operations Rate limits Spend limits Admin APIs Error codes Overview Plugins Sign in with ChatGPT Commerce Agent Access Ads Workspace Agents ChatGPT + Codex user docs Use cases Docs Overview Home Quickstart Core concepts Plugin architec"
       },
       {
         "keyword": "MCP",
@@ -265,7 +265,7 @@
       },
       {
         "keyword": "plugins",
-        "excerpt": "time voice experiences Production Deploy and scale your API integrations API reference Explore endpoints, parameters, and responses ChatGPT Plugins Extend ChatGPT and Codex Sign in with ChatGPT Apps powered by your user's ChatGPT plan Commerce Build commerce flows in ChatGPT Ads Publish and measure ads in ChatGPT Workspace Agents Trigger published ChatGPT workspace agents ChatGPT + Codex user docs Guides and product"
+        "excerpt": "time voice experiences Production Deploy and scale your API integrations API reference Explore endpoints, parameters, and responses ChatGPT Plugins Extend ChatGPT and Codex Sign in with ChatGPT Apps powered by your user's ChatGPT plan Commerce Build commerce flows in ChatGPT Agent Access Allow verified ChatGPT browser visits to your website Ads Publish and measure ads in ChatGPT Workspace Agents Trigger published Cha"
       },
       {
         "keyword": "skills",
@@ -312,14 +312,14 @@
         "excerpt": "& Budgets Targeting Product Feeds Hotel Feeds (limited beta) Conversion Tracking Reporting Troubleshooting Account Management API Reference Authentication Ad Account Audit Logs Campaigns Ad Groups Ads Insights Files Conversion Setup Home Get started Trigger workspace agent runs Authenticate with Workspace Agent access tokens Overview Features Configuration Developers Security Administration Use Cases Resources Docs O"
       }
     ],
-    "text_sample": "Codex CLI | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT Start searching API Dashboard Try ChatGPT Theme Light Dark System Home API Overview Get started with the OpenAI API Models Explore models and compare capabilities Agents Build persistent agents on hosted infrastructure Tools Connect models to tools and data Audio & voice Build speech and realtime voice experiences Production Deploy and scale your API integrations API reference Explore endpoints, parameters, and responses ChatGPT Plugins Extend ChatGPT and Codex Sign in with ChatGPT Apps powered by your user's ChatGPT plan Commerce Build commerce flows in ChatGPT Ads Publish and measure ads in ChatGPT Workspace Agents Trigger published ChatGPT workspace agents ChatGPT + Codex user docs Guides and product docs for ChatGPT and Codex Use cases Example workflows and tasks teams can take on with ChatGPT or Codex Docs Use cases Training Resources Resources Showcase Demo apps to get inspired Blog Learnings and experiences from developers Cookbook Notebook examples for building with OpenAI models Learn Docs, videos, and demo apps for building with OpenAI Community Programs, meetups, and support for builders Overview Features Configuration Developers Security Administration Use Cases Resources Search the docs Searc"
+    "text_sample": "Codex CLI | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT Start searching API Dashboard Try ChatGPT Theme Light Dark System Home API Overview Get started with the OpenAI API Models Explore models and compare capabilities Agents Build persistent agents on hosted infrastructure Tools Connect models to tools and data Audio & voice Build speech and realtime voice experiences Production Deploy and scale your API integrations API reference Explore endpoints, parameters, and responses ChatGPT Plugins Extend ChatGPT and Codex Sign in with ChatGPT Apps powered by your user's ChatGPT plan Commerce Build commerce flows in ChatGPT Agent Access Allow verified ChatGPT browser visits to your website Ads Publish and measure ads in ChatGPT Workspace Agents Trigger published ChatGPT workspace agents ChatGPT + Codex user docs Guides and product docs for ChatGPT and Codex Use cases Example workflows and tasks teams can take on with ChatGPT or Codex Docs Use cases Training Resources Resources Showcase Demo apps to get inspired Blog Learnings and experiences from developers Cookbook Notebook examples for building with OpenAI models Learn Docs, videos, and demo apps for building with OpenAI Community Programs, meetups, and support for builders Overview Features Configuration Developer"
   },
   {
     "id": "codex_ide",
     "title": "Codex IDE",
     "url": "https://developers.openai.com/codex/ide",
     "type": "official",
-    "fetched_at": "20261113T062952Z",
+    "fetched_at": "20261114T060900Z",
     "status": 200,
     "error": null,
     "page_title": "Codex IDE extension | ChatGPT Learn",
@@ -350,7 +350,7 @@
       },
       {
         "keyword": "browser",
-        "excerpt": "iew Workflows Projects and chats Build plugins Visualizations Scheduled tasks Long-running work Notifications Pets Codex Micro Capabilities Browser Computer use Voice Composer Predictions Plugins Sign in with ChatGPT Web search Image generation Image inputs Appshots Browser extension Work with files Sites Overview Create a site Data and connections Publish and share Manage a site dots Meet dots Getting started Messag"
+        "excerpt": "Sign in with ChatGPT Apps powered by your user's ChatGPT plan Commerce Build commerce flows in ChatGPT Agent Access Allow verified ChatGPT browser visits to your website Ads Publish and measure ads in ChatGPT Workspace Agents Trigger published ChatGPT workspace agents ChatGPT + Codex user docs Guides and product docs for ChatGPT and Codex Use cases Example workflows and tasks teams can take on with ChatGPT or Codex"
       },
       {
         "keyword": "CLI",
@@ -362,7 +362,7 @@
       },
       {
         "keyword": "GitHub",
-        "excerpt": "LS Workload identity federation Federation rules X.509 certificates Kubernetes AWS Microsoft Azure Google Cloud Oracle Cloud Infrastructure GitHub Actions SPIFFE Idira IP egress ranges Operations Rate limits Spend limits Admin APIs Error codes Overview Plugins Sign in with ChatGPT Commerce Ads Workspace Agents ChatGPT + Codex user docs Use cases Docs Overview Home Quickstart Core concepts Plugin architecture Skills M"
+        "excerpt": "LS Workload identity federation Federation rules X.509 certificates Kubernetes AWS Microsoft Azure Google Cloud Oracle Cloud Infrastructure GitHub Actions SPIFFE Idira IP egress ranges Operations Rate limits Spend limits Admin APIs Error codes Overview Plugins Sign in with ChatGPT Commerce Agent Access Ads Workspace Agents ChatGPT + Codex user docs Use cases Docs Overview Home Quickstart Core concepts Plugin architec"
       },
       {
         "keyword": "MCP",
@@ -370,7 +370,7 @@
       },
       {
         "keyword": "plugins",
-        "excerpt": "time voice experiences Production Deploy and scale your API integrations API reference Explore endpoints, parameters, and responses ChatGPT Plugins Extend ChatGPT and Codex Sign in with ChatGPT Apps powered by your user's ChatGPT plan Commerce Build commerce flows in ChatGPT Ads Publish and measure ads in ChatGPT Workspace Agents Trigger published ChatGPT workspace agents ChatGPT + Codex user docs Guides and product"
+        "excerpt": "time voice experiences Production Deploy and scale your API integrations API reference Explore endpoints, parameters, and responses ChatGPT Plugins Extend ChatGPT and Codex Sign in with ChatGPT Apps powered by your user's ChatGPT plan Commerce Build commerce flows in ChatGPT Agent Access Allow verified ChatGPT browser visits to your website Ads Publish and measure ads in ChatGPT Workspace Agents Trigger published Cha"
       },
       {
         "keyword": "skills",
@@ -417,21 +417,21 @@
         "excerpt": "& Budgets Targeting Product Feeds Hotel Feeds (limited beta) Conversion Tracking Reporting Troubleshooting Account Management API Reference Authentication Ad Account Audit Logs Campaigns Ad Groups Ads Insights Files Conversion Setup Home Get started Trigger workspace agent runs Authenticate with Workspace Agent access tokens Overview Features Configuration Developers Security Administration Use Cases Resources Docs O"
       }
     ],
-    "text_sample": "Codex IDE extension | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT Start searching API Dashboard Try ChatGPT Theme Light Dark System Home API Overview Get started with the OpenAI API Models Explore models and compare capabilities Agents Build persistent agents on hosted infrastructure Tools Connect models to tools and data Audio & voice Build speech and realtime voice experiences Production Deploy and scale your API integrations API reference Explore endpoints, parameters, and responses ChatGPT Plugins Extend ChatGPT and Codex Sign in with ChatGPT Apps powered by your user's ChatGPT plan Commerce Build commerce flows in ChatGPT Ads Publish and measure ads in ChatGPT Workspace Agents Trigger published ChatGPT workspace agents ChatGPT + Codex user docs Guides and product docs for ChatGPT and Codex Use cases Example workflows and tasks teams can take on with ChatGPT or Codex Docs Use cases Training Resources Resources Showcase Demo apps to get inspired Blog Learnings and experiences from developers Cookbook Notebook examples for building with OpenAI models Learn Docs, videos, and demo apps for building with OpenAI Community Programs, meetups, and support for builders Overview Features Configuration Developers Security Administration Use Cases Resources Search the "
+    "text_sample": "Codex IDE extension | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT Start searching API Dashboard Try ChatGPT Theme Light Dark System Home API Overview Get started with the OpenAI API Models Explore models and compare capabilities Agents Build persistent agents on hosted infrastructure Tools Connect models to tools and data Audio & voice Build speech and realtime voice experiences Production Deploy and scale your API integrations API reference Explore endpoints, parameters, and responses ChatGPT Plugins Extend ChatGPT and Codex Sign in with ChatGPT Apps powered by your user's ChatGPT plan Commerce Build commerce flows in ChatGPT Agent Access Allow verified ChatGPT browser visits to your website Ads Publish and measure ads in ChatGPT Workspace Agents Trigger published ChatGPT workspace agents ChatGPT + Codex user docs Guides and product docs for ChatGPT and Codex Use cases Example workflows and tasks teams can take on with ChatGPT or Codex Docs Use cases Training Resources Resources Showcase Demo apps to get inspired Blog Learnings and experiences from developers Cookbook Notebook examples for building with OpenAI models Learn Docs, videos, and demo apps for building with OpenAI Community Programs, meetups, and support for builders Overview Features Configuration"
   },
   {
     "id": "codex_auth",
     "title": "Codex Authentication",
     "url": "https://developers.openai.com/codex/auth",
     "type": "official",
-    "fetched_at": "20261113T062952Z",
+    "fetched_at": "20261114T060900Z",
     "status": 200,
     "error": null,
     "page_title": "Authentication | ChatGPT Learn",
     "hits": [
       {
         "keyword": "Codex",
-        "excerpt": "uction Deploy and scale your API integrations API reference Explore endpoints, parameters, and responses ChatGPT Plugins Extend ChatGPT and Codex Sign in with ChatGPT Apps powered by your user's ChatGPT plan Commerce Build commerce flows in ChatGPT Ads Publish and measure ads in ChatGPT Workspace Agents Trigger published ChatGPT workspace agents ChatGPT + Codex user docs Guides and product docs for ChatGPT and Codex"
+        "excerpt": "uction Deploy and scale your API integrations API reference Explore endpoints, parameters, and responses ChatGPT Plugins Extend ChatGPT and Codex Sign in with ChatGPT Apps powered by your user's ChatGPT plan Commerce Build commerce flows in ChatGPT Agent Access Allow verified ChatGPT browser visits to your website Ads Publish and measure ads in ChatGPT Workspace Agents Trigger published ChatGPT workspace agents ChatG"
       },
       {
         "keyword": "ChatGPT",
@@ -455,7 +455,7 @@
       },
       {
         "keyword": "browser",
-        "excerpt": "iew Workflows Projects and chats Build plugins Visualizations Scheduled tasks Long-running work Notifications Pets Codex Micro Capabilities Browser Computer use Voice Composer Predictions Plugins Sign in with ChatGPT Web search Image generation Image inputs Appshots Browser extension Work with files Sites Overview Create a site Data and connections Publish and share Manage a site dots Meet dots Getting started Messag"
+        "excerpt": "Sign in with ChatGPT Apps powered by your user's ChatGPT plan Commerce Build commerce flows in ChatGPT Agent Access Allow verified ChatGPT browser visits to your website Ads Publish and measure ads in ChatGPT Workspace Agents Trigger published ChatGPT workspace agents ChatGPT + Codex user docs Guides and product docs for ChatGPT and Codex Use cases Example workflows and tasks teams can take on with ChatGPT or Codex"
       },
       {
         "keyword": "CLI",
@@ -463,11 +463,11 @@
       },
       {
         "keyword": "IDE",
-        "excerpt": "s in ChatGPT Ads Publish and measure ads in ChatGPT Workspace Agents Trigger published ChatGPT workspace agents ChatGPT + Codex user docs Guides and product docs for ChatGPT and Codex Use cases Example workflows and tasks teams can take on with ChatGPT or Codex Docs Use cases Training Resources Resources Showcase Demo apps to get inspired Blog Learnings and experiences from developers Cookbook Notebook examples for b"
+        "excerpt": "your website Ads Publish and measure ads in ChatGPT Workspace Agents Trigger published ChatGPT workspace agents ChatGPT + Codex user docs Guides and product docs for ChatGPT and Codex Use cases Example workflows and tasks teams can take on with ChatGPT or Codex Docs Use cases Training Resources Resources Showcase Demo apps to get inspired Blog Learnings and experiences from developers Cookbook Notebook examples for b"
       },
       {
         "keyword": "GitHub",
-        "excerpt": "LS Workload identity federation Federation rules X.509 certificates Kubernetes AWS Microsoft Azure Google Cloud Oracle Cloud Infrastructure GitHub Actions SPIFFE Idira IP egress ranges Operations Rate limits Spend limits Admin APIs Error codes Overview Plugins Sign in with ChatGPT Commerce Ads Workspace Agents ChatGPT + Codex user docs Use cases Docs Overview Home Quickstart Core concepts Plugin architecture Skills M"
+        "excerpt": "LS Workload identity federation Federation rules X.509 certificates Kubernetes AWS Microsoft Azure Google Cloud Oracle Cloud Infrastructure GitHub Actions SPIFFE Idira IP egress ranges Operations Rate limits Spend limits Admin APIs Error codes Overview Plugins Sign in with ChatGPT Commerce Agent Access Ads Workspace Agents ChatGPT + Codex user docs Use cases Docs Overview Home Quickstart Core concepts Plugin architec"
       },
       {
         "keyword": "MCP",
@@ -475,7 +475,7 @@
       },
       {
         "keyword": "plugins",
-        "excerpt": "time voice experiences Production Deploy and scale your API integrations API reference Explore endpoints, parameters, and responses ChatGPT Plugins Extend ChatGPT and Codex Sign in with ChatGPT Apps powered by your user's ChatGPT plan Commerce Build commerce flows in ChatGPT Ads Publish and measure ads in ChatGPT Workspace Agents Trigger published ChatGPT workspace agents ChatGPT + Codex user docs Guides and product"
+        "excerpt": "time voice experiences Production Deploy and scale your API integrations API reference Explore endpoints, parameters, and responses ChatGPT Plugins Extend ChatGPT and Codex Sign in with ChatGPT Apps powered by your user's ChatGPT plan Commerce Build commerce flows in ChatGPT Agent Access Allow verified ChatGPT browser visits to your website Ads Publish and measure ads in ChatGPT Workspace Agents Trigger published Cha"
       },
       {
         "keyword": "skills",
@@ -522,21 +522,21 @@
         "excerpt": "Authentication | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT Start searching API Dashboard Try ChatGPT Theme Light Dark System Home API Overview Get started wit"
       }
     ],
-    "text_sample": "Authentication | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT Start searching API Dashboard Try ChatGPT Theme Light Dark System Home API Overview Get started with the OpenAI API Models Explore models and compare capabilities Agents Build persistent agents on hosted infrastructure Tools Connect models to tools and data Audio & voice Build speech and realtime voice experiences Production Deploy and scale your API integrations API reference Explore endpoints, parameters, and responses ChatGPT Plugins Extend ChatGPT and Codex Sign in with ChatGPT Apps powered by your user's ChatGPT plan Commerce Build commerce flows in ChatGPT Ads Publish and measure ads in ChatGPT Workspace Agents Trigger published ChatGPT workspace agents ChatGPT + Codex user docs Guides and product docs for ChatGPT and Codex Use cases Example workflows and tasks teams can take on with ChatGPT or Codex Docs Use cases Training Resources Resources Showcase Demo apps to get inspired Blog Learnings and experiences from developers Cookbook Notebook examples for building with OpenAI models Learn Docs, videos, and demo apps for building with OpenAI Community Programs, meetups, and support for builders Overview Features Configuration Developers Security Administration Use Cases Resources Search the docs "
+    "text_sample": "Authentication | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT Start searching API Dashboard Try ChatGPT Theme Light Dark System Home API Overview Get started with the OpenAI API Models Explore models and compare capabilities Agents Build persistent agents on hosted infrastructure Tools Connect models to tools and data Audio & voice Build speech and realtime voice experiences Production Deploy and scale your API integrations API reference Explore endpoints, parameters, and responses ChatGPT Plugins Extend ChatGPT and Codex Sign in with ChatGPT Apps powered by your user's ChatGPT plan Commerce Build commerce flows in ChatGPT Agent Access Allow verified ChatGPT browser visits to your website Ads Publish and measure ads in ChatGPT Workspace Agents Trigger published ChatGPT workspace agents ChatGPT + Codex user docs Guides and product docs for ChatGPT and Codex Use cases Example workflows and tasks teams can take on with ChatGPT or Codex Docs Use cases Training Resources Resources Showcase Demo apps to get inspired Blog Learnings and experiences from developers Cookbook Notebook examples for building with OpenAI models Learn Docs, videos, and demo apps for building with OpenAI Community Programs, meetups, and support for builders Overview Features Configuration Deve"
   },
   {
     "id": "codex_config",
     "title": "Codex Config Reference",
     "url": "https://developers.openai.com/codex/config-reference",
     "type": "official",
-    "fetched_at": "20261113T062952Z",
+    "fetched_at": "20261114T060900Z",
     "status": 200,
     "error": null,
     "page_title": "Configuration Reference | ChatGPT Learn",
     "hits": [
       {
         "keyword": "Codex",
-        "excerpt": "uction Deploy and scale your API integrations API reference Explore endpoints, parameters, and responses ChatGPT Plugins Extend ChatGPT and Codex Sign in with ChatGPT Apps powered by your user's ChatGPT plan Commerce Build commerce flows in ChatGPT Ads Publish and measure ads in ChatGPT Workspace Agents Trigger published ChatGPT workspace agents ChatGPT + Codex user docs Guides and product docs for ChatGPT and Codex"
+        "excerpt": "uction Deploy and scale your API integrations API reference Explore endpoints, parameters, and responses ChatGPT Plugins Extend ChatGPT and Codex Sign in with ChatGPT Apps powered by your user's ChatGPT plan Commerce Build commerce flows in ChatGPT Agent Access Allow verified ChatGPT browser visits to your website Ads Publish and measure ads in ChatGPT Workspace Agents Trigger published ChatGPT workspace agents ChatG"
       },
       {
         "keyword": "ChatGPT",
@@ -560,7 +560,7 @@
       },
       {
         "keyword": "browser",
-        "excerpt": "iew Workflows Projects and chats Build plugins Visualizations Scheduled tasks Long-running work Notifications Pets Codex Micro Capabilities Browser Computer use Voice Composer Predictions Plugins Sign in with ChatGPT Web search Image generation Image inputs Appshots Browser extension Work with files Sites Overview Create a site Data and connections Publish and share Manage a site dots Meet dots Getting started Messag"
+        "excerpt": "Sign in with ChatGPT Apps powered by your user's ChatGPT plan Commerce Build commerce flows in ChatGPT Agent Access Allow verified ChatGPT browser visits to your website Ads Publish and measure ads in ChatGPT Workspace Agents Trigger published ChatGPT workspace agents ChatGPT + Codex user docs Guides and product docs for ChatGPT and Codex Use cases Example workflows and tasks teams can take on with ChatGPT or Codex"
       },
       {
         "keyword": "Chrome",
@@ -572,11 +572,11 @@
       },
       {
         "keyword": "IDE",
-        "excerpt": "s in ChatGPT Ads Publish and measure ads in ChatGPT Workspace Agents Trigger published ChatGPT workspace agents ChatGPT + Codex user docs Guides and product docs for ChatGPT and Codex Use cases Example workflows and tasks teams can take on with ChatGPT or Codex Docs Use cases Training Resources Resources Showcase Demo apps to get inspired Blog Learnings and experiences from developers Cookbook Notebook examples for b"
+        "excerpt": "your website Ads Publish and measure ads in ChatGPT Workspace Agents Trigger published ChatGPT workspace agents ChatGPT + Codex user docs Guides and product docs for ChatGPT and Codex Use cases Example workflows and tasks teams can take on with ChatGPT or Codex Docs Use cases Training Resources Resources Showcase Demo apps to get inspired Blog Learnings and experiences from developers Cookbook Notebook examples for b"
       },
       {
         "keyword": "GitHub",
-        "excerpt": "LS Workload identity federation Federation rules X.509 certificates Kubernetes AWS Microsoft Azure Google Cloud Oracle Cloud Infrastructure GitHub Actions SPIFFE Idira IP egress ranges Operations Rate limits Spend limits Admin APIs Error codes Overview Plugins Sign in with ChatGPT Commerce Ads Workspace Agents ChatGPT + Codex user docs Use cases Docs Overview Home Quickstart Core concepts Plugin architecture Skills M"
+        "excerpt": "LS Workload identity federation Federation rules X.509 certificates Kubernetes AWS Microsoft Azure Google Cloud Oracle Cloud Infrastructure GitHub Actions SPIFFE Idira IP egress ranges Operations Rate limits Spend limits Admin APIs Error codes Overview Plugins Sign in with ChatGPT Commerce Agent Access Ads Workspace Agents ChatGPT + Codex user docs Use cases Docs Overview Home Quickstart Core concepts Plugin architec"
       },
       {
         "keyword": "MCP",
@@ -584,7 +584,7 @@
       },
       {
         "keyword": "plugins",
-        "excerpt": "time voice experiences Production Deploy and scale your API integrations API reference Explore endpoints, parameters, and responses ChatGPT Plugins Extend ChatGPT and Codex Sign in with ChatGPT Apps powered by your user's ChatGPT plan Commerce Build commerce flows in ChatGPT Ads Publish and measure ads in ChatGPT Workspace Agents Trigger published ChatGPT workspace agents ChatGPT + Codex user docs Guides and product"
+        "excerpt": "time voice experiences Production Deploy and scale your API integrations API reference Explore endpoints, parameters, and responses ChatGPT Plugins Extend ChatGPT and Codex Sign in with ChatGPT Apps powered by your user's ChatGPT plan Commerce Build commerce flows in ChatGPT Agent Access Allow verified ChatGPT browser visits to your website Ads Publish and measure ads in ChatGPT Workspace Agents Trigger published Cha"
       },
       {
         "keyword": "skills",
@@ -631,14 +631,14 @@
         "excerpt": "& Budgets Targeting Product Feeds Hotel Feeds (limited beta) Conversion Tracking Reporting Troubleshooting Account Management API Reference Authentication Ad Account Audit Logs Campaigns Ad Groups Ads Insights Files Conversion Setup Home Get started Trigger workspace agent runs Authenticate with Workspace Agent access tokens Overview Features Configuration Developers Security Administration Use Cases Resources Docs C"
       }
     ],
-    "text_sample": "Configuration Reference | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT Start searching API Dashboard Try ChatGPT Theme Light Dark System Home API Overview Get started with the OpenAI API Models Explore models and compare capabilities Agents Build persistent agents on hosted infrastructure Tools Connect models to tools and data Audio & voice Build speech and realtime voice experiences Production Deploy and scale your API integrations API reference Explore endpoints, parameters, and responses ChatGPT Plugins Extend ChatGPT and Codex Sign in with ChatGPT Apps powered by your user's ChatGPT plan Commerce Build commerce flows in ChatGPT Ads Publish and measure ads in ChatGPT Workspace Agents Trigger published ChatGPT workspace agents ChatGPT + Codex user docs Guides and product docs for ChatGPT and Codex Use cases Example workflows and tasks teams can take on with ChatGPT or Codex Docs Use cases Training Resources Resources Showcase Demo apps to get inspired Blog Learnings and experiences from developers Cookbook Notebook examples for building with OpenAI models Learn Docs, videos, and demo apps for building with OpenAI Community Programs, meetups, and support for builders Overview Features Configuration Developers Security Administration Use Cases Resources Search "
+    "text_sample": "Configuration Reference | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT Start searching API Dashboard Try ChatGPT Theme Light Dark System Home API Overview Get started with the OpenAI API Models Explore models and compare capabilities Agents Build persistent agents on hosted infrastructure Tools Connect models to tools and data Audio & voice Build speech and realtime voice experiences Production Deploy and scale your API integrations API reference Explore endpoints, parameters, and responses ChatGPT Plugins Extend ChatGPT and Codex Sign in with ChatGPT Apps powered by your user's ChatGPT plan Commerce Build commerce flows in ChatGPT Agent Access Allow verified ChatGPT browser visits to your website Ads Publish and measure ads in ChatGPT Workspace Agents Trigger published ChatGPT workspace agents ChatGPT + Codex user docs Guides and product docs for ChatGPT and Codex Use cases Example workflows and tasks teams can take on with ChatGPT or Codex Docs Use cases Training Resources Resources Showcase Demo apps to get inspired Blog Learnings and experiences from developers Cookbook Notebook examples for building with OpenAI models Learn Docs, videos, and demo apps for building with OpenAI Community Programs, meetups, and support for builders Overview Features Configura"
   },
   {
     "id": "openai_codex_releases",
     "title": "openai/codex Releases",
     "url": "https://github.com/openai/codex/releases",
     "type": "github",
-    "fetched_at": "20261113T062952Z",
+    "fetched_at": "20261114T060900Z",
     "status": 200,
     "error": null,
     "page_title": "Releases · openai/codex · GitHub",
@@ -649,7 +649,7 @@
       },
       {
         "keyword": "ChatGPT",
-        "excerpt": "input from network access requests. ( #59256 ) Bug Fixes Local TUI history and resume pickers filter newly created threads by the signed-in ChatGPT account. ( #58918 ) Open and resumed chats use their saved model provider after you change the default for new chats. ( #59503 ) The TUI renders replies interrupted by tool calls as a single Markdown message and restores reasoning summaries when replaying a conversation."
+        "excerpt": "roval cancellations no longer interrupt a later turn. ( #59910 , #60700 ) Documentation Updated the openai-docs skill to focus on Codex and ChatGPT Work questions and first-time API setup, with dedicated guidance for configuring Codex across a team. ( #59944 , #59949 ) Documented how app-server clients can list models or authorize a gateway for a configured provider without changing the default provider. ( #59776 , #"
       },
       {
         "keyword": "agent",
@@ -657,19 +657,23 @@
       },
       {
         "keyword": "agents",
-        "excerpt": "gateway, Bedrock, and GCP settings. ( #58845 , #58876 ) Chores Codex warns when features.multi_agent is explicitly configured and points to agents.enabled for disabling subagent tools. ( #59479 ) Contributors can run Bazel CI jobs locally without BuildBuddy credentials. ( #59055 ) Changelog Full Changelog: rust-v0.167.0...rust-v0.168.0 #58766 Distinguish update handoffs in TUI startup telemetry @etraut-openai #58767"
+        "excerpt": "chin-openai #59769 Reuse decoded WebSocket event kinds in telemetry @charliemarsh-oai #59770 Add shared service-tier support for host-owned agents @rhan-oai #59772 Remove the legacy sandbox policy constructor @ioanbudea-OAI #59774 Remove the legacy Seatbelt command wrapper @ioanbudea-OAI #59776 Allow selecting a configured provider in model/list @abhinav-oai #59778 Expose acceptance metadata and code-cell links in ro"
       },
       {
         "keyword": "automation",
         "excerpt": "tory hosting, code review, and collaboration Copilot AI coding agent for tasks, projects, and automated work Build & Ship Actions CI/CD and automation Code Quality Quality analysis, fixes, and enforcement Codespaces Cloud development environments Secure Code Security Vulnerability detection and remediation Secret Protection Secret scanning and leak prevention All Features Developers Learn Documentation Training Certi"
       },
       {
+        "keyword": "browser",
+        "excerpt": "teway onboarding enabled, you can create a provider during sign-in and use a device code for supported gateways over SSH or without a local browser. ( #59779 , #60009 , #60186 , #60486 , #60662 ) Press Ctrl+S in the terminal report editor to save a diagnostic ZIP locally, even when uploads are disabled. ( #60542 ) With the opt-in Cloud connection on macOS and Linux, send images, choose a model and reasoning effort, a"
+      },
+      {
         "keyword": "CLI",
-        "excerpt": ", #59527 , #59595 ) Attach recordings when using an audio-capable model. Codex skips confirmed rejected recordings on later turns and uses clip duration to keep more short recordings in context. ( #59234 , #59268 ) Enable features.image_generation_animation to generate or edit animated GIFs with optional frame count and timing controls. ( #59073 ) Fullscreen Codex displays image previews and pets in tmux on Ghostty"
+        "excerpt": "directory has an unreadable parent. ( #60624 , #60647 ) Pasted images on macOS retain their intended orientation and use native PNG or JPEG clipboard data when available. ( #60455 ) The terminal no longer stays busy waiting for MCP servers that a shared app server did not report. ( #60280 , #60622 ) Interrupted turns now close cleanly, and delayed aborts or file approval cancellations no longer interrupt a later turn"
       },
       {
         "keyword": "IDE",
-        "excerpt": "a.1 0.170.0-alpha.4 0.170.0-alpha.3 0.170.0-alpha.2 0.167.2 0.170.0-alpha.1 0.169.0-alpha.11.1 0.169.0-alpha.11 0.167.0-alpha.4.3 Collapse sidebar Releases --> Releases · openai/codex 0.168.0 0.168.0 Latest Latest Compare Choose a tag to compare Sorry, something went wrong. Filter Loading Sorry, something went wrong. Uh oh! There was an error while loading. Please reload this page . No results found View all tags git"
+        "excerpt": "0 0.171.0-alpha.5 0.171.0-alpha.4 0.171.0-alpha.2 0.168.0 0.171.0-alpha.1 0.170.0-alpha.4 0.170.0-alpha.3 0.170.0-alpha.2 0.167.2 Collapse sidebar Releases --> Releases · openai/codex 0.169.0 0.169.0 Latest Latest Compare Choose a tag to compare Sorry, something went wrong. Filter Loading Sorry, something went wrong. Uh oh! There was an error while loading. Please reload this page . No results found View all tags git"
       },
       {
         "keyword": "GitHub",
@@ -677,7 +681,11 @@
       },
       {
         "keyword": "MCP",
-        "excerpt": "uzzy file search gives filename matches more weight so matching parent directories are less likely to crowd them out. ( #59709 ) Idle local MCP servers on Windows leave filesystem I/O available to the rest of Codex. ( #59726 ) Documentation The app-server reference covers listing model providers, creating custom gateways, and updating gateway, Bedrock, and GCP settings. ( #58845 , #58876 ) Chores Codex warns when fea"
+        "excerpt": "r restore Cloud conversations from the terminal. ( #59828 , #60061 , #60635 , #60651 ) Bug Fixes codex exec keeps project configuration and MCP servers disabled in untrusted directories, even with --sandbox workspace-write . Use --trust with codex exec or codex review to explicitly save project trust. ( #60041 ) Yes, clear context and implement now hands the full approved plan to the fresh session and keeps the curre"
+      },
+      {
+        "keyword": "skills",
+        "excerpt": "uidance for hosted tools @rhan-oai #60014 Honor managed runtime authentication modes and expand coverage @cooper-oai #60017 Disable bundled skills in the prompt-prefix comparison test @felixxia-oai #60018 Propagate turn triggers to usage analytics events @chrisdong-oai #60019 Add theme-aware semantic colors to extension UI trees @joesavona #60020 Strip terminal commands from UI tree strings @joesavona #60021 Normaliz"
       },
       {
         "keyword": "memory",
@@ -685,7 +693,7 @@
       },
       {
         "keyword": "model",
-        "excerpt": "lease reload this page . No results found View all tags github-actions released this 13 Nov 03:54 rust-v0.168.0 9480ec1 New Features Browse model providers under Sessions → Model providers and choose the default for new chats. ( #59541 , #59722 ) Enable features.tui_workspace to view a side conversation beside the main chat. Drag the divider to resize the panes or press leader z to zoom the focused pane. ( #58992 , #"
+        "excerpt": "vity beneath each prompt while keeping answers visible and tool output searchable. ( #60554 , #60555 , #60556 , #60557 ) Add or edit custom model providers from the terminal. With custom gateway onboarding enabled, you can create a provider during sign-in and use a device code for supported gateways over SSH or without a local browser. ( #59779 , #60009 , #60186 , #60486 , #60662 ) Press Ctrl+S in the terminal report"
       },
       {
         "keyword": "release",
@@ -701,11 +709,11 @@
       },
       {
         "keyword": "config",
-        "excerpt": "m gateways, and updating gateway, Bedrock, and GCP settings. ( #58845 , #58876 ) Chores Codex warns when features.multi_agent is explicitly configured and points to agents.enabled for disabling subagent tools. ( #59479 ) Contributors can run Bazel CI jobs locally without BuildBuddy credentials. ( #59055 ) Changelog Full Changelog: rust-v0.167.0...rust-v0.168.0 #58766 Distinguish update handoffs in TUI startup telemet"
+        "excerpt": "ort, and archive or restore Cloud conversations from the terminal. ( #59828 , #60061 , #60635 , #60651 ) Bug Fixes codex exec keeps project configuration and MCP servers disabled in untrusted directories, even with --sandbox workspace-write . Use --trust with codex exec or codex review to explicitly save project trust. ( #60041 ) Yes, clear context and implement now hands the full approved plan to the fresh session a"
       },
       {
         "keyword": "authentication",
-        "excerpt": "valenko-oai #59016 Make observed thread metadata writes atomic and retryable @dkovalenko-oai #59018 Add WebSocket connection metrics with reauthentication labels @bromano-oai #59020 Preserve sandbox context in prepared MCP calls @sayan-oai #59021 Allow concurrent readers of the installation ID @dkovalenko-oai #59025 Remove strict third-party tool deferral in Code Mode Only @rishab-openai #59028 Use prepared MCP owner"
+        "excerpt": "0 #59739 Add a sidebar chooser and floating workspace shortcut panels @fcoury-oai #59743 Forward explicit cyber access programs with header authentication @jamy-OAI #59745 Repair legacy Windows sandbox bin permissions for SYSTEM @zm-oai #59746 Add typed Cloud user-message submission receipts @bc-openai #59749 Use runtime authentication for OpenAI MCP and app requests @cooper-oai #59750 Stop Noise relay recovery on re"
       }
     ],
     "text_sample": "Releases · openai/codex · GitHub Skip to content Navigation Menu Sign in Products Platform GitHub Repository hosting, code review, and collaboration Copilot AI coding agent for tasks, projects, and automated work Build & Ship Actions CI/CD and automation Code Quality Quality analysis, fixes, and enforcement Codespaces Cloud development environments Secure Code Security Vulnerability detection and remediation Secret Protection Secret scanning and leak prevention All Features Developers Learn Documentation Training Certifications Build Build with Copilot Customize Copilot Integrations Explore Trending repos GitHub Sponsors Developer articles Changelog Changelog Your source for the latest features, improvements, and fixes across GitHub products, all in one place. Businesses By Stage Enterprises Team Startups Nonprofits By Industry Healthcare Financial services Manufacturing Government See all industries Evaluate GitHub Why GitHub Customer Stories Business insights Trust Center Add-ons GitHub Advanced Security Enterprise-grade code security Copilot for business Enterprise-grade AI features Premium Support Enterprise-grade 24/7 support Resources Learn & Connect Documentation Resource center Blog Events & webinars Community Forum Customer Stories Integrations Support Customer support Training GitHub Status Company About Partners Changelog GitHub Universe GitHub Universe The event for"
@@ -715,7 +723,7 @@
     "title": "ChatGPT Release Notes",
     "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
     "type": "official",
-    "fetched_at": "20261113T062952Z",
+    "fetched_at": "20261114T060900Z",
     "status": 403,
     "error": "HTTP Error 403: Forbidden",
     "hits": [],
@@ -726,7 +734,7 @@
     "title": "OpenAI News",
     "url": "https://openai.com/news/",
     "type": "industry",
-    "fetched_at": "20261113T062952Z",
+    "fetched_at": "20261114T060900Z",
     "status": 403,
     "error": "HTTP Error 403: Forbidden",
     "hits": [],
@@ -737,7 +745,7 @@
     "title": "OpenAI Research",
     "url": "https://openai.com/research/",
     "type": "industry",
-    "fetched_at": "20261113T062952Z",
+    "fetched_at": "20261114T060900Z",
     "status": 403,
     "error": "HTTP Error 403: Forbidden",
     "hits": [],
@@ -748,7 +756,7 @@
     "title": "GitHub AI & ML Blog",
     "url": "https://github.blog/ai-and-ml/",
     "type": "industry",
-    "fetched_at": "20261113T062952Z",
+    "fetched_at": "20261114T060900Z",
     "status": 200,
     "error": null,
     "page_title": "The latest on AI & ML - The GitHub Blog",
@@ -805,7 +813,7 @@
     "title": "GitHub Changelog",
     "url": "https://github.blog/changelog/",
     "type": "industry",
-    "fetched_at": "20261113T062952Z",
+    "fetched_at": "20261114T060900Z",
     "status": 200,
     "error": null,
     "page_title": "GitHub Changelog",
@@ -816,7 +824,7 @@
       },
       {
         "keyword": "CLI",
-        "excerpt": "vements Retired Filters ( 0 selected ) Clear all Filters ( 0 selected ) Match: Any All Tags Account management Actions Application Security Client apps Collaboration tools Community engagement Copilot Ecosystem & accessibility Enterprise management tools Platform governance Projects & Issues Supply chain security Universe ‘26 Clear all Apply November Nov 2026 November Nov 2026 Nov.12 Retired Actions for ARM32 Linux &"
+        "excerpt": "vements Retired Filters ( 0 selected ) Clear all Filters ( 0 selected ) Match: Any All Tags Account management Actions Application Security Client apps Collaboration tools Community engagement Copilot Ecosystem & accessibility Enterprise management tools Platform governance Projects & Issues Supply chain security Universe ‘26 Clear all Apply November Nov 2026 November Nov 2026 Nov.13 Retired Upcoming deprecation of s"
       },
       {
         "keyword": "IDE",
@@ -828,7 +836,7 @@
       },
       {
         "keyword": "model",
-        "excerpt": "rity Nov.04 Release GitHub Copilot is now available in Xcode&#8217;s coding assistant copilot Nov.03 Improvement BYOK and enterprise custom models in the Copilot usage API account management copilot enterprise management tools ... +2 Nov.03 Improvement Dependabot version updates support Agent Package Manager supply chain security Nov.03 Release Look up a resource&#8217;s cost center with the GitHub REST API account m"
+        "excerpt": "in security Universe ‘26 Clear all Apply November Nov 2026 November Nov 2026 Nov.13 Retired Upcoming deprecation of selected GitHub Copilot models in December copilot Nov.13 Release GitHub Enterprise Server support in the GitHub Copilot app copilot Nov.13 Release Gemini 4 Hydrogen in GitHub Copilot copilot Nov.13 Improvement Manage AI Scan for repositories using the REST API application security Nov.12 Retired Action"
       },
       {
         "keyword": "release",
@@ -840,7 +848,7 @@
       },
       {
         "keyword": "Gemini",
-        "excerpt": "sues Nov.10 Improvement GitHub App support for Enterprise Copilot seat management copilot enterprise management tools ... +1 Nov.10 Release Gemini 4 Carbon in GitHub Copilot copilot Nov.10 Improvement C++ language server now auto-configures MSBuild builds copilot Nov.10 Improvement Dependabot alerts will pause on inactive repositories supply chain security Nov.10 Improvement A more informative GitHub dashboard collab"
+        "excerpt": "GitHub Copilot models in December copilot Nov.13 Release GitHub Enterprise Server support in the GitHub Copilot app copilot Nov.13 Release Gemini 4 Hydrogen in GitHub Copilot copilot Nov.13 Improvement Manage AI Scan for repositories using the REST API application security Nov.12 Retired Actions for ARM32 Linux & Windows retirement actions Nov.12 Improvement Secret scanning detects Cloudflare service tokens applicat"
       },
       {
         "keyword": "Claude",
@@ -859,14 +867,14 @@
         "excerpt": "on security Nov.03 Improvement Dependabot now supports Python 3.15 supply chain security Nov.02 Improvement GitHub Desktop adds short-lived authentication tokens account management application security client apps ... +2 Nov.02 Improvement Security risk assessments include repository protection status application security Nov.02 Retired pull_request_target blocked by default December 2 actions application security .."
       }
     ],
-    "text_sample": "GitHub Changelog Skip to content / Blog Changelog Docs Customer stories Try GitHub Copilot app See what&#039;s new Search Changelog Docs Customer stories See what&#039;s new Try GitHub Copilot app Back to blog Changelog Copy RSS feed URL Follow @ghchangelog on X All New Releases Improvements Retired Filters ( 0 selected ) Clear all Filters ( 0 selected ) Match: Any All Tags Account management Actions Application Security Client apps Collaboration tools Community engagement Copilot Ecosystem & accessibility Enterprise management tools Platform governance Projects & Issues Supply chain security Universe ‘26 Clear all Apply November Nov 2026 November Nov 2026 Nov.12 Retired Actions for ARM32 Linux & Windows retirement actions Nov.12 Improvement Secret scanning detects Cloudflare service tokens application security Nov.12 Improvement Public monitoring alerts now have direct links application security Nov.11 Improvement Issue types and fields are available for personal accounts projects & issues Nov.10 Improvement GitHub App support for Enterprise Copilot seat management copilot enterprise management tools ... +1 Nov.10 Release Gemini 4 Carbon in GitHub Copilot copilot Nov.10 Improvement C++ language server now auto-configures MSBuild builds copilot Nov.10 Improvement Dependabot alerts will pause on inactive repositories supply chain security Nov.10 Improvement A more informative Gi"
+    "text_sample": "GitHub Changelog Skip to content / Blog Changelog Docs Customer stories Try GitHub Copilot app See what&#039;s new Search Changelog Docs Customer stories See what&#039;s new Try GitHub Copilot app Back to blog Changelog Copy RSS feed URL Follow @ghchangelog on X All New Releases Improvements Retired Filters ( 0 selected ) Clear all Filters ( 0 selected ) Match: Any All Tags Account management Actions Application Security Client apps Collaboration tools Community engagement Copilot Ecosystem & accessibility Enterprise management tools Platform governance Projects & Issues Supply chain security Universe ‘26 Clear all Apply November Nov 2026 November Nov 2026 Nov.13 Retired Upcoming deprecation of selected GitHub Copilot models in December copilot Nov.13 Release GitHub Enterprise Server support in the GitHub Copilot app copilot Nov.13 Release Gemini 4 Hydrogen in GitHub Copilot copilot Nov.13 Improvement Manage AI Scan for repositories using the REST API application security Nov.12 Retired Actions for ARM32 Linux & Windows retirement actions Nov.12 Improvement Secret scanning detects Cloudflare service tokens application security Nov.12 Improvement Public monitoring alerts now have direct links application security Nov.11 Improvement Issue types and fields are available for personal accounts projects & issues Nov.10 Improvement GitHub App support for Enterprise Copilot seat manage"
   },
   {
     "id": "anthropic_news",
     "title": "Anthropic News",
     "url": "https://www.anthropic.com/news",
     "type": "industry",
-    "fetched_at": "20261113T062952Z",
+    "fetched_at": "20261114T060900Z",
     "status": 200,
     "error": null,
     "page_title": "Newsroom \\ Anthropic",
@@ -905,7 +913,7 @@
       },
       {
         "keyword": "model",
-        "excerpt": "Try Claude News Latest news November 13, 2026 Announcements Nov 9, 2026 Introducing Claude Fable 5.2 and Claude Mythos 5.2 Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences. Announcements Oct 18, 2026 Investing in the public benefit We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new e"
+        "excerpt": "Try Claude News Latest news November 14, 2026 Announcements Nov 9, 2026 Introducing Claude Fable 5.2 and Claude Mythos 5.2 Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences. Announcements Oct 18, 2026 Investing in the public benefit We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new e"
       },
       {
         "keyword": "developer",
@@ -913,21 +921,21 @@
       },
       {
         "keyword": "Claude",
-        "excerpt": "Newsroom \\ Anthropic Skip to main content News Research Policy Commitments Company Try Claude News Latest news November 13, 2026 Announcements Nov 9, 2026 Introducing Claude Fable 5.2 and Claude Mythos 5.2 Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences. Announcements Oct"
+        "excerpt": "Newsroom \\ Anthropic Skip to main content News Research Policy Commitments Company Try Claude News Latest news November 14, 2026 Announcements Nov 9, 2026 Introducing Claude Fable 5.2 and Claude Mythos 5.2 Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences. Announcements Oct"
       },
       {
         "keyword": "workflow",
         "excerpt": "ing Agent Skills to the Agentic AI Foundation We’re donating Agent Skills, the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation. More than 70 agent platforms, including ChatGPT, Cursor, GitHub Copilot, and VS Code, have integrated Agent Skills since we published the standard in December 2025. Product Oct 22, 2026 Oct 22, 2026 Product Donating Agent Skills to the Age"
       }
     ],
-    "text_sample": "Newsroom \\ Anthropic Skip to main content News Research Policy Commitments Company Try Claude News Latest news November 13, 2026 Announcements Nov 9, 2026 Introducing Claude Fable 5.2 and Claude Mythos 5.2 Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences. Announcements Oct 18, 2026 Investing in the public benefit We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows. Announcements Oct 26, 2026 Anthropic files S-1 with the SEC for proposed initial public offering Today, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock. Science Oct 27, 2026 Early progress on accelerating drug development with Claude We&#x27;re at the start of a major effort to speed up drug development with Claude. Over the past several months, our scientists have engaged in deep research partnerships with six organizations developing new medicines. Announcements Oct 7, 2026 Introducing Claude Haiku 5.5 Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use. Announcements Sep 22, 2026 Introducing Claude O"
+    "text_sample": "Newsroom \\ Anthropic Skip to main content News Research Policy Commitments Company Try Claude News Latest news November 14, 2026 Announcements Nov 9, 2026 Introducing Claude Fable 5.2 and Claude Mythos 5.2 Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences. Announcements Oct 18, 2026 Investing in the public benefit We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows. Announcements Oct 26, 2026 Anthropic files S-1 with the SEC for proposed initial public offering Today, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock. Science Oct 27, 2026 Early progress on accelerating drug development with Claude We&#x27;re at the start of a major effort to speed up drug development with Claude. Over the past several months, our scientists have engaged in deep research partnerships with six organizations developing new medicines. Announcements Oct 7, 2026 Introducing Claude Haiku 5.5 Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use. Announcements Sep 22, 2026 Introducing Claude O"
   },
   {
     "id": "google_ai_developers",
     "title": "Google AI Developers Blog",
     "url": "https://developers.googleblog.com/en/search/?query=Gemini",
     "type": "industry",
-    "fetched_at": "20261113T062952Z",
+    "fetched_at": "20261114T060900Z",
     "status": 200,
     "error": null,
     "page_title": "Search - Google Developers Blog",
