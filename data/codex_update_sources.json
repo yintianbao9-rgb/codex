@@ -4,7 +4,7 @@
     "title": "Codex Changelog",
     "url": "https://developers.openai.com/codex/changelog",
     "type": "official",
-    "fetched_at": "20261119T071350Z",
+    "fetched_at": "20261120T070125Z",
     "status": 200,
     "error": null,
     "page_title": "ChatGPT & Codex changelog | ChatGPT Learn",
@@ -109,7 +109,7 @@
     "title": "Codex App",
     "url": "https://developers.openai.com/codex/app",
     "type": "official",
-    "fetched_at": "20261119T071350Z",
+    "fetched_at": "20261120T070125Z",
     "status": 200,
     "error": null,
     "page_title": "ChatGPT desktop app | ChatGPT Learn",
@@ -214,7 +214,7 @@
     "title": "Codex CLI",
     "url": "https://developers.openai.com/codex/cli",
     "type": "official",
-    "fetched_at": "20261119T071350Z",
+    "fetched_at": "20261120T070125Z",
     "status": 200,
     "error": null,
     "page_title": "Codex CLI | ChatGPT Learn",
@@ -319,7 +319,7 @@
     "title": "Codex IDE",
     "url": "https://developers.openai.com/codex/ide",
     "type": "official",
-    "fetched_at": "20261119T071350Z",
+    "fetched_at": "20261120T070125Z",
     "status": 200,
     "error": null,
     "page_title": "Codex IDE extension | ChatGPT Learn",
@@ -424,7 +424,7 @@
     "title": "Codex Authentication",
     "url": "https://developers.openai.com/codex/auth",
     "type": "official",
-    "fetched_at": "20261119T071350Z",
+    "fetched_at": "20261120T070125Z",
     "status": 200,
     "error": null,
     "page_title": "Authentication | ChatGPT Learn",
@@ -529,7 +529,7 @@
     "title": "Codex Config Reference",
     "url": "https://developers.openai.com/codex/config-reference",
     "type": "official",
-    "fetched_at": "20261119T071350Z",
+    "fetched_at": "20261120T070125Z",
     "status": 200,
     "error": null,
     "page_title": "Configuration Reference | ChatGPT Learn",
@@ -638,7 +638,7 @@
     "title": "openai/codex Releases",
     "url": "https://github.com/openai/codex/releases",
     "type": "github",
-    "fetched_at": "20261119T071350Z",
+    "fetched_at": "20261120T070125Z",
     "status": 200,
     "error": null,
     "page_title": "Releases · openai/codex · GitHub",
@@ -652,16 +652,20 @@
         "excerpt": "itHub Skip to content Navigation Menu Sign in Products Platform GitHub Repository hosting, code review, and collaboration Copilot AI coding agent for tasks, projects, and automated work Build & Ship Actions CI/CD and automation Code Quality Quality analysis, fixes, and enforcement Codespaces Cloud development environments Secure Code Security Vulnerability detection and remediation Secret Protection Secret scanning a"
       },
       {
+        "keyword": "agents",
+        "excerpt": "ccepted user inputs @chrisdong-oai #61216 Preserve thread input across TUI session resumes @bc-openai #61218 Hide attached threads from the agents overview @fcoury-oai #61219 Hide TUI status details for read-only history @joesavona #61220 Deduplicate overlapping Apps startup tool listings @charliemarsh-oai #61221 Forward repeated signals through the npm wrapper @etraut-openai #61222 Store rollout trace payloads in co"
+      },
+      {
         "keyword": "automation",
         "excerpt": "tory hosting, code review, and collaboration Copilot AI coding agent for tasks, projects, and automated work Build & Ship Actions CI/CD and automation Code Quality Quality analysis, fixes, and enforcement Codespaces Cloud development environments Secure Code Security Vulnerability detection and remediation Secret Protection Secret scanning and leak prevention All Features Developers Learn Documentation Training Certi"
       },
       {
         "keyword": "CLI",
-        "excerpt": "on, login, and logout. ( #60849 , #60981 ) Improved automatic reconnection for Cloud conversations and preserved active recovery turns when clients reconnect. ( #60969 , #61014 ) Fixed Windows file replacement, sandbox permission preservation, and runtime registration recovery. ( #60872 , #60943 , #60944 ) Fixed permission updates and child threads losing existing sandbox restrictions. ( #60936 , #61134 ) Removed dup"
+        "excerpt": "cies @bencodes-oai #61256 Block request_key in Linux network sandbox filters @dhavalkapil-oai #61257 Preserve MCP registration scope across client operations @sayan-oai #61259 Update realtime model and honor provider-specific voice defaults @cooper-oai #61260 Accept ERS v1 and v2 tunnel JWTs @dines-oai #61263 Refactor session window access and async compaction test setup @maxj-oai #61264 Enable gzip and zstd support"
       },
       {
         "keyword": "IDE",
-        "excerpt": ".1 0.171.0-alpha.13 0.170.0-alpha.4.2 0.169.1 0.171.0-alpha.12 0.171.0-alpha.11 0.170.0-alpha.4.1 0.171.0-alpha.9 0.171.0-alpha.8 Collapse sidebar Releases --> Releases · openai/codex 0.170.0 0.170.0 Latest Latest Compare Choose a tag to compare Sorry, something went wrong. Filter Loading Sorry, something went wrong. Uh oh! There was an error while loading. Please reload this page . No results found View all tags git"
+        "excerpt": ".1 0.171.0 0.172.0-alpha.2 0.171.0-alpha.13.1 0.170.0 0.172.0-alpha.1 0.171.0-alpha.13 0.170.0-alpha.4.2 0.169.1 0.171.0-alpha.12 Collapse sidebar Releases --> Releases · openai/codex 0.173.0-alpha.1 0.173.0-alpha.1 Pre-release Pre-release Compare Choose a tag to compare Sorry, something went wrong. Filter Loading Sorry, something went wrong. Uh oh! There was an error while loading. Please reload this page . No resul"
       },
       {
         "keyword": "GitHub",
@@ -669,11 +673,15 @@
       },
       {
         "keyword": "MCP",
-        "excerpt": "ically refreshed authentication headers for OpenTelemetry HTTP exporters. ( #61028 ) Added experimental support for using identically named MCP servers across environments. ( #60905 ) Bug Fixes Oversized WebSocket requests now fall back to HTTP without unnecessary retries. ( #60840 , #60841 ) Fixed MCP OAuth credential races during cancellation, login, and logout. ( #60849 , #60981 ) Improved automatic reconnection f"
+        "excerpt": "ver. ( #61707 ) Added /rc and /remote to manage local remote control and display device pairing codes from the TUI. ( #62121 ) Added custom MCP status line selection and authoring through /statusline when tui_extensions_statusline is enabled. ( #61979 , #61988 , #62037 ) Bug Fixes Preserved drafts, queued follow-ups, and interrupted input with their original threads when switching or resuming sessions. ( #61216 ) Kep"
+      },
+      {
+        "keyword": "memory",
+        "excerpt": "te changes @zamoshchin-openai #61388 Include the Windows sandbox service in release builds @zm-oai #61389 Reduce session submission channel memory with boxed payloads @charliemarsh-oai #61390 Preserve active additional context across compaction @dylan-hurd-oai #61391 Normalize managed network requirements before merging @viyatb-oai #61393 Add optional release IDs to cloud plugin source locations @zamoshchin-openai #6"
       },
       {
         "keyword": "model",
-        "excerpt": "Full Changelog: rust-v0.169.0...rust-v0.170.0 #60770 Derive history and notes tool schemas from typed requests @euroelessar #60771 Preserve model-facing ID allocations in saved history @euroelessar #60773 Resolve saved Daybreak choices for each subagent turn @sayan-oai #60784 Centralize synchronous Guardian reviewer selection @felixxia-oai #60839 Preserve retained assistant revisions across rollout replay @euroelessa"
+        "excerpt": "No results found View all tags github-actions released this 20 Nov 00:44 rust-v0.171.0 ccf9be8 New Features Added GPT-6.2 Sol and Astra to model catalogs, with Sol as the default catalog selection. ( #62106 ) Enabled the TUI workspace by default, with searchable document previews, image previews, and subagent transcripts alongside the main conversation. ( #61352 , #61888 , #61889 , #61919 , #62157 ) Added configurab"
       },
       {
         "keyword": "release",
@@ -685,11 +693,11 @@
       },
       {
         "keyword": "config",
-        "excerpt": "@viyatb-oai #61141 Preserve multiline status lines in unfocused chat panes @fcoury-oai #61144 Remove the legacy sandbox policy setter from Config @ioanbudea-OAI #61153 Fix code-mode session admission retries for proxy HTTP 503 responses @seanh-oai #61156 Ignore Hickory DNSSEC advisories while DNSSEC is disabled @swastik-oai #61163 Reuse Guardian reviewer history for direct reviews @swastik-oai #61167 Refactor TUI si"
+        "excerpt": "nt previews, image previews, and subagent transcripts alongside the main conversation. ( #61352 , #61888 , #61889 , #61919 , #62157 ) Added configurable undo and redo shortcuts to the non-Vim prompt composer, including restoration of attachments and large pastes. ( #61954 ) Added codex exec --remote <ADDR> to start or resume noninteractive sessions on an existing app server. ( #61707 ) Added /rc and /remote to manage"
       },
       {
         "keyword": "authentication",
-        "excerpt": "0 rust-v0.170.0 29eb79e New Features Added WebRTC negotiation for realtime voice calls in the TUI. ( #61172 ) Added automatically refreshed authentication headers for OpenTelemetry HTTP exporters. ( #61028 ) Added experimental support for using identically named MCP servers across environments. ( #60905 ) Bug Fixes Oversized WebSocket requests now fall back to HTTP without unnecessary retries. ( #60840 , #60841 ) Fix"
+        "excerpt": "ea-OAI #61206 Enforce Linux seccomp restrictions for x32 syscalls @dhavalkapil-oai #61207 Add SPIFFE JWT-SVID support for workload identity authentication @cooper-oai #61210 Retain TUI delegation prompts in thread model history @won-openai #61211 Add local status line provider configuration @joesavona #61212 Add persistence support for status line provider selections @joesavona #61213 Support model catalog Apps usage"
       }
     ],
     "text_sample": "Releases · openai/codex · GitHub Skip to content Navigation Menu Sign in Products Platform GitHub Repository hosting, code review, and collaboration Copilot AI coding agent for tasks, projects, and automated work Build & Ship Actions CI/CD and automation Code Quality Quality analysis, fixes, and enforcement Codespaces Cloud development environments Secure Code Security Vulnerability detection and remediation Secret Protection Secret scanning and leak prevention All Features Developers Learn Documentation Training Certifications Build Build with Copilot Customize Copilot Integrations Explore Trending repos GitHub Sponsors Developer articles Changelog Changelog Your source for the latest features, improvements, and fixes across GitHub products, all in one place. Businesses By Stage Enterprises Team Startups Nonprofits By Industry Healthcare Financial services Manufacturing Government See all industries Evaluate GitHub Why GitHub Customer Stories Business insights Trust Center Add-ons GitHub Advanced Security Enterprise-grade code security Copilot for business Enterprise-grade AI features Premium Support Enterprise-grade 24/7 support Resources Learn & Connect Documentation Resource center Blog Events & webinars Community Forum Customer Stories Integrations Support Customer support Training GitHub Status Company About Partners Changelog GitHub Universe GitHub Universe The event for"
@@ -699,7 +707,7 @@
     "title": "ChatGPT Release Notes",
     "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
     "type": "official",
-    "fetched_at": "20261119T071350Z",
+    "fetched_at": "20261120T070125Z",
     "status": 403,
     "error": "HTTP Error 403: Forbidden",
     "hits": [],
@@ -710,7 +718,7 @@
     "title": "OpenAI News",
     "url": "https://openai.com/news/",
     "type": "industry",
-    "fetched_at": "20261119T071350Z",
+    "fetched_at": "20261120T070125Z",
     "status": 403,
     "error": "HTTP Error 403: Forbidden",
     "hits": [],
@@ -721,7 +729,7 @@
     "title": "OpenAI Research",
     "url": "https://openai.com/research/",
     "type": "industry",
-    "fetched_at": "20261119T071350Z",
+    "fetched_at": "20261120T070125Z",
     "status": 403,
     "error": "HTTP Error 403: Forbidden",
     "hits": [],
@@ -732,7 +740,7 @@
     "title": "GitHub AI & ML Blog",
     "url": "https://github.blog/ai-and-ml/",
     "type": "industry",
-    "fetched_at": "20261119T071350Z",
+    "fetched_at": "20261120T070125Z",
     "status": 200,
     "error": null,
     "page_title": "The latest on AI & ML - The GitHub Blog",
@@ -789,7 +797,7 @@
     "title": "GitHub Changelog",
     "url": "https://github.blog/changelog/",
     "type": "industry",
-    "fetched_at": "20261119T071350Z",
+    "fetched_at": "20261120T070125Z",
     "status": 200,
     "error": null,
     "page_title": "GitHub Changelog",
@@ -808,7 +816,7 @@
       },
       {
         "keyword": "CLI",
-        "excerpt": "vements Retired Filters ( 0 selected ) Clear all Filters ( 0 selected ) Match: Any All Tags Account management Actions Application Security Client apps Collaboration tools Community engagement Copilot Ecosystem & accessibility Enterprise management tools Platform governance Projects & Issues Supply chain security Universe ‘26 Clear all Apply November Nov 2026 November Nov 2026 Nov.18 Release Wait for pull request eve"
+        "excerpt": "vements Retired Filters ( 0 selected ) Clear all Filters ( 0 selected ) Match: Any All Tags Account management Actions Application Security Client apps Collaboration tools Community engagement Copilot Ecosystem & accessibility Enterprise management tools Platform governance Projects & Issues Supply chain security Universe ‘26 Clear all Apply November Nov 2026 November Nov 2026 Nov.19 Improvement Improvements on the p"
       },
       {
         "keyword": "IDE",
@@ -851,14 +859,14 @@
         "excerpt": "on security Nov.03 Improvement Dependabot now supports Python 3.15 supply chain security Nov.02 Improvement GitHub Desktop adds short-lived authentication tokens account management application security client apps ... +2 Nov.02 Improvement Security risk assessments include repository protection status application security Nov.02 Retired pull_request_target blocked by default December 2 actions application security .."
       }
     ],
-    "text_sample": "GitHub Changelog Skip to content / Blog Changelog Docs Customer stories Try GitHub Copilot app See what&#039;s new Search Changelog Docs Customer stories See what&#039;s new Try GitHub Copilot app Back to blog Changelog Copy RSS feed URL Follow @ghchangelog on X All New Releases Improvements Retired Filters ( 0 selected ) Clear all Filters ( 0 selected ) Match: Any All Tags Account management Actions Application Security Client apps Collaboration tools Community engagement Copilot Ecosystem & accessibility Enterprise management tools Platform governance Projects & Issues Supply chain security Universe ‘26 Clear all Apply November Nov 2026 November Nov 2026 Nov.18 Release Wait for pull request events with GitHub CLI client apps ecosystem & accessibility ... +1 Nov.18 Improvement Connect Supabase, Box, Calendly, and more to Copilot copilot Nov.18 Release Gemini 4 Neon in GitHub Copilot copilot Nov.18 Improvement Security risk assessments run automatically on GitHub Team application security Nov.18 Release Customize GitHub Copilot for your team copilot Nov.17 Release OpenAI&#8217;s GPT-6.2 Astra and GPT-6.2 Sol now available copilot Nov.17 Improvement GitHub Copilot Fusion updates: more availability, benchmarks, and models copilot Nov.17 Release GitHub Copilot app, Microsoft Ignite releases copilot Nov.17 Release Copilot code review: Adaptive effort, secret detection, and more cop"
+    "text_sample": "GitHub Changelog Skip to content / Blog Changelog Docs Customer stories Try GitHub Copilot app See what&#039;s new Search Changelog Docs Customer stories See what&#039;s new Try GitHub Copilot app Back to blog Changelog Copy RSS feed URL Follow @ghchangelog on X All New Releases Improvements Retired Filters ( 0 selected ) Clear all Filters ( 0 selected ) Match: Any All Tags Account management Actions Application Security Client apps Collaboration tools Community engagement Copilot Ecosystem & accessibility Enterprise management tools Platform governance Projects & Issues Supply chain security Universe ‘26 Clear all Apply November Nov 2026 November Nov 2026 Nov.19 Improvement Improvements on the pull request overview in public preview collaboration tools Nov.19 Release Enterprise Live Migrations from Azure DevOps generally available enterprise management tools Nov.19 Improvement Red Hat Enterprise Linux runner images now generally available actions Nov.19 Improvement S3 audit log streaming with OpenID Connect expands to GHE.com enterprise management tools platform governance ... +1 Nov.18 Release Wait for pull request events with GitHub CLI client apps ecosystem & accessibility ... +1 Nov.18 Improvement Connect Supabase, Box, Calendly, and more to Copilot copilot Nov.18 Release Gemini 4 Neon in GitHub Copilot copilot Nov.18 Improvement Security risk assessments run automatically"
   },
   {
     "id": "anthropic_news",
     "title": "Anthropic News",
     "url": "https://www.anthropic.com/news",
     "type": "industry",
-    "fetched_at": "20261119T071350Z",
+    "fetched_at": "20261120T070125Z",
     "status": 200,
     "error": null,
     "page_title": "Newsroom \\ Anthropic",
@@ -897,7 +905,7 @@
       },
       {
         "keyword": "model",
-        "excerpt": "Try Claude News Latest news November 19, 2026 Announcements Nov 9, 2026 Introducing Claude Fable 5.2 and Claude Mythos 5.2 Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences. Announcements Oct 18, 2026 Investing in the public benefit We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new e"
+        "excerpt": "Try Claude News Latest news November 20, 2026 Announcements Nov 9, 2026 Introducing Claude Fable 5.2 and Claude Mythos 5.2 Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences. Announcements Oct 18, 2026 Investing in the public benefit We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new e"
       },
       {
         "keyword": "developer",
@@ -905,21 +913,21 @@
       },
       {
         "keyword": "Claude",
-        "excerpt": "Newsroom \\ Anthropic Skip to main content News Research Policy Commitments Company Try Claude News Latest news November 19, 2026 Announcements Nov 9, 2026 Introducing Claude Fable 5.2 and Claude Mythos 5.2 Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences. Announcements Oct"
+        "excerpt": "Newsroom \\ Anthropic Skip to main content News Research Policy Commitments Company Try Claude News Latest news November 20, 2026 Announcements Nov 9, 2026 Introducing Claude Fable 5.2 and Claude Mythos 5.2 Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences. Announcements Oct"
       },
       {
         "keyword": "workflow",
         "excerpt": "ing Agent Skills to the Agentic AI Foundation We’re donating Agent Skills, the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation. More than 70 agent platforms, including ChatGPT, Cursor, GitHub Copilot, and VS Code, have integrated Agent Skills since we published the standard in December 2025. Product Oct 22, 2026 Oct 22, 2026 Product Donating Agent Skills to the Age"
       }
     ],
-    "text_sample": "Newsroom \\ Anthropic Skip to main content News Research Policy Commitments Company Try Claude News Latest news November 19, 2026 Announcements Nov 9, 2026 Introducing Claude Fable 5.2 and Claude Mythos 5.2 Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences. Announcements Oct 18, 2026 Investing in the public benefit We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows. Announcements Oct 26, 2026 Anthropic files S-1 with the SEC for proposed initial public offering Today, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock. Science Oct 27, 2026 Early progress on accelerating drug development with Claude We&#x27;re at the start of a major effort to speed up drug development with Claude. Over the past several months, our scientists have engaged in deep research partnerships with six organizations developing new medicines. Announcements Oct 7, 2026 Introducing Claude Haiku 5.5 Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use. Announcements Sep 22, 2026 Introducing Claude O"
+    "text_sample": "Newsroom \\ Anthropic Skip to main content News Research Policy Commitments Company Try Claude News Latest news November 20, 2026 Announcements Nov 9, 2026 Introducing Claude Fable 5.2 and Claude Mythos 5.2 Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences. Announcements Oct 18, 2026 Investing in the public benefit We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows. Announcements Oct 26, 2026 Anthropic files S-1 with the SEC for proposed initial public offering Today, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock. Science Oct 27, 2026 Early progress on accelerating drug development with Claude We&#x27;re at the start of a major effort to speed up drug development with Claude. Over the past several months, our scientists have engaged in deep research partnerships with six organizations developing new medicines. Announcements Oct 7, 2026 Introducing Claude Haiku 5.5 Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use. Announcements Sep 22, 2026 Introducing Claude O"
   },
   {
     "id": "google_ai_developers",
     "title": "Google AI Developers Blog",
     "url": "https://developers.googleblog.com/en/search/?query=Gemini",
     "type": "industry",
-    "fetched_at": "20261119T071350Z",
+    "fetched_at": "20261120T070125Z",
     "status": 200,
     "error": null,
     "page_title": "Search - Google Developers Blog",
