@@ -4,26 +4,26 @@
     "title": "Codex Changelog",
     "url": "https://developers.openai.com/codex/changelog",
     "type": "official",
-    "fetched_at": "20261120T070125Z",
+    "fetched_at": "20261121T065632Z",
     "status": 200,
     "error": null,
     "page_title": "ChatGPT & Codex changelog | ChatGPT Learn",
     "hits": [
       {
         "keyword": "Codex",
-        "excerpt": "ChatGPT & Codex changelog | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT Start searching API Dashboard Try ChatGPT Theme Light Dark System Home API Overview Get started wi"
+        "excerpt": "ChatGPT & Codex changelog | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT API Dashboard Try ChatGPT Language Loading languages… Theme Theme Home API Overview Get started wi"
       },
       {
         "keyword": "ChatGPT",
-        "excerpt": "ChatGPT & Codex changelog | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT Start searching API Dashboard Try ChatGPT Theme Light Dark System Home API Overview Get"
+        "excerpt": "ChatGPT & Codex changelog | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT API Dashboard Try ChatGPT Language Loading languages… Theme Theme Home API Overview Get"
       },
       {
         "keyword": "agent",
-        "excerpt": "hboard Try ChatGPT Theme Light Dark System Home API Overview Get started with the OpenAI API Models Explore models and compare capabilities Agents Build persistent agents on hosted infrastructure Tools Connect models to tools and data Audio & voice Build speech and realtime voice experiences Production Deploy and scale your API integrations API reference Explore endpoints, parameters, and responses ChatGPT Plugins Ex"
+        "excerpt": "PT Language Loading languages… Theme Theme Home API Overview Get started with the OpenAI API Models Explore models and compare capabilities Agents Build persistent agents on hosted infrastructure Tools Connect models to tools and data Audio & voice Build speech and realtime voice experiences Production Deploy and scale your API integrations API reference Explore endpoints, parameters, and responses ChatGPT Plugins Ex"
       },
       {
         "keyword": "agents",
-        "excerpt": "hboard Try ChatGPT Theme Light Dark System Home API Overview Get started with the OpenAI API Models Explore models and compare capabilities Agents Build persistent agents on hosted infrastructure Tools Connect models to tools and data Audio & voice Build speech and realtime voice experiences Production Deploy and scale your API integrations API reference Explore endpoints, parameters, and responses ChatGPT Plugins Ex"
+        "excerpt": "PT Language Loading languages… Theme Theme Home API Overview Get started with the OpenAI API Models Explore models and compare capabilities Agents Build persistent agents on hosted infrastructure Tools Connect models to tools and data Audio & voice Build speech and realtime voice experiences Production Deploy and scale your API integrations API reference Explore endpoints, parameters, and responses ChatGPT Plugins Ex"
       },
       {
         "keyword": "automation",
@@ -67,7 +67,7 @@
       },
       {
         "keyword": "model",
-        "excerpt": "o the page URL. ChatGPT Start searching API Dashboard Try ChatGPT Theme Light Dark System Home API Overview Get started with the OpenAI API Models Explore models and compare capabilities Agents Build persistent agents on hosted infrastructure Tools Connect models to tools and data Audio & voice Build speech and realtime voice experiences Production Deploy and scale your API integrations API reference Explore endpoint"
+        "excerpt": "o the page URL. ChatGPT API Dashboard Try ChatGPT Language Loading languages… Theme Theme Home API Overview Get started with the OpenAI API Models Explore models and compare capabilities Agents Build persistent agents on hosted infrastructure Tools Connect models to tools and data Audio & voice Build speech and realtime voice experiences Production Deploy and scale your API integrations API reference Explore endpoint"
       },
       {
         "keyword": "release",
@@ -95,21 +95,21 @@
       },
       {
         "keyword": "config",
-        "excerpt": "I models Learn Docs, videos, and demo apps for building with OpenAI Community Programs, meetups, and support for builders Overview Features Configuration Developers Security Administration Use Cases Resources Search the docs Search docs Suggested responses create reasoning_effort realtime prompt caching Primary navigation API ChatGPT Docs Use cases Training Resources Resources Theme Light Dark System Search docs Sugg"
+        "excerpt": "I models Learn Docs, videos, and demo apps for building with OpenAI Community Programs, meetups, and support for builders Overview Features Configuration Developers Security Administration Use Cases Resources Search the docs Search docs Suggested responses create reasoning_effort realtime prompt caching Primary navigation API ChatGPT Docs Use cases Training Resources Resources Search docs Suggested responses create r"
       },
       {
         "keyword": "authentication",
         "excerpt": "& Budgets Targeting Product Feeds Hotel Feeds (limited beta) Conversion Tracking Reporting Troubleshooting Account Management API Reference Authentication Ad Account Audit Logs Campaigns Ad Groups Ads Insights Files Conversion Setup Home Get started Trigger workspace agent runs Authenticate with Workspace Agent access tokens Overview Features Configuration Developers Security Administration Use Cases Resources Docs O"
       }
     ],
-    "text_sample": "ChatGPT & Codex changelog | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT Start searching API Dashboard Try ChatGPT Theme Light Dark System Home API Overview Get started with the OpenAI API Models Explore models and compare capabilities Agents Build persistent agents on hosted infrastructure Tools Connect models to tools and data Audio & voice Build speech and realtime voice experiences Production Deploy and scale your API integrations API reference Explore endpoints, parameters, and responses ChatGPT Plugins Extend ChatGPT and Codex Sign in with ChatGPT Apps powered by your user's ChatGPT plan Commerce Build commerce flows in ChatGPT Agent Access Allow verified ChatGPT browser visits to your website Ads Publish and measure ads in ChatGPT Workspace Agents Trigger published ChatGPT workspace agents ChatGPT + Codex user docs Guides and product docs for ChatGPT and Codex Use cases Example workflows and tasks teams can take on with ChatGPT or Codex Docs Use cases Training Resources Resources Showcase Demo apps to get inspired Blog Learnings and experiences from developers Cookbook Notebook examples for building with OpenAI models Learn Docs, videos, and demo apps for building with OpenAI Community Programs, meetups, and support for builders Overview Features Configu"
+    "text_sample": "ChatGPT & Codex changelog | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT API Dashboard Try ChatGPT Language Loading languages… Theme Theme Home API Overview Get started with the OpenAI API Models Explore models and compare capabilities Agents Build persistent agents on hosted infrastructure Tools Connect models to tools and data Audio & voice Build speech and realtime voice experiences Production Deploy and scale your API integrations API reference Explore endpoints, parameters, and responses ChatGPT Plugins Extend ChatGPT and Codex Sign in with ChatGPT Apps powered by your user's ChatGPT plan Commerce Build commerce flows in ChatGPT Agent Access Allow verified ChatGPT browser visits to your website Ads Publish and measure ads in ChatGPT Workspace Agents Trigger published ChatGPT workspace agents ChatGPT + Codex user docs Guides and product docs for ChatGPT and Codex Use cases Example workflows and tasks teams can take on with ChatGPT or Codex Docs Use cases Training Resources Resources Showcase Demo apps to get inspired Blog Learnings and experiences from developers Cookbook Notebook examples for building with OpenAI models Learn Docs, videos, and demo apps for building with OpenAI Community Programs, meetups, and support for builders Overview Features Configu"
   },
   {
     "id": "codex_app",
     "title": "Codex App",
     "url": "https://developers.openai.com/codex/app",
     "type": "official",
-    "fetched_at": "20261120T070125Z",
+    "fetched_at": "20261121T065632Z",
     "status": 200,
     "error": null,
     "page_title": "ChatGPT desktop app | ChatGPT Learn",
@@ -120,15 +120,15 @@
       },
       {
         "keyword": "ChatGPT",
-        "excerpt": "ChatGPT desktop app | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT Start searching API Dashboard Try ChatGPT Theme Light Dark System Home API Overview Get starte"
+        "excerpt": "ChatGPT desktop app | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT API Dashboard Try ChatGPT Language Loading languages… Theme Theme Home API Overview Get starte"
       },
       {
         "keyword": "agent",
-        "excerpt": "hboard Try ChatGPT Theme Light Dark System Home API Overview Get started with the OpenAI API Models Explore models and compare capabilities Agents Build persistent agents on hosted infrastructure Tools Connect models to tools and data Audio & voice Build speech and realtime voice experiences Production Deploy and scale your API integrations API reference Explore endpoints, parameters, and responses ChatGPT Plugins Ex"
+        "excerpt": "PT Language Loading languages… Theme Theme Home API Overview Get started with the OpenAI API Models Explore models and compare capabilities Agents Build persistent agents on hosted infrastructure Tools Connect models to tools and data Audio & voice Build speech and realtime voice experiences Production Deploy and scale your API integrations API reference Explore endpoints, parameters, and responses ChatGPT Plugins Ex"
       },
       {
         "keyword": "agents",
-        "excerpt": "hboard Try ChatGPT Theme Light Dark System Home API Overview Get started with the OpenAI API Models Explore models and compare capabilities Agents Build persistent agents on hosted infrastructure Tools Connect models to tools and data Audio & voice Build speech and realtime voice experiences Production Deploy and scale your API integrations API reference Explore endpoints, parameters, and responses ChatGPT Plugins Ex"
+        "excerpt": "PT Language Loading languages… Theme Theme Home API Overview Get started with the OpenAI API Models Explore models and compare capabilities Agents Build persistent agents on hosted infrastructure Tools Connect models to tools and data Audio & voice Build speech and realtime voice experiences Production Deploy and scale your API integrations API reference Explore endpoints, parameters, and responses ChatGPT Plugins Ex"
       },
       {
         "keyword": "automation",
@@ -172,7 +172,7 @@
       },
       {
         "keyword": "model",
-        "excerpt": "o the page URL. ChatGPT Start searching API Dashboard Try ChatGPT Theme Light Dark System Home API Overview Get started with the OpenAI API Models Explore models and compare capabilities Agents Build persistent agents on hosted infrastructure Tools Connect models to tools and data Audio & voice Build speech and realtime voice experiences Production Deploy and scale your API integrations API reference Explore endpoint"
+        "excerpt": "o the page URL. ChatGPT API Dashboard Try ChatGPT Language Loading languages… Theme Theme Home API Overview Get started with the OpenAI API Models Explore models and compare capabilities Agents Build persistent agents on hosted infrastructure Tools Connect models to tools and data Audio & voice Build speech and realtime voice experiences Production Deploy and scale your API integrations API reference Explore endpoint"
       },
       {
         "keyword": "release",
@@ -200,40 +200,40 @@
       },
       {
         "keyword": "config",
-        "excerpt": "I models Learn Docs, videos, and demo apps for building with OpenAI Community Programs, meetups, and support for builders Overview Features Configuration Developers Security Administration Use Cases Resources Search the docs Search docs Suggested responses create reasoning_effort realtime prompt caching Primary navigation API ChatGPT Docs Use cases Training Resources Resources Theme Light Dark System Search docs Sugg"
+        "excerpt": "I models Learn Docs, videos, and demo apps for building with OpenAI Community Programs, meetups, and support for builders Overview Features Configuration Developers Security Administration Use Cases Resources Search the docs Search docs Suggested responses create reasoning_effort realtime prompt caching Primary navigation API ChatGPT Docs Use cases Training Resources Resources Search docs Suggested responses create r"
       },
       {
         "keyword": "authentication",
         "excerpt": "& Budgets Targeting Product Feeds Hotel Feeds (limited beta) Conversion Tracking Reporting Troubleshooting Account Management API Reference Authentication Ad Account Audit Logs Campaigns Ad Groups Ads Insights Files Conversion Setup Home Get started Trigger workspace agent runs Authenticate with Workspace Agent access tokens Overview Features Configuration Developers Security Administration Use Cases Resources Docs O"
       }
     ],
-    "text_sample": "ChatGPT desktop app | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT Start searching API Dashboard Try ChatGPT Theme Light Dark System Home API Overview Get started with the OpenAI API Models Explore models and compare capabilities Agents Build persistent agents on hosted infrastructure Tools Connect models to tools and data Audio & voice Build speech and realtime voice experiences Production Deploy and scale your API integrations API reference Explore endpoints, parameters, and responses ChatGPT Plugins Extend ChatGPT and Codex Sign in with ChatGPT Apps powered by your user's ChatGPT plan Commerce Build commerce flows in ChatGPT Agent Access Allow verified ChatGPT browser visits to your website Ads Publish and measure ads in ChatGPT Workspace Agents Trigger published ChatGPT workspace agents ChatGPT + Codex user docs Guides and product docs for ChatGPT and Codex Use cases Example workflows and tasks teams can take on with ChatGPT or Codex Docs Use cases Training Resources Resources Showcase Demo apps to get inspired Blog Learnings and experiences from developers Cookbook Notebook examples for building with OpenAI models Learn Docs, videos, and demo apps for building with OpenAI Community Programs, meetups, and support for builders Overview Features Configuration"
+    "text_sample": "ChatGPT desktop app | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT API Dashboard Try ChatGPT Language Loading languages… Theme Theme Home API Overview Get started with the OpenAI API Models Explore models and compare capabilities Agents Build persistent agents on hosted infrastructure Tools Connect models to tools and data Audio & voice Build speech and realtime voice experiences Production Deploy and scale your API integrations API reference Explore endpoints, parameters, and responses ChatGPT Plugins Extend ChatGPT and Codex Sign in with ChatGPT Apps powered by your user's ChatGPT plan Commerce Build commerce flows in ChatGPT Agent Access Allow verified ChatGPT browser visits to your website Ads Publish and measure ads in ChatGPT Workspace Agents Trigger published ChatGPT workspace agents ChatGPT + Codex user docs Guides and product docs for ChatGPT and Codex Use cases Example workflows and tasks teams can take on with ChatGPT or Codex Docs Use cases Training Resources Resources Showcase Demo apps to get inspired Blog Learnings and experiences from developers Cookbook Notebook examples for building with OpenAI models Learn Docs, videos, and demo apps for building with OpenAI Community Programs, meetups, and support for builders Overview Features Configuration"
   },
   {
     "id": "codex_cli",
     "title": "Codex CLI",
     "url": "https://developers.openai.com/codex/cli",
     "type": "official",
-    "fetched_at": "20261120T070125Z",
+    "fetched_at": "20261121T065632Z",
     "status": 200,
     "error": null,
     "page_title": "Codex CLI | ChatGPT Learn",
     "hits": [
       {
         "keyword": "Codex",
-        "excerpt": "Codex CLI | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT Start searching API Dashboard Try ChatGPT Theme Light Dark System Home API Overview Get started with the"
+        "excerpt": "Codex CLI | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT API Dashboard Try ChatGPT Language Loading languages… Theme Theme Home API Overview Get started with the"
       },
       {
         "keyword": "ChatGPT",
-        "excerpt": "Codex CLI | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT Start searching API Dashboard Try ChatGPT Theme Light Dark System Home API Overview Get started with the OpenAI API"
+        "excerpt": "Codex CLI | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT API Dashboard Try ChatGPT Language Loading languages… Theme Theme Home API Overview Get started with the OpenAI API"
       },
       {
         "keyword": "agent",
-        "excerpt": "hboard Try ChatGPT Theme Light Dark System Home API Overview Get started with the OpenAI API Models Explore models and compare capabilities Agents Build persistent agents on hosted infrastructure Tools Connect models to tools and data Audio & voice Build speech and realtime voice experiences Production Deploy and scale your API integrations API reference Explore endpoints, parameters, and responses ChatGPT Plugins Ex"
+        "excerpt": "PT Language Loading languages… Theme Theme Home API Overview Get started with the OpenAI API Models Explore models and compare capabilities Agents Build persistent agents on hosted infrastructure Tools Connect models to tools and data Audio & voice Build speech and realtime voice experiences Production Deploy and scale your API integrations API reference Explore endpoints, parameters, and responses ChatGPT Plugins Ex"
       },
       {
         "keyword": "agents",
-        "excerpt": "hboard Try ChatGPT Theme Light Dark System Home API Overview Get started with the OpenAI API Models Explore models and compare capabilities Agents Build persistent agents on hosted infrastructure Tools Connect models to tools and data Audio & voice Build speech and realtime voice experiences Production Deploy and scale your API integrations API reference Explore endpoints, parameters, and responses ChatGPT Plugins Ex"
+        "excerpt": "PT Language Loading languages… Theme Theme Home API Overview Get started with the OpenAI API Models Explore models and compare capabilities Agents Build persistent agents on hosted infrastructure Tools Connect models to tools and data Audio & voice Build speech and realtime voice experiences Production Deploy and scale your API integrations API reference Explore endpoints, parameters, and responses ChatGPT Plugins Ex"
       },
       {
         "keyword": "automation",
@@ -249,7 +249,7 @@
       },
       {
         "keyword": "CLI",
-        "excerpt": "Codex CLI | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT Start searching API Dashboard Try ChatGPT Theme Light Dark System Home API Overview Get started with the OpenA"
+        "excerpt": "Codex CLI | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT API Dashboard Try ChatGPT Language Loading languages… Theme Theme Home API Overview Get started with the OpenA"
       },
       {
         "keyword": "IDE",
@@ -277,7 +277,7 @@
       },
       {
         "keyword": "model",
-        "excerpt": "o the page URL. ChatGPT Start searching API Dashboard Try ChatGPT Theme Light Dark System Home API Overview Get started with the OpenAI API Models Explore models and compare capabilities Agents Build persistent agents on hosted infrastructure Tools Connect models to tools and data Audio & voice Build speech and realtime voice experiences Production Deploy and scale your API integrations API reference Explore endpoint"
+        "excerpt": "o the page URL. ChatGPT API Dashboard Try ChatGPT Language Loading languages… Theme Theme Home API Overview Get started with the OpenAI API Models Explore models and compare capabilities Agents Build persistent agents on hosted infrastructure Tools Connect models to tools and data Audio & voice Build speech and realtime voice experiences Production Deploy and scale your API integrations API reference Explore endpoint"
       },
       {
         "keyword": "release",
@@ -305,40 +305,40 @@
       },
       {
         "keyword": "config",
-        "excerpt": "I models Learn Docs, videos, and demo apps for building with OpenAI Community Programs, meetups, and support for builders Overview Features Configuration Developers Security Administration Use Cases Resources Search the docs Search docs Suggested responses create reasoning_effort realtime prompt caching Primary navigation API ChatGPT Docs Use cases Training Resources Resources Theme Light Dark System Search docs Sugg"
+        "excerpt": "I models Learn Docs, videos, and demo apps for building with OpenAI Community Programs, meetups, and support for builders Overview Features Configuration Developers Security Administration Use Cases Resources Search the docs Search docs Suggested responses create reasoning_effort realtime prompt caching Primary navigation API ChatGPT Docs Use cases Training Resources Resources Search docs Suggested responses create r"
       },
       {
         "keyword": "authentication",
         "excerpt": "& Budgets Targeting Product Feeds Hotel Feeds (limited beta) Conversion Tracking Reporting Troubleshooting Account Management API Reference Authentication Ad Account Audit Logs Campaigns Ad Groups Ads Insights Files Conversion Setup Home Get started Trigger workspace agent runs Authenticate with Workspace Agent access tokens Overview Features Configuration Developers Security Administration Use Cases Resources Docs O"
       }
     ],
-    "text_sample": "Codex CLI | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT Start searching API Dashboard Try ChatGPT Theme Light Dark System Home API Overview Get started with the OpenAI API Models Explore models and compare capabilities Agents Build persistent agents on hosted infrastructure Tools Connect models to tools and data Audio & voice Build speech and realtime voice experiences Production Deploy and scale your API integrations API reference Explore endpoints, parameters, and responses ChatGPT Plugins Extend ChatGPT and Codex Sign in with ChatGPT Apps powered by your user's ChatGPT plan Commerce Build commerce flows in ChatGPT Agent Access Allow verified ChatGPT browser visits to your website Ads Publish and measure ads in ChatGPT Workspace Agents Trigger published ChatGPT workspace agents ChatGPT + Codex user docs Guides and product docs for ChatGPT and Codex Use cases Example workflows and tasks teams can take on with ChatGPT or Codex Docs Use cases Training Resources Resources Showcase Demo apps to get inspired Blog Learnings and experiences from developers Cookbook Notebook examples for building with OpenAI models Learn Docs, videos, and demo apps for building with OpenAI Community Programs, meetups, and support for builders Overview Features Configuration Developer"
+    "text_sample": "Codex CLI | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT API Dashboard Try ChatGPT Language Loading languages… Theme Theme Home API Overview Get started with the OpenAI API Models Explore models and compare capabilities Agents Build persistent agents on hosted infrastructure Tools Connect models to tools and data Audio & voice Build speech and realtime voice experiences Production Deploy and scale your API integrations API reference Explore endpoints, parameters, and responses ChatGPT Plugins Extend ChatGPT and Codex Sign in with ChatGPT Apps powered by your user's ChatGPT plan Commerce Build commerce flows in ChatGPT Agent Access Allow verified ChatGPT browser visits to your website Ads Publish and measure ads in ChatGPT Workspace Agents Trigger published ChatGPT workspace agents ChatGPT + Codex user docs Guides and product docs for ChatGPT and Codex Use cases Example workflows and tasks teams can take on with ChatGPT or Codex Docs Use cases Training Resources Resources Showcase Demo apps to get inspired Blog Learnings and experiences from developers Cookbook Notebook examples for building with OpenAI models Learn Docs, videos, and demo apps for building with OpenAI Community Programs, meetups, and support for builders Overview Features Configuration Developer"
   },
   {
     "id": "codex_ide",
     "title": "Codex IDE",
     "url": "https://developers.openai.com/codex/ide",
     "type": "official",
-    "fetched_at": "20261120T070125Z",
+    "fetched_at": "20261121T065632Z",
     "status": 200,
     "error": null,
     "page_title": "Codex IDE extension | ChatGPT Learn",
     "hits": [
       {
         "keyword": "Codex",
-        "excerpt": "Codex IDE extension | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT Start searching API Dashboard Try ChatGPT Theme Light Dark System Home API Overview Get starte"
+        "excerpt": "Codex IDE extension | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT API Dashboard Try ChatGPT Language Loading languages… Theme Theme Home API Overview Get starte"
       },
       {
         "keyword": "ChatGPT",
-        "excerpt": "Codex IDE extension | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT Start searching API Dashboard Try ChatGPT Theme Light Dark System Home API Overview Get started with the OpenAI API"
+        "excerpt": "Codex IDE extension | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT API Dashboard Try ChatGPT Language Loading languages… Theme Theme Home API Overview Get started with the OpenAI API"
       },
       {
         "keyword": "agent",
-        "excerpt": "hboard Try ChatGPT Theme Light Dark System Home API Overview Get started with the OpenAI API Models Explore models and compare capabilities Agents Build persistent agents on hosted infrastructure Tools Connect models to tools and data Audio & voice Build speech and realtime voice experiences Production Deploy and scale your API integrations API reference Explore endpoints, parameters, and responses ChatGPT Plugins Ex"
+        "excerpt": "PT Language Loading languages… Theme Theme Home API Overview Get started with the OpenAI API Models Explore models and compare capabilities Agents Build persistent agents on hosted infrastructure Tools Connect models to tools and data Audio & voice Build speech and realtime voice experiences Production Deploy and scale your API integrations API reference Explore endpoints, parameters, and responses ChatGPT Plugins Ex"
       },
       {
         "keyword": "agents",
-        "excerpt": "hboard Try ChatGPT Theme Light Dark System Home API Overview Get started with the OpenAI API Models Explore models and compare capabilities Agents Build persistent agents on hosted infrastructure Tools Connect models to tools and data Audio & voice Build speech and realtime voice experiences Production Deploy and scale your API integrations API reference Explore endpoints, parameters, and responses ChatGPT Plugins Ex"
+        "excerpt": "PT Language Loading languages… Theme Theme Home API Overview Get started with the OpenAI API Models Explore models and compare capabilities Agents Build persistent agents on hosted infrastructure Tools Connect models to tools and data Audio & voice Build speech and realtime voice experiences Production Deploy and scale your API integrations API reference Explore endpoints, parameters, and responses ChatGPT Plugins Ex"
       },
       {
         "keyword": "automation",
@@ -358,7 +358,7 @@
       },
       {
         "keyword": "IDE",
-        "excerpt": "Codex IDE extension | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT Start searching API Dashboard Try ChatGPT Theme Light Dark System Home API Overview Get started with"
+        "excerpt": "Codex IDE extension | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT API Dashboard Try ChatGPT Language Loading languages… Theme Theme Home API Overview Get started with"
       },
       {
         "keyword": "GitHub",
@@ -382,7 +382,7 @@
       },
       {
         "keyword": "model",
-        "excerpt": "o the page URL. ChatGPT Start searching API Dashboard Try ChatGPT Theme Light Dark System Home API Overview Get started with the OpenAI API Models Explore models and compare capabilities Agents Build persistent agents on hosted infrastructure Tools Connect models to tools and data Audio & voice Build speech and realtime voice experiences Production Deploy and scale your API integrations API reference Explore endpoint"
+        "excerpt": "o the page URL. ChatGPT API Dashboard Try ChatGPT Language Loading languages… Theme Theme Home API Overview Get started with the OpenAI API Models Explore models and compare capabilities Agents Build persistent agents on hosted infrastructure Tools Connect models to tools and data Audio & voice Build speech and realtime voice experiences Production Deploy and scale your API integrations API reference Explore endpoint"
       },
       {
         "keyword": "release",
@@ -410,21 +410,21 @@
       },
       {
         "keyword": "config",
-        "excerpt": "I models Learn Docs, videos, and demo apps for building with OpenAI Community Programs, meetups, and support for builders Overview Features Configuration Developers Security Administration Use Cases Resources Search the docs Search docs Suggested responses create reasoning_effort realtime prompt caching Primary navigation API ChatGPT Docs Use cases Training Resources Resources Theme Light Dark System Search docs Sugg"
+        "excerpt": "I models Learn Docs, videos, and demo apps for building with OpenAI Community Programs, meetups, and support for builders Overview Features Configuration Developers Security Administration Use Cases Resources Search the docs Search docs Suggested responses create reasoning_effort realtime prompt caching Primary navigation API ChatGPT Docs Use cases Training Resources Resources Search docs Suggested responses create r"
       },
       {
         "keyword": "authentication",
         "excerpt": "& Budgets Targeting Product Feeds Hotel Feeds (limited beta) Conversion Tracking Reporting Troubleshooting Account Management API Reference Authentication Ad Account Audit Logs Campaigns Ad Groups Ads Insights Files Conversion Setup Home Get started Trigger workspace agent runs Authenticate with Workspace Agent access tokens Overview Features Configuration Developers Security Administration Use Cases Resources Docs O"
       }
     ],
-    "text_sample": "Codex IDE extension | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT Start searching API Dashboard Try ChatGPT Theme Light Dark System Home API Overview Get started with the OpenAI API Models Explore models and compare capabilities Agents Build persistent agents on hosted infrastructure Tools Connect models to tools and data Audio & voice Build speech and realtime voice experiences Production Deploy and scale your API integrations API reference Explore endpoints, parameters, and responses ChatGPT Plugins Extend ChatGPT and Codex Sign in with ChatGPT Apps powered by your user's ChatGPT plan Commerce Build commerce flows in ChatGPT Agent Access Allow verified ChatGPT browser visits to your website Ads Publish and measure ads in ChatGPT Workspace Agents Trigger published ChatGPT workspace agents ChatGPT + Codex user docs Guides and product docs for ChatGPT and Codex Use cases Example workflows and tasks teams can take on with ChatGPT or Codex Docs Use cases Training Resources Resources Showcase Demo apps to get inspired Blog Learnings and experiences from developers Cookbook Notebook examples for building with OpenAI models Learn Docs, videos, and demo apps for building with OpenAI Community Programs, meetups, and support for builders Overview Features Configuration"
+    "text_sample": "Codex IDE extension | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT API Dashboard Try ChatGPT Language Loading languages… Theme Theme Home API Overview Get started with the OpenAI API Models Explore models and compare capabilities Agents Build persistent agents on hosted infrastructure Tools Connect models to tools and data Audio & voice Build speech and realtime voice experiences Production Deploy and scale your API integrations API reference Explore endpoints, parameters, and responses ChatGPT Plugins Extend ChatGPT and Codex Sign in with ChatGPT Apps powered by your user's ChatGPT plan Commerce Build commerce flows in ChatGPT Agent Access Allow verified ChatGPT browser visits to your website Ads Publish and measure ads in ChatGPT Workspace Agents Trigger published ChatGPT workspace agents ChatGPT + Codex user docs Guides and product docs for ChatGPT and Codex Use cases Example workflows and tasks teams can take on with ChatGPT or Codex Docs Use cases Training Resources Resources Showcase Demo apps to get inspired Blog Learnings and experiences from developers Cookbook Notebook examples for building with OpenAI models Learn Docs, videos, and demo apps for building with OpenAI Community Programs, meetups, and support for builders Overview Features Configuration"
   },
   {
     "id": "codex_auth",
     "title": "Codex Authentication",
     "url": "https://developers.openai.com/codex/auth",
     "type": "official",
-    "fetched_at": "20261120T070125Z",
+    "fetched_at": "20261121T065632Z",
     "status": 200,
     "error": null,
     "page_title": "Authentication | ChatGPT Learn",
@@ -435,15 +435,15 @@
       },
       {
         "keyword": "ChatGPT",
-        "excerpt": "Authentication | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT Start searching API Dashboard Try ChatGPT Theme Light Dark System Home API Overview Get started with the OpenAI API"
+        "excerpt": "Authentication | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT API Dashboard Try ChatGPT Language Loading languages… Theme Theme Home API Overview Get started with the OpenAI API"
       },
       {
         "keyword": "agent",
-        "excerpt": "hboard Try ChatGPT Theme Light Dark System Home API Overview Get started with the OpenAI API Models Explore models and compare capabilities Agents Build persistent agents on hosted infrastructure Tools Connect models to tools and data Audio & voice Build speech and realtime voice experiences Production Deploy and scale your API integrations API reference Explore endpoints, parameters, and responses ChatGPT Plugins Ex"
+        "excerpt": "PT Language Loading languages… Theme Theme Home API Overview Get started with the OpenAI API Models Explore models and compare capabilities Agents Build persistent agents on hosted infrastructure Tools Connect models to tools and data Audio & voice Build speech and realtime voice experiences Production Deploy and scale your API integrations API reference Explore endpoints, parameters, and responses ChatGPT Plugins Ex"
       },
       {
         "keyword": "agents",
-        "excerpt": "hboard Try ChatGPT Theme Light Dark System Home API Overview Get started with the OpenAI API Models Explore models and compare capabilities Agents Build persistent agents on hosted infrastructure Tools Connect models to tools and data Audio & voice Build speech and realtime voice experiences Production Deploy and scale your API integrations API reference Explore endpoints, parameters, and responses ChatGPT Plugins Ex"
+        "excerpt": "PT Language Loading languages… Theme Theme Home API Overview Get started with the OpenAI API Models Explore models and compare capabilities Agents Build persistent agents on hosted infrastructure Tools Connect models to tools and data Audio & voice Build speech and realtime voice experiences Production Deploy and scale your API integrations API reference Explore endpoints, parameters, and responses ChatGPT Plugins Ex"
       },
       {
         "keyword": "automation",
@@ -487,7 +487,7 @@
       },
       {
         "keyword": "model",
-        "excerpt": "o the page URL. ChatGPT Start searching API Dashboard Try ChatGPT Theme Light Dark System Home API Overview Get started with the OpenAI API Models Explore models and compare capabilities Agents Build persistent agents on hosted infrastructure Tools Connect models to tools and data Audio & voice Build speech and realtime voice experiences Production Deploy and scale your API integrations API reference Explore endpoint"
+        "excerpt": "o the page URL. ChatGPT API Dashboard Try ChatGPT Language Loading languages… Theme Theme Home API Overview Get started with the OpenAI API Models Explore models and compare capabilities Agents Build persistent agents on hosted infrastructure Tools Connect models to tools and data Audio & voice Build speech and realtime voice experiences Production Deploy and scale your API integrations API reference Explore endpoint"
       },
       {
         "keyword": "release",
@@ -515,21 +515,21 @@
       },
       {
         "keyword": "config",
-        "excerpt": "I models Learn Docs, videos, and demo apps for building with OpenAI Community Programs, meetups, and support for builders Overview Features Configuration Developers Security Administration Use Cases Resources Search the docs Search docs Suggested responses create reasoning_effort realtime prompt caching Primary navigation API ChatGPT Docs Use cases Training Resources Resources Theme Light Dark System Search docs Sugg"
+        "excerpt": "I models Learn Docs, videos, and demo apps for building with OpenAI Community Programs, meetups, and support for builders Overview Features Configuration Developers Security Administration Use Cases Resources Search the docs Search docs Suggested responses create reasoning_effort realtime prompt caching Primary navigation API ChatGPT Docs Use cases Training Resources Resources Search docs Suggested responses create r"
       },
       {
         "keyword": "authentication",
-        "excerpt": "Authentication | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT Start searching API Dashboard Try ChatGPT Theme Light Dark System Home API Overview Get started wit"
+        "excerpt": "Authentication | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT API Dashboard Try ChatGPT Language Loading languages… Theme Theme Home API Overview Get started wit"
       }
     ],
-    "text_sample": "Authentication | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT Start searching API Dashboard Try ChatGPT Theme Light Dark System Home API Overview Get started with the OpenAI API Models Explore models and compare capabilities Agents Build persistent agents on hosted infrastructure Tools Connect models to tools and data Audio & voice Build speech and realtime voice experiences Production Deploy and scale your API integrations API reference Explore endpoints, parameters, and responses ChatGPT Plugins Extend ChatGPT and Codex Sign in with ChatGPT Apps powered by your user's ChatGPT plan Commerce Build commerce flows in ChatGPT Agent Access Allow verified ChatGPT browser visits to your website Ads Publish and measure ads in ChatGPT Workspace Agents Trigger published ChatGPT workspace agents ChatGPT + Codex user docs Guides and product docs for ChatGPT and Codex Use cases Example workflows and tasks teams can take on with ChatGPT or Codex Docs Use cases Training Resources Resources Showcase Demo apps to get inspired Blog Learnings and experiences from developers Cookbook Notebook examples for building with OpenAI models Learn Docs, videos, and demo apps for building with OpenAI Community Programs, meetups, and support for builders Overview Features Configuration Deve"
+    "text_sample": "Authentication | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT API Dashboard Try ChatGPT Language Loading languages… Theme Theme Home API Overview Get started with the OpenAI API Models Explore models and compare capabilities Agents Build persistent agents on hosted infrastructure Tools Connect models to tools and data Audio & voice Build speech and realtime voice experiences Production Deploy and scale your API integrations API reference Explore endpoints, parameters, and responses ChatGPT Plugins Extend ChatGPT and Codex Sign in with ChatGPT Apps powered by your user's ChatGPT plan Commerce Build commerce flows in ChatGPT Agent Access Allow verified ChatGPT browser visits to your website Ads Publish and measure ads in ChatGPT Workspace Agents Trigger published ChatGPT workspace agents ChatGPT + Codex user docs Guides and product docs for ChatGPT and Codex Use cases Example workflows and tasks teams can take on with ChatGPT or Codex Docs Use cases Training Resources Resources Showcase Demo apps to get inspired Blog Learnings and experiences from developers Cookbook Notebook examples for building with OpenAI models Learn Docs, videos, and demo apps for building with OpenAI Community Programs, meetups, and support for builders Overview Features Configuration Deve"
   },
   {
     "id": "codex_config",
     "title": "Codex Config Reference",
     "url": "https://developers.openai.com/codex/config-reference",
     "type": "official",
-    "fetched_at": "20261120T070125Z",
+    "fetched_at": "20261121T065632Z",
     "status": 200,
     "error": null,
     "page_title": "Configuration Reference | ChatGPT Learn",
@@ -540,15 +540,15 @@
       },
       {
         "keyword": "ChatGPT",
-        "excerpt": "Configuration Reference | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT Start searching API Dashboard Try ChatGPT Theme Light Dark System Home API Overview Get started with the OpenAI API"
+        "excerpt": "Configuration Reference | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT API Dashboard Try ChatGPT Language Loading languages… Theme Theme Home API Overview Get started with the OpenAI API"
       },
       {
         "keyword": "agent",
-        "excerpt": "hboard Try ChatGPT Theme Light Dark System Home API Overview Get started with the OpenAI API Models Explore models and compare capabilities Agents Build persistent agents on hosted infrastructure Tools Connect models to tools and data Audio & voice Build speech and realtime voice experiences Production Deploy and scale your API integrations API reference Explore endpoints, parameters, and responses ChatGPT Plugins Ex"
+        "excerpt": "PT Language Loading languages… Theme Theme Home API Overview Get started with the OpenAI API Models Explore models and compare capabilities Agents Build persistent agents on hosted infrastructure Tools Connect models to tools and data Audio & voice Build speech and realtime voice experiences Production Deploy and scale your API integrations API reference Explore endpoints, parameters, and responses ChatGPT Plugins Ex"
       },
       {
         "keyword": "agents",
-        "excerpt": "hboard Try ChatGPT Theme Light Dark System Home API Overview Get started with the OpenAI API Models Explore models and compare capabilities Agents Build persistent agents on hosted infrastructure Tools Connect models to tools and data Audio & voice Build speech and realtime voice experiences Production Deploy and scale your API integrations API reference Explore endpoints, parameters, and responses ChatGPT Plugins Ex"
+        "excerpt": "PT Language Loading languages… Theme Theme Home API Overview Get started with the OpenAI API Models Explore models and compare capabilities Agents Build persistent agents on hosted infrastructure Tools Connect models to tools and data Audio & voice Build speech and realtime voice experiences Production Deploy and scale your API integrations API reference Explore endpoints, parameters, and responses ChatGPT Plugins Ex"
       },
       {
         "keyword": "automation",
@@ -596,7 +596,7 @@
       },
       {
         "keyword": "model",
-        "excerpt": "o the page URL. ChatGPT Start searching API Dashboard Try ChatGPT Theme Light Dark System Home API Overview Get started with the OpenAI API Models Explore models and compare capabilities Agents Build persistent agents on hosted infrastructure Tools Connect models to tools and data Audio & voice Build speech and realtime voice experiences Production Deploy and scale your API integrations API reference Explore endpoint"
+        "excerpt": "o the page URL. ChatGPT API Dashboard Try ChatGPT Language Loading languages… Theme Theme Home API Overview Get started with the OpenAI API Models Explore models and compare capabilities Agents Build persistent agents on hosted infrastructure Tools Connect models to tools and data Audio & voice Build speech and realtime voice experiences Production Deploy and scale your API integrations API reference Explore endpoint"
       },
       {
         "keyword": "release",
@@ -624,21 +624,21 @@
       },
       {
         "keyword": "config",
-        "excerpt": "Configuration Reference | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT Start searching API Dashboard Try ChatGPT Theme Light Dark System Home API Overview Get st"
+        "excerpt": "Configuration Reference | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT API Dashboard Try ChatGPT Language Loading languages… Theme Theme Home API Overview Get st"
       },
       {
         "keyword": "authentication",
         "excerpt": "& Budgets Targeting Product Feeds Hotel Feeds (limited beta) Conversion Tracking Reporting Troubleshooting Account Management API Reference Authentication Ad Account Audit Logs Campaigns Ad Groups Ads Insights Files Conversion Setup Home Get started Trigger workspace agent runs Authenticate with Workspace Agent access tokens Overview Features Configuration Developers Security Administration Use Cases Resources Docs C"
       }
     ],
-    "text_sample": "Configuration Reference | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT Start searching API Dashboard Try ChatGPT Theme Light Dark System Home API Overview Get started with the OpenAI API Models Explore models and compare capabilities Agents Build persistent agents on hosted infrastructure Tools Connect models to tools and data Audio & voice Build speech and realtime voice experiences Production Deploy and scale your API integrations API reference Explore endpoints, parameters, and responses ChatGPT Plugins Extend ChatGPT and Codex Sign in with ChatGPT Apps powered by your user's ChatGPT plan Commerce Build commerce flows in ChatGPT Agent Access Allow verified ChatGPT browser visits to your website Ads Publish and measure ads in ChatGPT Workspace Agents Trigger published ChatGPT workspace agents ChatGPT + Codex user docs Guides and product docs for ChatGPT and Codex Use cases Example workflows and tasks teams can take on with ChatGPT or Codex Docs Use cases Training Resources Resources Showcase Demo apps to get inspired Blog Learnings and experiences from developers Cookbook Notebook examples for building with OpenAI models Learn Docs, videos, and demo apps for building with OpenAI Community Programs, meetups, and support for builders Overview Features Configura"
+    "text_sample": "Configuration Reference | ChatGPT Learn For the complete documentation index, see llms.txt . Markdown versions of documentation pages are available by appending .md to the page URL. ChatGPT API Dashboard Try ChatGPT Language Loading languages… Theme Theme Home API Overview Get started with the OpenAI API Models Explore models and compare capabilities Agents Build persistent agents on hosted infrastructure Tools Connect models to tools and data Audio & voice Build speech and realtime voice experiences Production Deploy and scale your API integrations API reference Explore endpoints, parameters, and responses ChatGPT Plugins Extend ChatGPT and Codex Sign in with ChatGPT Apps powered by your user's ChatGPT plan Commerce Build commerce flows in ChatGPT Agent Access Allow verified ChatGPT browser visits to your website Ads Publish and measure ads in ChatGPT Workspace Agents Trigger published ChatGPT workspace agents ChatGPT + Codex user docs Guides and product docs for ChatGPT and Codex Use cases Example workflows and tasks teams can take on with ChatGPT or Codex Docs Use cases Training Resources Resources Showcase Demo apps to get inspired Blog Learnings and experiences from developers Cookbook Notebook examples for building with OpenAI models Learn Docs, videos, and demo apps for building with OpenAI Community Programs, meetups, and support for builders Overview Features Configura"
   },
   {
     "id": "openai_codex_releases",
     "title": "openai/codex Releases",
     "url": "https://github.com/openai/codex/releases",
     "type": "github",
-    "fetched_at": "20261120T070125Z",
+    "fetched_at": "20261121T065632Z",
     "status": 200,
     "error": null,
     "page_title": "Releases · openai/codex · GitHub",
@@ -665,7 +665,7 @@
       },
       {
         "keyword": "IDE",
-        "excerpt": ".1 0.171.0 0.172.0-alpha.2 0.171.0-alpha.13.1 0.170.0 0.172.0-alpha.1 0.171.0-alpha.13 0.170.0-alpha.4.2 0.169.1 0.171.0-alpha.12 Collapse sidebar Releases --> Releases · openai/codex 0.173.0-alpha.1 0.173.0-alpha.1 Pre-release Pre-release Compare Choose a tag to compare Sorry, something went wrong. Filter Loading Sorry, something went wrong. Uh oh! There was an error while loading. Please reload this page . No resul"
+        "excerpt": "173.0-alpha.3 0.173.0-alpha.2 0.173.0-alpha.1 0.171.0 0.172.0-alpha.2 0.171.0-alpha.13.1 0.170.0 0.172.0-alpha.1 0.171.0-alpha.13 Collapse sidebar Releases --> Releases · openai/codex 0.173.0-alpha.4 0.173.0-alpha.4 Pre-release Pre-release Compare Choose a tag to compare Sorry, something went wrong. Filter Loading Sorry, something went wrong. Uh oh! There was an error while loading. Please reload this page . No resul"
       },
       {
         "keyword": "GitHub",
@@ -707,40 +707,194 @@
     "title": "ChatGPT Release Notes",
     "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
     "type": "official",
-    "fetched_at": "20261120T070125Z",
-    "status": 403,
-    "error": "HTTP Error 403: Forbidden",
-    "hits": [],
-    "text_sample": ""
+    "fetched_at": "20261121T065632Z",
+    "status": 200,
+    "error": null,
+    "page_title": "ChatGPT release notes | OpenAI Help Center",
+    "hits": [
+      {
+        "keyword": "Codex",
+        "excerpt": "s it easier to get to your favorite features and discover more of what you can do. Your dot has its own tab, and you can pin favorites like Codex, Projects, and Images to the tab bar. We’re starting with ChatGPT Pro users who are 18 or older in regions where dots are available. This rollout excludes the European Economic Area (including the EU), the UK, Switzerland, and Korea. A small group of eligible Plus users wil"
+      },
+      {
+        "keyword": "ChatGPT",
+        "excerpt": "ChatGPT release notes | OpenAI Help Center OpenAI Support Help All Collections ChatGPT ChatGPT release notes ChatGPT release notes Review the latest updates and release notes for ChatGPT. Updated: 5 hours ago November 20, 2026 ChatGPT Space is rolling out to Plus Starting today,"
+      },
+      {
+        "keyword": "agent",
+        "excerpt": "such as Face ID or Touch ID. Wallet provides a substitute payment credential for checkout, keeping your actual card details hidden from the agent and business. You retain the rewards associated with your card and its protections for qualifying disputes. Wallet is rolling out gradually in dots to ChatGPT Pro subscribers age 18 or older in the United States, with an eligible US-issued card and US billing address. To ge"
+      },
+      {
+        "keyword": "agents",
+        "excerpt": "S-issued card and US billing address. To get started, ask your dot to add a card to Wallet. Some websites may not support purchases made by agents, and approval alone doesn’t confirm an order—check the merchant’s confirmation after checkout. For setup and purchase guidance, see: Making purchases with ChatGPT Wallet . November 10, 2026 Retiring Advanced and Standard Voice We’re retiring Advanced and Standard voice fro"
+      },
+      {
+        "keyword": "automation",
+        "excerpt": "browser to continue editing in ChatGPT, review changes, and publish when ready. Site owners can also create recurring cloud schedules from Automations . These updates are available where Sites is supported. Learn more about creating and managing Sites . GPT-6.1 Sol in ChatGPT Work and Codex GPT-6.1 Sol improves on GPT-6 Sol in agentic coding, computer use, and professional work. We’re rolling it out in ChatGPT Work"
+      },
+      {
+        "keyword": "automations",
+        "excerpt": "browser to continue editing in ChatGPT, review changes, and publish when ready. Site owners can also create recurring cloud schedules from Automations . These updates are available where Sites is supported. Learn more about creating and managing Sites . GPT-6.1 Sol in ChatGPT Work and Codex GPT-6.1 Sol improves on GPT-6 Sol in agentic coding, computer use, and professional work. We’re rolling it out in ChatGPT Work"
+      },
+      {
+        "keyword": "browser",
+        "excerpt": "it. Creating, editing, and scheduling Sites Site owners and editors on Plus and Pro can select Edit site from a published Site in a desktop browser to continue editing in ChatGPT, review changes, and publish when ready. Site owners can also create recurring cloud schedules from Automations . These updates are available where Sites is supported. Learn more about creating and managing Sites . GPT-6.1 Sol in ChatGPT Wor"
+      },
+      {
+        "keyword": "Chrome",
+        "excerpt": "e tools use WebMCP and require a supported account, model, and webpage. They are available in the built-in desktop browser, not through the Chrome extension. Existing website-access and sensitive-action confirmations still apply. Learn more about site tools . Use the browser extension in more browsers The ChatGPT browser extension now supports Microsoft Edge, Brave, Opera, and Vivaldi. Bring your browser into Work an"
+      },
+      {
+        "keyword": "CLI",
+        "excerpt": "ith Live Dictation, your speech turns into text as you talk, so you spend less time waiting for your message to finish transcribing. Tap or click on the waveform to show or hide text as you go. We’ve also removed the 10-minute recording limit. Live Dictation is rolling out globally to all ChatGPT plans on iOS, Android, web, and the desktop app. Learn more about voice dictation . Accounting workflows in ChatGPT The Ac"
+      },
+      {
+        "keyword": "IDE",
+        "excerpt": "ve pages and presentations with ChatGPT, then invite other people with Space access to build on them with you. You can also set pages and slides to automatically update based on your connected apps and tools. Try making a to-do list that updates itself, a study guide with a 3D model you can explore, or a project plan that stays current with decisions from Slack. Tag ChatGPT in a comment to ask for changes. If you hav"
+      },
+      {
+        "keyword": "GitHub",
+        "excerpt": "account and workspace permissions. Learn more about Code Review . Scan repositories with Codex Security Cloud Codex Security Cloud can scan GitHub repositories on demand or on a schedule, while ongoing checks review new commits. Codex investigates findings, removes duplicates, and prepares proposed fixes for review. Scans run in the cloud and can continue after you close your laptop. Access requires the applicable wo"
+      },
+      {
+        "keyword": "MCP",
+        "excerpt": "your ChatGPT plan allowance. Learn more about Sign in with ChatGPT . Start automations from connected-app events Supported plugins can use MCP events to start an automation when something changes in a connected app. Describe what you want ChatGPT to follow and what it should do with matching updates—for example, prepare a summary when new information arrives in a channel you have asked it to monitor. The connected a"
+      },
+      {
+        "keyword": "plugins",
+        "excerpt": "s you see depend on your seat and workspace settings. Regular Chat keeps its existing model choices . November 16, 2026 Clinical search and plugins for ChatGPT for Clinicians We’ve improved clinical search in ChatGPT for Clinicians, with updates to how ChatGPT finds, evaluates, and cites medical evidence. Healthcare plugins also let you connect supported tools to ChatGPT. Plugin availability and requirements vary. Fo"
+      },
+      {
+        "keyword": "skills",
+        "excerpt": "the preview. We’re also replacing the App Directory with the Plugin Directory. Existing app connections are unaffected. Plugins can package skills, apps, and app templates for specific workflows, and are available from ChatGPT on web and desktop, including Work and Codex. Learn more about ChatGPT Work and Codex . Learn more about plugins and the new plugin directory. Skills are now generally available Enterprise and"
+      },
+      {
+        "keyword": "memory",
+        "excerpt": "You can stay signed in to up to 2 ChatGPT accounts at a time and switch between them without signing out. Each account keeps its own chats, memory, settings, and subscriptions. To get started, go to Settings > Switch account . Learn more about account switching . October 29, 2026 More Work and Codex usage on Pro and Business Premium Plans We’re increasing the Work and Codex usage included in Pro and Business Premium"
+      },
+      {
+        "keyword": "model",
+        "excerpt": "slides to automatically update based on your connected apps and tools. Try making a to-do list that updates itself, a study guide with a 3D model you can explore, or a project plan that stays current with decisions from Slack. Tag ChatGPT in a comment to ask for changes. If you have a dot, you can invite it to collaborate, too. To open a shared page or presentation, you need permission to view it and must be signed i"
+      },
+      {
+        "keyword": "release",
+        "excerpt": "ChatGPT release notes | OpenAI Help Center OpenAI Support Help All Collections ChatGPT ChatGPT release notes ChatGPT release notes Review the latest updates and release notes for ChatGPT. Updated: 5 hours ago November 20, 2026 ChatGPT Space is rolling out to Plus Starting today, ChatGPT"
+      },
+      {
+        "keyword": "developer",
+        "excerpt": "usable for 30 days after they are granted. Learn more in Invite friends and coworkers and review the current terms . This release also adds Developer mode for Browser use in Chrome and the Codex in-app browser. Developer mode gives Codex controlled Chrome DevTools Protocol access so it can profile JavaScript, inspect console output and network traffic, review page state such as the DOM and applied styles, and diagnos"
+      },
+      {
+        "keyword": "workflow",
+        "excerpt": "ation is rolling out globally to all ChatGPT plans on iOS, Android, web, and the desktop app. Learn more about voice dictation . Accounting workflows in ChatGPT The Accounting plugin helps you reconcile transactions, draft invoice entries, and prepare month-end reports from your records and templates. Open the ChatGPT desktop app for macOS or Windows, set up computer use , and open the Accounting plugin listing. Sele"
+      },
+      {
+        "keyword": "computer use",
+        "excerpt": "t invoice entries, and prepare month-end reports from your records and templates. Open the ChatGPT desktop app for macOS or Windows, set up computer use , and open the Accounting plugin listing. Select Install plugin if it’s available for your plan and workspace. In Enterprise workspaces, an admin must approve Accounting before members can install it. November 17, 2026 GPT-6.2 Astra and Sol in ChatGPT Work and Codex"
+      },
+      {
+        "keyword": "image generation",
+        "excerpt": "the sidebar in ChatGPT on the web. Read more: Setting up your business with ChatGPT November 4, 2026 Introducing ChatGPT Images 2.6 Our new image generation model creates images faster and is better at preserving details across edits, like a character’s outfit when you change the background. We’re also introducing two new features in ChatGPT. GIF creation is rolling out in ChatGPT. Ask for a looping animation, or upl"
+      },
+      {
+        "keyword": "config",
+        "excerpt": "managed workspaces, your workspace’s Codex cloud-access settings apply. To connect repositories and prepare an environment, see: Set up and configure Codex Cloud . For availability and usage, see: Using Codex with your ChatGPT plan . Create and collaborate on Pages Turn a conversation into a Page, start from a template, or begin writing directly in Space. Edit the text yourself or ask ChatGPT to revise it, add charts"
+      },
+      {
+        "keyword": "authentication",
+        "excerpt": "account while hiding them from regular chat history, pinned chats, and search. Open them with your 4-digit account PIN or supported device authentication. Your retention and model-improvement settings stay unchanged. Locked chats are rolling out gradually to Free, Go, Plus, and Pro users on the web, in the iOS and Android apps, and in the new ChatGPT desktop app for macOS and Windows. To lock a chat, open a chat’s m"
+      }
+    ],
+    "text_sample": "ChatGPT release notes | OpenAI Help Center OpenAI Support Help All Collections ChatGPT ChatGPT release notes ChatGPT release notes Review the latest updates and release notes for ChatGPT. Updated: 5 hours ago November 20, 2026 ChatGPT Space is rolling out to Plus Starting today, ChatGPT Space is rolling out globally to Plus users ages 18 and older. In Space, you can create interactive pages and presentations with ChatGPT, then invite other people with Space access to build on them with you. You can also set pages and slides to automatically update based on your connected apps and tools. Try making a to-do list that updates itself, a study guide with a 3D model you can explore, or a project plan that stays current with decisions from Slack. Tag ChatGPT in a comment to ask for changes. If you have a dot, you can invite it to collaborate, too. To open a shared page or presentation, you need permission to view it and must be signed in to a Plus, Pro, Business, or Enterprise account with Space access. People on Free can’t open shared pages or presentations. Public links aren’t available. To get started, open Space in the sidebar. It replaces Library and is your new home for pages, slides, images, and uploaded files. Use Space on the web, desktop app, and iOS and Android to create and edit pages. November 19, 2026 New mobile experience for ChatGPT We’re rolling out a new experience f"
   },
   {
     "id": "openai_news",
     "title": "OpenAI News",
     "url": "https://openai.com/news/",
     "type": "industry",
-    "fetched_at": "20261120T070125Z",
-    "status": 403,
-    "error": "HTTP Error 403: Forbidden",
-    "hits": [],
-    "text_sample": ""
+    "fetched_at": "20261121T065632Z",
+    "status": 200,
+    "error": null,
+    "page_title": "OpenAI News | OpenAI",
+    "hits": [
+      {
+        "keyword": "Codex",
+        "excerpt": "Nov 19, 2026 The Silent Consensus Intelligence Age Nov 18, 2026 Research acceleration: The jagged frontier Research Nov 18, 2026 Inside the Codex sandbox Engineering Nov 18, 2026 Managing frontier AI risk: From training to deployment Safety Nov 18, 2026 Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT Company Nov 18, 2026 Advancing chip design with OpenAI models Research Nov 18, 2026 Intro"
+      },
+      {
+        "keyword": "ChatGPT",
+        "excerpt": "OpenAI News | OpenAI Skip to main content Research Products Business Developers Company Foundation (opens in a new window) Log in Try ChatGPT (opens in a new window) Research Products Business Developers Company Foundation (opens in a new window) Try ChatGPT (opens in a new window) Login OpenAI All Company Research Product Safety Engineering Science Security Intelligence Age Global Affairs AI Adoption Applied A"
+      },
+      {
+        "keyword": "IDE",
+        "excerpt": "neering Science Security Intelligence Age Global Affairs AI Adoption Applied AI All Filter Sort Switch cards to show Media Switch cards to hide Media MedChemBench: Benchmarking AI for medicinal chemistry Research Nov 20, 2026 How OpenAI’s Performance Factory keeps ChatGPT fast Engineering Nov 19, 2026 The Silent Consensus Intelligence Age Nov 18, 2026 Research acceleration: The jagged frontier Research Nov 18, 2026 I"
+      },
+      {
+        "keyword": "plugins",
+        "excerpt": ") Release Notes API Platform Overview API Log In (opens in a new window) Docs (opens in a new window) Business Overview Solutions Resources Plugins Customer Stories Partner Network Contact Sales Developers Plugins (opens in a new window) Models (opens in a new window) Docs (opens in a new window) Resources (opens in a new window) Developer Forum (opens in a new window) Company About Us Our Charter Careers News Suppor"
+      },
+      {
+        "keyword": "model",
+        "excerpt": "8, 2026 Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT Company Nov 18, 2026 Advancing chip design with OpenAI models Research Nov 18, 2026 Introducing GPT-6.2 Astra and Sol Product Nov 17, 2026 Load more Research Research Index Research Overview Economic Research Latest Advancements GPT-6.2 GPT-6.1 Sol GPT-6 Astra GPT-5.6 Safety Deployment Safety (opens in a new window) Security & Privac"
+      },
+      {
+        "keyword": "release",
+        "excerpt": "n a new window) ChatGPT Enterprise (opens in a new window) ChatGPT for Education (opens in a new window) Codex Dots (opens in a new window) Release Notes API Platform Overview API Log In (opens in a new window) Docs (opens in a new window) Business Overview Solutions Resources Plugins Customer Stories Partner Network Contact Sales Developers Plugins (opens in a new window) Models (opens in a new window) Docs (opens i"
+      },
+      {
+        "keyword": "developer",
+        "excerpt": "OpenAI News | OpenAI Skip to main content Research Products Business Developers Company Foundation (opens in a new window) Log in Try ChatGPT (opens in a new window) Research Products Business Developers Company Foundation (opens in a new window) Try ChatGPT (opens in a new window) Login OpenAI All Company Research Product Safety Engineering Scien"
+      }
+    ],
+    "text_sample": "OpenAI News | OpenAI Skip to main content Research Products Business Developers Company Foundation (opens in a new window) Log in Try ChatGPT (opens in a new window) Research Products Business Developers Company Foundation (opens in a new window) Try ChatGPT (opens in a new window) Login OpenAI All Company Research Product Safety Engineering Science Security Intelligence Age Global Affairs AI Adoption Applied AI All Filter Sort Switch cards to show Media Switch cards to hide Media MedChemBench: Benchmarking AI for medicinal chemistry Research Nov 20, 2026 How OpenAI’s Performance Factory keeps ChatGPT fast Engineering Nov 19, 2026 The Silent Consensus Intelligence Age Nov 18, 2026 Research acceleration: The jagged frontier Research Nov 18, 2026 Inside the Codex sandbox Engineering Nov 18, 2026 Managing frontier AI risk: From training to deployment Safety Nov 18, 2026 Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT Company Nov 18, 2026 Advancing chip design with OpenAI models Research Nov 18, 2026 Introducing GPT-6.2 Astra and Sol Product Nov 17, 2026 Load more Research Research Index Research Overview Economic Research Latest Advancements GPT-6.2 GPT-6.1 Sol GPT-6 Astra GPT-5.6 Safety Deployment Safety (opens in a new window) Security & Privacy Trust & Transparency Products ChatGPT (opens in a new window) ChatGPT Business (opens in a new window) Cha"
   },
   {
     "id": "openai_research",
     "title": "OpenAI Research",
     "url": "https://openai.com/research/",
     "type": "industry",
-    "fetched_at": "20261120T070125Z",
-    "status": 403,
-    "error": "HTTP Error 403: Forbidden",
-    "hits": [],
-    "text_sample": ""
+    "fetched_at": "20261121T065632Z",
+    "status": 200,
+    "error": null,
+    "page_title": "Research | OpenAI",
+    "hits": [
+      {
+        "keyword": "Codex",
+        "excerpt": "w window) ChatGPT Business (opens in a new window) ChatGPT Enterprise (opens in a new window) ChatGPT for Education (opens in a new window) Codex Dots (opens in a new window) Release Notes API Platform Overview API Log In (opens in a new window) Docs (opens in a new window) Business Overview Solutions Resources Plugins Customer Stories Partner Network Contact Sales Developers Plugins (opens in a new window) Models (o"
+      },
+      {
+        "keyword": "ChatGPT",
+        "excerpt": "Research | OpenAI Skip to main content Research Products Business Developers Company Foundation (opens in a new window) Log in Try ChatGPT (opens in a new window) Research Products Business Developers Company Foundation (opens in a new window) Try ChatGPT (opens in a new window) Login OpenAI Research Pioneering research on the path to AGI We believe our research will eventually lead to artificial general int"
+      },
+      {
+        "keyword": "plugins",
+        "excerpt": ") Release Notes API Platform Overview API Log In (opens in a new window) Docs (opens in a new window) Business Overview Solutions Resources Plugins Customer Stories Partner Network Contact Sales Developers Plugins (opens in a new window) Models (opens in a new window) Docs (opens in a new window) Resources (opens in a new window) Developer Forum (opens in a new window) Company About Us Our Charter Careers News Suppor"
+      },
+      {
+        "keyword": "model",
+        "excerpt": "AGI benefits all of humanity. View research index Learn about safety Focus areas We advance the science of AI through research on frontier models, reasoning, multimodal systems, and safe deployment. GPT OpenAI’s GPT series models are fast, versatile, and cost-efficient AI systems designed to understand context, generate content, and reason across text, images, and more. GPT‑6.2 Astra and Sol: A new standard for prof"
+      },
+      {
+        "keyword": "release",
+        "excerpt": "understand context, generate content, and reason across text, images, and more. GPT‑6.2 Astra and Sol: A new standard for professional work Release Nov 17, 2026 18 min read Complex coding and professional work at a lower cost Release Sep 29, 2026 12 min read GPT‑6 Astra: A new generation of intelligence Release Sep 3, 2026 28 min read Visual Our research on visual and multimodal AI has led to advances in image genera"
+      },
+      {
+        "keyword": "developer",
+        "excerpt": "Research | OpenAI Skip to main content Research Products Business Developers Company Foundation (opens in a new window) Log in Try ChatGPT (opens in a new window) Research Products Business Developers Company Foundation (opens in a new window) Try ChatGPT (opens in a new window) Login OpenAI Research Pioneering research on the path to AGI We be"
+      },
+      {
+        "keyword": "image generation",
+        "excerpt": "ra: A new generation of intelligence Release Sep 3, 2026 28 min read Visual Our research on visual and multimodal AI has led to advances in image generation, vision-language understanding, and models that can reason across images and text. Sharper details, faster generation, and more precise editing ChatGPT Images 2.5 Sep 8, 2026 6 min read A state-of-the-art model that makes precise, immediately usable visuals ChatG"
+      }
+    ],
+    "text_sample": "Research | OpenAI Skip to main content Research Products Business Developers Company Foundation (opens in a new window) Log in Try ChatGPT (opens in a new window) Research Products Business Developers Company Foundation (opens in a new window) Try ChatGPT (opens in a new window) Login OpenAI Research Pioneering research on the path to AGI We believe our research will eventually lead to artificial general intelligence, a system that can solve human-level problems. Our mission is to ensure that AGI benefits all of humanity. View research index Learn about safety Focus areas We advance the science of AI through research on frontier models, reasoning, multimodal systems, and safe deployment. GPT OpenAI’s GPT series models are fast, versatile, and cost-efficient AI systems designed to understand context, generate content, and reason across text, images, and more. GPT‑6.2 Astra and Sol: A new standard for professional work Release Nov 17, 2026 18 min read Complex coding and professional work at a lower cost Release Sep 29, 2026 12 min read GPT‑6 Astra: A new generation of intelligence Release Sep 3, 2026 28 min read Visual Our research on visual and multimodal AI has led to advances in image generation, vision-language understanding, and models that can reason across images and text. Sharper details, faster generation, and more precise editing ChatGPT Images 2.5 Sep 8, 2026 6 min rea"
   },
   {
     "id": "github_ai_ml",
     "title": "GitHub AI & ML Blog",
     "url": "https://github.blog/ai-and-ml/",
     "type": "industry",
-    "fetched_at": "20261120T070125Z",
+    "fetched_at": "20261121T065632Z",
     "status": 200,
     "error": null,
     "page_title": "The latest on AI & ML - The GitHub Blog",
@@ -797,7 +951,7 @@
     "title": "GitHub Changelog",
     "url": "https://github.blog/changelog/",
     "type": "industry",
-    "fetched_at": "20261120T070125Z",
+    "fetched_at": "20261121T065632Z",
     "status": 200,
     "error": null,
     "page_title": "GitHub Changelog",
@@ -816,7 +970,7 @@
       },
       {
         "keyword": "CLI",
-        "excerpt": "vements Retired Filters ( 0 selected ) Clear all Filters ( 0 selected ) Match: Any All Tags Account management Actions Application Security Client apps Collaboration tools Community engagement Copilot Ecosystem & accessibility Enterprise management tools Platform governance Projects & Issues Supply chain security Universe ‘26 Clear all Apply November Nov 2026 November Nov 2026 Nov.19 Improvement Improvements on the p"
+        "excerpt": "vements Retired Filters ( 0 selected ) Clear all Filters ( 0 selected ) Match: Any All Tags Account management Actions Application Security Client apps Collaboration tools Community engagement Copilot Ecosystem & accessibility Enterprise management tools Platform governance Projects & Issues Supply chain security Universe ‘26 Clear all Apply November Nov 2026 November Nov 2026 Nov.20 Improvement Security advisory per"
       },
       {
         "keyword": "IDE",
@@ -859,14 +1013,14 @@
         "excerpt": "on security Nov.03 Improvement Dependabot now supports Python 3.15 supply chain security Nov.02 Improvement GitHub Desktop adds short-lived authentication tokens account management application security client apps ... +2 Nov.02 Improvement Security risk assessments include repository protection status application security Nov.02 Retired pull_request_target blocked by default December 2 actions application security .."
       }
     ],
-    "text_sample": "GitHub Changelog Skip to content / Blog Changelog Docs Customer stories Try GitHub Copilot app See what&#039;s new Search Changelog Docs Customer stories See what&#039;s new Try GitHub Copilot app Back to blog Changelog Copy RSS feed URL Follow @ghchangelog on X All New Releases Improvements Retired Filters ( 0 selected ) Clear all Filters ( 0 selected ) Match: Any All Tags Account management Actions Application Security Client apps Collaboration tools Community engagement Copilot Ecosystem & accessibility Enterprise management tools Platform governance Projects & Issues Supply chain security Universe ‘26 Clear all Apply November Nov 2026 November Nov 2026 Nov.19 Improvement Improvements on the pull request overview in public preview collaboration tools Nov.19 Release Enterprise Live Migrations from Azure DevOps generally available enterprise management tools Nov.19 Improvement Red Hat Enterprise Linux runner images now generally available actions Nov.19 Improvement S3 audit log streaming with OpenID Connect expands to GHE.com enterprise management tools platform governance ... +1 Nov.18 Release Wait for pull request events with GitHub CLI client apps ecosystem & accessibility ... +1 Nov.18 Improvement Connect Supabase, Box, Calendly, and more to Copilot copilot Nov.18 Release Gemini 4 Neon in GitHub Copilot copilot Nov.18 Improvement Security risk assessments run automatically"
+    "text_sample": "GitHub Changelog Skip to content / Blog Changelog Docs Customer stories Try GitHub Copilot app See what&#039;s new Search Changelog Docs Customer stories See what&#039;s new Try GitHub Copilot app Back to blog Changelog Copy RSS feed URL Follow @ghchangelog on X All New Releases Improvements Retired Filters ( 0 selected ) Clear all Filters ( 0 selected ) Match: Any All Tags Account management Actions Application Security Client apps Collaboration tools Community engagement Copilot Ecosystem & accessibility Enterprise management tools Platform governance Projects & Issues Supply chain security Universe ‘26 Clear all Apply November Nov 2026 November Nov 2026 Nov.20 Improvement Security advisory permissions are now generally available enterprise management tools supply chain security ... +1 Nov.20 Release GitHub Enterprise Server 3.23 release candidate collaboration tools Nov.20 Improvement Pin your favorite repositories to your dashboard collaboration tools Nov.19 Improvement GitHub Desktop now supports multiple accounts per host client apps Nov.19 Improvement Improvements on the pull request overview in public preview collaboration tools Nov.19 Release Enterprise Live Migrations from Azure DevOps generally available enterprise management tools Nov.19 Improvement Red Hat Enterprise Linux runner images now generally available actions Nov.19 Improvement S3 audit log streaming with "
   },
   {
     "id": "anthropic_news",
     "title": "Anthropic News",
     "url": "https://www.anthropic.com/news",
     "type": "industry",
-    "fetched_at": "20261120T070125Z",
+    "fetched_at": "20261121T065632Z",
     "status": 200,
     "error": null,
     "page_title": "Newsroom \\ Anthropic",
@@ -905,7 +1059,7 @@
       },
       {
         "keyword": "model",
-        "excerpt": "Try Claude News Latest news November 20, 2026 Announcements Nov 9, 2026 Introducing Claude Fable 5.2 and Claude Mythos 5.2 Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences. Announcements Oct 18, 2026 Investing in the public benefit We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new e"
+        "excerpt": "Try Claude News Latest news November 21, 2026 Announcements Nov 9, 2026 Introducing Claude Fable 5.2 and Claude Mythos 5.2 Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences. Announcements Oct 18, 2026 Investing in the public benefit We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new e"
       },
       {
         "keyword": "developer",
@@ -913,48 +1067,48 @@
       },
       {
         "keyword": "Claude",
-        "excerpt": "Newsroom \\ Anthropic Skip to main content News Research Policy Commitments Company Try Claude News Latest news November 20, 2026 Announcements Nov 9, 2026 Introducing Claude Fable 5.2 and Claude Mythos 5.2 Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences. Announcements Oct"
+        "excerpt": "Newsroom \\ Anthropic Skip to main content News Research Policy Commitments Company Try Claude News Latest news November 21, 2026 Announcements Nov 9, 2026 Introducing Claude Fable 5.2 and Claude Mythos 5.2 Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences. Announcements Oct"
       },
       {
         "keyword": "workflow",
         "excerpt": "ing Agent Skills to the Agentic AI Foundation We’re donating Agent Skills, the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation. More than 70 agent platforms, including ChatGPT, Cursor, GitHub Copilot, and VS Code, have integrated Agent Skills since we published the standard in December 2025. Product Oct 22, 2026 Oct 22, 2026 Product Donating Agent Skills to the Age"
       }
     ],
-    "text_sample": "Newsroom \\ Anthropic Skip to main content News Research Policy Commitments Company Try Claude News Latest news November 20, 2026 Announcements Nov 9, 2026 Introducing Claude Fable 5.2 and Claude Mythos 5.2 Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences. Announcements Oct 18, 2026 Investing in the public benefit We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows. Announcements Oct 26, 2026 Anthropic files S-1 with the SEC for proposed initial public offering Today, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock. Science Oct 27, 2026 Early progress on accelerating drug development with Claude We&#x27;re at the start of a major effort to speed up drug development with Claude. Over the past several months, our scientists have engaged in deep research partnerships with six organizations developing new medicines. Announcements Oct 7, 2026 Introducing Claude Haiku 5.5 Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use. Announcements Sep 22, 2026 Introducing Claude O"
+    "text_sample": "Newsroom \\ Anthropic Skip to main content News Research Policy Commitments Company Try Claude News Latest news November 21, 2026 Announcements Nov 9, 2026 Introducing Claude Fable 5.2 and Claude Mythos 5.2 Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences. Announcements Oct 18, 2026 Investing in the public benefit We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows. Announcements Oct 26, 2026 Anthropic files S-1 with the SEC for proposed initial public offering Today, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock. Science Oct 27, 2026 Early progress on accelerating drug development with Claude We&#x27;re at the start of a major effort to speed up drug development with Claude. Over the past several months, our scientists have engaged in deep research partnerships with six organizations developing new medicines. Announcements Oct 7, 2026 Introducing Claude Haiku 5.5 Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use. Announcements Sep 22, 2026 Introducing Claude O"
   },
   {
     "id": "google_ai_developers",
     "title": "Google AI Developers Blog",
     "url": "https://developers.googleblog.com/en/search/?query=Gemini",
     "type": "industry",
-    "fetched_at": "20261120T070125Z",
+    "fetched_at": "20261121T065632Z",
     "status": 200,
     "error": null,
     "page_title": "Search - Google Developers Blog",
     "hits": [
       {
         "keyword": "agent",
-        "excerpt": "lator with audio, visual screenshot debugging, and direct publishing to your personal Google Play library. NOV. 16, 2026 / AI Securing Your Agents: A Hands-On Guide to Agent Anomaly Detection This guide walks developers through setting up Agent Anomaly Detection on the Gemini Enterprise Agent Platform to monitor AI agent telemetry and catch behavioral risks. It demonstrates how to deploy a sample customer support age"
+        "excerpt": "e TensorFlow TV Wallet Wear OS Workspace Technology Select all AI Cloud Mobile Web NOV. 20, 2026 / Cloud How to handle user, connector, and agent auth in Gemini Enterprise with a custom UI When building a custom enterprise UI on top of Gemini Enterprise&#x27;s :streamAssist API, developers must manually implement three core authentication layers. These include authenticating users or workloads via Google Identity or"
       },
       {
         "keyword": "agents",
-        "excerpt": "lator with audio, visual screenshot debugging, and direct publishing to your personal Google Play library. NOV. 16, 2026 / AI Securing Your Agents: A Hands-On Guide to Agent Anomaly Detection This guide walks developers through setting up Agent Anomaly Detection on the Gemini Enterprise Agent Platform to monitor AI agent telemetry and catch behavioral risks. It demonstrates how to deploy a sample customer support age"
+        "excerpt": "ing third-party 3-legged OAuth (3LO) for Federated Connectors through the Keystore, and configuring on-demand per-tool OAuth for custom ADK agents using Vertex AI Agent Engine and GCP Auth Manager. NOV. 20, 2026 / Cloud How to securely connect internal Cloud Run MCP servers to Gemini Enterprise How to connect Gemini Enterprise privately to internal StreamableHTTP MCP servers on Cloud Run using Egress Agent Gateway, P"
       },
       {
         "keyword": "Chrome",
-        "excerpt": "ment/Agile Q&A Release Notes Solutions Solve Testing TotT Tutorials Product Select all Ads AI Edge Android Angular AR Assistant Auto Checks Chrome OS Chrome Web Cloud DeepMind Design Engineering Firebase Flutter Gemini Gemma Geo Go Google AI Studio Google Labs Google Pay IDX Kaggle Keras Matter Pay Play Search Smart Home TensorFlow TV Wallet Wear OS Workspace Technology Select all AI Cloud Mobile Web NOV. 17, 2026 /"
-      },
-      {
-        "keyword": "CLI",
-        "excerpt": "udio by prompting Gemini with real-world geospatial concepts. The integration eliminates traditional configuration hurdles by providing one-click demo keys that generate instantly without requiring Cloud Console redirects or credit cards. This setup grants developers immediate access to core APIs—including Maps, Places, and Routes—supported by daily sandbox quotas for seamless prototyping. NOV. 3, 2026 / AI Cost per"
+        "excerpt": "ment/Agile Q&A Release Notes Solutions Solve Testing TotT Tutorials Product Select all Ads AI Edge Android Angular AR Assistant Auto Checks Chrome OS Chrome Web Cloud DeepMind Design Engineering Firebase Flutter Gemini Gemma Geo Go Google AI Studio Google Labs Google Pay IDX Kaggle Keras Matter Pay Play Search Smart Home TensorFlow TV Wallet Wear OS Workspace Technology Select all AI Cloud Mobile Web NOV. 20, 2026 /"
       },
       {
         "keyword": "IDE",
         "excerpt": "Announcements Beginner Best Practices Business and Leadership Case Studies Code Health Community Documentation Events Explore Hard How-To Guides Industry Trends Influence Intermediate Learn Performance Problem-Solving Project Management/Agile Q&A Release Notes Solutions Solve Testing TotT Tutorials Product Select all Ads AI Edge Android Angular AR Assistant Auto Checks Chrome OS Chrome Web Cloud DeepMind Design Engin"
       },
       {
+        "keyword": "MCP",
+        "excerpt": "h for custom ADK agents using Vertex AI Agent Engine and GCP Auth Manager. NOV. 20, 2026 / Cloud How to securely connect internal Cloud Run MCP servers to Gemini Enterprise How to connect Gemini Enterprise privately to internal StreamableHTTP MCP servers on Cloud Run using Egress Agent Gateway, Private Service Connect, FQDN-scoped Private Cloud DNS, and dual-header OAuth 2.0 authentication. NOV. 20, 2026 / Gemini Che"
+      },
+      {
         "keyword": "model",
-        "excerpt": "Smart Home TensorFlow TV Wallet Wear OS Workspace Technology Select all AI Cloud Mobile Web NOV. 17, 2026 / AI Gemini 4 Hydrogen: a faster model for general purpose robotics Google&#x27;s Gemini 4 Hydrogen brings strong spatial and embodied reasoning capabilities to a fast, efficient model built specifically for robotics. To help developers put these capabilities to work, the new Robotics plugin for Google Antigravi"
+        "excerpt": "l-language constraints to their agents and monitor auditable verdicts through Cloud Logging. NOV. 17, 2026 / AI Gemini 4 Hydrogen: a faster model for general purpose robotics Google&#x27;s Gemini 4 Hydrogen brings strong spatial and embodied reasoning capabilities to a fast, efficient model built specifically for robotics. To help developers put these capabilities to work, the new Robotics plugin for Google Antigravi"
       },
       {
         "keyword": "release",
@@ -962,21 +1116,21 @@
       },
       {
         "keyword": "developer",
-        "excerpt": "Search - Google Developers Blog Community/Events Learn Blog YouTube Search Community/Events Learn Blog YouTube Search for \"Gemini\" 265 results Clear filters Filter by Content Type Select all Announcements Beginner Best Practices Business and Leadership Case Studies Code Health Community Document"
+        "excerpt": "Search - Google Developers Blog Community/Events Learn Blog YouTube Search Community/Events Learn Blog YouTube Search for \"Gemini\" 268 results Clear filters Filter by Content Type Select all Announcements Beginner Best Practices Business and Leadership Case Studies Code Health Community Document"
       },
       {
         "keyword": "Gemini",
-        "excerpt": "Search - Google Developers Blog Community/Events Learn Blog YouTube Search Community/Events Learn Blog YouTube Search for \"Gemini\" 265 results Clear filters Filter by Content Type Select all Announcements Beginner Best Practices Business and Leadership Case Studies Code Health Community Documentation Events Explore Hard How-To Guides Industry Trends Influence Intermediate Learn Performance Problem-So"
+        "excerpt": "Search - Google Developers Blog Community/Events Learn Blog YouTube Search Community/Events Learn Blog YouTube Search for \"Gemini\" 268 results Clear filters Filter by Content Type Select all Announcements Beginner Best Practices Business and Leadership Case Studies Code Health Community Documentation Events Explore Hard How-To Guides Industry Trends Influence Intermediate Learn Performance Problem-So"
       },
       {
         "keyword": "config",
-        "excerpt": "etry and catch behavioral risks. It demonstrates how to deploy a sample customer support agent, trigger out-of-scope security findings, and configure proactive alerts using Cloud Monitoring and Security Command Center. NOV. 12, 2026 / AI Catch Go bugs that fuzzing misses with Gemini and a constraint solver How pairing Go&#x27;s surviving compiler bounds-check traps with Gemini 4 Argon and the Z3 constraint solver cat"
+        "excerpt": "ity or Workforce/Workload Identity Federation, managing third-party 3-legged OAuth (3LO) for Federated Connectors through the Keystore, and configuring on-demand per-tool OAuth for custom ADK agents using Vertex AI Agent Engine and GCP Auth Manager. NOV. 20, 2026 / Cloud How to securely connect internal Cloud Run MCP servers to Gemini Enterprise How to connect Gemini Enterprise privately to internal StreamableHTTP MC"
       },
       {
         "keyword": "authentication",
-        "excerpt": "tudio now lets developers build, test, and ship full-stack Kotlin Android apps from a single prompt—complete with Cloud Firestore, Firebase Authentication, Firebase AI Logic, a faster HD emulator with audio, visual screenshot debugging, and direct publishing to your personal Google Play library. NOV. 16, 2026 / AI Securing Your Agents: A Hands-On Guide to Agent Anomaly Detection This guide walks developers through se"
+        "excerpt": "UI When building a custom enterprise UI on top of Gemini Enterprise&#x27;s :streamAssist API, developers must manually implement three core authentication layers. These include authenticating users or workloads via Google Identity or Workforce/Workload Identity Federation, managing third-party 3-legged OAuth (3LO) for Federated Connectors through the Keystore, and configuring on-demand per-tool OAuth for custom ADK a"
       }
     ],
-    "text_sample": "Search - Google Developers Blog Community/Events Learn Blog YouTube Search Community/Events Learn Blog YouTube Search for \"Gemini\" 265 results Clear filters Filter by Content Type Select all Announcements Beginner Best Practices Business and Leadership Case Studies Code Health Community Documentation Events Explore Hard How-To Guides Industry Trends Influence Intermediate Learn Performance Problem-Solving Project Management/Agile Q&A Release Notes Solutions Solve Testing TotT Tutorials Product Select all Ads AI Edge Android Angular AR Assistant Auto Checks Chrome OS Chrome Web Cloud DeepMind Design Engineering Firebase Flutter Gemini Gemma Geo Go Google AI Studio Google Labs Google Pay IDX Kaggle Keras Matter Pay Play Search Smart Home TensorFlow TV Wallet Wear OS Workspace Technology Select all AI Cloud Mobile Web NOV. 17, 2026 / AI Gemini 4 Hydrogen: a faster model for general purpose robotics Google&#x27;s Gemini 4 Hydrogen brings strong spatial and embodied reasoning capabilities to a fast, efficient model built specifically for robotics. To help developers put these capabilities to work, the new Robotics plugin for Google Antigravity transforms the platform into a comprehensive workbench supporting rapid hardware bring-up, MuJoCo simulation, and closed-loop control. Developers can leverage these tools to transition from an unboxed robot arm to a fully functional real-to-si"
+    "text_sample": "Search - Google Developers Blog Community/Events Learn Blog YouTube Search Community/Events Learn Blog YouTube Search for \"Gemini\" 268 results Clear filters Filter by Content Type Select all Announcements Beginner Best Practices Business and Leadership Case Studies Code Health Community Documentation Events Explore Hard How-To Guides Industry Trends Influence Intermediate Learn Performance Problem-Solving Project Management/Agile Q&A Release Notes Solutions Solve Testing TotT Tutorials Product Select all Ads AI Edge Android Angular AR Assistant Auto Checks Chrome OS Chrome Web Cloud DeepMind Design Engineering Firebase Flutter Gemini Gemma Geo Go Google AI Studio Google Labs Google Pay IDX Kaggle Keras Matter Pay Play Search Smart Home TensorFlow TV Wallet Wear OS Workspace Technology Select all AI Cloud Mobile Web NOV. 20, 2026 / Cloud How to handle user, connector, and agent auth in Gemini Enterprise with a custom UI When building a custom enterprise UI on top of Gemini Enterprise&#x27;s :streamAssist API, developers must manually implement three core authentication layers. These include authenticating users or workloads via Google Identity or Workforce/Workload Identity Federation, managing third-party 3-legged OAuth (3LO) for Federated Connectors through the Keystore, and configuring on-demand per-tool OAuth for custom ADK agents using Vertex AI Agent Engine and GCP Auth Ma"
   }
 ]
