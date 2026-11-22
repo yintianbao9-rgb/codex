@@ -4,7 +4,7 @@
     "title": "Codex Changelog",
     "url": "https://developers.openai.com/codex/changelog",
     "type": "official",
-    "fetched_at": "20261121T065632Z",
+    "fetched_at": "20261122T063501Z",
     "status": 200,
     "error": null,
     "page_title": "ChatGPT & Codex changelog | ChatGPT Learn",
@@ -109,7 +109,7 @@
     "title": "Codex App",
     "url": "https://developers.openai.com/codex/app",
     "type": "official",
-    "fetched_at": "20261121T065632Z",
+    "fetched_at": "20261122T063501Z",
     "status": 200,
     "error": null,
     "page_title": "ChatGPT desktop app | ChatGPT Learn",
@@ -214,7 +214,7 @@
     "title": "Codex CLI",
     "url": "https://developers.openai.com/codex/cli",
     "type": "official",
-    "fetched_at": "20261121T065632Z",
+    "fetched_at": "20261122T063501Z",
     "status": 200,
     "error": null,
     "page_title": "Codex CLI | ChatGPT Learn",
@@ -319,7 +319,7 @@
     "title": "Codex IDE",
     "url": "https://developers.openai.com/codex/ide",
     "type": "official",
-    "fetched_at": "20261121T065632Z",
+    "fetched_at": "20261122T063501Z",
     "status": 200,
     "error": null,
     "page_title": "Codex IDE extension | ChatGPT Learn",
@@ -424,7 +424,7 @@
     "title": "Codex Authentication",
     "url": "https://developers.openai.com/codex/auth",
     "type": "official",
-    "fetched_at": "20261121T065632Z",
+    "fetched_at": "20261122T063501Z",
     "status": 200,
     "error": null,
     "page_title": "Authentication | ChatGPT Learn",
@@ -529,7 +529,7 @@
     "title": "Codex Config Reference",
     "url": "https://developers.openai.com/codex/config-reference",
     "type": "official",
-    "fetched_at": "20261121T065632Z",
+    "fetched_at": "20261122T063501Z",
     "status": 200,
     "error": null,
     "page_title": "Configuration Reference | ChatGPT Learn",
@@ -638,7 +638,7 @@
     "title": "openai/codex Releases",
     "url": "https://github.com/openai/codex/releases",
     "type": "github",
-    "fetched_at": "20261121T065632Z",
+    "fetched_at": "20261122T063501Z",
     "status": 200,
     "error": null,
     "page_title": "Releases · openai/codex · GitHub",
@@ -707,7 +707,7 @@
     "title": "ChatGPT Release Notes",
     "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
     "type": "official",
-    "fetched_at": "20261121T065632Z",
+    "fetched_at": "20261122T063501Z",
     "status": 200,
     "error": null,
     "page_title": "ChatGPT release notes | OpenAI Help Center",
@@ -718,7 +718,7 @@
       },
       {
         "keyword": "ChatGPT",
-        "excerpt": "ChatGPT release notes | OpenAI Help Center OpenAI Support Help All Collections ChatGPT ChatGPT release notes ChatGPT release notes Review the latest updates and release notes for ChatGPT. Updated: 5 hours ago November 20, 2026 ChatGPT Space is rolling out to Plus Starting today,"
+        "excerpt": "ChatGPT release notes | OpenAI Help Center OpenAI Support Help All Collections ChatGPT ChatGPT release notes ChatGPT release notes Review the latest updates and release notes for ChatGPT. Updated: yesterday November 20, 2026 ChatGPT Space is rolling out to Plus Starting today, Ch"
       },
       {
         "keyword": "agent",
@@ -778,7 +778,7 @@
       },
       {
         "keyword": "release",
-        "excerpt": "ChatGPT release notes | OpenAI Help Center OpenAI Support Help All Collections ChatGPT ChatGPT release notes ChatGPT release notes Review the latest updates and release notes for ChatGPT. Updated: 5 hours ago November 20, 2026 ChatGPT Space is rolling out to Plus Starting today, ChatGPT"
+        "excerpt": "ChatGPT release notes | OpenAI Help Center OpenAI Support Help All Collections ChatGPT ChatGPT release notes ChatGPT release notes Review the latest updates and release notes for ChatGPT. Updated: yesterday November 20, 2026 ChatGPT Space is rolling out to Plus Starting today, ChatGPT Sp"
       },
       {
         "keyword": "developer",
@@ -805,14 +805,14 @@
         "excerpt": "account while hiding them from regular chat history, pinned chats, and search. Open them with your 4-digit account PIN or supported device authentication. Your retention and model-improvement settings stay unchanged. Locked chats are rolling out gradually to Free, Go, Plus, and Pro users on the web, in the iOS and Android apps, and in the new ChatGPT desktop app for macOS and Windows. To lock a chat, open a chat’s m"
       }
     ],
-    "text_sample": "ChatGPT release notes | OpenAI Help Center OpenAI Support Help All Collections ChatGPT ChatGPT release notes ChatGPT release notes Review the latest updates and release notes for ChatGPT. Updated: 5 hours ago November 20, 2026 ChatGPT Space is rolling out to Plus Starting today, ChatGPT Space is rolling out globally to Plus users ages 18 and older. In Space, you can create interactive pages and presentations with ChatGPT, then invite other people with Space access to build on them with you. You can also set pages and slides to automatically update based on your connected apps and tools. Try making a to-do list that updates itself, a study guide with a 3D model you can explore, or a project plan that stays current with decisions from Slack. Tag ChatGPT in a comment to ask for changes. If you have a dot, you can invite it to collaborate, too. To open a shared page or presentation, you need permission to view it and must be signed in to a Plus, Pro, Business, or Enterprise account with Space access. People on Free can’t open shared pages or presentations. Public links aren’t available. To get started, open Space in the sidebar. It replaces Library and is your new home for pages, slides, images, and uploaded files. Use Space on the web, desktop app, and iOS and Android to create and edit pages. November 19, 2026 New mobile experience for ChatGPT We’re rolling out a new experience f"
+    "text_sample": "ChatGPT release notes | OpenAI Help Center OpenAI Support Help All Collections ChatGPT ChatGPT release notes ChatGPT release notes Review the latest updates and release notes for ChatGPT. Updated: yesterday November 20, 2026 ChatGPT Space is rolling out to Plus Starting today, ChatGPT Space is rolling out globally to Plus users ages 18 and older. In Space, you can create interactive pages and presentations with ChatGPT, then invite other people with Space access to build on them with you. You can also set pages and slides to automatically update based on your connected apps and tools. Try making a to-do list that updates itself, a study guide with a 3D model you can explore, or a project plan that stays current with decisions from Slack. Tag ChatGPT in a comment to ask for changes. If you have a dot, you can invite it to collaborate, too. To open a shared page or presentation, you need permission to view it and must be signed in to a Plus, Pro, Business, or Enterprise account with Space access. People on Free can’t open shared pages or presentations. Public links aren’t available. To get started, open Space in the sidebar. It replaces Library and is your new home for pages, slides, images, and uploaded files. Use Space on the web, desktop app, and iOS and Android to create and edit pages. November 19, 2026 New mobile experience for ChatGPT We’re rolling out a new experience for"
   },
   {
     "id": "openai_news",
     "title": "OpenAI News",
     "url": "https://openai.com/news/",
     "type": "industry",
-    "fetched_at": "20261121T065632Z",
+    "fetched_at": "20261122T063501Z",
     "status": 200,
     "error": null,
     "page_title": "OpenAI News | OpenAI",
@@ -853,7 +853,7 @@
     "title": "OpenAI Research",
     "url": "https://openai.com/research/",
     "type": "industry",
-    "fetched_at": "20261121T065632Z",
+    "fetched_at": "20261122T063501Z",
     "status": 200,
     "error": null,
     "page_title": "Research | OpenAI",
@@ -894,7 +894,7 @@
     "title": "GitHub AI & ML Blog",
     "url": "https://github.blog/ai-and-ml/",
     "type": "industry",
-    "fetched_at": "20261121T065632Z",
+    "fetched_at": "20261122T063501Z",
     "status": 200,
     "error": null,
     "page_title": "The latest on AI & ML - The GitHub Blog",
@@ -951,7 +951,7 @@
     "title": "GitHub Changelog",
     "url": "https://github.blog/changelog/",
     "type": "industry",
-    "fetched_at": "20261121T065632Z",
+    "fetched_at": "20261122T063501Z",
     "status": 200,
     "error": null,
     "page_title": "GitHub Changelog",
@@ -1020,7 +1020,7 @@
     "title": "Anthropic News",
     "url": "https://www.anthropic.com/news",
     "type": "industry",
-    "fetched_at": "20261121T065632Z",
+    "fetched_at": "20261122T063501Z",
     "status": 200,
     "error": null,
     "page_title": "Newsroom \\ Anthropic",
@@ -1059,7 +1059,7 @@
       },
       {
         "keyword": "model",
-        "excerpt": "Try Claude News Latest news November 21, 2026 Announcements Nov 9, 2026 Introducing Claude Fable 5.2 and Claude Mythos 5.2 Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences. Announcements Oct 18, 2026 Investing in the public benefit We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new e"
+        "excerpt": "Try Claude News Latest news November 22, 2026 Announcements Nov 9, 2026 Introducing Claude Fable 5.2 and Claude Mythos 5.2 Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences. Announcements Oct 18, 2026 Investing in the public benefit We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new e"
       },
       {
         "keyword": "developer",
@@ -1067,21 +1067,21 @@
       },
       {
         "keyword": "Claude",
-        "excerpt": "Newsroom \\ Anthropic Skip to main content News Research Policy Commitments Company Try Claude News Latest news November 21, 2026 Announcements Nov 9, 2026 Introducing Claude Fable 5.2 and Claude Mythos 5.2 Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences. Announcements Oct"
+        "excerpt": "Newsroom \\ Anthropic Skip to main content News Research Policy Commitments Company Try Claude News Latest news November 22, 2026 Announcements Nov 9, 2026 Introducing Claude Fable 5.2 and Claude Mythos 5.2 Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences. Announcements Oct"
       },
       {
         "keyword": "workflow",
         "excerpt": "ing Agent Skills to the Agentic AI Foundation We’re donating Agent Skills, the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation. More than 70 agent platforms, including ChatGPT, Cursor, GitHub Copilot, and VS Code, have integrated Agent Skills since we published the standard in December 2025. Product Oct 22, 2026 Oct 22, 2026 Product Donating Agent Skills to the Age"
       }
     ],
-    "text_sample": "Newsroom \\ Anthropic Skip to main content News Research Policy Commitments Company Try Claude News Latest news November 21, 2026 Announcements Nov 9, 2026 Introducing Claude Fable 5.2 and Claude Mythos 5.2 Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences. Announcements Oct 18, 2026 Investing in the public benefit We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows. Announcements Oct 26, 2026 Anthropic files S-1 with the SEC for proposed initial public offering Today, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock. Science Oct 27, 2026 Early progress on accelerating drug development with Claude We&#x27;re at the start of a major effort to speed up drug development with Claude. Over the past several months, our scientists have engaged in deep research partnerships with six organizations developing new medicines. Announcements Oct 7, 2026 Introducing Claude Haiku 5.5 Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use. Announcements Sep 22, 2026 Introducing Claude O"
+    "text_sample": "Newsroom \\ Anthropic Skip to main content News Research Policy Commitments Company Try Claude News Latest news November 22, 2026 Announcements Nov 9, 2026 Introducing Claude Fable 5.2 and Claude Mythos 5.2 Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences. Announcements Oct 18, 2026 Investing in the public benefit We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows. Announcements Oct 26, 2026 Anthropic files S-1 with the SEC for proposed initial public offering Today, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock. Science Oct 27, 2026 Early progress on accelerating drug development with Claude We&#x27;re at the start of a major effort to speed up drug development with Claude. Over the past several months, our scientists have engaged in deep research partnerships with six organizations developing new medicines. Announcements Oct 7, 2026 Introducing Claude Haiku 5.5 Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use. Announcements Sep 22, 2026 Introducing Claude O"
   },
   {
     "id": "google_ai_developers",
     "title": "Google AI Developers Blog",
     "url": "https://developers.googleblog.com/en/search/?query=Gemini",
     "type": "industry",
-    "fetched_at": "20261121T065632Z",
+    "fetched_at": "20261122T063501Z",
     "status": 200,
     "error": null,
     "page_title": "Search - Google Developers Blog",
