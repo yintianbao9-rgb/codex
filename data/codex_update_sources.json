@@ -4,7 +4,7 @@
     "title": "Codex Changelog",
     "url": "https://developers.openai.com/codex/changelog",
     "type": "official",
-    "fetched_at": "20261124T094422Z",
+    "fetched_at": "20261125T081935Z",
     "status": 200,
     "error": null,
     "page_title": "ChatGPT & Codex changelog | ChatGPT Learn",
@@ -109,7 +109,7 @@
     "title": "Codex App",
     "url": "https://developers.openai.com/codex/app",
     "type": "official",
-    "fetched_at": "20261124T094422Z",
+    "fetched_at": "20261125T081935Z",
     "status": 200,
     "error": null,
     "page_title": "ChatGPT desktop app | ChatGPT Learn",
@@ -214,7 +214,7 @@
     "title": "Codex CLI",
     "url": "https://developers.openai.com/codex/cli",
     "type": "official",
-    "fetched_at": "20261124T094422Z",
+    "fetched_at": "20261125T081935Z",
     "status": 200,
     "error": null,
     "page_title": "Codex CLI | ChatGPT Learn",
@@ -319,7 +319,7 @@
     "title": "Codex IDE",
     "url": "https://developers.openai.com/codex/ide",
     "type": "official",
-    "fetched_at": "20261124T094422Z",
+    "fetched_at": "20261125T081935Z",
     "status": 200,
     "error": null,
     "page_title": "Codex IDE extension | ChatGPT Learn",
@@ -424,7 +424,7 @@
     "title": "Codex Authentication",
     "url": "https://developers.openai.com/codex/auth",
     "type": "official",
-    "fetched_at": "20261124T094422Z",
+    "fetched_at": "20261125T081935Z",
     "status": 200,
     "error": null,
     "page_title": "Authentication | ChatGPT Learn",
@@ -529,7 +529,7 @@
     "title": "Codex Config Reference",
     "url": "https://developers.openai.com/codex/config-reference",
     "type": "official",
-    "fetched_at": "20261124T094422Z",
+    "fetched_at": "20261125T081935Z",
     "status": 200,
     "error": null,
     "page_title": "Configuration Reference | ChatGPT Learn",
@@ -638,7 +638,7 @@
     "title": "openai/codex Releases",
     "url": "https://github.com/openai/codex/releases",
     "type": "github",
-    "fetched_at": "20261124T094422Z",
+    "fetched_at": "20261125T081935Z",
     "status": 200,
     "error": null,
     "page_title": "Releases · openai/codex · GitHub",
@@ -669,7 +669,7 @@
       },
       {
         "keyword": "IDE",
-        "excerpt": "72.0 0.173.0-alpha.5 0.172.0-alpha.2.1 0.171.0-alpha.13.2 0.173.0-alpha.4 0.173.0-alpha.3 0.173.0-alpha.2 0.173.0-alpha.1 0.171.0 Collapse sidebar Releases --> Releases · openai/codex 0.174.0-alpha.1 0.174.0-alpha.1 Pre-release Pre-release Compare Choose a tag to compare Sorry, something went wrong. Filter Loading Sorry, something went wrong. Uh oh! There was an error while loading. Please reload this page . No resul"
+        "excerpt": "ha.4 0.174.0-alpha.3 0.174.0-alpha.2 0.174.0-alpha.1 0.172.0 0.173.0-alpha.5 0.172.0-alpha.2.1 0.171.0-alpha.13.2 0.173.0-alpha.4 Collapse sidebar Releases --> Releases · openai/codex 0.174.0-alpha.5 0.174.0-alpha.5 Pre-release Pre-release Compare Choose a tag to compare Sorry, something went wrong. Filter Loading Sorry, something went wrong. Uh oh! There was an error while loading. Please reload this page . No resul"
       },
       {
         "keyword": "GitHub",
@@ -698,10 +698,6 @@
       {
         "keyword": "config",
         "excerpt": "cached tool lists now start on their first tool call by default. ( #62366 ) Set an approval reviewer for individual connected app tools in config.toml . ( #62360 ) App-server clients can select Amazon Bedrock Runtime during setup or sign-in. ( #62222 ) Bug Fixes codex exec resume restores saved sandbox permissions, the working directory, and workspace roots unless explicitly overridden. ( #62194 ) Remote sessions pr"
-      },
-      {
-        "keyword": "authentication",
-        "excerpt": "ea-OAI #61206 Enforce Linux seccomp restrictions for x32 syscalls @dhavalkapil-oai #61207 Add SPIFFE JWT-SVID support for workload identity authentication @cooper-oai #61210 Retain TUI delegation prompts in thread model history @won-openai #61211 Add local status line provider configuration @joesavona #61212 Add persistence support for status line provider selections @joesavona #61213 Support model catalog Apps usage"
       }
     ],
     "text_sample": "Releases · openai/codex · GitHub Skip to content Navigation Menu Sign in Products Platform GitHub Repository hosting, code review, and collaboration Copilot AI coding agent for tasks, projects, and automated work Build & Ship Actions CI/CD and automation Code Quality Quality analysis, fixes, and enforcement Codespaces Cloud development environments Secure Code Security Vulnerability detection and remediation Secret Protection Secret scanning and leak prevention All Features Developers Learn Documentation Training Certifications Build Build with Copilot Customize Copilot Integrations Explore Trending repos GitHub Sponsors Developer articles Changelog Changelog Your source for the latest features, improvements, and fixes across GitHub products, all in one place. Businesses By Stage Enterprises Team Startups Nonprofits By Industry Healthcare Financial services Manufacturing Government See all industries Evaluate GitHub Why GitHub Customer Stories Business insights Trust Center Add-ons GitHub Advanced Security Enterprise-grade code security Copilot for business Enterprise-grade AI features Premium Support Enterprise-grade 24/7 support Resources Learn & Connect Documentation Resource center Blog Events & webinars Community Forum Customer Stories Integrations Support Customer support Training GitHub Status Company About Partners Changelog GitHub Universe GitHub Universe The event for"
@@ -711,7 +707,7 @@
     "title": "ChatGPT Release Notes",
     "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
     "type": "official",
-    "fetched_at": "20261124T094422Z",
+    "fetched_at": "20261125T081935Z",
     "status": 200,
     "error": null,
     "page_title": "ChatGPT release notes | OpenAI Help Center",
@@ -722,7 +718,7 @@
       },
       {
         "keyword": "ChatGPT",
-        "excerpt": "ChatGPT release notes | OpenAI Help Center OpenAI Support All Collections ChatGPT ChatGPT release notes ChatGPT release notes Review the latest updates and release notes for ChatGPT. Updated: 15 hours ago November 23, 2026 GPT-6.2, now in the chat tab We’re rolling out a version"
+        "excerpt": "ChatGPT release notes | OpenAI Help Center OpenAI Support All Collections ChatGPT ChatGPT release notes ChatGPT release notes Review the latest updates and release notes for ChatGPT. Updated: 2 days ago November 23, 2026 GPT-6.2, now in the chat tab We’re rolling out a version of"
       },
       {
         "keyword": "agent",
@@ -782,7 +778,7 @@
       },
       {
         "keyword": "release",
-        "excerpt": "ChatGPT release notes | OpenAI Help Center OpenAI Support All Collections ChatGPT ChatGPT release notes ChatGPT release notes Review the latest updates and release notes for ChatGPT. Updated: 15 hours ago November 23, 2026 GPT-6.2, now in the chat tab We’re rolling out a version of GPT-6"
+        "excerpt": "ChatGPT release notes | OpenAI Help Center OpenAI Support All Collections ChatGPT ChatGPT release notes ChatGPT release notes Review the latest updates and release notes for ChatGPT. Updated: 2 days ago November 23, 2026 GPT-6.2, now in the chat tab We’re rolling out a version of GPT-6.2"
       },
       {
         "keyword": "developer",
@@ -809,21 +805,21 @@
         "excerpt": "account while hiding them from regular chat history, pinned chats, and search. Open them with your 4-digit account PIN or supported device authentication. Your retention and model-improvement settings stay unchanged. Locked chats are rolling out gradually to Free, Go, Plus, and Pro users on the web, in the iOS and Android apps, and in the new ChatGPT desktop app for macOS and Windows. To lock a chat, open a chat’s m"
       }
     ],
-    "text_sample": "ChatGPT release notes | OpenAI Help Center OpenAI Support All Collections ChatGPT ChatGPT release notes ChatGPT release notes Review the latest updates and release notes for ChatGPT. Updated: 15 hours ago November 23, 2026 GPT-6.2, now in the chat tab We’re rolling out a version of GPT-6.2, optimized for the chat tab, for Plus, Pro, Business and Enterprise tiers. It’s better at handling more complex requests that involve following detailed instructions or finding information online. If you’re comparing hotels for a weekend trip, it can help you weigh trade-offs like price and location and recommend the one that best fits your priorities. It’s also better at knowing when to follow up. For example, if you ask whether something is on sale, ChatGPT can offer to let you know when the price drops. Better at understanding images and following instructions GPT‑6.2 is better at answering questions about the images you share. In our tests in the Chat tab, it scored 71.7% on image understanding, up from 47.4% for GPT‑6. On especially challenging prompts, GPT-6.2 followed instructions 78.1% of the time, up from 62.5% for GPT-6. At the lowest reasoning setting we tested, GPT‑6.2 scored 65% on an internal evaluation of expert-level tasks, up from 52% for GPT‑6. GPT‑6.2 was also better at finding answers to difficult questions on the web. On an internal version of BrowseComp, it outperformed "
+    "text_sample": "ChatGPT release notes | OpenAI Help Center OpenAI Support All Collections ChatGPT ChatGPT release notes ChatGPT release notes Review the latest updates and release notes for ChatGPT. Updated: 2 days ago November 23, 2026 GPT-6.2, now in the chat tab We’re rolling out a version of GPT-6.2, optimized for the chat tab, for Plus, Pro, Business and Enterprise tiers. It’s better at handling more complex requests that involve following detailed instructions or finding information online. If you’re comparing hotels for a weekend trip, it can help you weigh trade-offs like price and location and recommend the one that best fits your priorities. It’s also better at knowing when to follow up. For example, if you ask whether something is on sale, ChatGPT can offer to let you know when the price drops. Better at understanding images and following instructions GPT‑6.2 is better at answering questions about the images you share. In our tests in the Chat tab, it scored 71.7% on image understanding, up from 47.4% for GPT‑6. On especially challenging prompts, GPT-6.2 followed instructions 78.1% of the time, up from 62.5% for GPT-6. At the lowest reasoning setting we tested, GPT‑6.2 scored 65% on an internal evaluation of expert-level tasks, up from 52% for GPT‑6. GPT‑6.2 was also better at finding answers to difficult questions on the web. On an internal version of BrowseComp, it outperformed GP"
   },
   {
     "id": "openai_news",
     "title": "OpenAI News",
     "url": "https://openai.com/news/",
     "type": "industry",
-    "fetched_at": "20261124T094422Z",
+    "fetched_at": "20261125T081935Z",
     "status": 200,
     "error": null,
     "page_title": "OpenAI News | OpenAI",
     "hits": [
       {
         "keyword": "Codex",
-        "excerpt": "Nov 19, 2026 The Silent Consensus Intelligence Age Nov 18, 2026 Research acceleration: The jagged frontier Research Nov 18, 2026 Inside the Codex sandbox Engineering Nov 18, 2026 Managing frontier AI risk: From training to deployment Safety Nov 18, 2026 Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT Company Nov 18, 2026 Load more Research Research Index Research Overview Economic Researc"
+        "excerpt": "Nov 19, 2026 The Silent Consensus Intelligence Age Nov 18, 2026 Research acceleration: The jagged frontier Research Nov 18, 2026 Inside the Codex sandbox Engineering Nov 18, 2026 Load more Research Research Index Research Overview Economic Research Latest Advancements GPT-6.2 GPT-6.1 Sol GPT-6 Astra GPT-5.6 Safety Deployment Safety (opens in a new window) Security & Privacy Trust & Transparency Products ChatGPT (open"
       },
       {
         "keyword": "ChatGPT",
@@ -831,7 +827,7 @@
       },
       {
         "keyword": "IDE",
-        "excerpt": "neering Science Security Intelligence Age Global Affairs AI Adoption Applied AI All Filter Sort Switch cards to show Media Switch cards to hide Media OpenAI and Cisco introduce Shirudo Security Nov 23, 2026 Perplexity and Intelligence Research Nov 22, 2026 MedChemBench: Benchmarking AI for medicinal chemistry Research Nov 20, 2026 How OpenAI’s Performance Factory keeps ChatGPT fast Engineering Nov 19, 2026 The Silent"
+        "excerpt": "neering Science Security Intelligence Age Global Affairs AI Adoption Applied AI All Filter Sort Switch cards to show Media Switch cards to hide Media GPT-6 models demonstrate intrinsic protein-design capabilities Science Nov 24, 2026 Searching for distant planets with Astra Science Nov 24, 2026 OpenAI and Cisco introduce Shirudo Security Nov 23, 2026 Perplexity and Intelligence Research Nov 22, 2026 MedChemBench: Ben"
       },
       {
         "keyword": "plugins",
@@ -839,7 +835,7 @@
       },
       {
         "keyword": "model",
-        "excerpt": "ow) Business Overview Solutions Resources Plugins Customer Stories Partner Network Contact Sales Developers Plugins (opens in a new window) Models (opens in a new window) Docs (opens in a new window) Resources (opens in a new window) Developer Forum (opens in a new window) Company About Us Our Charter Careers News Support Help Center (opens in a new window) OpenAI Status (opens in a new window) More Stories Academy S"
+        "excerpt": "Security Intelligence Age Global Affairs AI Adoption Applied AI All Filter Sort Switch cards to show Media Switch cards to hide Media GPT-6 models demonstrate intrinsic protein-design capabilities Science Nov 24, 2026 Searching for distant planets with Astra Science Nov 24, 2026 OpenAI and Cisco introduce Shirudo Security Nov 23, 2026 Perplexity and Intelligence Research Nov 22, 2026 MedChemBench: Benchmarking AI for"
       },
       {
         "keyword": "release",
@@ -850,14 +846,14 @@
         "excerpt": "OpenAI News | OpenAI Skip to main content Research Products Business Developers Company Foundation (opens in a new window) Log in Try ChatGPT (opens in a new window) Research Products Business Developers Company Foundation (opens in a new window) Try ChatGPT (opens in a new window) Login OpenAI All Company Research Product Safety Engineering Scien"
       }
     ],
-    "text_sample": "OpenAI News | OpenAI Skip to main content Research Products Business Developers Company Foundation (opens in a new window) Log in Try ChatGPT (opens in a new window) Research Products Business Developers Company Foundation (opens in a new window) Try ChatGPT (opens in a new window) Login OpenAI All Company Research Product Safety Engineering Science Security Intelligence Age Global Affairs AI Adoption Applied AI All Filter Sort Switch cards to show Media Switch cards to hide Media OpenAI and Cisco introduce Shirudo Security Nov 23, 2026 Perplexity and Intelligence Research Nov 22, 2026 MedChemBench: Benchmarking AI for medicinal chemistry Research Nov 20, 2026 How OpenAI’s Performance Factory keeps ChatGPT fast Engineering Nov 19, 2026 The Silent Consensus Intelligence Age Nov 18, 2026 Research acceleration: The jagged frontier Research Nov 18, 2026 Inside the Codex sandbox Engineering Nov 18, 2026 Managing frontier AI risk: From training to deployment Safety Nov 18, 2026 Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT Company Nov 18, 2026 Load more Research Research Index Research Overview Economic Research Latest Advancements GPT-6.2 GPT-6.1 Sol GPT-6 Astra GPT-5.6 Safety Deployment Safety (opens in a new window) Security & Privacy Trust & Transparency Products ChatGPT (opens in a new window) ChatGPT Business (opens in a new window) ChatGPT Enterp"
+    "text_sample": "OpenAI News | OpenAI Skip to main content Research Products Business Developers Company Foundation (opens in a new window) Log in Try ChatGPT (opens in a new window) Research Products Business Developers Company Foundation (opens in a new window) Try ChatGPT (opens in a new window) Login OpenAI All Company Research Product Safety Engineering Science Security Intelligence Age Global Affairs AI Adoption Applied AI All Filter Sort Switch cards to show Media Switch cards to hide Media GPT-6 models demonstrate intrinsic protein-design capabilities Science Nov 24, 2026 Searching for distant planets with Astra Science Nov 24, 2026 OpenAI and Cisco introduce Shirudo Security Nov 23, 2026 Perplexity and Intelligence Research Nov 22, 2026 MedChemBench: Benchmarking AI for medicinal chemistry Research Nov 20, 2026 How OpenAI’s Performance Factory keeps ChatGPT fast Engineering Nov 19, 2026 The Silent Consensus Intelligence Age Nov 18, 2026 Research acceleration: The jagged frontier Research Nov 18, 2026 Inside the Codex sandbox Engineering Nov 18, 2026 Load more Research Research Index Research Overview Economic Research Latest Advancements GPT-6.2 GPT-6.1 Sol GPT-6 Astra GPT-5.6 Safety Deployment Safety (opens in a new window) Security & Privacy Trust & Transparency Products ChatGPT (opens in a new window) ChatGPT Business (opens in a new window) ChatGPT Enterprise (opens in a new window"
   },
   {
     "id": "openai_research",
     "title": "OpenAI Research",
     "url": "https://openai.com/research/",
     "type": "industry",
-    "fetched_at": "20261124T094422Z",
+    "fetched_at": "20261125T081935Z",
     "status": 200,
     "error": null,
     "page_title": "Research | OpenAI",
@@ -898,7 +894,7 @@
     "title": "GitHub AI & ML Blog",
     "url": "https://github.blog/ai-and-ml/",
     "type": "industry",
-    "fetched_at": "20261124T094422Z",
+    "fetched_at": "20261125T081935Z",
     "status": 200,
     "error": null,
     "page_title": "The latest on AI & ML - The GitHub Blog",
@@ -955,7 +951,7 @@
     "title": "GitHub Changelog",
     "url": "https://github.blog/changelog/",
     "type": "industry",
-    "fetched_at": "20261124T094422Z",
+    "fetched_at": "20261125T081935Z",
     "status": 200,
     "error": null,
     "page_title": "GitHub Changelog",
@@ -974,7 +970,7 @@
       },
       {
         "keyword": "CLI",
-        "excerpt": "vements Retired Filters ( 0 selected ) Clear all Filters ( 0 selected ) Match: Any All Tags Account management Actions Application Security Client apps Collaboration tools Community engagement Copilot Ecosystem & accessibility Enterprise management tools Platform governance Projects & Issues Supply chain security Universe ‘26 Clear all Apply November Nov 2026 November Nov 2026 Nov.23 Release Issue statuses and reposi"
+        "excerpt": "vements Retired Filters ( 0 selected ) Clear all Filters ( 0 selected ) Match: Any All Tags Account management Actions Application Security Client apps Collaboration tools Community engagement Copilot Ecosystem & accessibility Enterprise management tools Platform governance Projects & Issues Supply chain security Universe ‘26 Clear all Apply November Nov 2026 November Nov 2026 Nov.24 Improvement More predictable noti"
       },
       {
         "keyword": "IDE",
@@ -1017,14 +1013,14 @@
         "excerpt": "on security Nov.03 Improvement Dependabot now supports Python 3.15 supply chain security Nov.02 Improvement GitHub Desktop adds short-lived authentication tokens account management application security client apps ... +2 Nov.02 Improvement Security risk assessments include repository protection status application security Nov.02 Retired pull_request_target blocked by default December 2 actions application security .."
       }
     ],
-    "text_sample": "GitHub Changelog Skip to content / Blog Changelog Docs Customer stories Try GitHub Copilot app See what&#039;s new Search Changelog Docs Customer stories See what&#039;s new Try GitHub Copilot app Back to blog Changelog Copy RSS feed URL Follow @ghchangelog on X All New Releases Improvements Retired Filters ( 0 selected ) Clear all Filters ( 0 selected ) Match: Any All Tags Account management Actions Application Security Client apps Collaboration tools Community engagement Copilot Ecosystem & accessibility Enterprise management tools Platform governance Projects & Issues Supply chain security Universe ‘26 Clear all Apply November Nov 2026 November Nov 2026 Nov.23 Release Issue statuses and repository boards are in public preview projects & issues Nov.23 Improvement Secret scanning reduces false positives for Slack application security Nov.23 Improvement Code coverage uploads now flag invalid report formats application security Nov.23 Improvement Usage reports will include a user ID column starting December 1 account management enterprise management tools ... +1 Nov.20 Improvement Security advisory permissions are now generally available enterprise management tools supply chain security ... +1 Nov.20 Release GitHub Enterprise Server 3.23 release candidate collaboration tools Nov.20 Improvement Pin your favorite repositories to your dashboard collaboration tools Nov.19 Improvemen"
+    "text_sample": "GitHub Changelog Skip to content / Blog Changelog Docs Customer stories Try GitHub Copilot app See what&#039;s new Search Changelog Docs Customer stories See what&#039;s new Try GitHub Copilot app Back to blog Changelog Copy RSS feed URL Follow @ghchangelog on X All New Releases Improvements Retired Filters ( 0 selected ) Clear all Filters ( 0 selected ) Match: Any All Tags Account management Actions Application Security Client apps Collaboration tools Community engagement Copilot Ecosystem & accessibility Enterprise management tools Platform governance Projects & Issues Supply chain security Universe ‘26 Clear all Apply November Nov 2026 November Nov 2026 Nov.24 Improvement More predictable notifications on GitHub.com community engagement Nov.23 Release Issue statuses and repository boards are in public preview projects & issues Nov.23 Improvement Secret scanning reduces false positives for Slack application security Nov.23 Improvement Code coverage uploads now flag invalid report formats application security Nov.23 Improvement Usage reports will include a user ID column starting December 1 account management enterprise management tools ... +1 Nov.20 Improvement Security advisory permissions are now generally available enterprise management tools supply chain security ... +1 Nov.20 Release GitHub Enterprise Server 3.23 release candidate collaboration tools Nov.20 Improvement P"
   },
   {
     "id": "anthropic_news",
     "title": "Anthropic News",
     "url": "https://www.anthropic.com/news",
     "type": "industry",
-    "fetched_at": "20261124T094422Z",
+    "fetched_at": "20261125T081935Z",
     "status": 200,
     "error": null,
     "page_title": "Newsroom \\ Anthropic",
@@ -1063,7 +1059,7 @@
       },
       {
         "keyword": "model",
-        "excerpt": "Try Claude News Latest news November 24, 2026 Announcements Nov 9, 2026 Introducing Claude Fable 5.2 and Claude Mythos 5.2 Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences. Announcements Oct 18, 2026 Investing in the public benefit We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new e"
+        "excerpt": "Try Claude News Latest news November 25, 2026 Announcements Nov 9, 2026 Introducing Claude Fable 5.2 and Claude Mythos 5.2 Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences. Announcements Oct 18, 2026 Investing in the public benefit We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new e"
       },
       {
         "keyword": "developer",
@@ -1071,36 +1067,36 @@
       },
       {
         "keyword": "Claude",
-        "excerpt": "Newsroom \\ Anthropic Skip to main content News Research Policy Commitments Company Try Claude News Latest news November 24, 2026 Announcements Nov 9, 2026 Introducing Claude Fable 5.2 and Claude Mythos 5.2 Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences. Announcements Oct"
+        "excerpt": "Newsroom \\ Anthropic Skip to main content News Research Policy Commitments Company Try Claude News Latest news November 25, 2026 Announcements Nov 9, 2026 Introducing Claude Fable 5.2 and Claude Mythos 5.2 Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences. Announcements Oct"
       },
       {
         "keyword": "workflow",
         "excerpt": "ing Agent Skills to the Agentic AI Foundation We’re donating Agent Skills, the open standard that gives AI agents specialized knowledge and workflows, to the Agentic AI Foundation. More than 70 agent platforms, including ChatGPT, Cursor, GitHub Copilot, and VS Code, have integrated Agent Skills since we published the standard in December 2025. Product Oct 22, 2026 Oct 22, 2026 Product Donating Agent Skills to the Age"
       }
     ],
-    "text_sample": "Newsroom \\ Anthropic Skip to main content News Research Policy Commitments Company Try Claude News Latest news November 24, 2026 Announcements Nov 9, 2026 Introducing Claude Fable 5.2 and Claude Mythos 5.2 Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences. Announcements Oct 18, 2026 Investing in the public benefit We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows. Announcements Oct 26, 2026 Anthropic files S-1 with the SEC for proposed initial public offering Today, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock. Science Oct 27, 2026 Early progress on accelerating drug development with Claude We&#x27;re at the start of a major effort to speed up drug development with Claude. Over the past several months, our scientists have engaged in deep research partnerships with six organizations developing new medicines. Announcements Oct 7, 2026 Introducing Claude Haiku 5.5 Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use. Announcements Sep 22, 2026 Introducing Claude O"
+    "text_sample": "Newsroom \\ Anthropic Skip to main content News Research Policy Commitments Company Try Claude News Latest news November 25, 2026 Announcements Nov 9, 2026 Introducing Claude Fable 5.2 and Claude Mythos 5.2 Our most capable models for daunting technical work, Claude Fable 5.2 and Claude Mythos 5.2 set a new bar in coding, finance, and the sciences. Announcements Oct 18, 2026 Investing in the public benefit We’re committing a portion of Anthropic’s shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows. Announcements Oct 26, 2026 Anthropic files S-1 with the SEC for proposed initial public offering Today, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock. Science Oct 27, 2026 Early progress on accelerating drug development with Claude We&#x27;re at the start of a major effort to speed up drug development with Claude. Over the past several months, our scientists have engaged in deep research partnerships with six organizations developing new medicines. Announcements Oct 7, 2026 Introducing Claude Haiku 5.5 Claude Haiku 5.5 is our fastest, most capable small model. Built for high-volume work like summarization, subagents, and browser use. Announcements Sep 22, 2026 Introducing Claude O"
   },
   {
     "id": "google_ai_developers",
     "title": "Google AI Developers Blog",
     "url": "https://developers.googleblog.com/en/search/?query=Gemini",
     "type": "industry",
-    "fetched_at": "20261124T094422Z",
+    "fetched_at": "20261125T081935Z",
     "status": 200,
     "error": null,
     "page_title": "Search - Google Developers Blog",
     "hits": [
       {
         "keyword": "agent",
-        "excerpt": "TensorFlow TV Wallet Wear OS Workspace Technology Select all AI Cloud Mobile Web NOV. 23, 2026 / AI Did the user ask for this? Securing AI agents against intent hijacking with Semantic governance policies Semantic governance policies protect AI agents from indirect prompt injection and intent hijacking by validating every proposed tool call against user intent and natural language constraints before execution. As de"
+        "excerpt": "Select all AI Cloud Mobile Web NOV. 24, 2026 / Gemini From Files to Cited Answers in One API Call: Managed Ingestion and SearchDocuments in Agent Retrieval Agent Retrieval in Vertex AI introduces managed ingestion and SearchDocuments to replace custom chunking and embedding pipelines. Developers can now import document and video files directly from Cloud Storage and query them with a single API call for cited page nu"
       },
       {
         "keyword": "agents",
-        "excerpt": "TensorFlow TV Wallet Wear OS Workspace Technology Select all AI Cloud Mobile Web NOV. 23, 2026 / AI Did the user ask for this? Securing AI agents against intent hijacking with Semantic governance policies Semantic governance policies protect AI agents from indirect prompt injection and intent hijacking by validating every proposed tool call against user intent and natural language constraints before execution. As de"
+        "excerpt": "brid retrieval, metadata filtering, reranking, and multimodal video audio search. NOV. 23, 2026 / AI Did the user ask for this? Securing AI agents against intent hijacking with Semantic governance policies Semantic governance policies protect AI agents from indirect prompt injection and intent hijacking by validating every proposed tool call against user intent and natural language constraints before execution. As de"
       },
       {
         "keyword": "Chrome",
-        "excerpt": "ment/Agile Q&A Release Notes Solutions Solve Testing TotT Tutorials Product Select all Ads AI Edge Android Angular AR Assistant Auto Checks Chrome OS Chrome Web Cloud DeepMind Design Engineering Firebase Flutter Gemini Gemma Geo Go Google AI Studio Google Labs Google Pay IDX Kaggle Keras Matter Pay Play Search Smart Home TensorFlow TV Wallet Wear OS Workspace Technology Select all AI Cloud Mobile Web NOV. 23, 2026 /"
+        "excerpt": "ment/Agile Q&A Release Notes Solutions Solve Testing TotT Tutorials Product Select all Ads AI Edge Android Angular AR Assistant Auto Checks Chrome OS Chrome Web Cloud DeepMind Design Engineering Firebase Flutter Gemini Gemma Geo Go Google AI Studio Google Labs Google Pay IDX Kaggle Keras Matter Pay Play Search Smart Home TensorFlow TV Wallet Wear OS Workspace Technology Select all AI Cloud Mobile Web NOV. 24, 2026 /"
       },
       {
         "keyword": "IDE",
@@ -1120,11 +1116,11 @@
       },
       {
         "keyword": "developer",
-        "excerpt": "Search - Google Developers Blog Community/Events Learn Blog YouTube Search Community/Events Learn Blog YouTube Search for \"Gemini\" 269 results Clear filters Filter by Content Type Select all Announcements Beginner Best Practices Business and Leadership Case Studies Code Health Community Document"
+        "excerpt": "Search - Google Developers Blog Community/Events Learn Blog YouTube Search Community/Events Learn Blog YouTube Search for \"Gemini\" 270 results Clear filters Filter by Content Type Select all Announcements Beginner Best Practices Business and Leadership Case Studies Code Health Community Document"
       },
       {
         "keyword": "Gemini",
-        "excerpt": "Search - Google Developers Blog Community/Events Learn Blog YouTube Search Community/Events Learn Blog YouTube Search for \"Gemini\" 269 results Clear filters Filter by Content Type Select all Announcements Beginner Best Practices Business and Leadership Case Studies Code Health Community Documentation Events Explore Hard How-To Guides Industry Trends Influence Intermediate Learn Performance Problem-So"
+        "excerpt": "Search - Google Developers Blog Community/Events Learn Blog YouTube Search Community/Events Learn Blog YouTube Search for \"Gemini\" 270 results Clear filters Filter by Content Type Select all Announcements Beginner Best Practices Business and Leadership Case Studies Code Health Community Documentation Events Explore Hard How-To Guides Industry Trends Influence Intermediate Learn Performance Problem-So"
       },
       {
         "keyword": "workflow",
@@ -1139,6 +1135,6 @@
         "excerpt": "UI When building a custom enterprise UI on top of Gemini Enterprise&#x27;s :streamAssist API, developers must manually implement three core authentication layers. These include authenticating users or workloads via Google Identity or Workforce/Workload Identity Federation, managing third-party 3-legged OAuth (3LO) for Federated Connectors through the Keystore, and configuring on-demand per-tool OAuth for custom ADK a"
       }
     ],
-    "text_sample": "Search - Google Developers Blog Community/Events Learn Blog YouTube Search Community/Events Learn Blog YouTube Search for \"Gemini\" 269 results Clear filters Filter by Content Type Select all Announcements Beginner Best Practices Business and Leadership Case Studies Code Health Community Documentation Events Explore Hard How-To Guides Industry Trends Influence Intermediate Learn Performance Problem-Solving Project Management/Agile Q&A Release Notes Solutions Solve Testing TotT Tutorials Product Select all Ads AI Edge Android Angular AR Assistant Auto Checks Chrome OS Chrome Web Cloud DeepMind Design Engineering Firebase Flutter Gemini Gemma Geo Go Google AI Studio Google Labs Google Pay IDX Kaggle Keras Matter Pay Play Search Smart Home TensorFlow TV Wallet Wear OS Workspace Technology Select all AI Cloud Mobile Web NOV. 23, 2026 / AI Did the user ask for this? Securing AI agents against intent hijacking with Semantic governance policies Semantic governance policies protect AI agents from indirect prompt injection and intent hijacking by validating every proposed tool call against user intent and natural language constraints before execution. As demonstrated on the AgentDojo benchmark using a Gemini 2.5 Flash agent, this mechanism reduced attack success rates from 48.7% to 0.9% while maintaining high task utility. Developers can leverage these policies in preview within the Gemi"
+    "text_sample": "Search - Google Developers Blog Community/Events Learn Blog YouTube Search Community/Events Learn Blog YouTube Search for \"Gemini\" 270 results Clear filters Filter by Content Type Select all Announcements Beginner Best Practices Business and Leadership Case Studies Code Health Community Documentation Events Explore Hard How-To Guides Industry Trends Influence Intermediate Learn Performance Problem-Solving Project Management/Agile Q&A Release Notes Solutions Solve Testing TotT Tutorials Product Select all Ads AI Edge Android Angular AR Assistant Auto Checks Chrome OS Chrome Web Cloud DeepMind Design Engineering Firebase Flutter Gemini Gemma Geo Go Google AI Studio Google Labs Google Pay IDX Kaggle Keras Matter Pay Play Search Smart Home TensorFlow TV Wallet Wear OS Workspace Technology Select all AI Cloud Mobile Web NOV. 24, 2026 / Gemini From Files to Cited Answers in One API Call: Managed Ingestion and SearchDocuments in Agent Retrieval Agent Retrieval in Vertex AI introduces managed ingestion and SearchDocuments to replace custom chunking and embedding pipelines. Developers can now import document and video files directly from Cloud Storage and query them with a single API call for cited page numbers and timestamped results. The feature supports hybrid retrieval, metadata filtering, reranking, and multimodal video audio search. NOV. 23, 2026 / AI Did the user ask for this? Se"
   }
 ]
